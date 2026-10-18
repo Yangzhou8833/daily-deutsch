@@ -1,6 +1,9 @@
 import { StrictMode } from "react";
 import { createRoot } from "react-dom/client";
 import { HashRouter, Route, Routes } from "react-router-dom";
+import "./account";
+import AccountPage from "./pages/Account";
+import ClassBoard from "./pages/ClassBoard";
 import Home from "./pages/Home";
 import LessonPage from "./pages/Lesson";
 import { Practice, Review } from "./pages/Practice";
@@ -13,6 +16,9 @@ createRoot(document.getElementById("root")!).render(
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/review" element={<Review />} />
+        <Route path="/account" element={<AccountPage />} />
+        <Route path="/join/:code" element={<AccountPage />} />
+        <Route path="/class" element={<ClassBoard />} />
         <Route path="/lesson/:id" element={<LessonPage />} />
         <Route path="/lesson/:id/:mode" element={<Practice />} />
         <Route path="*" element={<Home />} />

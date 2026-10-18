@@ -195,3 +195,43 @@ h2 { font-size: 1.1rem; margin: 1.8rem 0 0.6rem; }
 .wl-head .headword { font-size: 1.15rem; }
 .wl-meaning { margin-top: 2px; }
 .wordlist .gram { font-size: 0.88rem; }
+
+/* account & class */
+.avatar {
+  width: 36px; height: 36px; flex: none; border-radius: 50%; display: grid; place-items: center;
+  border: 1px solid var(--line); background: var(--surface); font-weight: 700;
+}
+.avatar.in { background: var(--accent); color: var(--accent-text); border-color: transparent; }
+.panel { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 16px; margin: 14px 0; }
+.panel h2 { margin: 0 0 10px; }
+.panel .lesson-card { border: 0; padding: 0; }
+.form { display: flex; flex-direction: column; gap: 12px; }
+.form label { display: flex; flex-direction: column; gap: 4px; font-size: 0.9rem; color: var(--muted); }
+.form input, .form select, .inline-form input {
+  padding: 11px 12px; border-radius: 10px; border: 1px solid var(--line); background: var(--bg); color: var(--text); font-size: 1rem;
+}
+.inline-form { display: flex; gap: 8px; }
+.inline-form input { flex: 1; min-width: 0; }
+.code-input { text-transform: uppercase; letter-spacing: 0.15em; font-weight: 700; }
+.create-class { margin-top: 14px; }
+.create-class summary { cursor: pointer; color: var(--muted); font-size: 0.9rem; margin-bottom: 8px; }
+.link-btn { background: none; border: 0; color: var(--accent); cursor: pointer; padding: 4px; font-size: 0.9rem; }
+.link-btn.danger { color: var(--bad); }
+.error { color: var(--bad); font-size: 0.9rem; margin: 0; }
+.class-card { margin: 12px 0 0; }
+.board { list-style: none; padding: 0; margin: 12px 0; display: grid; gap: 8px; }
+.board li {
+  display: flex; align-items: center; gap: 12px; background: var(--surface);
+  border: 1px solid var(--line); border-radius: var(--radius); padding: 10px 14px;
+}
+.board li.me { border-color: var(--accent); box-shadow: 0 0 0 1px var(--accent) inset; }
+.rank { width: 28px; text-align: center; font-weight: 700; font-size: 1.1rem; }
+.who { flex: 1; min-width: 0; display: flex; flex-direction: column; }
+.who-name { font-weight: 650; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.tag { font-size: 0.7rem; font-weight: 600; margin-left: 6px; padding: 1px 6px; border-radius: 6px; background: var(--line); color: var(--muted); }
+.score { display: flex; flex-direction: column; align-items: flex-end; font-weight: 700; font-size: 1.2rem; font-variant-numeric: tabular-nums; }
+.score small { font-size: 0.7rem; font-weight: 500; color: var(--muted); }
+.invite { display: flex; gap: 8px; align-items: center; }
+.invite code { flex: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; background: var(--bg); padding: 8px 10px; border-radius: 8px; font-size: 0.85rem; }
+.small-btn { min-height: 36px; padding: 6px 12px; }
+.code { letter-spacing: 0.15em; }

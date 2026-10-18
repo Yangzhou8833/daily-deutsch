@@ -1,4 +1,5 @@
 import { Link } from "react-router-dom";
+import { useAccount } from "../account";
 import { Loading, Page, ProgressBar } from "../components/common";
 import { loadIndex, useAsync } from "../data";
 import { useLang } from "../i18n";
@@ -11,6 +12,7 @@ export default function Home() {
   const due = dueLessons();
   const dueTotal = Object.values(due).reduce((a, b) => a + b, 0);
   const days = streak();
+  const acc = useAccount();
 
   return (
     <Page>
@@ -34,6 +36,16 @@ export default function Home() {
         </Link>
       ) : (
         <p className="muted center">{t("nothingDue")}</p>
+      )}
+
+      {acc.status !== "off" && acc.status !== "loading" && (
+        <Link to={acc.klass ? "/class" : "/account"} className="lesson-card class-card">
+          <div className="lesson-top">
+            <span className="lesson-title">🏆 {acc.klass ? `${t("leaderboard")} · ${acc.klass.name}` : t("leaderboard")}</span>
+            <span className="muted">›</span>
+          </div>
+          {!acc.klass && <div className="muted small">{t("boardWhy")}</div>}
+        </Link>
       )}
 
       <h2>{t("lessons")}</h2>
@@ -61,7 +73,7 @@ export default function Home() {
           })}
         </ul>
       )}
-      <p className="muted center small">{t("progressLocal")}</p>
+      <p className="muted center small">{acc.status === "in" ? t("progressSynced") : t("progressLocal")}</p>
     </Page>
   );
 }

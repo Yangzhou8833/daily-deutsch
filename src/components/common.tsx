@@ -1,11 +1,13 @@
 import type { ReactNode } from "react";
 import { Link } from "react-router-dom";
+import { useAccount } from "../account";
 import { LANGS, setLang, useLang } from "../i18n";
 import type { Word } from "../types";
 import { speak } from "../util";
 
 export function Header({ back, title }: { back?: string; title?: string }) {
   const { t, lang } = useLang();
+  const acc = useAccount();
   return (
     <header className="header">
       {back ? (
@@ -25,6 +27,11 @@ export function Header({ back, title }: { back?: string; title?: string }) {
           </option>
         ))}
       </select>
+      {acc.status !== "off" && (
+        <Link to="/account" className={`avatar ${acc.status === "in" ? "in" : ""}`} aria-label={t("account")}>
+          {acc.status === "in" ? (acc.profile?.display_name ?? "?").slice(0, 1).toUpperCase() : "👤"}
+        </Link>
+      )}
     </header>
   );
 }
