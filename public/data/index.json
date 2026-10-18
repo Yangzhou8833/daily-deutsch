@@ -1,0 +1,98 @@
+{
+ "lessons": [
+  {
+   "id": "a2l3-teil2",
+   "title": "A2 · Lektion 3 · Teil 2",
+   "date": "2026-10-14",
+   "langs": [
+    "zh",
+    "en",
+    "tr"
+   ],
+   "words": 153,
+   "grammar": 22
+  },
+  {
+   "id": "a2l3",
+   "title": "A2 · Lektion 3",
+   "date": "2026-10-13",
+   "langs": [
+    "zh",
+    "en",
+    "tr"
+   ],
+   "words": 85,
+   "grammar": 21
+  },
+  {
+   "id": "a2l2-teil2",
+   "title": "A2 · Lektion 2 · Teil 2",
+   "date": "2026-10-12",
+   "langs": [
+    "zh"
+   ],
+   "words": 261,
+   "grammar": 20
+  },
+  {
+   "id": "a2l2",
+   "title": "A2 · Lektion 2",
+   "date": "2026-10-05",
+   "langs": [
+    "zh"
+   ],
+   "words": 98,
+   "grammar": 24
+  },
+  {
+   "id": "a2l1-teil2",
+   "title": "A2 · Lektion 1 · Teil 2",
+   "date": "2026-10-01",
+   "langs": [
+    "zh"
+   ],
+   "words": 189,
+   "grammar": 21
+  },
+  {
+   "id": "a2l1",
+   "title": "A2 · Lektion 1",
+   "date": "2026-09-30",
+   "langs": [
+    "zh"
+   ],
+   "words": 191,
+   "grammar": 20
+  },
+  {
+   "id": "l4m4",
+   "title": "Lektion 4 · Modul 4",
+   "date": "2026-09-16",
+   "langs": [
+    "zh"
+   ],
+   "words": 138,
+   "grammar": 40
+  },
+  {
+   "id": "l4m3",
+   "title": "Lektion 4 · Modul 3",
+   "date": "2026-09-15",
+   "langs": [
+    "zh"
+   ],
+   "words": 142,
+   "grammar": 9
+  },
+  {
+   "id": "l4m2",
+   "title": "Lektion 4 · Modul 2",
+   "date": "2026-09-14",
+   "langs": [
+    "zh"
+   ],
+   "words": 107,
+   "grammar": 22
+  }
+ ]
+}

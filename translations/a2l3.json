@@ -1,0 +1,940 @@
+{
+ "words": {
+  "p!|9XH]{oE": {
+   "en": {
+    "meaning": "tolerance",
+    "example": "Tolerance is important for living together."
+   },
+   "tr": {
+    "meaning": "hoşgörü",
+    "example": "Hoşgörü birlikte yaşamak için önemlidir."
+   }
+  },
+  "Qo3B|sx[?I": {
+   "en": {
+    "meaning": "culture",
+    "example": "What is part of German culture?"
+   },
+   "tr": {
+    "meaning": "kültür",
+    "example": "Alman kültürüne neler aittir?"
+   }
+  },
+  "h!GRo2UL|W": {
+   "en": {
+    "meaning": "custom, tradition",
+    "example": "Easter has many old customs."
+   },
+   "tr": {
+    "meaning": "gelenek, adet",
+    "example": "Paskalya'nın birçok eski geleneği vardır."
+   }
+  },
+  "NZgB<692Ju": {
+   "en": {
+    "meaning": "festival; celebration",
+    "example": "Oktoberfest is a big festival."
+   },
+   "tr": {
+    "meaning": "bayram; şenlik",
+    "example": "Oktoberfest büyük bir şenliktir."
+   }
+  },
+  "os:g=!}Vmz": {
+   "en": {
+    "meaning": "traditional costume (e.g. Bavarian lederhosen, dirndl)",
+    "example": "In Bavaria, many people wear traditional costume at festivals."
+   },
+   "tr": {
+    "meaning": "geleneksel kıyafet (ör. Bavyera deri pantolonu, dirndl)",
+    "example": "Bavyera'da birçok insan şenliklerde geleneksel kıyafet giyer."
+   }
+  },
+  "KTjDZUGF^(": {
+   "en": {
+    "meaning": "clothing, clothes",
+    "example": "I like to buy my clothes online."
+   },
+   "tr": {
+    "meaning": "giysi, kıyafet",
+    "example": "Kıyafetlerimi internetten almayı severim."
+   }
+  },
+  "o_4b<RS,.3": {
+   "en": {
+    "meaning": "art",
+    "example": "She is interested in modern art."
+   },
+   "tr": {
+    "meaning": "sanat",
+    "example": "Modern sanatla ilgileniyor."
+   }
+  },
+  "j*_T-.L1_L": {
+   "en": {
+    "meaning": "architecture",
+    "example": "The architecture of the Elbphilharmonie is impressive."
+   },
+   "tr": {
+    "meaning": "mimari",
+    "example": "Elbphilharmonie'nin mimarisi etkileyici."
+   }
+  },
+  "g5vn%-^s&%": {
+   "en": {
+    "meaning": "leisure activity",
+    "example": "Cycling is a popular leisure activity."
+   },
+   "tr": {
+    "meaning": "boş zaman etkinliği",
+    "example": "Bisiklet sürmek popüler bir boş zaman etkinliğidir."
+   }
+  },
+  "p]di.-jz-f": {
+   "en": {
+    "meaning": "car brand",
+    "example": "Many car brands come from Germany."
+   },
+   "tr": {
+    "meaning": "otomobil markası",
+    "example": "Birçok otomobil markası Almanya'dan gelir."
+   }
+  },
+  "Mvxl}F_/%_": {
+   "en": {
+    "meaning": "wall",
+    "example": "The Berlin Wall fell in 1989."
+   },
+   "tr": {
+    "meaning": "duvar; sur",
+    "example": "Berlin Duvarı 1989'da yıkıldı."
+   }
+  },
+  "yq{DrLTETd": {
+   "en": {
+    "meaning": "bunker, air-raid shelter",
+    "example": "There are still many old bunkers in Hamburg."
+   },
+   "tr": {
+    "meaning": "sığınak, bunker",
+    "example": "Hamburg'da hâlâ birçok eski sığınak var."
+   }
+  },
+  "wrK|nbVEvq": {
+   "en": {
+    "meaning": "place, location",
+    "example": "There used to be a wall in this place."
+   },
+   "tr": {
+    "meaning": "yer, mekân",
+    "example": "Eskiden bu yerde bir duvar vardı."
+   }
+  },
+  "bmNSZKeXmf": {
+   "en": {
+    "meaning": "greeting",
+    "example": "When greeting, people shake hands."
+   },
+   "tr": {
+    "meaning": "selamlaşma",
+    "example": "Selamlaşırken el sıkışılır."
+   }
+  },
+  "qYd@?P,6T|": {
+   "en": {
+    "meaning": "touch, physical contact",
+    "example": "In Brazil, touching is more common."
+   },
+   "tr": {
+    "meaning": "dokunma, temas",
+    "example": "Brezilya'da dokunmak daha yaygındır."
+   }
+  },
+  "x7Zwymh)C6": {
+   "en": {
+    "meaning": "eye contact",
+    "example": "Eye contact is important in a conversation."
+   },
+   "tr": {
+    "meaning": "göz teması",
+    "example": "Sohbette göz teması önemlidir."
+   }
+  },
+  "M4B%u_Soy<": {
+   "en": {
+    "meaning": "physical contact",
+    "example": "In Finland there is almost never physical contact in conversation."
+   },
+   "tr": {
+    "meaning": "fiziksel temas",
+    "example": "Finlandiya'da sohbet sırasında neredeyse hiç fiziksel temas olmaz."
+   }
+  },
+  "H=x7/h.!Yr": {
+   "en": {
+    "meaning": "distance, gap",
+    "example": "Please keep your distance!"
+   },
+   "tr": {
+    "meaning": "mesafe, ara",
+    "example": "Lütfen mesafenizi koruyun!"
+   }
+  },
+  "jnTksj-awb": {
+   "en": {
+    "meaning": "distance",
+    "example": "The distance between the people is large."
+   },
+   "tr": {
+    "meaning": "mesafe",
+    "example": "Kişiler arasındaki mesafe büyük."
+   }
+  },
+  "ps7ydCbSsU": {
+   "en": {
+    "meaning": "distant, reserved",
+    "example": "Are Germans reserved?"
+   },
+   "tr": {
+    "meaning": "mesafeli, soğuk",
+    "example": "Almanlar mesafeli mi?"
+   }
+  },
+  "AkL%^>VhwO": {
+   "en": {
+    "meaning": "close; narrow",
+    "example": "I have a close relationship with my sister."
+   },
+   "tr": {
+    "meaning": "yakın; dar",
+    "example": "Kız kardeşimle yakın bir ilişkim var."
+   }
+  },
+  "PAJhgR)RIv": {
+   "en": {
+    "meaning": "close, familiar",
+    "example": "The two are very close."
+   },
+   "tr": {
+    "meaning": "samimi, tanıdık",
+    "example": "İkisi çok samimi."
+   }
+  },
+  "n24M>Wf~7&": {
+   "en": {
+    "meaning": "to exchange",
+    "example": "They exchange their phone numbers."
+   },
+   "tr": {
+    "meaning": "değiş tokuş etmek, paylaşmak",
+    "example": "Telefon numaralarını paylaşıyorlar."
+   }
+  },
+  "Qn<*WQja0-": {
+   "en": {
+    "meaning": "joy, happiness",
+    "example": "How do people show joy in your country?"
+   },
+   "tr": {
+    "meaning": "sevinç, mutluluk",
+    "example": "Senin ülkende insanlar sevinci nasıl gösterir?"
+   }
+  },
+  "C3A1!XY&Rx": {
+   "en": {
+    "meaning": "gift for the host",
+    "example": "When you're invited, you bring a gift for the host."
+   },
+   "tr": {
+    "meaning": "ev sahibine götürülen hediye",
+    "example": "Davet edildiğinde ev sahibine bir hediye götürülür."
+   }
+  },
+  "Ei;oscOx}.": {
+   "en": {
+    "meaning": "rule",
+    "example": "There are rules in every society."
+   },
+   "tr": {
+    "meaning": "kural",
+    "example": "Her toplumda kurallar vardır."
+   }
+  },
+  "ut,UOM<tup": {
+   "en": {
+    "meaning": "to break",
+    "example": "If you break the rule, you get a punishment."
+   },
+   "tr": {
+    "meaning": "kırmak; çiğnemek",
+    "example": "Kuralı çiğnersen ceza alırsın."
+   }
+  },
+  "cN5PY*``B}": {
+   "en": {
+    "meaning": "punishment; fine",
+    "example": "There is a fine for illegal parking."
+   },
+   "tr": {
+    "meaning": "ceza; para cezası",
+    "example": "Yanlış park etmenin cezası vardır."
+   }
+  },
+  "f*DdMro/<,": {
+   "en": {
+    "meaning": "norm, standard",
+    "example": "General norms are often not written down."
+   },
+   "tr": {
+    "meaning": "norm, standart",
+    "example": "Genel normlar çoğu zaman yazılı değildir."
+   }
+  },
+  "l8w>:Z];0a": {
+   "en": {
+    "meaning": "sign",
+    "example": "The sign says \"No smoking\"."
+   },
+   "tr": {
+    "meaning": "tabela, levha",
+    "example": "Tabelada \"Sigara içmek yasaktır\" yazıyor."
+   }
+  },
+  "AYmA<d&IAp": {
+   "en": {
+    "meaning": "poster",
+    "example": "There are posters for the concert everywhere."
+   },
+   "tr": {
+    "meaning": "afiş, poster",
+    "example": "Her yerde konser afişleri asılı."
+   }
+  },
+  "dN_,VN<q2@": {
+   "en": {
+    "meaning": "visible",
+    "example": "Some rules are clearly visible."
+   },
+   "tr": {
+    "meaning": "görünür",
+    "example": "Bazı kurallar açıkça görünür."
+   }
+  },
+  "K|[~knVD-~": {
+   "en": {
+    "meaning": "invisible",
+    "example": "There are also invisible rules."
+   },
+   "tr": {
+    "meaning": "görünmez",
+    "example": "Görünmez kurallar da vardır."
+   }
+  },
+  "et9BO02u)s": {
+   "en": {
+    "meaning": "requirement, prerequisite",
+    "example": "German is a requirement for this job."
+   },
+   "tr": {
+    "meaning": "ön koşul, şart",
+    "example": "Almanca bu iş için bir ön koşul."
+   }
+  },
+  "kD~vEX@f.R": {
+   "en": {
+    "meaning": "misunderstanding",
+    "example": "That was a misunderstanding."
+   },
+   "tr": {
+    "meaning": "yanlış anlaşılma",
+    "example": "Bu bir yanlış anlaşılmaydı."
+   }
+  },
+  "ABGy}#kp+Q": {
+   "en": {
+    "meaning": "behaviour",
+    "example": "His behaviour was very strange."
+   },
+   "tr": {
+    "meaning": "davranış",
+    "example": "Davranışı çok tuhaftı."
+   }
+  },
+  "kPdvB@T^$G": {
+   "en": {
+    "meaning": "to behave",
+    "example": "How did his friends behave?"
+   },
+   "tr": {
+    "meaning": "davranmak",
+    "example": "Arkadaşları nasıl davrandı?"
+   }
+  },
+  "3@MDD>T4;": {
+   "en": {
+    "meaning": "way of behaving",
+    "example": "Every culture has its own ways of behaving."
+   },
+   "tr": {
+    "meaning": "davranış biçimi",
+    "example": "Her kültürün kendine özgü davranış biçimleri vardır."
+   }
+  },
+  "Pg[t+^`dw`": {
+   "en": {
+    "meaning": "traffic sign",
+    "example": "You recognise traffic rules from the traffic signs."
+   },
+   "tr": {
+    "meaning": "trafik işareti",
+    "example": "Trafik kurallarını trafik işaretlerinden anlarsın."
+   }
+  },
+  "C<2if)jg:o": {
+   "en": {
+    "meaning": "traffic rule",
+    "example": "You have to know the traffic rules."
+   },
+   "tr": {
+    "meaning": "trafik kuralı",
+    "example": "Trafik kurallarını bilmek zorundasın."
+   }
+  },
+  "u@4W?[W9b9": {
+   "en": {
+    "meaning": "to remember, to memorise",
+    "example": "I can't remember the words."
+   },
+   "tr": {
+    "meaning": "aklında tutmak, ezberlemek",
+    "example": "Kelimeleri aklımda tutamıyorum."
+   }
+  },
+  "p]N%xxaJfA": {
+   "en": {
+    "meaning": "to work out, to go well (colloquial)",
+    "example": "Did everything go well?"
+   },
+   "tr": {
+    "meaning": "yolunda gitmek, başarmak (günlük dil)",
+    "example": "Her şey yolunda gitti mi?"
+   }
+  },
+  "lOJzdyZ_H]": {
+   "en": {
+    "meaning": "somehow",
+    "example": "It'll work out somehow."
+   },
+   "tr": {
+    "meaning": "bir şekilde",
+    "example": "Bir şekilde olur."
+   }
+  },
+  "D{I@Xo#i9U": {
+   "en": {
+    "meaning": "to work, to function",
+    "example": "Living together works well."
+   },
+   "tr": {
+    "meaning": "çalışmak, işlemek",
+    "example": "Birlikte yaşamak iyi işliyor."
+   }
+  },
+  "q/6.sGfr8I": {
+   "en": {
+    "meaning": "to recognise",
+    "example": "You recognise the rules from the signs."
+   },
+   "tr": {
+    "meaning": "tanımak, fark etmek",
+    "example": "Kuralları tabelalardan anlarsın."
+   }
+  },
+  "o7Sn~M^/jq": {
+   "en": {
+    "meaning": "recognisable",
+    "example": "Rules are not always easy to recognise."
+   },
+   "tr": {
+    "meaning": "tanınabilir, belli",
+    "example": "Kurallar her zaman kolayca anlaşılmaz."
+   }
+  },
+  "E6z:iH^,}%": {
+   "en": {
+    "meaning": "to call, to describe as",
+    "example": "You can call them \"unwritten laws\"."
+   },
+   "tr": {
+    "meaning": "... olarak adlandırmak",
+    "example": "Onlara \"yazılı olmayan yasalar\" diyebiliriz."
+   }
+  },
+  "xIeg+AkYTc": {
+   "en": {
+    "meaning": "unwritten",
+    "example": "That is an unwritten law."
+   },
+   "tr": {
+    "meaning": "yazılı olmayan",
+    "example": "Bu yazılı olmayan bir yasadır."
+   }
+  },
+  "I>$hNd*=L5": {
+   "en": {
+    "meaning": "to write down",
+    "example": "I wrote down the address."
+   },
+   "tr": {
+    "meaning": "not etmek, yazmak",
+    "example": "Adresi not ettim."
+   }
+  },
+  "FG_@0aeNxb": {
+   "en": {
+    "meaning": "to be connected with",
+    "example": "Every person is strongly connected with their culture."
+   },
+   "tr": {
+    "meaning": "... ile bağlı olmak",
+    "example": "Her insan kültürüne güçlü bir şekilde bağlıdır."
+   }
+  },
+  "eNVl$mn[]j": {
+   "en": {
+    "meaning": "to influence",
+    "example": "Culture influences our behaviour."
+   },
+   "tr": {
+    "meaning": "etkilemek",
+    "example": "Kültür davranışlarımızı etkiler."
+   }
+  },
+  "M{t@ZY[:,.": {
+   "en": {
+    "meaning": "to differ",
+    "example": "The rules differ from culture to culture."
+   },
+   "tr": {
+    "meaning": "farklılık göstermek, ayrılmak",
+    "example": "Kurallar kültürden kültüre farklılık gösterir."
+   }
+  },
+  "wtQo6erg4R": {
+   "en": {
+    "meaning": "to let someone know",
+    "example": "Please let me know beforehand!"
+   },
+   "tr": {
+    "meaning": "haber vermek",
+    "example": "Lütfen önceden bana haber ver!"
+   }
+  },
+  "gS$l<XToTp": {
+   "en": {
+    "meaning": "beforehand, before",
+    "example": "Please call beforehand!"
+   },
+   "tr": {
+    "meaning": "önceden",
+    "example": "Lütfen önceden ara!"
+   }
+  },
+  "iZnG&C.~q6": {
+   "en": {
+    "meaning": "situation",
+    "example": "In this situation I didn't know what to say."
+   },
+   "tr": {
+    "meaning": "durum",
+    "example": "Bu durumda ne diyeceğimi bilemedim."
+   }
+  },
+  "GKp^0?W1!J": {
+   "en": {
+    "meaning": "to happen, to occur",
+    "example": "That happens often."
+   },
+   "tr": {
+    "meaning": "olmak, meydana gelmek",
+    "example": "Bu sık sık olur."
+   }
+  },
+  "DmNADzV_%j": {
+   "en": {
+    "meaning": "to observe",
+    "example": "What have you observed in Germany?"
+   },
+   "tr": {
+    "meaning": "gözlemlemek",
+    "example": "Almanya'da neler gözlemlediniz?"
+   }
+  },
+  "OYKaW&Z.:f": {
+   "en": {
+    "meaning": "opinion",
+    "example": "The people have different opinions."
+   },
+   "tr": {
+    "meaning": "fikir, görüş",
+    "example": "Kişilerin farklı görüşleri var."
+   }
+  },
+  "K1g-@xrdQj": {
+   "en": {
+    "meaning": "to express (an opinion)",
+    "example": "He expresses his opinion openly."
+   },
+   "tr": {
+    "meaning": "(fikir) belirtmek, ifade etmek",
+    "example": "Fikrini açıkça ifade ediyor."
+   }
+  },
+  "sZ9`O2@K{5": {
+   "en": {
+    "meaning": "to agree",
+    "example": "I agree with you."
+   },
+   "tr": {
+    "meaning": "katılmak, onaylamak",
+    "example": "Sana katılıyorum."
+   }
+  },
+  "uczL^vbJ6%": {
+   "en": {
+    "meaning": "to reject, to turn down",
+    "example": "He turned down the offer."
+   },
+   "tr": {
+    "meaning": "reddetmek",
+    "example": "Teklifi reddetti."
+   }
+  },
+  "et|tzrSciD": {
+   "en": {
+    "meaning": "that's right",
+    "example": "Yes, that's right."
+   },
+   "tr": {
+    "meaning": "doğru, öyle",
+    "example": "Evet, doğru."
+   }
+  },
+  "F00P[DJh~T": {
+   "en": {
+    "meaning": "organised",
+    "example": "Germans are very organised."
+   },
+   "tr": {
+    "meaning": "düzenli, organize",
+    "example": "Almanlar çok düzenlidir."
+   }
+  },
+  "gtx,+XW0q#": {
+   "en": {
+    "meaning": "chaos",
+    "example": "My desk is chaos."
+   },
+   "tr": {
+    "meaning": "kaos, karmaşa",
+    "example": "Masam darmadağın."
+   }
+  },
+  "t@Dc;Z!W&-": {
+   "en": {
+    "meaning": "inconvenient, unfavourable",
+    "example": "The appointment is inconvenient for me."
+   },
+   "tr": {
+    "meaning": "elverişsiz, uygun olmayan",
+    "example": "Randevu benim için uygun değil."
+   }
+  },
+  "hV<BUs7U?k": {
+   "en": {
+    "meaning": "conscientious, dutiful",
+    "example": "She is very conscientious."
+   },
+   "tr": {
+    "meaning": "sorumluluk sahibi",
+    "example": "Çok sorumluluk sahibi biri."
+   }
+  },
+  "q[2h:kD2Xe": {
+   "en": {
+    "meaning": "even",
+    "example": "They even wait at the red light."
+   },
+   "tr": {
+    "meaning": "hatta, bile",
+    "example": "Kırmızı ışıkta bile bekliyorlar."
+   }
+  },
+  "pq&O.zPcd#": {
+   "en": {
+    "meaning": "to recognise, to accept officially",
+    "example": "My degree was recognised in Germany."
+   },
+   "tr": {
+    "meaning": "tanımak, kabul etmek (resmî olarak)",
+    "example": "Diplomam Almanya'da tanındı."
+   }
+  },
+  "hc{|%yz2EB": {
+   "en": {
+    "meaning": "part",
+    "example": "I want to feel like part of society."
+   },
+   "tr": {
+    "meaning": "parça, kısım",
+    "example": "Toplumun bir parçası gibi hissetmek istiyorum."
+   }
+  },
+  "lH/51x-U7L": {
+   "en": {
+    "meaning": "with each other, together",
+    "example": "We spend a lot of time together."
+   },
+   "tr": {
+    "meaning": "birbiriyle, birlikte",
+    "example": "Birlikte çok zaman geçiriyoruz."
+   }
+  },
+  "wkT+OSy}4v": {
+   "en": {
+    "meaning": "job, position",
+    "example": "I hope that I find a job."
+   },
+   "tr": {
+    "meaning": "iş yeri, kadro",
+    "example": "Bir iş bulmayı diliyorum."
+   }
+  },
+  "L2J(jrGB@`": {
+   "en": {
+    "meaning": "to do sports",
+    "example": "I do sports twice a week."
+   },
+   "tr": {
+    "meaning": "spor yapmak",
+    "example": "Haftada iki kez spor yapıyorum."
+   }
+  },
+  "D?zI}6Dh{/": {
+   "en": {
+    "meaning": "wish",
+    "example": "My biggest wish is a house of my own."
+   },
+   "tr": {
+    "meaning": "dilek, istek",
+    "example": "En büyük dileğim kendime ait bir ev."
+   }
+  },
+  "pdo:D~g{IA": {
+   "en": {
+    "meaning": "survey",
+    "example": "Do a survey in the class."
+   },
+   "tr": {
+    "meaning": "anket",
+    "example": "Kursta bir anket yapın."
+   }
+  },
+  "i~<J`h5K5O": {
+   "en": {
+    "meaning": "famous",
+    "example": "I would so like to be famous."
+   },
+   "tr": {
+    "meaning": "ünlü",
+    "example": "Ünlü olmayı çok isterdim."
+   }
+  },
+  "E$c-Zk3ve{": {
+   "en": {
+    "meaning": "to win",
+    "example": "I would like to win the lottery."
+   },
+   "tr": {
+    "meaning": "kazanmak",
+    "example": "Piyangoyu kazanmak isterdim."
+   }
+  },
+  "M>UdJT[~==": {
+   "en": {
+    "meaning": "lottery",
+    "example": "He plays the lottery every week."
+   },
+   "tr": {
+    "meaning": "loto, piyango",
+    "example": "Her hafta loto oynuyor."
+   }
+  },
+  "tRiMm:gL16": {
+   "en": {
+    "meaning": "to rest",
+    "example": "I want to rest at the weekend."
+   },
+   "tr": {
+    "meaning": "dinlenmek",
+    "example": "Hafta sonu dinlenmek istiyorum."
+   }
+  },
+  "yAxy$Cnzin": {
+   "en": {
+    "meaning": "at least",
+    "example": "Then I would at least know a famous person."
+   },
+   "tr": {
+    "meaning": "en azından",
+    "example": "O zaman en azından ünlü birini tanırdım."
+   }
+  },
+  "oIt~10#r%3": {
+   "en": {
+    "meaning": "finally, at last",
+    "example": "We finally have holidays!"
+   },
+   "tr": {
+    "meaning": "nihayet, sonunda",
+    "example": "Nihayet tatildeyiz!"
+   }
+  },
+  "t,a%9@Zc`4": {
+   "en": {
+    "meaning": "ski holiday",
+    "example": "In winter we go on a ski holiday."
+   },
+   "tr": {
+    "meaning": "kayak tatili",
+    "example": "Kışın kayak tatiline gideriz."
+   }
+  },
+  "MTgL%ZM[&>": {
+   "en": {
+    "meaning": "nurse (female)",
+    "example": "Sonja works as a nurse."
+   },
+   "tr": {
+    "meaning": "hemşire (kadın)",
+    "example": "Sonja hemşire olarak çalışıyor."
+   }
+  },
+  "k$=M+nNH3B": {
+   "en": {
+    "meaning": "part-time (half-day)",
+    "example": "He works part-time in an office."
+   },
+   "tr": {
+    "meaning": "yarım gün",
+    "example": "Bir ofiste yarım gün çalışıyor."
+   }
+  },
+  "Cyp=$K1F:j": {
+   "en": {
+    "meaning": "city centre",
+    "example": "She has a shop in the city centre."
+   },
+   "tr": {
+    "meaning": "şehir merkezi",
+    "example": "Şehir merkezinde bir dükkânı var."
+   }
+  },
+  "Bf;`s4X5rA": {
+   "en": {
+    "meaning": "conversation partner",
+    "example": "Write about your conversation partner."
+   },
+   "tr": {
+    "meaning": "sohbet ortağı",
+    "example": "Sohbet ortağınız hakkında yazın."
+   }
+  }
+ },
+ "grammar": {
+  "kPr@8I[_mx": {
+   "en": "haben → hätte (Konjunktiv II: wish)",
+   "tr": "haben → hätte (Konjunktiv II: dilek)"
+  },
+  "hsC}lpHW}$": {
+   "en": "sein → wäre",
+   "tr": "sein → wäre"
+  },
+  "H=d1$Eh8f4": {
+   "en": "other verbs: würde + infinitive (at the end)",
+   "tr": "diğer fiiller: würde + mastar (cümle sonunda)"
+  },
+  "eJnr[>Z0+w": {
+   "en": "du hättest",
+   "tr": "du hättest"
+  },
+  "BDCrQOh}W+": {
+   "en": "wir wären",
+   "tr": "wir wären"
+  },
+  "N8F?&v#}VX": {
+   "en": "ihr würdet; infinitive at the end (don't forget gern)",
+   "tr": "ihr würdet; mastar sonda (gern'i unutma)"
+  },
+  "GF%+O<(!^b": {
+   "en": "sie/Sie würden",
+   "tr": "sie/Sie würden"
+  },
+  "qv|l>;fPmH": {
+   "en": "Konjunktiv II of sein: du wärst, ihr wärt",
+   "tr": "sein fiilinin Konjunktiv II'si: du wärst, ihr wärt"
+  },
+  "hP~j*K=Wh/": {
+   "en": "würde + gern + … + infinitive",
+   "tr": "würde + gern + … + mastar"
+  },
+  "bX5+Yi@OXl": {
+   "en": "past fact → Präteritum (no umlaut)",
+   "tr": "geçmişteki gerçek → Präteritum (umlaut yok)"
+  },
+  "pFfjFZPIjv": {
+   "en": "past fact → war (≠ wäre)",
+   "tr": "geçmişteki gerçek → war (≠ wäre)"
+  },
+  "M;py8)M]gX": {
+   "en": "past: hatten; werden → wurde",
+   "tr": "geçmiş: hatten; werden → wurde"
+  },
+  "ebl7a5j(Cm": {
+   "en": "noun object → hätte; adjective → wäre",
+   "tr": "isim nesne → hätte; sıfat → wäre"
+  },
+  "L9uuk-kO~3": {
+   "en": "am liebsten at the start → verb in position 2",
+   "tr": "am liebsten başta → fiil 2. sırada"
+  },
+  "t@<^_nlk%8": {
+   "en": "question: Konjunktiv II verb comes first",
+   "tr": "soru cümlesi: Konjunktiv II fiili başta"
+  },
+  "xc6X16ysrQ": {
+   "en": "judging a hypothesis: das wäre …",
+   "tr": "varsayımı değerlendirme: das wäre …"
+  },
+  "mf#Jo<A%XT": {
+   "en": "dass clause: verb goes to the end",
+   "tr": "dass yan cümlesi: fiil sona gider"
+  },
+  "j.=OqJ%<2r": {
+   "en": "Mein Wunsch wäre, dass …",
+   "tr": "Mein Wunsch wäre, dass …"
+  },
+  "l)*fQ]9Ism": {
+   "en": "wenn clause: verb at the end; brechen → er bricht",
+   "tr": "wenn yan cümlesi: fiil sonda; brechen → er bricht"
+  },
+  "w(8,-GwS[U": {
+   "en": "der Meinung sein (fixed genitive phrase)",
+   "tr": "der Meinung sein (sabit Genitiv kalıbı)"
+  },
+  "A/;gQ,WJ8G": {
+   "en": "zustimmen + dative; separable prefix goes to the end",
+   "tr": "zustimmen + Dativ; ayrılabilen ön ek sona gider"
+  }
+ }
+}
