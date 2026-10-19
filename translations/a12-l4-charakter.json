@@ -1,0 +1,621 @@
+{
+ "words": {
+  "A_LMFlwc**": {
+   "en": {
+    "meaning": "conservative",
+    "example": "His style is conservative."
+   },
+   "tr": {
+    "meaning": "muhafazakâr"
+   },
+   "th": {
+    "meaning": "อนุรักษ์นิยม"
+   },
+   "vi": {
+    "meaning": "bảo thủ"
+   },
+   "fa": {
+    "meaning": "محافظه‌کار"
+   }
+  },
+  "oG56-id9;P": {
+   "en": {
+    "meaning": "aggressive",
+    "example": "He is sometimes aggressive."
+   },
+   "tr": {
+    "meaning": "saldırgan"
+   },
+   "th": {
+    "meaning": "ก้าวร้าว"
+   },
+   "vi": {
+    "meaning": "hung hăng"
+   },
+   "fa": {
+    "meaning": "پرخاشگر"
+   }
+  },
+  "meK&!9u%FP": {
+   "en": {
+    "meaning": "anxious, timid",
+    "example": "She is very anxious."
+   },
+   "tr": {
+    "meaning": "korkak, ürkek"
+   },
+   "th": {
+    "meaning": "ขี้กลัว"
+   },
+   "vi": {
+    "meaning": "nhút nhát, hay sợ"
+   },
+   "fa": {
+    "meaning": "ترسو، مضطرب"
+   }
+  },
+  "g.l:}MjY6.": {
+   "en": {
+    "meaning": "brave",
+    "example": "He is a brave man."
+   },
+   "tr": {
+    "meaning": "cesur"
+   },
+   "th": {
+    "meaning": "กล้าหาญ"
+   },
+   "vi": {
+    "meaning": "dũng cảm"
+   },
+   "fa": {
+    "meaning": "شجاع"
+   }
+  },
+  "x[l~g#JxR]": {
+   "en": {
+    "meaning": "cowardly",
+    "example": "I don't like cowardly people."
+   },
+   "tr": {
+    "meaning": "korkak"
+   },
+   "th": {
+    "meaning": "ขี้ขลาด"
+   },
+   "vi": {
+    "meaning": "hèn nhát"
+   },
+   "fa": {
+    "meaning": "بزدل"
+   }
+  },
+  "rKFWsQe%k^": {
+   "en": {
+    "meaning": "stingy, mean",
+    "example": "My boss is stingy."
+   },
+   "tr": {
+    "meaning": "cimri"
+   },
+   "th": {
+    "meaning": "ขี้เหนียว"
+   },
+   "vi": {
+    "meaning": "keo kiệt"
+   },
+   "fa": {
+    "meaning": "خسیس"
+   }
+  },
+  "l8&fvwVOy": {
+   "en": {
+    "meaning": "generous",
+    "example": "She is very generous."
+   },
+   "tr": {
+    "meaning": "cömert"
+   },
+   "th": {
+    "meaning": "ใจกว้าง"
+   },
+   "vi": {
+    "meaning": "hào phóng"
+   },
+   "fa": {
+    "meaning": "سخاوتمند"
+   }
+  },
+  "Ms=qj/c4l-": {
+   "en": {
+    "meaning": "well-known; familiar",
+    "example": "The model is very well-known."
+   },
+   "tr": {
+    "meaning": "tanınmış; tanıdık"
+   },
+   "th": {
+    "meaning": "มีชื่อเสียง; คุ้นเคย"
+   },
+   "vi": {
+    "meaning": "nổi tiếng; quen thuộc"
+   },
+   "fa": {
+    "meaning": "معروف؛ آشنا"
+   }
+  },
+  "o$aV9BX4,2": {
+   "en": {
+    "meaning": "unknown",
+    "example": "The artist is still unknown."
+   },
+   "tr": {
+    "meaning": "tanınmamış"
+   },
+   "th": {
+    "meaning": "ไม่เป็นที่รู้จัก"
+   },
+   "vi": {
+    "meaning": "vô danh"
+   },
+   "fa": {
+    "meaning": "ناشناخته"
+   }
+  },
+  "b2$S1rq8<u": {
+   "en": {
+    "meaning": "wide, broad",
+    "example": "The street is wide."
+   },
+   "tr": {
+    "meaning": "geniş"
+   },
+   "th": {
+    "meaning": "กว้าง"
+   },
+   "vi": {
+    "meaning": "rộng"
+   },
+   "fa": {
+    "meaning": "پهن"
+   }
+  },
+  "`);Jy/Vkv": {
+   "en": {
+    "meaning": "narrow; thin",
+    "example": "She has thin lips."
+   },
+   "tr": {
+    "meaning": "dar; ince"
+   },
+   "th": {
+    "meaning": "แคบ; บาง"
+   },
+   "vi": {
+    "meaning": "hẹp; mỏng"
+   },
+   "fa": {
+    "meaning": "باریک؛ نازک"
+   }
+  },
+  "P=lD|jRuG7": {
+   "en": {
+    "meaning": "stupid",
+    "example": "The question isn't stupid."
+   },
+   "tr": {
+    "meaning": "aptal"
+   },
+   "th": {
+    "meaning": "โง่"
+   },
+   "vi": {
+    "meaning": "ngốc"
+   },
+   "fa": {
+    "meaning": "احمق"
+   },
+   "zh": {
+    "meaning": "笨的、傻的",
+    "example": "这个问题并不傻。"
+   }
+  },
+  "GqYQ}hj~Ht": {
+   "en": {
+    "meaning": "intelligent",
+    "example": "She is very intelligent."
+   },
+   "tr": {
+    "meaning": "zeki"
+   },
+   "th": {
+    "meaning": "ฉลาด"
+   },
+   "vi": {
+    "meaning": "thông minh"
+   },
+   "fa": {
+    "meaning": "باهوش"
+   }
+  },
+  "A}wr91Im_=": {
+   "en": {
+    "meaning": "clever, wise",
+    "example": "That was a wise decision."
+   },
+   "tr": {
+    "meaning": "akıllı"
+   },
+   "th": {
+    "meaning": "ฉลาด, รอบคอบ"
+   },
+   "vi": {
+    "meaning": "khôn ngoan"
+   },
+   "fa": {
+    "meaning": "زیرک، عاقل"
+   }
+  },
+  "rb@zXp=zX3": {
+   "en": {
+    "meaning": "angular, square",
+    "example": "The table is square."
+   },
+   "tr": {
+    "meaning": "köşeli"
+   },
+   "th": {
+    "meaning": "เป็นเหลี่ยม"
+   },
+   "vi": {
+    "meaning": "có góc cạnh"
+   },
+   "fa": {
+    "meaning": "گوشه‌دار"
+   }
+  },
+  "n]~<cJIeTf": {
+   "en": {
+    "meaning": "honest",
+    "example": "He is always honest."
+   },
+   "tr": {
+    "meaning": "dürüst"
+   },
+   "th": {
+    "meaning": "ซื่อสัตย์"
+   },
+   "vi": {
+    "meaning": "trung thực"
+   },
+   "fa": {
+    "meaning": "صادق"
+   }
+  },
+  "LcU-P;eE?x": {
+   "en": {
+    "meaning": "lying, dishonest",
+    "example": "Nobody likes dishonest people."
+   },
+   "tr": {
+    "meaning": "yalancı"
+   },
+   "th": {
+    "meaning": "ขี้โกหก"
+   },
+   "vi": {
+    "meaning": "hay nói dối"
+   },
+   "fa": {
+    "meaning": "دروغگو"
+   }
+  },
+  "t`H5.{(Alz": {
+   "en": {
+    "meaning": "lazy",
+    "example": "At the weekend I'm lazy."
+   },
+   "tr": {
+    "meaning": "tembel"
+   },
+   "th": {
+    "meaning": "ขี้เกียจ"
+   },
+   "vi": {
+    "meaning": "lười"
+   },
+   "fa": {
+    "meaning": "تنبل"
+   }
+  },
+  "i?v:tY:K.3": {
+   "en": {
+    "meaning": "hard-working",
+    "example": "Eva is as hard-working as you."
+   },
+   "tr": {
+    "meaning": "çalışkan"
+   },
+   "th": {
+    "meaning": "ขยัน"
+   },
+   "vi": {
+    "meaning": "chăm chỉ"
+   },
+   "fa": {
+    "meaning": "سخت‌کوش"
+   }
+  },
+  "ii!:1%):`E": {
+   "en": {
+    "meaning": "warm, cordial",
+    "example": "She is a warm person."
+   },
+   "tr": {
+    "meaning": "samimi, içten"
+   },
+   "th": {
+    "meaning": "อบอุ่น, จริงใจ"
+   },
+   "vi": {
+    "meaning": "nồng hậu"
+   },
+   "fa": {
+    "meaning": "صمیمی"
+   }
+  },
+  "c>{ACf57j_": {
+   "en": {
+    "meaning": "unfriendly",
+    "example": "The sales assistant was unfriendly."
+   },
+   "tr": {
+    "meaning": "kaba, nazik olmayan"
+   },
+   "th": {
+    "meaning": "ไม่เป็นมิตร"
+   },
+   "vi": {
+    "meaning": "không thân thiện"
+   },
+   "fa": {
+    "meaning": "نامهربان"
+   }
+  },
+  "B!fa5:H_s/": {
+   "en": {
+    "meaning": "musical",
+    "example": "She is very musical."
+   },
+   "tr": {
+    "meaning": "müzik yeteneği olan"
+   },
+   "th": {
+    "meaning": "มีพรสวรรค์ด้านดนตรี"
+   },
+   "vi": {
+    "meaning": "có năng khiếu âm nhạc"
+   },
+   "fa": {
+    "meaning": "اهل موسیقی"
+   }
+  },
+  "y,PmjQSuev": {
+   "en": {
+    "meaning": "optimistic",
+    "example": "You should be optimistic."
+   },
+   "tr": {
+    "meaning": "iyimser"
+   },
+   "th": {
+    "meaning": "มองโลกในแง่ดี"
+   },
+   "vi": {
+    "meaning": "lạc quan"
+   },
+   "fa": {
+    "meaning": "خوش‌بین"
+   }
+  },
+  "dB6u~3lcT@": {
+   "en": {
+    "meaning": "pessimistic",
+    "example": "He is always pessimistic."
+   },
+   "tr": {
+    "meaning": "kötümser"
+   },
+   "th": {
+    "meaning": "มองโลกในแง่ร้าย"
+   },
+   "vi": {
+    "meaning": "bi quan"
+   },
+   "fa": {
+    "meaning": "بدبین"
+   }
+  },
+  "q(Nelf1<5B": {
+   "en": {
+    "meaning": "respectful",
+    "example": "Be respectful!"
+   },
+   "tr": {
+    "meaning": "saygılı"
+   },
+   "th": {
+    "meaning": "ให้เกียรติ"
+   },
+   "vi": {
+    "meaning": "tôn trọng"
+   },
+   "fa": {
+    "meaning": "محترمانه"
+   }
+  },
+  "tkwn>1~L+?": {
+   "en": {
+    "meaning": "shy",
+    "example": "The child is shy."
+   },
+   "tr": {
+    "meaning": "utangaç"
+   },
+   "th": {
+    "meaning": "ขี้อาย"
+   },
+   "vi": {
+    "meaning": "nhút nhát"
+   },
+   "fa": {
+    "meaning": "خجالتی"
+   }
+  },
+  "N/wLk5BP[.": {
+   "en": {
+    "meaning": "reserved, withdrawn",
+    "example": "He seems reserved."
+   },
+   "tr": {
+    "meaning": "içine kapanık"
+   },
+   "th": {
+    "meaning": "เก็บตัว"
+   },
+   "vi": {
+    "meaning": "khép kín"
+   },
+   "fa": {
+    "meaning": "درون‌گرا، تودار"
+   }
+  },
+  "ly>T8-)z&6": {
+   "en": {
+    "meaning": "furious, angry",
+    "example": "She was very angry."
+   },
+   "tr": {
+    "meaning": "öfkeli"
+   },
+   "th": {
+    "meaning": "โกรธจัด"
+   },
+   "vi": {
+    "meaning": "giận dữ"
+   },
+   "fa": {
+    "meaning": "خشمگین"
+   }
+  },
+  "hW}kGCkr@V": {
+   "en": {
+    "meaning": "behaviour",
+    "example": "His behaviour was strange."
+   },
+   "tr": {
+    "meaning": "davranış"
+   },
+   "th": {
+    "meaning": "พฤติกรรม"
+   },
+   "vi": {
+    "meaning": "hành vi"
+   },
+   "fa": {
+    "meaning": "رفتار"
+   }
+  },
+  "P*IHjZgFbB": {
+   "en": {
+    "meaning": "appearance, looks",
+    "example": "Looks aren't everything."
+   },
+   "tr": {
+    "meaning": "dış görünüş"
+   },
+   "th": {
+    "meaning": "รูปลักษณ์"
+   },
+   "vi": {
+    "meaning": "ngoại hình"
+   },
+   "fa": {
+    "meaning": "ظاهر"
+   }
+  },
+  "zr,u;UjH$W": {
+   "en": {
+    "meaning": "typical",
+    "example": "What is typical of the person?"
+   },
+   "tr": {
+    "meaning": "tipik"
+   },
+   "th": {
+    "meaning": "ทั่วไป, เป็นลักษณะเฉพาะ"
+   },
+   "vi": {
+    "meaning": "điển hình"
+   },
+   "fa": {
+    "meaning": "معمولی، نمونه"
+   }
+  },
+  "Ml@]uw/evh": {
+   "en": {
+    "meaning": "note",
+    "example": "Make notes."
+   },
+   "tr": {
+    "meaning": "not"
+   },
+   "th": {
+    "meaning": "บันทึก"
+   },
+   "vi": {
+    "meaning": "ghi chú"
+   },
+   "fa": {
+    "meaning": "یادداشت"
+   }
+  },
+  "[SFS/TdQK": {
+   "en": {
+    "meaning": "nervous",
+    "example": "I'm sometimes very nervous."
+   },
+   "tr": {
+    "meaning": "gergin"
+   },
+   "th": {
+    "meaning": "ประหม่า"
+   },
+   "vi": {
+    "meaning": "lo lắng, hồi hộp"
+   },
+   "fa": {
+    "meaning": "عصبی، مضطرب"
+   }
+  },
+  "p,n|_v1.(a": {
+   "en": {
+    "meaning": "sad",
+    "example": "Why are you sad?"
+   },
+   "tr": {
+    "meaning": "üzgün"
+   },
+   "th": {
+    "meaning": "เศร้า"
+   },
+   "vi": {
+    "meaning": "buồn"
+   },
+   "fa": {
+    "meaning": "غمگین"
+   }
+  }
+ },
+ "grammar": {}
+}

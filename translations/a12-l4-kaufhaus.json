@@ -1,0 +1,822 @@
+{
+ "words": {
+  "hUI1Q`3urk": {
+   "en": {
+    "meaning": "statistics",
+    "example": "Read the statistics."
+   },
+   "tr": {
+    "meaning": "istatistik"
+   },
+   "th": {
+    "meaning": "สถิติ"
+   },
+   "vi": {
+    "meaning": "thống kê"
+   },
+   "fa": {
+    "meaning": "آمار"
+   }
+  },
+  "_e~|TX^LS": {
+   "en": {
+    "meaning": "to be (located)",
+    "example": "That is in the middle of the statistics."
+   },
+   "tr": {
+    "meaning": "bulunmak"
+   },
+   "th": {
+    "meaning": "ตั้งอยู่"
+   },
+   "vi": {
+    "meaning": "nằm ở"
+   },
+   "fa": {
+    "meaning": "قرار داشتن"
+   }
+  },
+  "ju:?cWZ+eo": {
+   "en": {
+    "meaning": "to try on",
+    "example": "You can try the clothes on."
+   },
+   "tr": {
+    "meaning": "denemek"
+   },
+   "th": {
+    "meaning": "ลองสวม"
+   },
+   "vi": {
+    "meaning": "mặc thử"
+   },
+   "fa": {
+    "meaning": "پرو کردن"
+   }
+  },
+  "p[K*hQ8b##": {
+   "en": {
+    "meaning": "disgusting",
+    "example": "I find it disgusting."
+   },
+   "tr": {
+    "meaning": "iğrenç"
+   },
+   "th": {
+    "meaning": "น่าขยะแขยง"
+   },
+   "vi": {
+    "meaning": "ghê tởm"
+   },
+   "fa": {
+    "meaning": "چندش‌آور"
+   }
+  },
+  "xX#tt|<&XB": {
+   "en": {
+    "meaning": "checkout, till",
+    "example": "You have to wait a long time at the checkouts."
+   },
+   "tr": {
+    "meaning": "kasa"
+   },
+   "th": {
+    "meaning": "แคชเชียร์"
+   },
+   "vi": {
+    "meaning": "quầy thu ngân"
+   },
+   "fa": {
+    "meaning": "صندوق"
+   }
+  },
+  "I|pA3vX*%L": {
+   "en": {
+    "meaning": "special offer",
+    "example": "There are often special offers."
+   },
+   "tr": {
+    "meaning": "indirim, kampanya"
+   },
+   "th": {
+    "meaning": "สินค้าลดราคาพิเศษ"
+   },
+   "vi": {
+    "meaning": "hàng khuyến mãi"
+   },
+   "fa": {
+    "meaning": "حراج ویژه"
+   }
+  },
+  "Jw9Urs!A8o": {
+   "en": {
+    "meaning": "to save",
+    "example": "You save a lot of time."
+   },
+   "tr": {
+    "meaning": "tasarruf etmek"
+   },
+   "th": {
+    "meaning": "ประหยัด"
+   },
+   "vi": {
+    "meaning": "tiết kiệm"
+   },
+   "fa": {
+    "meaning": "صرفه‌جویی کردن"
+   }
+  },
+  "e5JIFM|,A%": {
+   "en": {
+    "meaning": "individualist",
+    "example": "The clothes are for individualists."
+   },
+   "tr": {
+    "meaning": "bireyci"
+   },
+   "th": {
+    "meaning": "คนมีสไตล์เฉพาะตัว"
+   },
+   "vi": {
+    "meaning": "người cá tính"
+   },
+   "fa": {
+    "meaning": "فردگرا"
+   }
+  },
+  "qu`f=7.Dkv": {
+   "en": {
+    "meaning": "favourite shop",
+    "example": "What's your favourite shop?"
+   },
+   "tr": {
+    "meaning": "en sevdiği mağaza"
+   },
+   "th": {
+    "meaning": "ร้านโปรด"
+   },
+   "vi": {
+    "meaning": "cửa hàng yêu thích"
+   },
+   "fa": {
+    "meaning": "مغازهٔ مورد علاقه"
+   }
+  },
+  "oOv*>*&7{t": {
+   "en": {
+    "meaning": "loan, credit",
+    "example": "Do you order clothes on credit?"
+   },
+   "tr": {
+    "meaning": "kredi"
+   },
+   "th": {
+    "meaning": "สินเชื่อ"
+   },
+   "vi": {
+    "meaning": "tín dụng, khoản vay"
+   },
+   "fa": {
+    "meaning": "اعتبار، وام"
+   },
+   "zh": {
+    "meaning": "贷款；赊账",
+    "example": "你会赊账订购衣服吗？"
+   }
+  },
+  "NqkQ9{$[/E": {
+   "en": {
+    "meaning": "catalogue",
+    "example": "I order from the catalogue."
+   },
+   "tr": {
+    "meaning": "katalog"
+   },
+   "th": {
+    "meaning": "แคตตาล็อก"
+   },
+   "vi": {
+    "meaning": "catalô"
+   },
+   "fa": {
+    "meaning": "کاتالوگ"
+   }
+  },
+  "z<A6G;:J5(": {
+   "en": {
+    "meaning": "briefs, knickers",
+    "example": "You find briefs in the women's department."
+   },
+   "tr": {
+    "meaning": "külot"
+   },
+   "th": {
+    "meaning": "กางเกงใน"
+   },
+   "vi": {
+    "meaning": "quần lót"
+   },
+   "fa": {
+    "meaning": "شورت"
+   }
+  },
+  "QoC7<>{MmA": {
+   "en": {
+    "meaning": "jacket (men's), blazer",
+    "example": "The jacket is in the men's department."
+   },
+   "tr": {
+    "meaning": "ceket"
+   },
+   "th": {
+    "meaning": "เสื้อสูท"
+   },
+   "vi": {
+    "meaning": "áo vest nam"
+   },
+   "fa": {
+    "meaning": "کت"
+   }
+  },
+  "CaIlOrYZ5:": {
+   "en": {
+    "meaning": "waistcoat, vest",
+    "example": "He is wearing a black waistcoat."
+   },
+   "tr": {
+    "meaning": "yelek"
+   },
+   "th": {
+    "meaning": "เสื้อกั๊ก"
+   },
+   "vi": {
+    "meaning": "áo gi-lê"
+   },
+   "fa": {
+    "meaning": "جلیقه"
+   }
+  },
+  "j8EXdcDhD0": {
+   "en": {
+    "meaning": "women's department",
+    "example": "Dresses are in the women's department."
+   },
+   "tr": {
+    "meaning": "kadın reyonu"
+   },
+   "th": {
+    "meaning": "แผนกเสื้อผ้าสตรี"
+   },
+   "vi": {
+    "meaning": "gian hàng nữ"
+   },
+   "fa": {
+    "meaning": "بخش لباس زنانه"
+   }
+  },
+  "e3)daOL#?[": {
+   "en": {
+    "meaning": "men's department",
+    "example": "Suits are in the men's department."
+   },
+   "tr": {
+    "meaning": "erkek reyonu"
+   },
+   "th": {
+    "meaning": "แผนกเสื้อผ้าบุรุษ"
+   },
+   "vi": {
+    "meaning": "gian hàng nam"
+   },
+   "fa": {
+    "meaning": "بخش لباس مردانه"
+   }
+  },
+  "QL{mDK5.mu": {
+   "en": {
+    "meaning": "announcement",
+    "example": "Listen to the announcements in the department store."
+   },
+   "tr": {
+    "meaning": "anons"
+   },
+   "th": {
+    "meaning": "ประกาศ"
+   },
+   "vi": {
+    "meaning": "thông báo (loa)"
+   },
+   "fa": {
+    "meaning": "اعلان"
+   }
+  },
+  "AS.n}u[0P}": {
+   "en": {
+    "meaning": "reduced",
+    "example": "Everything is reduced by 50 per cent."
+   },
+   "tr": {
+    "meaning": "indirimli"
+   },
+   "th": {
+    "meaning": "ลดราคา"
+   },
+   "vi": {
+    "meaning": "giảm giá"
+   },
+   "fa": {
+    "meaning": "تخفیف‌خورده"
+   }
+  },
+  "L;0_6V$CA,": {
+   "en": {
+    "meaning": "sports department",
+    "example": "Tennis shoes are in the sports department."
+   },
+   "tr": {
+    "meaning": "spor reyonu"
+   },
+   "th": {
+    "meaning": "แผนกกีฬา"
+   },
+   "vi": {
+    "meaning": "gian hàng thể thao"
+   },
+   "fa": {
+    "meaning": "بخش ورزشی"
+   }
+  },
+  "mW]H|GBK`&": {
+   "en": {
+    "meaning": "department",
+    "example": "In which department can you find that?"
+   },
+   "tr": {
+    "meaning": "reyon, bölüm"
+   },
+   "th": {
+    "meaning": "แผนก"
+   },
+   "vi": {
+    "meaning": "gian hàng, bộ phận"
+   },
+   "fa": {
+    "meaning": "بخش"
+   },
+   "zh": {
+    "example": "这个在哪个部门能找到？"
+   }
+  },
+  "nLB(4>H%3N": {
+   "en": {
+    "meaning": "children's department",
+    "example": "Caps are in the children's department."
+   },
+   "tr": {
+    "meaning": "çocuk reyonu"
+   },
+   "th": {
+    "meaning": "แผนกเด็ก"
+   },
+   "vi": {
+    "meaning": "gian hàng trẻ em"
+   },
+   "fa": {
+    "meaning": "بخش کودکان"
+   }
+  },
+  "A=8mf)z1XD": {
+   "en": {
+    "meaning": "swimsuit",
+    "example": "Swimsuits are reduced."
+   },
+   "tr": {
+    "meaning": "mayo"
+   },
+   "th": {
+    "meaning": "ชุดว่ายน้ำ"
+   },
+   "vi": {
+    "meaning": "đồ bơi một mảnh"
+   },
+   "fa": {
+    "meaning": "مایو"
+   }
+  },
+  "xCwM;C4(zo": {
+   "en": {
+    "meaning": "swimming trunks",
+    "example": "He buys swimming trunks."
+   },
+   "tr": {
+    "meaning": "deniz şortu"
+   },
+   "th": {
+    "meaning": "กางเกงว่ายน้ำ"
+   },
+   "vi": {
+    "meaning": "quần bơi"
+   },
+   "fa": {
+    "meaning": "مایوی مردانه"
+   }
+  },
+  "KcCWpX&:9^": {
+   "en": {
+    "meaning": "bikini",
+    "example": "Bikinis are in the bargain area."
+   },
+   "tr": {
+    "meaning": "bikini"
+   },
+   "th": {
+    "meaning": "บิกินี"
+   },
+   "vi": {
+    "meaning": "bikini"
+   },
+   "fa": {
+    "meaning": "بیکینی"
+   }
+  },
+  "gAEh5@R;j)": {
+   "en": {
+    "meaning": "summer dress",
+    "example": "Summer dresses are in the women's department."
+   },
+   "tr": {
+    "meaning": "yazlık elbise"
+   },
+   "th": {
+    "meaning": "ชุดเดรสฤดูร้อน"
+   },
+   "vi": {
+    "meaning": "váy mùa hè"
+   },
+   "fa": {
+    "meaning": "پیراهن تابستانی"
+   }
+  },
+  "lIMaJmM><9": {
+   "en": {
+    "meaning": "autumn coat",
+    "example": "Autumn coats are on the first floor."
+   },
+   "tr": {
+    "meaning": "sonbahar paltosu"
+   },
+   "th": {
+    "meaning": "เสื้อโค้ทฤดูใบไม้ร่วง"
+   },
+   "vi": {
+    "meaning": "áo khoác mùa thu"
+   },
+   "fa": {
+    "meaning": "پالتوی پاییزی"
+   }
+  },
+  "I<RzoKkJZ+": {
+   "en": {
+    "meaning": "rain jacket",
+    "example": "In autumn I need a rain jacket."
+   },
+   "tr": {
+    "meaning": "yağmurluk"
+   },
+   "th": {
+    "meaning": "เสื้อกันฝน"
+   },
+   "vi": {
+    "meaning": "áo khoác đi mưa"
+   },
+   "fa": {
+    "meaning": "بارانی"
+   }
+  },
+  "tHY^>3y3q(": {
+   "en": {
+    "meaning": "waterproof trousers",
+    "example": "Waterproof trousers are practical."
+   },
+   "tr": {
+    "meaning": "yağmur pantolonu"
+   },
+   "th": {
+    "meaning": "กางเกงกันฝน"
+   },
+   "vi": {
+    "meaning": "quần đi mưa"
+   },
+   "fa": {
+    "meaning": "شلوار بارانی"
+   }
+  },
+  "AfE&,[-&6U": {
+   "en": {
+    "meaning": "model, style",
+    "example": "Do you have this style in green too?"
+   },
+   "tr": {
+    "meaning": "model"
+   },
+   "th": {
+    "meaning": "แบบ, รุ่น"
+   },
+   "vi": {
+    "meaning": "kiểu, mẫu"
+   },
+   "fa": {
+    "meaning": "مدل"
+   }
+  },
+  "kmD+e(coy8": {
+   "en": {
+    "meaning": "to exchange",
+    "example": "Can I exchange the coat?"
+   },
+   "tr": {
+    "meaning": "değiştirmek"
+   },
+   "th": {
+    "meaning": "เปลี่ยน (สินค้า)"
+   },
+   "vi": {
+    "meaning": "đổi hàng"
+   },
+   "fa": {
+    "meaning": "تعویض کردن"
+   }
+  },
+  "B#$d(Xuc18": {
+   "en": {
+    "meaning": "receipt",
+    "example": "That's only possible with a receipt."
+   },
+   "tr": {
+    "meaning": "fiş"
+   },
+   "th": {
+    "meaning": "ใบเสร็จ"
+   },
+   "vi": {
+    "meaning": "hóa đơn"
+   },
+   "fa": {
+    "meaning": "رسید"
+   }
+  },
+  "w6}7+lqvJP": {
+   "en": {
+    "meaning": "changing room",
+    "example": "The changing room is over there."
+   },
+   "tr": {
+    "meaning": "soyunma kabini"
+   },
+   "th": {
+    "meaning": "ห้องลองเสื้อ"
+   },
+   "vi": {
+    "meaning": "phòng thử đồ"
+   },
+   "fa": {
+    "meaning": "اتاق پرو"
+   }
+  },
+  "NeZ:8gpa?$": {
+   "en": {
+    "meaning": "debit card",
+    "example": "Can I pay by debit card?"
+   },
+   "tr": {
+    "meaning": "banka kartı"
+   },
+   "th": {
+    "meaning": "บัตรเดบิต"
+   },
+   "vi": {
+    "meaning": "thẻ ghi nợ"
+   },
+   "fa": {
+    "meaning": "کارت بانکی"
+   }
+  },
+  "M<,$hEG*Sb": {
+   "en": {
+    "meaning": "credit card",
+    "example": "I pay by credit card."
+   },
+   "tr": {
+    "meaning": "kredi kartı"
+   },
+   "th": {
+    "meaning": "บัตรเครดิต"
+   },
+   "vi": {
+    "meaning": "thẻ tín dụng"
+   },
+   "fa": {
+    "meaning": "کارت اعتباری"
+   }
+  },
+  "mjh~c.blI3": {
+   "en": {
+    "meaning": "exactly; precise",
+    "example": "Yes, it fits perfectly."
+   },
+   "tr": {
+    "meaning": "tam; kesin"
+   },
+   "th": {
+    "meaning": "พอดี; แน่นอน"
+   },
+   "vi": {
+    "meaning": "vừa đúng; chính xác"
+   },
+   "fa": {
+    "meaning": "دقیقاً"
+   }
+  },
+  "x-Sv>O,tv<": {
+   "en": {
+    "meaning": "customer (female)",
+    "example": "The customer is looking for a coat."
+   },
+   "tr": {
+    "meaning": "müşteri (kadın)"
+   },
+   "th": {
+    "meaning": "ลูกค้า (หญิง)"
+   },
+   "vi": {
+    "meaning": "khách hàng (nữ)"
+   },
+   "fa": {
+    "meaning": "مشتری (زن)"
+   }
+  },
+  "R_i}u]@<t": {
+   "en": {
+    "meaning": "sales assistant (female)",
+    "example": "The sales assistant helps the customer."
+   },
+   "tr": {
+    "meaning": "satış elemanı (kadın)"
+   },
+   "th": {
+    "meaning": "พนักงานขาย (หญิง)"
+   },
+   "vi": {
+    "meaning": "nữ nhân viên bán hàng"
+   },
+   "fa": {
+    "meaning": "فروشنده (زن)"
+   }
+  },
+  "QSt?F@$!yF": {
+   "en": {
+    "meaning": "good value",
+    "example": "The jacket is very good value."
+   },
+   "tr": {
+    "meaning": "uygun fiyatlı"
+   },
+   "th": {
+    "meaning": "ราคาคุ้ม"
+   },
+   "vi": {
+    "meaning": "giá hời"
+   },
+   "fa": {
+    "meaning": "به‌صرفه"
+   }
+  },
+  "o(H+>U}Xe.": {
+   "en": {
+    "meaning": "pretty",
+    "example": "The dress is pretty."
+   },
+   "tr": {
+    "meaning": "güzel, hoş"
+   },
+   "th": {
+    "meaning": "สวย"
+   },
+   "vi": {
+    "meaning": "xinh"
+   },
+   "fa": {
+    "meaning": "قشنگ"
+   }
+  },
+  "q&v)1OXMm2": {
+   "en": {
+    "meaning": "thin",
+    "example": "The jacket is too thin."
+   },
+   "tr": {
+    "meaning": "ince; zayıf"
+   },
+   "th": {
+    "meaning": "บาง; ผอม"
+   },
+   "vi": {
+    "meaning": "mỏng; gầy"
+   },
+   "fa": {
+    "meaning": "نازک؛ لاغر"
+   }
+  },
+  "gZL6jq(%dp": {
+   "en": {
+    "meaning": "thick; fat",
+    "example": "The jumper is too thick."
+   },
+   "tr": {
+    "meaning": "kalın; şişman"
+   },
+   "th": {
+    "meaning": "หนา; อ้วน"
+   },
+   "vi": {
+    "meaning": "dày; béo"
+   },
+   "fa": {
+    "meaning": "کلفت؛ چاق"
+   }
+  },
+  "tZcX8<cm,D": {
+   "en": {
+    "meaning": "uncomfortable",
+    "example": "The shoes are uncomfortable."
+   },
+   "tr": {
+    "meaning": "rahatsız"
+   },
+   "th": {
+    "meaning": "ไม่สบาย"
+   },
+   "vi": {
+    "meaning": "không thoải mái"
+   },
+   "fa": {
+    "meaning": "ناراحت"
+   }
+  },
+  "O-o<x@yFFI": {
+   "en": {
+    "meaning": "impractical",
+    "example": "The skirt is impractical."
+   },
+   "tr": {
+    "meaning": "kullanışsız"
+   },
+   "th": {
+    "meaning": "ไม่สะดวก"
+   },
+   "vi": {
+    "meaning": "không thực tế"
+   },
+   "fa": {
+    "meaning": "غیرعملی"
+   }
+  },
+  "Q$._r-he4o": {
+   "en": {
+    "meaning": "opposite",
+    "example": "Find the opposite."
+   },
+   "tr": {
+    "meaning": "zıt"
+   },
+   "th": {
+    "meaning": "สิ่งตรงข้าม"
+   },
+   "vi": {
+    "meaning": "điều ngược lại"
+   },
+   "fa": {
+    "meaning": "متضاد"
+   }
+  },
+  "bfJx0z)x)s": {
+   "en": {
+    "meaning": "clothing size",
+    "example": "What size do you wear?"
+   },
+   "tr": {
+    "meaning": "beden"
+   },
+   "th": {
+    "meaning": "ไซซ์เสื้อผ้า"
+   },
+   "vi": {
+    "meaning": "cỡ quần áo"
+   },
+   "fa": {
+    "meaning": "سایز لباس"
+   }
+  }
+ },
+ "grammar": {}
+}
