@@ -1,7 +1,8 @@
+import { useEffect } from "react";
 import { Link } from "react-router-dom";
 import { useAccount } from "../account";
 import { Loading, Page, ProgressBar } from "../components/common";
-import { loadIndex, useAsync } from "../data";
+import { loadIndex, relocateProgress, useAsync } from "../data";
 import { useLang } from "../i18n";
 import { dueLessons, learnedCount, streak, useProgress } from "../store";
 import type { LessonSummary } from "../types";
@@ -11,14 +12,14 @@ interface Group {
   lessons: LessonSummary[];
 }
 
-/** course → Lektion → units, in index order; lessons made in the editor form their own group. */
+/** course → Modul → units, in index order; lessons made in the editor form their own group. */
 function groupLessons(lessons: LessonSummary[]) {
   const courses = new Map<string, Map<string, LessonSummary[]>>();
   for (const l of lessons) {
     const course = l.course ?? "";
     if (!courses.has(course)) courses.set(course, new Map());
     const groups = courses.get(course)!;
-    const key = l.lektion ?? "";
+    const key = l.modul ?? "";
     if (!groups.has(key)) groups.set(key, []);
     groups.get(key)!.push(l);
   }
@@ -50,8 +51,12 @@ function LessonCard({ l, due, isNew }: { l: LessonSummary; due?: number; isNew?:
 
 export default function Home() {
   const { t } = useLang();
-  useProgress();
+  const progress = useProgress();
   const lessons = useAsync(loadIndex, []);
+  // progress from before a reorganisation (or synced from another device) may name old lesson ids
+  useEffect(() => {
+    relocateProgress().catch(() => {});
+  }, [progress]);
   const due = dueLessons();
   const dueTotal = Object.values(due).reduce((a, b) => a + b, 0);
   const days = streak();
@@ -107,7 +112,7 @@ export default function Home() {
                   ))}
                 </ul>
               );
-              // editor-made lessons have no Lektion: list them without a fold
+              // A1.2 (one lesson per Modul) and editor-made lessons have no Modul group: list them without a fold
               if (!g.name) return <div key="_">{body}</div>;
               return (
                 <details key={g.name} className="lektion" open={ci === 0}>

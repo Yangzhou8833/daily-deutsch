@@ -38,8 +38,8 @@ export interface LessonSummary {
   title: string;
   /** "A2", "A1.2"; editor lessons have none. */
   course?: string;
-  /** Group inside the course, e.g. "Lektion 1 · Wohnen". */
-  lektion?: string;
+  /** Group inside the course, e.g. "Modul 1" (A2); A1.2 lessons are a whole Modul and have none. */
+  modul?: string | null;
   order?: number;
   date: string;
   langs: Lang[];

@@ -134,6 +134,25 @@ export function dueLessons(now = new Date()): Record<string, number> {
   return out;
 }
 
+/** Lesson ids that progress entries point at. */
+export const lessonIdsInUse = () => new Set(Object.values(cards).map((e) => e.lesson));
+
+/**
+ * After lessons are reorganised (A1.2 units merged into one lesson per Modul) an entry can point at a
+ * lesson that no longer exists; move it to the lesson that now holds the word. Uploaded on the next sync.
+ */
+export function relocate(lessonIds: Set<string>, wordLesson: Map<string, string>) {
+  let moved = 0;
+  for (const [id, e] of Object.entries(cards)) {
+    const to = wordLesson.get(id);
+    if (to && !lessonIds.has(e.lesson)) {
+      cards[id] = { ...e, lesson: to, dirty: true };
+      moved++;
+    }
+  }
+  if (moved) save();
+}
+
 export function learnedCount(lesson: string): number {
   return Object.values(cards).filter((e) => e.lesson === lesson && e.card.state !== State.New).length;
 }

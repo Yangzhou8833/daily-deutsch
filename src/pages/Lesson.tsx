@@ -42,9 +42,9 @@ export default function LessonPage() {
 
   return (
     <Page back="/">
-      {lesson.lektion && (
+      {lesson.modul && (
         <p className="crumb muted small">
-          {lesson.course} · {lesson.lektion}
+          {lesson.course} · {lesson.modul}
         </p>
       )}
       <h1>{lesson.title}</h1>

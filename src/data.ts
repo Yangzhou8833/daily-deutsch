@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react";
+import { lessonIdsInUse, relocate } from "./store";
 import { supabase } from "./supabase";
 import type { GrammarCard, Lang, Lesson, LessonSummary, Word } from "./types";
 
@@ -62,6 +63,17 @@ export async function loadLesson(id: string): Promise<Lesson> {
     const row = data as LessonRow;
     return { id: row.id, title: row.title, date: row.lesson_date, langs: row.langs, ...row.content };
   });
+}
+
+/** Point progress stored under lessons that no longer exist at the lessons that now hold those words. */
+export async function relocateProgress() {
+  const index = await loadIndex();
+  const ids = new Set(index.map((l) => l.id));
+  if ([...lessonIdsInUse()].every((id) => ids.has(id))) return;
+  const lessons = await Promise.all(index.map((l) => loadLesson(l.id).catch(() => null)));
+  const where = new Map<string, string>();
+  for (const l of lessons) for (const w of l?.words ?? []) if (!where.has(w.id)) where.set(w.id, l!.id);
+  relocate(ids, where);
 }
 
 /** Forget cached editor lessons after the editor saves something. */
