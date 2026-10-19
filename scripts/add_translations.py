@@ -7,6 +7,8 @@
     en,tr,th,vi,fa,ex   five meanings + English example translation
 Lines map to the lesson's words in order (as in public/data/lessons/<id>.json), columns separated
 by " | ". Lines starting with "G " map to the grammar cards in order and hold an English hint.
+Lines "Z <n> | <meaning>" correct the Chinese meaning of word n (0-based); "ZX <n> | <text>" its
+Chinese example translation. They are listed in the output so every correction can be reviewed.
 Existing translations are kept unless the batch provides the same field.
 """
 import json
@@ -21,6 +23,8 @@ def main(lesson_id, fields, batch_path):
     with open(os.path.join(ROOT, "public", "data", "lessons", f"{lesson_id}.json"), encoding="utf-8") as f:
         lesson = json.load(f)
     lines = [l.rstrip("\n") for l in open(batch_path, encoding="utf-8") if l.strip()]
+    corrections = [l for l in lines if l.startswith(("Z ", "ZX "))]
+    lines = [l for l in lines if not l.startswith(("Z ", "ZX "))]
     word_lines = [l for l in lines if not l.startswith("G ")]
     grammar_lines = [l[2:] for l in lines if l.startswith("G ")]
     if len(word_lines) != len(lesson["words"]):
@@ -45,6 +49,14 @@ def main(lesson_id, fields, batch_path):
                     entry.setdefault("en", {})["info"] = value
             else:
                 entry.setdefault(field, {})["meaning"] = value
+    for c in corrections:
+        tag, rest = c.split(" ", 1)
+        n, text = rest.split(" | ", 1)
+        w = lesson["words"][int(n)]
+        key = "meaning" if tag == "Z" else "example"
+        old = w["meaning"]["zh"] if tag == "Z" else w["example_tr"].get("zh", "")
+        overlay["words"].setdefault(w["id"], {}).setdefault("zh", {})[key] = text.strip()
+        print(f"  zh fix {w['word']}: {old}  ->  {text.strip()}")
     for g, hint in zip(lesson["grammar"], grammar_lines):
         overlay["grammar"].setdefault(g["id"], {})["en"] = hint.strip()
     with open(path, "w", encoding="utf-8") as f:

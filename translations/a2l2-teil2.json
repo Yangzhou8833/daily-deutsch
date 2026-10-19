@@ -1,0 +1,4767 @@
+{
+ "words": {
+  "s;{}5srwR:": {
+   "en": {
+    "meaning": "to support",
+    "example": "In a family people support each other."
+   },
+   "tr": {
+    "meaning": "desteklemek"
+   },
+   "th": {
+    "meaning": "สนับสนุน"
+   },
+   "vi": {
+    "meaning": "ủng hộ, hỗ trợ"
+   },
+   "fa": {
+    "meaning": "حمایت کردن"
+   }
+  },
+  "O;1aJ`xEb[": {
+   "en": {
+    "meaning": "mutual, each other",
+    "example": "We help each other."
+   },
+   "tr": {
+    "meaning": "karşılıklı"
+   },
+   "th": {
+    "meaning": "ซึ่งกันและกัน"
+   },
+   "vi": {
+    "meaning": "lẫn nhau"
+   },
+   "fa": {
+    "meaning": "متقابل"
+   }
+  },
+  "KbujNCFH4v": {
+   "en": {
+    "meaning": "to do (activities), to go out",
+    "example": "At the weekend we do a lot together."
+   },
+   "tr": {
+    "meaning": "bir şeyler yapmak"
+   },
+   "th": {
+    "meaning": "ทำกิจกรรม, ออกไปเที่ยว"
+   },
+   "vi": {
+    "meaning": "làm (hoạt động), đi chơi"
+   },
+   "fa": {
+    "meaning": "کاری انجام دادن، بیرون رفتن"
+   }
+  },
+  "uKljeW)4.O": {
+   "en": {
+    "meaning": "worry",
+    "example": "Don't worry!"
+   },
+   "tr": {
+    "meaning": "endişe"
+   },
+   "th": {
+    "meaning": "ความกังวล"
+   },
+   "vi": {
+    "meaning": "nỗi lo"
+   },
+   "fa": {
+    "meaning": "نگرانی"
+   }
+  },
+  "y8c#J(T6x9": {
+   "en": {
+    "meaning": "relationship",
+    "example": "I have a good relationship with my parents."
+   },
+   "tr": {
+    "meaning": "ilişki"
+   },
+   "th": {
+    "meaning": "ความสัมพันธ์"
+   },
+   "vi": {
+    "meaning": "mối quan hệ"
+   },
+   "fa": {
+    "meaning": "رابطه"
+   }
+  },
+  "b5T^KU&-{R": {
+   "en": {
+    "meaning": "to miss",
+    "example": "I miss my family."
+   },
+   "tr": {
+    "meaning": "özlemek"
+   },
+   "th": {
+    "meaning": "คิดถึง"
+   },
+   "vi": {
+    "meaning": "nhớ"
+   },
+   "fa": {
+    "meaning": "دلتنگ بودن"
+   }
+  },
+  "Ri!m`)Khm8": {
+   "en": {
+    "meaning": "to bring up, to raise",
+    "example": "In the past children were brought up very strictly."
+   },
+   "tr": {
+    "meaning": "yetiştirmek"
+   },
+   "th": {
+    "meaning": "อบรมเลี้ยงดู"
+   },
+   "vi": {
+    "meaning": "nuôi dạy"
+   },
+   "fa": {
+    "meaning": "تربیت کردن"
+   }
+  },
+  "otAo1jJLHO": {
+   "en": {
+    "meaning": "to spend (time)",
+    "example": "I spend a lot of time with my children."
+   },
+   "tr": {
+    "meaning": "geçirmek"
+   },
+   "th": {
+    "meaning": "ใช้เวลา"
+   },
+   "vi": {
+    "meaning": "dành (thời gian)"
+   },
+   "fa": {
+    "meaning": "گذراندن"
+   }
+  },
+  "IWHVW(pHTg": {
+   "en": {
+    "meaning": "household; housework",
+    "example": "My husband helps a lot with the housework."
+   },
+   "tr": {
+    "meaning": "ev; ev işi"
+   },
+   "th": {
+    "meaning": "งานบ้าน; ครัวเรือน"
+   },
+   "vi": {
+    "meaning": "việc nhà; hộ gia đình"
+   },
+   "fa": {
+    "meaning": "خانه‌داری؛ خانوار"
+   }
+  },
+  "r&T32JhZ++": {
+   "en": {
+    "meaning": "couple; pair",
+    "example": "They have been a couple for ten years."
+   },
+   "tr": {
+    "meaning": "çift"
+   },
+   "th": {
+    "meaning": "คู่; คู่รัก"
+   },
+   "vi": {
+    "meaning": "cặp, đôi"
+   },
+   "fa": {
+    "meaning": "زوج، جفت"
+   }
+  },
+  "k=YrdN_b(*": {
+   "en": {
+    "meaning": "single (parent)",
+    "example": "She is a single mother."
+   },
+   "tr": {
+    "meaning": "yalnız ebeveyn"
+   },
+   "th": {
+    "meaning": "พ่อหรือแม่เลี้ยงเดี่ยว"
+   },
+   "vi": {
+    "meaning": "đơn thân"
+   },
+   "fa": {
+    "meaning": "سرپرست تنها"
+   }
+  },
+  "p5=yX1RlvN": {
+   "en": {
+    "meaning": "average",
+    "example": "On average families have 1.5 children."
+   },
+   "tr": {
+    "meaning": "ortalama"
+   },
+   "th": {
+    "meaning": "ค่าเฉลี่ย"
+   },
+   "vi": {
+    "meaning": "trung bình"
+   },
+   "fa": {
+    "meaning": "میانگین"
+   }
+  },
+  "qc&BZ>_XSM": {
+   "en": {
+    "meaning": "low",
+    "example": "The birth rate is very low."
+   },
+   "tr": {
+    "meaning": "düşük"
+   },
+   "th": {
+    "meaning": "ต่ำ"
+   },
+   "vi": {
+    "meaning": "thấp"
+   },
+   "fa": {
+    "meaning": "پایین، کم"
+   }
+  },
+  "dCtH:H{gqy": {
+   "en": {
+    "meaning": "population",
+    "example": "Germany has a very old population."
+   },
+   "tr": {
+    "meaning": "nüfus"
+   },
+   "th": {
+    "meaning": "ประชากร"
+   },
+   "vi": {
+    "meaning": "dân số"
+   },
+   "fa": {
+    "meaning": "جمعیت"
+   }
+  },
+  "w|1>_e{FlS": {
+   "en": {
+    "meaning": "on the other hand, by contrast",
+    "example": "Large families, by contrast, are rare."
+   },
+   "tr": {
+    "meaning": "buna karşın"
+   },
+   "th": {
+    "meaning": "ในทางตรงกันข้าม"
+   },
+   "vi": {
+    "meaning": "ngược lại"
+   },
+   "fa": {
+    "meaning": "در مقابل"
+   }
+  },
+  "b;fkP?CN;r": {
+   "en": {
+    "meaning": "generation",
+    "example": "Three generations live under one roof."
+   },
+   "tr": {
+    "meaning": "kuşak, nesil"
+   },
+   "th": {
+    "meaning": "รุ่น"
+   },
+   "vi": {
+    "meaning": "thế hệ"
+   },
+   "fa": {
+    "meaning": "نسل"
+   }
+  },
+  "lt5$-xyp+;": {
+   "en": {
+    "meaning": "tax",
+    "example": "Families pay less tax."
+   },
+   "tr": {
+    "meaning": "vergi"
+   },
+   "th": {
+    "meaning": "ภาษี"
+   },
+   "vi": {
+    "meaning": "thuế"
+   },
+   "fa": {
+    "meaning": "مالیات"
+   },
+   "zh": {
+    "example": "家庭交的税更少。"
+   }
+  },
+  "N}<l26=##1": {
+   "en": {
+    "meaning": "cheap; favourable",
+    "example": "The flat is very cheap."
+   },
+   "tr": {
+    "meaning": "uygun fiyatlı; elverişli"
+   },
+   "th": {
+    "meaning": "ถูก; เอื้ออำนวย"
+   },
+   "vi": {
+    "meaning": "rẻ; thuận lợi"
+   },
+   "fa": {
+    "meaning": "ارزان؛ مناسب"
+   }
+  },
+  "vk)B[D{A8t": {
+   "en": {
+    "meaning": "pregnant",
+    "example": "My sister is pregnant."
+   },
+   "tr": {
+    "meaning": "hamile"
+   },
+   "th": {
+    "meaning": "ตั้งครรภ์"
+   },
+   "vi": {
+    "meaning": "mang thai"
+   },
+   "fa": {
+    "meaning": "باردار"
+   }
+  },
+  "da&!t<c1db": {
+   "en": {
+    "meaning": "need",
+    "example": "Parents have to meet their children's needs."
+   },
+   "tr": {
+    "meaning": "ihtiyaç"
+   },
+   "th": {
+    "meaning": "ความต้องการ"
+   },
+   "vi": {
+    "meaning": "nhu cầu"
+   },
+   "fa": {
+    "meaning": "نیاز"
+   }
+  },
+  "q4+57o,O|H": {
+   "en": {
+    "meaning": "to fulfil, to meet",
+    "example": "He fulfilled a dream."
+   },
+   "tr": {
+    "meaning": "yerine getirmek"
+   },
+   "th": {
+    "meaning": "ทำให้สำเร็จ, ตอบสนอง"
+   },
+   "vi": {
+    "meaning": "đáp ứng; thực hiện"
+   },
+   "fa": {
+    "meaning": "برآورده کردن"
+   }
+  },
+  "f_z&B(cu8}": {
+   "en": {
+    "meaning": "enough",
+    "example": "Many families don't have enough money."
+   },
+   "tr": {
+    "meaning": "yeterli"
+   },
+   "th": {
+    "meaning": "พอ"
+   },
+   "vi": {
+    "meaning": "đủ"
+   },
+   "fa": {
+    "meaning": "کافی"
+   }
+  },
+  "Nw$4#HpyR/": {
+   "en": {
+    "meaning": "part-time",
+    "example": "40 percent of mothers work part-time."
+   },
+   "tr": {
+    "meaning": "yarı zamanlı"
+   },
+   "th": {
+    "meaning": "งานพาร์ทไทม์"
+   },
+   "vi": {
+    "meaning": "bán thời gian"
+   },
+   "fa": {
+    "meaning": "پاره‌وقت"
+   }
+  },
+  "C#~SL5#IVx": {
+   "en": {
+    "meaning": "however",
+    "example": "The food was good, though very expensive."
+   },
+   "tr": {
+    "meaning": "ancak"
+   },
+   "th": {
+    "meaning": "อย่างไรก็ตาม"
+   },
+   "vi": {
+    "meaning": "tuy nhiên"
+   },
+   "fa": {
+    "meaning": "البته، ولی"
+   }
+  },
+  "zGT$bgVWSB": {
+   "en": {
+    "meaning": "to decrease; to go back",
+    "example": "The number of large families has decreased."
+   },
+   "tr": {
+    "meaning": "azalmak; geri dönmek"
+   },
+   "th": {
+    "meaning": "ลดลง; กลับไป"
+   },
+   "vi": {
+    "meaning": "giảm; quay lại"
+   },
+   "fa": {
+    "meaning": "کاهش یافتن؛ برگشتن"
+   }
+  },
+  "OxloWkNR8g": {
+   "en": {
+    "meaning": "wedding",
+    "example": "The wedding was beautiful."
+   },
+   "tr": {
+    "meaning": "düğün"
+   },
+   "th": {
+    "meaning": "งานแต่งงาน"
+   },
+   "vi": {
+    "meaning": "đám cưới"
+   },
+   "fa": {
+    "meaning": "عروسی"
+   }
+  },
+  "Oi7El:+L.f": {
+   "en": {
+    "meaning": "guest",
+    "example": "There were 80 guests at the wedding."
+   },
+   "tr": {
+    "meaning": "misafir"
+   },
+   "th": {
+    "meaning": "แขก"
+   },
+   "vi": {
+    "meaning": "khách"
+   },
+   "fa": {
+    "meaning": "مهمان"
+   }
+  },
+  "k).8Z8>8z6": {
+   "en": {
+    "meaning": "half",
+    "example": "I didn't know half of the guests."
+   },
+   "tr": {
+    "meaning": "yarı"
+   },
+   "th": {
+    "meaning": "ครึ่งหนึ่ง"
+   },
+   "vi": {
+    "meaning": "một nửa"
+   },
+   "fa": {
+    "meaning": "نصف"
+   }
+  },
+  "q]giiPYgbv": {
+   "en": {
+    "meaning": "member",
+    "example": "He is a member of a sports club."
+   },
+   "tr": {
+    "meaning": "üye"
+   },
+   "th": {
+    "meaning": "สมาชิก"
+   },
+   "vi": {
+    "meaning": "thành viên"
+   },
+   "fa": {
+    "meaning": "عضو"
+   }
+  },
+  "G3xT7(-*Fe": {
+   "en": {
+    "meaning": "because of",
+    "example": "Because of the rain we're staying at home."
+   },
+   "tr": {
+    "meaning": "... yüzünden"
+   },
+   "th": {
+    "meaning": "เพราะ"
+   },
+   "vi": {
+    "meaning": "vì, do"
+   },
+   "fa": {
+    "meaning": "به خاطرِ"
+   }
+  },
+  "EA!9]$b;>F": {
+   "en": {
+    "meaning": "to belong to",
+    "example": "Whose phone is this?"
+   },
+   "tr": {
+    "meaning": "ait olmak"
+   },
+   "th": {
+    "meaning": "เป็นของ"
+   },
+   "vi": {
+    "meaning": "thuộc về"
+   },
+   "fa": {
+    "meaning": "تعلق داشتن"
+   }
+  },
+  "q43>)sCKhH": {
+   "en": {
+    "meaning": "owner",
+    "example": "Who is the owner of the car?"
+   },
+   "tr": {
+    "meaning": "sahip"
+   },
+   "th": {
+    "meaning": "เจ้าของ"
+   },
+   "vi": {
+    "meaning": "chủ sở hữu"
+   },
+   "fa": {
+    "meaning": "صاحب"
+   }
+  },
+  "w!DZ~ZT#XZ": {
+   "en": {
+    "meaning": "object",
+    "example": "Put three objects on the table."
+   },
+   "tr": {
+    "meaning": "eşya, nesne"
+   },
+   "th": {
+    "meaning": "สิ่งของ"
+   },
+   "vi": {
+    "meaning": "đồ vật"
+   },
+   "fa": {
+    "meaning": "شیء"
+   }
+  },
+  "y%Yk%mcX(L": {
+   "en": {
+    "meaning": "to remember",
+    "example": "I like remembering my school days."
+   },
+   "tr": {
+    "meaning": "hatırlamak"
+   },
+   "th": {
+    "meaning": "จำได้, นึกถึง"
+   },
+   "vi": {
+    "meaning": "nhớ lại"
+   },
+   "fa": {
+    "meaning": "به یاد آوردن"
+   }
+  },
+  "IkOTY4&x9?": {
+   "en": {
+    "meaning": "memory",
+    "example": "I have lovely memories of my childhood."
+   },
+   "tr": {
+    "meaning": "anı; hafıza"
+   },
+   "th": {
+    "meaning": "ความทรงจำ"
+   },
+   "vi": {
+    "meaning": "kỷ niệm; trí nhớ"
+   },
+   "fa": {
+    "meaning": "خاطره"
+   }
+  },
+  "t?tz$[|bdR": {
+   "en": {
+    "meaning": "childhood",
+    "example": "In my childhood we lived in the country."
+   },
+   "tr": {
+    "meaning": "çocukluk"
+   },
+   "th": {
+    "meaning": "วัยเด็ก"
+   },
+   "vi": {
+    "meaning": "tuổi thơ"
+   },
+   "fa": {
+    "meaning": "کودکی"
+   }
+  },
+  "z-c-SyUTX]": {
+   "en": {
+    "meaning": "heating",
+    "example": "The heating is broken."
+   },
+   "tr": {
+    "meaning": "kalorifer"
+   },
+   "th": {
+    "meaning": "เครื่องทำความร้อน"
+   },
+   "vi": {
+    "meaning": "lò sưởi"
+   },
+   "fa": {
+    "meaning": "شوفاژ"
+   }
+  },
+  "AoE;4G#jcG": {
+   "en": {
+    "meaning": "to talk, to chat",
+    "example": "We weren't allowed to talk in class."
+   },
+   "tr": {
+    "meaning": "sohbet etmek"
+   },
+   "th": {
+    "meaning": "คุยกัน"
+   },
+   "vi": {
+    "meaning": "trò chuyện"
+   },
+   "fa": {
+    "meaning": "گفتگو کردن"
+   }
+  },
+  "l)t]+57R;Z": {
+   "en": {
+    "meaning": "to experience",
+    "example": "What did you experience at school?"
+   },
+   "tr": {
+    "meaning": "yaşamak, deneyimlemek"
+   },
+   "th": {
+    "meaning": "ประสบ"
+   },
+   "vi": {
+    "meaning": "trải qua"
+   },
+   "fa": {
+    "meaning": "تجربه کردن"
+   }
+  },
+  "HHZ+<@I01": {
+   "en": {
+    "meaning": "primary school",
+    "example": "I started primary school at six."
+   },
+   "tr": {
+    "meaning": "ilkokul"
+   },
+   "th": {
+    "meaning": "โรงเรียนประถม"
+   },
+   "vi": {
+    "meaning": "trường tiểu học"
+   },
+   "fa": {
+    "meaning": "دبستان"
+   }
+  },
+  "qcL:f9IR[&": {
+   "en": {
+    "meaning": "to lose",
+    "example": "In puberty she lost interest in school."
+   },
+   "tr": {
+    "meaning": "kaybetmek"
+   },
+   "th": {
+    "meaning": "สูญเสีย, ทำหาย"
+   },
+   "vi": {
+    "meaning": "mất"
+   },
+   "fa": {
+    "meaning": "از دست دادن"
+   }
+  },
+  "qz:%(UsRqt": {
+   "en": {
+    "meaning": "performance, results",
+    "example": "Her results in maths were very good."
+   },
+   "tr": {
+    "meaning": "başarı, performans"
+   },
+   "th": {
+    "meaning": "ผลการเรียน"
+   },
+   "vi": {
+    "meaning": "thành tích"
+   },
+   "fa": {
+    "meaning": "عملکرد، نمره"
+   }
+  },
+  "$:2wHoc+S": {
+   "en": {
+    "meaning": "to copy (homework); to copy out",
+    "example": "She could copy her friend's homework."
+   },
+   "tr": {
+    "meaning": "kopya çekmek; yazmak"
+   },
+   "th": {
+    "meaning": "ลอก"
+   },
+   "vi": {
+    "meaning": "chép (bài); sao chép"
+   },
+   "fa": {
+    "meaning": "رونویسی کردن"
+   }
+  },
+  "N`e2?v*Ko~": {
+   "en": {
+    "meaning": "on the one hand … on the other hand",
+    "example": "On the one hand she learned a lot of English, on the other her marks got worse."
+   },
+   "tr": {
+    "meaning": "bir yandan … diğer yandan"
+   },
+   "th": {
+    "meaning": "ด้านหนึ่ง … อีกด้านหนึ่ง"
+   },
+   "vi": {
+    "meaning": "một mặt … mặt khác"
+   },
+   "fa": {
+    "meaning": "از یک طرف … از طرف دیگر"
+   }
+  },
+  "kJ/-8fG^n+": {
+   "en": {
+    "meaning": "to repeat a year",
+    "example": "He had to repeat a year twice."
+   },
+   "tr": {
+    "meaning": "sınıfta kalmak"
+   },
+   "th": {
+    "meaning": "ซ้ำชั้น"
+   },
+   "vi": {
+    "meaning": "ở lại lớp"
+   },
+   "fa": {
+    "meaning": "مردود شدن"
+   }
+  },
+  "nII7a?3jze": {
+   "en": {
+    "meaning": "luck; happiness",
+    "example": "Luckily she had a good friend."
+   },
+   "tr": {
+    "meaning": "şans; mutluluk"
+   },
+   "th": {
+    "meaning": "โชค; ความสุข"
+   },
+   "vi": {
+    "meaning": "may mắn; hạnh phúc"
+   },
+   "fa": {
+    "meaning": "شانس؛ خوشبختی"
+   }
+  },
+  "Lx2D}avzHZ": {
+   "en": {
+    "meaning": "to cry",
+    "example": "She cried on her first day at school."
+   },
+   "tr": {
+    "meaning": "ağlamak"
+   },
+   "th": {
+    "meaning": "ร้องไห้"
+   },
+   "vi": {
+    "meaning": "khóc"
+   },
+   "fa": {
+    "meaning": "گریه کردن"
+   }
+  },
+  "s+{1UH@Cft": {
+   "en": {
+    "meaning": "OK, all right",
+    "example": "I don't think that's right."
+   },
+   "tr": {
+    "meaning": "tamam, uygun"
+   },
+   "th": {
+    "meaning": "ไม่เป็นไร, ใช้ได้"
+   },
+   "vi": {
+    "meaning": "ổn, được"
+   },
+   "fa": {
+    "meaning": "درست، قابل قبول"
+   }
+  },
+  "splC;%:ZE>": {
+   "en": {
+    "meaning": "unbelievable",
+    "example": "That's unbelievable!"
+   },
+   "tr": {
+    "meaning": "inanılmaz"
+   },
+   "th": {
+    "meaning": "ไม่น่าเชื่อ"
+   },
+   "vi": {
+    "meaning": "không thể tin được"
+   },
+   "fa": {
+    "meaning": "باورنکردنی"
+   }
+  },
+  "e(64F|<hJF": {
+   "en": {
+    "meaning": "to disturb",
+    "example": "Am I disturbing you?"
+   },
+   "tr": {
+    "meaning": "rahatsız etmek"
+   },
+   "th": {
+    "meaning": "รบกวน"
+   },
+   "vi": {
+    "meaning": "làm phiền"
+   },
+   "fa": {
+    "meaning": "مزاحم شدن"
+   }
+  },
+  "B=Id|63(AW": {
+   "en": {
+    "meaning": "to be cancelled",
+    "example": "There's no class today."
+   },
+   "tr": {
+    "meaning": "iptal olmak"
+   },
+   "th": {
+    "meaning": "ถูกยกเลิก"
+   },
+   "vi": {
+    "meaning": "bị hủy"
+   },
+   "fa": {
+    "meaning": "لغو شدن"
+   }
+  },
+  "G4c#waCsKY": {
+   "en": {
+    "meaning": "to raise your hand; to get in touch",
+    "example": "Whoever knows the answer, put your hand up."
+   },
+   "tr": {
+    "meaning": "parmak kaldırmak; haber vermek"
+   },
+   "th": {
+    "meaning": "ยกมือ; ติดต่อ"
+   },
+   "vi": {
+    "meaning": "giơ tay; liên lạc"
+   },
+   "fa": {
+    "meaning": "دست بلند کردن؛ تماس گرفتن"
+   }
+  },
+  "rUTm-ZH=F<": {
+   "en": {
+    "meaning": "to pass (an exam)",
+    "example": "I passed the exam!"
+   },
+   "tr": {
+    "meaning": "geçmek (sınavı)"
+   },
+   "th": {
+    "meaning": "สอบผ่าน"
+   },
+   "vi": {
+    "meaning": "đỗ, qua (kỳ thi)"
+   },
+   "fa": {
+    "meaning": "قبول شدن (در امتحان)"
+   }
+  },
+  "BS_:NDh~cD": {
+   "en": {
+    "meaning": "to fail (an exam)",
+    "example": "He failed the exam."
+   },
+   "tr": {
+    "meaning": "kalmak (sınavdan)"
+   },
+   "th": {
+    "meaning": "สอบตก"
+   },
+   "vi": {
+    "meaning": "trượt"
+   },
+   "fa": {
+    "meaning": "رد شدن"
+   }
+  },
+  "Hfc~*#?f|c": {
+   "en": {
+    "meaning": "to prepare (oneself)",
+    "example": "I'm preparing for the exam."
+   },
+   "tr": {
+    "meaning": "hazırlanmak"
+   },
+   "th": {
+    "meaning": "เตรียมตัว"
+   },
+   "vi": {
+    "meaning": "chuẩn bị"
+   },
+   "fa": {
+    "meaning": "آماده شدن"
+   }
+  },
+  "i3=4Ve(09h": {
+   "en": {
+    "meaning": "school-leaving qualification",
+    "example": "Without a school-leaving certificate it's hard to find work."
+   },
+   "tr": {
+    "meaning": "okul diploması"
+   },
+   "th": {
+    "meaning": "วุฒิการศึกษา"
+   },
+   "vi": {
+    "meaning": "bằng tốt nghiệp"
+   },
+   "fa": {
+    "meaning": "مدرک تحصیلی"
+   }
+  },
+  "j=c(Dro+V!": {
+   "en": {
+    "meaning": "timetable",
+    "example": "On Mondays my timetable is full."
+   },
+   "tr": {
+    "meaning": "ders programı"
+   },
+   "th": {
+    "meaning": "ตารางเรียน"
+   },
+   "vi": {
+    "meaning": "thời khóa biểu"
+   },
+   "fa": {
+    "meaning": "برنامهٔ درسی"
+   }
+  },
+  "zg&}jUq]_:": {
+   "en": {
+    "meaning": "subject",
+    "example": "Which subject do you like best?"
+   },
+   "tr": {
+    "meaning": "ders; bölüm"
+   },
+   "th": {
+    "meaning": "วิชา"
+   },
+   "vi": {
+    "meaning": "môn học"
+   },
+   "fa": {
+    "meaning": "درس، رشته"
+   }
+  },
+  "M^86&TVQK|": {
+   "en": {
+    "meaning": "fair, just",
+    "example": "The teacher was strict but fair."
+   },
+   "tr": {
+    "meaning": "adil"
+   },
+   "th": {
+    "meaning": "ยุติธรรม"
+   },
+   "vi": {
+    "meaning": "công bằng"
+   },
+   "fa": {
+    "meaning": "عادل"
+   }
+  },
+  "k1RG={~5l=": {
+   "en": {
+    "meaning": "school report; certificate",
+    "example": "At the end of the school year pupils get a report."
+   },
+   "tr": {
+    "meaning": "karne; belge"
+   },
+   "th": {
+    "meaning": "สมุดพก; ใบรับรอง"
+   },
+   "vi": {
+    "meaning": "học bạ; giấy chứng nhận"
+   },
+   "fa": {
+    "meaning": "کارنامه؛ گواهی"
+   }
+  },
+  "kSQo&&P@^<": {
+   "en": {
+    "meaning": "to assess, to mark",
+    "example": "The teacher marks the homework."
+   },
+   "tr": {
+    "meaning": "değerlendirmek"
+   },
+   "th": {
+    "meaning": "ประเมิน, ให้คะแนน"
+   },
+   "vi": {
+    "meaning": "đánh giá, chấm điểm"
+   },
+   "fa": {
+    "meaning": "ارزیابی کردن"
+   }
+  },
+  "z,e2{Gq.zz": {
+   "en": {
+    "meaning": "offer; range",
+    "example": "The school offers a large range of courses."
+   },
+   "tr": {
+    "meaning": "teklif; seçenek"
+   },
+   "th": {
+    "meaning": "ข้อเสนอ; ตัวเลือก"
+   },
+   "vi": {
+    "meaning": "sự cung cấp; ưu đãi"
+   },
+   "fa": {
+    "meaning": "پیشنهاد؛ مجموعه"
+   }
+  },
+  "sONw];MV=^": {
+   "en": {
+    "meaning": "to repeat; to revise",
+    "example": "Could you repeat that, please?"
+   },
+   "tr": {
+    "meaning": "tekrarlamak"
+   },
+   "th": {
+    "meaning": "พูดซ้ำ; ทบทวน"
+   },
+   "vi": {
+    "meaning": "lặp lại; ôn tập"
+   },
+   "fa": {
+    "meaning": "تکرار کردن"
+   }
+  },
+  "CoUW3MRyyX": {
+   "en": {
+    "meaning": "to learn by heart",
+    "example": "In the past we had to learn many poems by heart."
+   },
+   "tr": {
+    "meaning": "ezberlemek"
+   },
+   "th": {
+    "meaning": "ท่องจำ"
+   },
+   "vi": {
+    "meaning": "học thuộc lòng"
+   },
+   "fa": {
+    "meaning": "از بر کردن"
+   }
+  },
+  "sO}MZ=d4[,": {
+   "en": {
+    "meaning": "to teach",
+    "example": "She teaches German at a language school."
+   },
+   "tr": {
+    "meaning": "ders vermek"
+   },
+   "th": {
+    "meaning": "สอน"
+   },
+   "vi": {
+    "meaning": "dạy"
+   },
+   "fa": {
+    "meaning": "درس دادن"
+   }
+  },
+  "gfkzHok.;5": {
+   "en": {
+    "meaning": "hard-working",
+    "example": "She is a hard-working pupil."
+   },
+   "tr": {
+    "meaning": "çalışkan"
+   },
+   "th": {
+    "meaning": "ขยัน"
+   },
+   "vi": {
+    "meaning": "chăm chỉ"
+   },
+   "fa": {
+    "meaning": "سخت‌کوش"
+   }
+  },
+  "q|p3jlrcZP": {
+   "en": {
+    "meaning": "to be absent; to be missing; to be missed",
+    "example": "He was absent from class yesterday."
+   },
+   "tr": {
+    "meaning": "devamsızlık yapmak; eksik olmak"
+   },
+   "th": {
+    "meaning": "ขาดเรียน; ขาด"
+   },
+   "vi": {
+    "meaning": "vắng mặt; thiếu"
+   },
+   "fa": {
+    "meaning": "غایب بودن؛ کم بودن"
+   }
+  },
+  "i2q9gOhsH7": {
+   "en": {
+    "meaning": "private tutoring",
+    "example": "My son has maths tutoring."
+   },
+   "tr": {
+    "meaning": "özel ders"
+   },
+   "th": {
+    "meaning": "เรียนพิเศษ"
+   },
+   "vi": {
+    "meaning": "học thêm"
+   },
+   "fa": {
+    "meaning": "کلاس خصوصی"
+   }
+  },
+  "f.ksqwa=7H": {
+   "en": {
+    "meaning": "voluntary",
+    "example": "The course is voluntary."
+   },
+   "tr": {
+    "meaning": "gönüllü"
+   },
+   "th": {
+    "meaning": "โดยสมัครใจ"
+   },
+   "vi": {
+    "meaning": "tự nguyện"
+   },
+   "fa": {
+    "meaning": "داوطلبانه"
+   }
+  },
+  "MyXe]M/BT{": {
+   "en": {
+    "meaning": "education",
+    "example": "Education is very important for the future."
+   },
+   "tr": {
+    "meaning": "eğitim"
+   },
+   "th": {
+    "meaning": "การศึกษา"
+   },
+   "vi": {
+    "meaning": "giáo dục"
+   },
+   "fa": {
+    "meaning": "آموزش"
+   }
+  },
+  "p+GK@QGyb1": {
+   "en": {
+    "meaning": "canteen",
+    "example": "At lunchtime we eat in the canteen."
+   },
+   "tr": {
+    "meaning": "yemekhane"
+   },
+   "th": {
+    "meaning": "โรงอาหาร"
+   },
+   "vi": {
+    "meaning": "căng tin"
+   },
+   "fa": {
+    "meaning": "سلف، غذاخوری"
+   }
+  },
+  "N%m)eA/@.r": {
+   "en": {
+    "meaning": "compulsory schooling",
+    "example": "In Germany school is compulsory."
+   },
+   "tr": {
+    "meaning": "zorunlu eğitim"
+   },
+   "th": {
+    "meaning": "การศึกษาภาคบังคับ"
+   },
+   "vi": {
+    "meaning": "giáo dục bắt buộc"
+   },
+   "fa": {
+    "meaning": "آموزش اجباری"
+   }
+  },
+  "m5uIgJd4HN": {
+   "en": {
+    "meaning": "federal state",
+    "example": "Every federal state has its own school laws."
+   },
+   "tr": {
+    "meaning": "eyalet"
+   },
+   "th": {
+    "meaning": "รัฐ"
+   },
+   "vi": {
+    "meaning": "bang"
+   },
+   "fa": {
+    "meaning": "ایالت"
+   }
+  },
+  "i9383[@hCS": {
+   "en": {
+    "meaning": "law",
+    "example": "That's against the law."
+   },
+   "tr": {
+    "meaning": "yasa"
+   },
+   "th": {
+    "meaning": "กฎหมาย"
+   },
+   "vi": {
+    "meaning": "luật"
+   },
+   "fa": {
+    "meaning": "قانون"
+   }
+  },
+  "M1W/P8mlGL": {
+   "en": {
+    "meaning": "own",
+    "example": "She has her own room."
+   },
+   "tr": {
+    "meaning": "kendi"
+   },
+   "th": {
+    "meaning": "ของตัวเอง"
+   },
+   "vi": {
+    "meaning": "riêng"
+   },
+   "fa": {
+    "meaning": "خود، شخصی"
+   }
+  },
+  "xR+/mR#bKi": {
+   "en": {
+    "meaning": "to take place",
+    "example": "The lessons take place online."
+   },
+   "tr": {
+    "meaning": "gerçekleşmek"
+   },
+   "th": {
+    "meaning": "จัดขึ้น"
+   },
+   "vi": {
+    "meaning": "diễn ra"
+   },
+   "fa": {
+    "meaning": "برگزار شدن"
+   }
+  },
+  "Oq*%}|M:1M": {
+   "en": {
+    "meaning": "Abitur (school-leaving exam)",
+    "example": "After the Abitur I'd like to go to university."
+   },
+   "tr": {
+    "meaning": "lise bitirme sınavı"
+   },
+   "th": {
+    "meaning": "การสอบจบมัธยมปลาย"
+   },
+   "vi": {
+    "meaning": "kỳ thi tốt nghiệp THPT"
+   },
+   "fa": {
+    "meaning": "امتحان پایان دبیرستان"
+   }
+  },
+  "oGd^k}c@k0": {
+   "en": {
+    "meaning": "advantage",
+    "example": "That has many advantages."
+   },
+   "tr": {
+    "meaning": "avantaj"
+   },
+   "th": {
+    "meaning": "ข้อดี"
+   },
+   "vi": {
+    "meaning": "ưu điểm"
+   },
+   "fa": {
+    "meaning": "مزیت"
+   }
+  },
+  "O8:d|eNe7F": {
+   "en": {
+    "meaning": "disadvantage",
+    "example": "One disadvantage is the long way."
+   },
+   "tr": {
+    "meaning": "dezavantaj"
+   },
+   "th": {
+    "meaning": "ข้อเสีย"
+   },
+   "vi": {
+    "meaning": "nhược điểm"
+   },
+   "fa": {
+    "meaning": "عیب"
+   }
+  },
+  "x_xU(1(Kst": {
+   "en": {
+    "meaning": "future",
+    "example": "What are your plans for the future?"
+   },
+   "tr": {
+    "meaning": "gelecek"
+   },
+   "th": {
+    "meaning": "อนาคต"
+   },
+   "vi": {
+    "meaning": "tương lai"
+   },
+   "fa": {
+    "meaning": "آینده"
+   }
+  },
+  "s.Rsa3v1jB": {
+   "en": {
+    "meaning": "past",
+    "example": "That's in the past."
+   },
+   "tr": {
+    "meaning": "geçmiş"
+   },
+   "th": {
+    "meaning": "อดีต"
+   },
+   "vi": {
+    "meaning": "quá khứ"
+   },
+   "fa": {
+    "meaning": "گذشته"
+   }
+  },
+  "D136F5K|dI": {
+   "en": {
+    "meaning": "event",
+    "example": "The wedding was a big event."
+   },
+   "tr": {
+    "meaning": "olay"
+   },
+   "th": {
+    "meaning": "เหตุการณ์"
+   },
+   "vi": {
+    "meaning": "sự kiện"
+   },
+   "fa": {
+    "meaning": "رویداد"
+   }
+  },
+  "B^$-$#`mbe": {
+   "en": {
+    "meaning": "atmosphere; mood",
+    "example": "The atmosphere at the party was great."
+   },
+   "tr": {
+    "meaning": "ortam; ruh hâli"
+   },
+   "th": {
+    "meaning": "บรรยากาศ; อารมณ์"
+   },
+   "vi": {
+    "meaning": "bầu không khí; tâm trạng"
+   },
+   "fa": {
+    "meaning": "حال و هوا؛ روحیه"
+   }
+  },
+  "J3Do&]oA3L": {
+   "en": {
+    "meaning": "personality; public figure",
+    "example": "She has a strong personality."
+   },
+   "tr": {
+    "meaning": "kişilik; tanınmış kişi"
+   },
+   "th": {
+    "meaning": "บุคลิกภาพ; บุคคลสำคัญ"
+   },
+   "vi": {
+    "meaning": "cá tính; nhân vật"
+   },
+   "fa": {
+    "meaning": "شخصیت"
+   }
+  },
+  "fW|r$-R^>r": {
+   "en": {
+    "meaning": "to be surprised",
+    "example": "I'm surprised at his answer."
+   },
+   "tr": {
+    "meaning": "şaşırmak"
+   },
+   "th": {
+    "meaning": "ประหลาดใจ"
+   },
+   "vi": {
+    "meaning": "ngạc nhiên"
+   },
+   "fa": {
+    "meaning": "تعجب کردن"
+   }
+  },
+  "Q?|MXz92W8": {
+   "en": {
+    "meaning": "to come from",
+    "example": "My family comes from Shanghai."
+   },
+   "tr": {
+    "meaning": "... -den gelmek, kökenli olmak"
+   },
+   "th": {
+    "meaning": "มาจาก"
+   },
+   "vi": {
+    "meaning": "xuất thân từ"
+   },
+   "fa": {
+    "meaning": "اهل ... بودن"
+   }
+  },
+  "A[!M*LzZ}W": {
+   "en": {
+    "meaning": "to think about",
+    "example": "I need to think about it."
+   },
+   "tr": {
+    "meaning": "düşünmek"
+   },
+   "th": {
+    "meaning": "คิดทบทวน"
+   },
+   "vi": {
+    "meaning": "suy nghĩ"
+   },
+   "fa": {
+    "meaning": "فکر کردن"
+   }
+  },
+  "iB.%m,b]0X": {
+   "en": {
+    "meaning": "it's about",
+    "example": "The text is about families."
+   },
+   "tr": {
+    "meaning": "... ile ilgili"
+   },
+   "th": {
+    "meaning": "เกี่ยวกับ"
+   },
+   "vi": {
+    "meaning": "nói về"
+   },
+   "fa": {
+    "meaning": "دربارهٔ ... است"
+   }
+  },
+  "Opz6h5_nI.": {
+   "en": {
+    "meaning": "extended family",
+    "example": "Large families are rare in Germany."
+   },
+   "tr": {
+    "meaning": "büyük aile"
+   },
+   "th": {
+    "meaning": "ครอบครัวใหญ่"
+   },
+   "vi": {
+    "meaning": "đại gia đình"
+   },
+   "fa": {
+    "meaning": "خانوادهٔ گسترده"
+   }
+  },
+  "jx*n_BZ&sI": {
+   "en": {
+    "meaning": "unmarried",
+    "example": "Many couples live together unmarried."
+   },
+   "tr": {
+    "meaning": "evli olmayan"
+   },
+   "th": {
+    "meaning": "ไม่ได้แต่งงาน"
+   },
+   "vi": {
+    "meaning": "chưa kết hôn"
+   },
+   "fa": {
+    "meaning": "مجرد، ازدواج‌نکرده"
+   }
+  },
+  "tbgKpOo,9<": {
+   "en": {
+    "meaning": "to hit",
+    "example": "In the past people hit children."
+   },
+   "tr": {
+    "meaning": "vurmak"
+   },
+   "th": {
+    "meaning": "ตี"
+   },
+   "vi": {
+    "meaning": "đánh"
+   },
+   "fa": {
+    "meaning": "زدن"
+   }
+  },
+  "D4>$nxrcEA": {
+   "en": {
+    "meaning": "family model",
+    "example": "Today there are many family models."
+   },
+   "tr": {
+    "meaning": "aile modeli"
+   },
+   "th": {
+    "meaning": "รูปแบบครอบครัว"
+   },
+   "vi": {
+    "meaning": "mô hình gia đình"
+   },
+   "fa": {
+    "meaning": "الگوی خانواده"
+   }
+  },
+  "HF(j~s>ed$": {
+   "en": {
+    "meaning": "single, living alone",
+    "example": "My aunt is single."
+   },
+   "tr": {
+    "meaning": "yalnız yaşayan"
+   },
+   "th": {
+    "meaning": "อยู่คนเดียว"
+   },
+   "vi": {
+    "meaning": "sống một mình"
+   },
+   "fa": {
+    "meaning": "تنها، مجرد"
+   }
+  },
+  "h^t6<I,rS#": {
+   "en": {
+    "meaning": "blended family",
+    "example": "We are a blended family."
+   },
+   "tr": {
+    "meaning": "birleşik aile"
+   },
+   "th": {
+    "meaning": "ครอบครัวผสม"
+   },
+   "vi": {
+    "meaning": "gia đình tái hôn"
+   },
+   "fa": {
+    "meaning": "خانوادهٔ ترکیبی"
+   }
+  },
+  "L<KmS!^f4`": {
+   "en": {
+    "meaning": "rainbow family (same-sex parents)",
+    "example": "Many rainbow families live in the city."
+   },
+   "tr": {
+    "meaning": "gökkuşağı ailesi (eşcinsel ebeveynli)"
+   },
+   "th": {
+    "meaning": "ครอบครัวสายรุ้ง (พ่อแม่เพศเดียวกัน)"
+   },
+   "vi": {
+    "meaning": "gia đình cầu vồng (cha mẹ đồng giới)"
+   },
+   "fa": {
+    "meaning": "خانوادهٔ رنگین‌کمانی (والدین همجنس)"
+   }
+  },
+  "we,yA8H_/(": {
+   "en": {
+    "meaning": "same-sex",
+    "example": "They live in a same-sex partnership."
+   },
+   "tr": {
+    "meaning": "eşcinsel"
+   },
+   "th": {
+    "meaning": "เพศเดียวกัน"
+   },
+   "vi": {
+    "meaning": "đồng giới"
+   },
+   "fa": {
+    "meaning": "همجنس"
+   }
+  },
+  "p8D(@D/$}s": {
+   "en": {
+    "meaning": "underage, minor",
+    "example": "The child is still a minor."
+   },
+   "tr": {
+    "meaning": "reşit olmayan"
+   },
+   "th": {
+    "meaning": "ผู้เยาว์"
+   },
+   "vi": {
+    "meaning": "vị thành niên"
+   },
+   "fa": {
+    "meaning": "زیر سن قانونی"
+   }
+  },
+  "yP@aR-YGtP": {
+   "en": {
+    "meaning": "to double",
+    "example": "The number has doubled."
+   },
+   "tr": {
+    "meaning": "iki katına çıkarmak"
+   },
+   "th": {
+    "meaning": "เพิ่มเป็นสองเท่า"
+   },
+   "vi": {
+    "meaning": "tăng gấp đôi"
+   },
+   "fa": {
+    "meaning": "دو برابر شدن"
+   }
+  },
+  "wF&7oIs,&6": {
+   "en": {
+    "meaning": "birth rate",
+    "example": "The birth rate is very low."
+   },
+   "tr": {
+    "meaning": "doğum oranı"
+   },
+   "th": {
+    "meaning": "อัตราการเกิด"
+   },
+   "vi": {
+    "meaning": "tỷ lệ sinh"
+   },
+   "fa": {
+    "meaning": "نرخ زاد و ولد"
+   }
+  },
+  "q8)JD/fXC|": {
+   "en": {
+    "meaning": "birth",
+    "example": "She was 30 when her child was born."
+   },
+   "tr": {
+    "meaning": "doğum"
+   },
+   "th": {
+    "meaning": "การเกิด, การคลอด"
+   },
+   "vi": {
+    "meaning": "sự ra đời, sinh nở"
+   },
+   "fa": {
+    "meaning": "تولد، زایمان"
+   }
+  },
+  "LuwdoS9j3(": {
+   "en": {
+    "meaning": "basic need",
+    "example": "Food is a basic need."
+   },
+   "tr": {
+    "meaning": "temel ihtiyaç"
+   },
+   "th": {
+    "meaning": "ความต้องการพื้นฐาน"
+   },
+   "vi": {
+    "meaning": "nhu cầu cơ bản"
+   },
+   "fa": {
+    "meaning": "نیاز اساسی"
+   }
+  },
+  "obgMXN=VIZ": {
+   "en": {
+    "meaning": "state, government",
+    "example": "The state supports families."
+   },
+   "tr": {
+    "meaning": "devlet"
+   },
+   "th": {
+    "meaning": "รัฐ, รัฐบาล"
+   },
+   "vi": {
+    "meaning": "nhà nước"
+   },
+   "fa": {
+    "meaning": "دولت"
+   }
+  },
+  "LBq2@yb.e^": {
+   "en": {
+    "meaning": "child benefit",
+    "example": "There is child benefit for every child."
+   },
+   "tr": {
+    "meaning": "çocuk parası"
+   },
+   "th": {
+    "meaning": "เงินอุดหนุนบุตร"
+   },
+   "vi": {
+    "meaning": "tiền trợ cấp con cái"
+   },
+   "fa": {
+    "meaning": "کمک‌هزینهٔ فرزند"
+   }
+  },
+  "hL@$wL~S`A": {
+   "en": {
+    "meaning": "parental allowance",
+    "example": "After the birth you receive parental allowance."
+   },
+   "tr": {
+    "meaning": "ebeveyn parası"
+   },
+   "th": {
+    "meaning": "เงินเลี้ยงดูบุตรแรกเกิด"
+   },
+   "vi": {
+    "meaning": "trợ cấp nuôi con"
+   },
+   "fa": {
+    "meaning": "کمک‌هزینهٔ والدین"
+   }
+  },
+  "Qbh`j2t(OE": {
+   "en": {
+    "meaning": "university graduate",
+    "example": "Many graduates have children late."
+   },
+   "tr": {
+    "meaning": "üniversite mezunu"
+   },
+   "th": {
+    "meaning": "ผู้มีการศึกษาระดับมหาวิทยาลัย"
+   },
+   "vi": {
+    "meaning": "người có trình độ đại học"
+   },
+   "fa": {
+    "meaning": "تحصیل‌کردهٔ دانشگاهی"
+   }
+  },
+  "EsWqJo!|{<": {
+   "en": {
+    "meaning": "cause",
+    "example": "What is the cause of the problem?"
+   },
+   "tr": {
+    "meaning": "sebep"
+   },
+   "th": {
+    "meaning": "สาเหตุ"
+   },
+   "vi": {
+    "meaning": "nguyên nhân"
+   },
+   "fa": {
+    "meaning": "علت"
+   }
+  },
+  "ta=(Nmi`(1": {
+   "en": {
+    "meaning": "contrast",
+    "example": "Unlike China, Germany is small."
+   },
+   "tr": {
+    "meaning": "zıtlık"
+   },
+   "th": {
+    "meaning": "ความแตกต่าง, ความตรงกันข้าม"
+   },
+   "vi": {
+    "meaning": "sự tương phản"
+   },
+   "fa": {
+    "meaning": "تضاد"
+   }
+  },
+  "p__Du:Sv[3": {
+   "en": {
+    "meaning": "inhabitant",
+    "example": "Hamburg has almost two million inhabitants."
+   },
+   "tr": {
+    "meaning": "sakin"
+   },
+   "th": {
+    "meaning": "ผู้อยู่อาศัย"
+   },
+   "vi": {
+    "meaning": "cư dân"
+   },
+   "fa": {
+    "meaning": "ساکن"
+   }
+  },
+  "pL90~GcDg,": {
+   "en": {
+    "meaning": "necessary",
+    "example": "That's not necessary."
+   },
+   "tr": {
+    "meaning": "gerekli"
+   },
+   "th": {
+    "meaning": "จำเป็น"
+   },
+   "vi": {
+    "meaning": "cần thiết"
+   },
+   "fa": {
+    "meaning": "لازم"
+   }
+  },
+  "Mn~ZUs5uX/": {
+   "en": {
+    "meaning": "marriage",
+    "example": "Their marriage was very happy."
+   },
+   "tr": {
+    "meaning": "evlilik"
+   },
+   "th": {
+    "meaning": "การสมรส"
+   },
+   "vi": {
+    "meaning": "hôn nhân"
+   },
+   "fa": {
+    "meaning": "ازدواج"
+   }
+  },
+  "OLfkgG{EY?": {
+   "en": {
+    "meaning": "married couple",
+    "example": "The married couple lives next to us."
+   },
+   "tr": {
+    "meaning": "evli çift"
+   },
+   "th": {
+    "meaning": "สามีภรรยา"
+   },
+   "vi": {
+    "meaning": "vợ chồng"
+   },
+   "fa": {
+    "meaning": "زن و شوهر"
+   }
+  },
+  "QJU*rFU{)F": {
+   "en": {
+    "meaning": "partnership",
+    "example": "They have been in a partnership for years."
+   },
+   "tr": {
+    "meaning": "birliktelik"
+   },
+   "th": {
+    "meaning": "ความเป็นคู่ชีวิต"
+   },
+   "vi": {
+    "meaning": "quan hệ bạn đời"
+   },
+   "fa": {
+    "meaning": "رابطهٔ زناشویی، شراکت"
+   }
+  },
+  "I/T-{Gd9E{": {
+   "en": {
+    "meaning": "financial",
+    "example": "The state helps families financially."
+   },
+   "tr": {
+    "meaning": "maddi"
+   },
+   "th": {
+    "meaning": "ทางการเงิน"
+   },
+   "vi": {
+    "meaning": "về tài chính"
+   },
+   "fa": {
+    "meaning": "مالی"
+   }
+  },
+  "l4?:lvQ-;2": {
+   "en": {
+    "meaning": "tendency, trend",
+    "example": "The trend is upward."
+   },
+   "tr": {
+    "meaning": "eğilim"
+   },
+   "th": {
+    "meaning": "แนวโน้ม"
+   },
+   "vi": {
+    "meaning": "xu hướng"
+   },
+   "fa": {
+    "meaning": "گرایش، روند"
+   }
+  },
+  "I@Wk}QYaDk": {
+   "en": {
+    "meaning": "role model, gender roles",
+    "example": "Old role models are changing slowly."
+   },
+   "tr": {
+    "meaning": "rol anlayışı"
+   },
+   "th": {
+    "meaning": "ภาพลักษณ์ทางบทบาท"
+   },
+   "vi": {
+    "meaning": "quan niệm vai trò"
+   },
+   "fa": {
+    "meaning": "تصور نقش‌ها"
+   }
+  },
+  "N-2$lk`Xaj": {
+   "en": {
+    "meaning": "living together",
+    "example": "Living together in a shared flat isn't always easy."
+   },
+   "tr": {
+    "meaning": "birlikte yaşama"
+   },
+   "th": {
+    "meaning": "การอยู่ร่วมกัน"
+   },
+   "vi": {
+    "meaning": "cuộc sống chung"
+   },
+   "fa": {
+    "meaning": "زندگی مشترک"
+   }
+  },
+  "ly>sLUYRu]": {
+   "en": {
+    "meaning": "bride",
+    "example": "The bride wore a white dress."
+   },
+   "tr": {
+    "meaning": "gelin"
+   },
+   "th": {
+    "meaning": "เจ้าสาว"
+   },
+   "vi": {
+    "meaning": "cô dâu"
+   },
+   "fa": {
+    "meaning": "عروس"
+   }
+  },
+  "i_`mB4KA6C": {
+   "en": {
+    "meaning": "bride and groom",
+    "example": "The bride and groom danced all night."
+   },
+   "tr": {
+    "meaning": "gelin ve damat"
+   },
+   "th": {
+    "meaning": "คู่บ่าวสาว"
+   },
+   "vi": {
+    "meaning": "cô dâu chú rể"
+   },
+   "fa": {
+    "meaning": "عروس و داماد"
+   }
+  },
+  "wZaOM>Lv4B": {
+   "en": {
+    "meaning": "registry office",
+    "example": "They got married at the registry office."
+   },
+   "tr": {
+    "meaning": "nikâh dairesi"
+   },
+   "th": {
+    "meaning": "สำนักทะเบียน"
+   },
+   "vi": {
+    "meaning": "văn phòng hộ tịch"
+   },
+   "fa": {
+    "meaning": "ادارهٔ ثبت احوال"
+   }
+  },
+  "wsm,k@1R0": {
+   "en": {
+    "meaning": "marriage, wedding",
+    "example": "After the wedding they moved."
+   },
+   "tr": {
+    "meaning": "evlilik"
+   },
+   "th": {
+    "meaning": "การแต่งงาน"
+   },
+   "vi": {
+    "meaning": "việc kết hôn"
+   },
+   "fa": {
+    "meaning": "ازدواج"
+   }
+  },
+  "ljd!`iTEYk": {
+   "en": {
+    "meaning": "heat",
+    "example": "Everyone sweated because of the heat."
+   },
+   "tr": {
+    "meaning": "sıcaklık"
+   },
+   "th": {
+    "meaning": "ความร้อน"
+   },
+   "vi": {
+    "meaning": "cái nóng"
+   },
+   "fa": {
+    "meaning": "گرما"
+   }
+  },
+  "fALW/{&!)o": {
+   "en": {
+    "meaning": "to sweat",
+    "example": "I sweat a lot in summer."
+   },
+   "tr": {
+    "meaning": "terlemek"
+   },
+   "th": {
+    "meaning": "เหงื่อออก"
+   },
+   "vi": {
+    "meaning": "đổ mồ hôi"
+   },
+   "fa": {
+    "meaning": "عرق کردن"
+   }
+  },
+  "v-0WC2A@-1": {
+   "en": {
+    "meaning": "sweat",
+    "example": "After sport I was covered in sweat."
+   },
+   "tr": {
+    "meaning": "ter"
+   },
+   "th": {
+    "meaning": "เหงื่อ"
+   },
+   "vi": {
+    "meaning": "mồ hôi"
+   },
+   "fa": {
+    "meaning": "عرق"
+   }
+  },
+  "b4:3=zeNCF": {
+   "en": {
+    "meaning": "excitement, nervousness",
+    "example": "I couldn't sleep for excitement."
+   },
+   "tr": {
+    "meaning": "heyecan"
+   },
+   "th": {
+    "meaning": "ความตื่นเต้น"
+   },
+   "vi": {
+    "meaning": "sự hồi hộp"
+   },
+   "fa": {
+    "meaning": "هیجان"
+   }
+  },
+  "txan*@_<,K": {
+   "en": {
+    "meaning": "hall",
+    "example": "The party was in a large hall."
+   },
+   "tr": {
+    "meaning": "salon"
+   },
+   "th": {
+    "meaning": "ห้องโถง"
+   },
+   "vi": {
+    "meaning": "hội trường"
+   },
+   "fa": {
+    "meaning": "سالن"
+   }
+  },
+  "n&W<pXUVUH": {
+   "en": {
+    "meaning": "to choose, to pick",
+    "example": "Grandma chose the hotel."
+   },
+   "tr": {
+    "meaning": "seçmek"
+   },
+   "th": {
+    "meaning": "เลือก"
+   },
+   "vi": {
+    "meaning": "chọn"
+   },
+   "fa": {
+    "meaning": "انتخاب کردن"
+   }
+  },
+  "P^AEW^J@`j": {
+   "en": {
+    "meaning": "car accident",
+    "example": "She was in hospital because of a car accident."
+   },
+   "tr": {
+    "meaning": "araba kazası"
+   },
+   "th": {
+    "meaning": "อุบัติเหตุรถยนต์"
+   },
+   "vi": {
+    "meaning": "tai nạn ô tô"
+   },
+   "fa": {
+    "meaning": "تصادف ماشین"
+   }
+  },
+  "fTIJsrV:k*": {
+   "en": {
+    "meaning": "road accident",
+    "example": "There was a serious road accident."
+   },
+   "tr": {
+    "meaning": "trafik kazası"
+   },
+   "th": {
+    "meaning": "อุบัติเหตุจราจร"
+   },
+   "vi": {
+    "meaning": "tai nạn giao thông"
+   },
+   "fa": {
+    "meaning": "تصادف رانندگی"
+   }
+  },
+  "bLLNqz!mb_": {
+   "en": {
+    "meaning": "wedding dress",
+    "example": "She put on her wedding dress."
+   },
+   "tr": {
+    "meaning": "gelinlik"
+   },
+   "th": {
+    "meaning": "ชุดแต่งงาน"
+   },
+   "vi": {
+    "meaning": "váy cưới"
+   },
+   "fa": {
+    "meaning": "لباس عروس"
+   }
+  },
+  "F>1pE8W04Q": {
+   "en": {
+    "meaning": "speech",
+    "example": "The speech was short but funny."
+   },
+   "tr": {
+    "meaning": "konuşma"
+   },
+   "th": {
+    "meaning": "สุนทรพจน์"
+   },
+   "vi": {
+    "meaning": "bài phát biểu"
+   },
+   "fa": {
+    "meaning": "سخنرانی"
+   }
+  },
+  "q0AKkE++C-": {
+   "en": {
+    "meaning": "funny, witty",
+    "example": "My colleague is very funny."
+   },
+   "tr": {
+    "meaning": "esprili"
+   },
+   "th": {
+    "meaning": "ตลก, มีอารมณ์ขัน"
+   },
+   "vi": {
+    "meaning": "hài hước"
+   },
+   "fa": {
+    "meaning": "بامزه"
+   }
+  },
+  "fio_xBYl>": {
+   "en": {
+    "meaning": "pastor",
+    "example": "The pastor gave a speech."
+   },
+   "tr": {
+    "meaning": "papaz"
+   },
+   "th": {
+    "meaning": "บาทหลวง"
+   },
+   "vi": {
+    "meaning": "mục sư"
+   },
+   "fa": {
+    "meaning": "کشیش"
+   }
+  },
+  "f/Pwk5p@OW": {
+   "en": {
+    "meaning": "gateau, cream cake",
+    "example": "The cake was a present from Holland."
+   },
+   "tr": {
+    "meaning": "pasta"
+   },
+   "th": {
+    "meaning": "เค้กครีม"
+   },
+   "vi": {
+    "meaning": "bánh kem"
+   },
+   "fa": {
+    "meaning": "کیک خامه‌ای"
+   }
+  },
+  "OWBi1RT2ML": {
+   "en": {
+    "meaning": "alcohol",
+    "example": "I don't drink alcohol."
+   },
+   "tr": {
+    "meaning": "alkol"
+   },
+   "th": {
+    "meaning": "แอลกอฮอล์"
+   },
+   "vi": {
+    "meaning": "rượu, cồn"
+   },
+   "fa": {
+    "meaning": "الکل"
+   }
+  },
+  "Ih81vg}w^%": {
+   "en": {
+    "meaning": "headache",
+    "example": "She had a headache because of the alcohol."
+   },
+   "tr": {
+    "meaning": "baş ağrısı"
+   },
+   "th": {
+    "meaning": "ปวดหัว"
+   },
+   "vi": {
+    "meaning": "đau đầu"
+   },
+   "fa": {
+    "meaning": "سردرد"
+   }
+  },
+  "Ci;v+n7VBD": {
+   "en": {
+    "meaning": "certainly, for sure",
+    "example": "She certainly dreamed of Rüdiger."
+   },
+   "tr": {
+    "meaning": "kesinlikle"
+   },
+   "th": {
+    "meaning": "อย่างแน่นอน"
+   },
+   "vi": {
+    "meaning": "chắc chắn"
+   },
+   "fa": {
+    "meaning": "حتماً"
+   }
+  },
+  "Kf2y:XbsR7": {
+   "en": {
+    "meaning": "to kiss",
+    "example": "The couple kissed in front of the church."
+   },
+   "tr": {
+    "meaning": "öpmek"
+   },
+   "th": {
+    "meaning": "จูบ"
+   },
+   "vi": {
+    "meaning": "hôn"
+   },
+   "fa": {
+    "meaning": "بوسیدن"
+   }
+  },
+  "ghp0}psLdx": {
+   "en": {
+    "meaning": "witness (female)",
+    "example": "The witness saw everything."
+   },
+   "tr": {
+    "meaning": "tanık (kadın)"
+   },
+   "th": {
+    "meaning": "พยาน (หญิง)"
+   },
+   "vi": {
+    "meaning": "nhân chứng (nữ)"
+   },
+   "fa": {
+    "meaning": "شاهد (زن)"
+   }
+  },
+  "iB#B:PaGo&": {
+   "en": {
+    "meaning": "niece",
+    "example": "My niece is five years old."
+   },
+   "tr": {
+    "meaning": "yeğen (kız)"
+   },
+   "th": {
+    "meaning": "หลานสาว"
+   },
+   "vi": {
+    "meaning": "cháu gái"
+   },
+   "fa": {
+    "meaning": "برادرزاده/خواهرزاده (دختر)"
+   }
+  },
+  "hYw30d~j=": {
+   "en": {
+    "meaning": "nephew",
+    "example": "My nephew studies in Berlin."
+   },
+   "tr": {
+    "meaning": "yeğen (erkek)"
+   },
+   "th": {
+    "meaning": "หลานชาย"
+   },
+   "vi": {
+    "meaning": "cháu trai"
+   },
+   "fa": {
+    "meaning": "برادرزاده/خواهرزاده (پسر)"
+   }
+  },
+  "fGD?8~j&IT": {
+   "en": {
+    "meaning": "glasses",
+    "example": "The woman with the glasses is my mother."
+   },
+   "tr": {
+    "meaning": "gözlük"
+   },
+   "th": {
+    "meaning": "แว่นตา"
+   },
+   "vi": {
+    "meaning": "kính mắt"
+   },
+   "fa": {
+    "meaning": "عینک"
+   }
+  },
+  "D^svp0#^m=": {
+   "en": {
+    "meaning": "to celebrate",
+    "example": "We celebrated his 60th birthday."
+   },
+   "tr": {
+    "meaning": "kutlamak"
+   },
+   "th": {
+    "meaning": "ฉลอง"
+   },
+   "vi": {
+    "meaning": "ăn mừng"
+   },
+   "fa": {
+    "meaning": "جشن گرفتن"
+   }
+  },
+  "GC*p`(VQY2": {
+   "en": {
+    "meaning": "visit; visitors",
+    "example": "My parents are always happy to have visitors."
+   },
+   "tr": {
+    "meaning": "ziyaret; misafir"
+   },
+   "th": {
+    "meaning": "การเยี่ยม; แขก"
+   },
+   "vi": {
+    "meaning": "chuyến thăm; khách"
+   },
+   "fa": {
+    "meaning": "دیدار؛ مهمان"
+   }
+  },
+  "iE26*):c[p": {
+   "en": {
+    "meaning": "great-grandfather",
+    "example": "My great-grandfather was a farmer."
+   },
+   "tr": {
+    "meaning": "büyük dede"
+   },
+   "th": {
+    "meaning": "ปู่ทวด, ตาทวด"
+   },
+   "vi": {
+    "meaning": "cụ ông"
+   },
+   "fa": {
+    "meaning": "پدربزرگِ پدر/مادر"
+   }
+  },
+  "JvcDqq/O{2": {
+   "en": {
+    "meaning": "great-grandmother",
+    "example": "My great-grandmother lived to be 98."
+   },
+   "tr": {
+    "meaning": "büyük nine"
+   },
+   "th": {
+    "meaning": "ย่าทวด, ยายทวด"
+   },
+   "vi": {
+    "meaning": "cụ bà"
+   },
+   "fa": {
+    "meaning": "مادربزرگِ پدر/مادر"
+   }
+  },
+  "cZvLek^^7P": {
+   "en": {
+    "meaning": "school bus",
+    "example": "The children take the school bus."
+   },
+   "tr": {
+    "meaning": "okul servisi"
+   },
+   "th": {
+    "meaning": "รถโรงเรียน"
+   },
+   "vi": {
+    "meaning": "xe buýt trường học"
+   },
+   "fa": {
+    "meaning": "سرویس مدرسه"
+   }
+  },
+  "K3Ip}rj?$#": {
+   "en": {
+    "meaning": "on foot",
+    "example": "I walk to work."
+   },
+   "tr": {
+    "meaning": "yürüyerek"
+   },
+   "th": {
+    "meaning": "เดินเท้า"
+   },
+   "vi": {
+    "meaning": "đi bộ"
+   },
+   "fa": {
+    "meaning": "پیاده"
+   }
+  },
+  "k2DX9y(_I8": {
+   "en": {
+    "meaning": "corner",
+    "example": "He had to stand in the corner."
+   },
+   "tr": {
+    "meaning": "köşe"
+   },
+   "th": {
+    "meaning": "มุม"
+   },
+   "vi": {
+    "meaning": "góc"
+   },
+   "fa": {
+    "meaning": "گوشه"
+   }
+  },
+  "B2=5>orMoM": {
+   "en": {
+    "meaning": "back",
+    "example": "He stood with his back to the class."
+   },
+   "tr": {
+    "meaning": "sırt"
+   },
+   "th": {
+    "meaning": "หลัง"
+   },
+   "vi": {
+    "meaning": "lưng"
+   },
+   "fa": {
+    "meaning": "پشت"
+   }
+  },
+  "Mco;`2vA(W": {
+   "en": {
+    "meaning": "schoolbook",
+    "example": "The school lent the children schoolbooks."
+   },
+   "tr": {
+    "meaning": "ders kitabı"
+   },
+   "th": {
+    "meaning": "หนังสือเรียน"
+   },
+   "vi": {
+    "meaning": "sách giáo khoa"
+   },
+   "fa": {
+    "meaning": "کتاب درسی"
+   }
+  },
+  "J?Vd7$&;`R": {
+   "en": {
+    "meaning": "paper",
+    "example": "Paper was very expensive back then."
+   },
+   "tr": {
+    "meaning": "kâğıt"
+   },
+   "th": {
+    "meaning": "กระดาษ"
+   },
+   "vi": {
+    "meaning": "giấy"
+   },
+   "fa": {
+    "meaning": "کاغذ"
+   }
+  },
+  "lHuNkJ(hN]": {
+   "en": {
+    "meaning": "yard, courtyard",
+    "example": "In the break the children play in the yard."
+   },
+   "tr": {
+    "meaning": "avlu"
+   },
+   "th": {
+    "meaning": "ลาน, สนาม"
+   },
+   "vi": {
+    "meaning": "sân"
+   },
+   "fa": {
+    "meaning": "حیاط"
+   }
+  },
+  "Ct(GC`@@s~": {
+   "en": {
+    "meaning": "exercise book",
+    "example": "Write that in your exercise book, please."
+   },
+   "tr": {
+    "meaning": "defter"
+   },
+   "th": {
+    "meaning": "สมุด"
+   },
+   "vi": {
+    "meaning": "vở"
+   },
+   "fa": {
+    "meaning": "دفتر"
+   }
+  },
+  "D<Nrd0/+s*": {
+   "en": {
+    "meaning": "school things",
+    "example": "What school things did you buy?"
+   },
+   "tr": {
+    "meaning": "okul malzemeleri"
+   },
+   "th": {
+    "meaning": "อุปกรณ์การเรียน"
+   },
+   "vi": {
+    "meaning": "đồ dùng học tập"
+   },
+   "fa": {
+    "meaning": "لوازم‌التحریر"
+   }
+  },
+  "j*)*oM6w<2": {
+   "en": {
+    "meaning": "sweets",
+    "example": "We weren't allowed to eat sweets at school."
+   },
+   "tr": {
+    "meaning": "tatlı, şeker"
+   },
+   "th": {
+    "meaning": "ขนมหวาน"
+   },
+   "vi": {
+    "meaning": "kẹo, đồ ngọt"
+   },
+   "fa": {
+    "meaning": "شیرینی"
+   }
+  },
+  "i+)EE**/n7": {
+   "en": {
+    "meaning": "madness; that's crazy!",
+    "example": "Crazy! That's great!"
+   },
+   "tr": {
+    "meaning": "çılgınlık"
+   },
+   "th": {
+    "meaning": "ความบ้า; บ้าไปแล้ว!"
+   },
+   "vi": {
+    "meaning": "điên rồ; quá đỉnh!"
+   },
+   "fa": {
+    "meaning": "دیوانگی؛ باورنکردنیه!"
+   }
+  },
+  "z>}3yJ4INO": {
+   "en": {
+    "meaning": "serious; (colloquial) seriously?",
+    "example": "Seriously? I don't believe it."
+   },
+   "tr": {
+    "meaning": "ciddi; (günlük dil) ciddi mi?"
+   },
+   "th": {
+    "meaning": "จริงจัง; (ภาษาพูด) จริงเหรอ?"
+   },
+   "vi": {
+    "meaning": "nghiêm túc; (khẩu ngữ) thật á?"
+   },
+   "fa": {
+    "meaning": "جدی؛ (محاوره) جدی؟"
+   }
+  },
+  "J3c4F0!a:<": {
+   "en": {
+    "meaning": "extreme, crazy (colloquial)",
+    "example": "That's crazy!"
+   },
+   "tr": {
+    "meaning": "çok fena (günlük dil)"
+   },
+   "th": {
+    "meaning": "สุดๆ (ภาษาพูด)"
+   },
+   "vi": {
+    "meaning": "quá đáng, ghê (khẩu ngữ)"
+   },
+   "fa": {
+    "meaning": "شدید، خفن (محاوره)"
+   }
+  },
+  "cx6I7Rgzkm": {
+   "en": {
+    "meaning": "violent, heavy, intense",
+    "example": "The rain was very heavy."
+   },
+   "tr": {
+    "meaning": "şiddetli"
+   },
+   "th": {
+    "meaning": "รุนแรง"
+   },
+   "vi": {
+    "meaning": "dữ dội"
+   },
+   "fa": {
+    "meaning": "شدید"
+   }
+  },
+  "A{%BdQS@?{": {
+   "en": {
+    "meaning": "school day",
+    "example": "The first school day was in August."
+   },
+   "tr": {
+    "meaning": "okul günü"
+   },
+   "th": {
+    "meaning": "วันเรียน"
+   },
+   "vi": {
+    "meaning": "ngày đi học"
+   },
+   "fa": {
+    "meaning": "روز مدرسه"
+   }
+  },
+  "en}(|$0`Ts": {
+   "en": {
+    "meaning": "school year",
+    "example": "The school year starts in autumn."
+   },
+   "tr": {
+    "meaning": "öğretim yılı"
+   },
+   "th": {
+    "meaning": "ปีการศึกษา"
+   },
+   "vi": {
+    "meaning": "năm học"
+   },
+   "fa": {
+    "meaning": "سال تحصیلی"
+   }
+  },
+  "vOZ@P>|[RB": {
+   "en": {
+    "meaning": "sunny",
+    "example": "Today it's sunny and warm."
+   },
+   "tr": {
+    "meaning": "güneşli"
+   },
+   "th": {
+    "meaning": "แดดจ้า"
+   },
+   "vi": {
+    "meaning": "nắng"
+   },
+   "fa": {
+    "meaning": "آفتابی"
+   }
+  },
+  "i~c4f}ME>|": {
+   "en": {
+    "meaning": "school cone (gift on the first day)",
+    "example": "On the first day every child gets a school cone."
+   },
+   "tr": {
+    "meaning": "okul külahı (ilk gün hediyesi)"
+   },
+   "th": {
+    "meaning": "กรวยของขวัญวันเปิดเรียน"
+   },
+   "vi": {
+    "meaning": "túi quà ngày đầu đi học"
+   },
+   "fa": {
+    "meaning": "قیف هدیهٔ روز اول مدرسه"
+   }
+  },
+  "LTk@m]eEf+": {
+   "en": {
+    "meaning": "class teacher (female)",
+    "example": "Our class teacher was very nice."
+   },
+   "tr": {
+    "meaning": "sınıf öğretmeni (kadın)"
+   },
+   "th": {
+    "meaning": "ครูประจำชั้น (หญิง)"
+   },
+   "vi": {
+    "meaning": "giáo viên chủ nhiệm (nữ)"
+   },
+   "fa": {
+    "meaning": "معلم کلاس (زن)"
+   }
+  },
+  "N9z(4.eCmA": {
+   "en": {
+    "meaning": "classroom",
+    "example": "Then everyone went into the classroom."
+   },
+   "tr": {
+    "meaning": "sınıf"
+   },
+   "th": {
+    "meaning": "ห้องเรียน"
+   },
+   "vi": {
+    "meaning": "lớp học"
+   },
+   "fa": {
+    "meaning": "کلاس درس"
+   }
+  },
+  "Eva$z;>5M}": {
+   "en": {
+    "meaning": "to join in, to take part",
+    "example": "Everyone joined in."
+   },
+   "tr": {
+    "meaning": "katılmak"
+   },
+   "th": {
+    "meaning": "เข้าร่วม"
+   },
+   "vi": {
+    "meaning": "tham gia"
+   },
+   "fa": {
+    "meaning": "شرکت کردن"
+   }
+  },
+  "EZVqHE%KTx": {
+   "en": {
+    "meaning": "to be of the opinion",
+    "example": "I think that's wrong."
+   },
+   "tr": {
+    "meaning": "... görüşünde olmak"
+   },
+   "th": {
+    "meaning": "มีความเห็นว่า"
+   },
+   "vi": {
+    "meaning": "cho rằng"
+   },
+   "fa": {
+    "meaning": "عقیده داشتن"
+   }
+  },
+  "bV?|8uMASX": {
+   "en": {
+    "meaning": "puberty",
+    "example": "In puberty I had a lot of problems."
+   },
+   "tr": {
+    "meaning": "ergenlik"
+   },
+   "th": {
+    "meaning": "วัยรุ่น"
+   },
+   "vi": {
+    "meaning": "tuổi dậy thì"
+   },
+   "fa": {
+    "meaning": "بلوغ"
+   }
+  },
+  "EQ:/[7/2XE": {
+   "en": {
+    "meaning": "mathematics",
+    "example": "I was very good at maths."
+   },
+   "tr": {
+    "meaning": "matematik"
+   },
+   "th": {
+    "meaning": "คณิตศาสตร์"
+   },
+   "vi": {
+    "meaning": "toán học"
+   },
+   "fa": {
+    "meaning": "ریاضی"
+   }
+  },
+  "cYrTi|0y4z": {
+   "en": {
+    "meaning": "physics",
+    "example": "I found physics difficult."
+   },
+   "tr": {
+    "meaning": "fizik"
+   },
+   "th": {
+    "meaning": "ฟิสิกส์"
+   },
+   "vi": {
+    "meaning": "vật lý"
+   },
+   "fa": {
+    "meaning": "فیزیک"
+   }
+  },
+  "G@N(X]@Vfj": {
+   "en": {
+    "meaning": "PE (physical education)",
+    "example": "Boys and girls have PE together."
+   },
+   "tr": {
+    "meaning": "beden eğitimi dersi"
+   },
+   "th": {
+    "meaning": "วิชาพลศึกษา"
+   },
+   "vi": {
+    "meaning": "giờ thể dục"
+   },
+   "fa": {
+    "meaning": "ورزش (درس)"
+   }
+  },
+  "jxdfMkf,Lr": {
+   "en": {
+    "meaning": "terrible",
+    "example": "The weather is terrible."
+   },
+   "tr": {
+    "meaning": "korkunç"
+   },
+   "th": {
+    "meaning": "แย่มาก, น่ากลัว"
+   },
+   "vi": {
+    "meaning": "khủng khiếp"
+   },
+   "fa": {
+    "meaning": "وحشتناک"
+   }
+  },
+  "e)+0wv~Vd&": {
+   "en": {
+    "meaning": "to laugh",
+    "example": "The girls laughed at the boys."
+   },
+   "tr": {
+    "meaning": "gülmek"
+   },
+   "th": {
+    "meaning": "หัวเราะ"
+   },
+   "vi": {
+    "meaning": "cười"
+   },
+   "fa": {
+    "meaning": "خندیدن"
+   }
+  },
+  "m&!f2,+[VM": {
+   "en": {
+    "meaning": "happy",
+    "example": "She is very happy."
+   },
+   "tr": {
+    "meaning": "mutlu"
+   },
+   "th": {
+    "meaning": "มีความสุข"
+   },
+   "vi": {
+    "meaning": "hạnh phúc"
+   },
+   "fa": {
+    "meaning": "خوشبخت، خوشحال"
+   }
+  },
+  "F;5H*tu_1Z": {
+   "en": {
+    "meaning": "to cheat (in an exam)",
+    "example": "You mustn't cheat in the exam."
+   },
+   "tr": {
+    "meaning": "kopya çekmek"
+   },
+   "th": {
+    "meaning": "ลอกข้อสอบ"
+   },
+   "vi": {
+    "meaning": "quay cóp"
+   },
+   "fa": {
+    "meaning": "تقلب کردن"
+   }
+  },
+  "CM])>?X>N@": {
+   "en": {
+    "meaning": "prank",
+    "example": "We played a prank on the teacher."
+   },
+   "tr": {
+    "meaning": "şaka"
+   },
+   "th": {
+    "meaning": "การแกล้ง"
+   },
+   "vi": {
+    "meaning": "trò đùa"
+   },
+   "fa": {
+    "meaning": "شوخی، شیطنت"
+   }
+  },
+  "B%AA%oz/7e": {
+   "en": {
+    "meaning": "to break off, to drop out",
+    "example": "He dropped out of university."
+   },
+   "tr": {
+    "meaning": "yarıda bırakmak"
+   },
+   "th": {
+    "meaning": "เลิกกลางคัน"
+   },
+   "vi": {
+    "meaning": "bỏ dở"
+   },
+   "fa": {
+    "meaning": "نیمه‌کاره رها کردن"
+   }
+  },
+  "le$fsP!TIg": {
+   "en": {
+    "meaning": "in total",
+    "example": "There were 25 of us pupils in total."
+   },
+   "tr": {
+    "meaning": "toplamda"
+   },
+   "th": {
+    "meaning": "ทั้งหมด"
+   },
+   "vi": {
+    "meaning": "tổng cộng"
+   },
+   "fa": {
+    "meaning": "در مجموع"
+   }
+  },
+  "sde<;hG?]Y": {
+   "en": {
+    "meaning": "difficult",
+    "example": "The exam was difficult."
+   },
+   "tr": {
+    "meaning": "zor"
+   },
+   "th": {
+    "meaning": "ยาก"
+   },
+   "vi": {
+    "meaning": "khó"
+   },
+   "fa": {
+    "meaning": "سخت"
+   }
+  },
+  "OOn!}YR%>F": {
+   "en": {
+    "meaning": "class; year (grade)",
+    "example": "There were only girls in my class."
+   },
+   "tr": {
+    "meaning": "sınıf"
+   },
+   "th": {
+    "meaning": "ห้องเรียน; ชั้นปี"
+   },
+   "vi": {
+    "meaning": "lớp; khối"
+   },
+   "fa": {
+    "meaning": "کلاس؛ پایه"
+   }
+  },
+  "D=,|.~HHNy": {
+   "en": {
+    "meaning": "to stay in after school (detention)",
+    "example": "He had to stay in after school."
+   },
+   "tr": {
+    "meaning": "okuldan sonra cezaya kalmak"
+   },
+   "th": {
+    "meaning": "ถูกกักตัวหลังเลิกเรียน"
+   },
+   "vi": {
+    "meaning": "bị phạt ở lại sau giờ học"
+   },
+   "fa": {
+    "meaning": "بعد از مدرسه تنبیه ماندن"
+   }
+  },
+  "ua0/xBSeyq": {
+   "en": {
+    "meaning": "correct",
+    "example": "The answer is correct."
+   },
+   "tr": {
+    "meaning": "doğru"
+   },
+   "th": {
+    "meaning": "ถูกต้อง"
+   },
+   "vi": {
+    "meaning": "chính xác"
+   },
+   "fa": {
+    "meaning": "درست"
+   }
+  },
+  "eT3QkzzE1;": {
+   "en": {
+    "meaning": "to check",
+    "example": "The teacher checks the homework."
+   },
+   "tr": {
+    "meaning": "kontrol etmek"
+   },
+   "th": {
+    "meaning": "ตรวจ"
+   },
+   "vi": {
+    "meaning": "kiểm tra"
+   },
+   "fa": {
+    "meaning": "بررسی کردن"
+   }
+  },
+  "ja}p[y-v$": {
+   "en": {
+    "meaning": "to correct",
+    "example": "Can you correct my text?"
+   },
+   "tr": {
+    "meaning": "düzeltmek"
+   },
+   "th": {
+    "meaning": "แก้, ตรวจ"
+   },
+   "vi": {
+    "meaning": "sửa"
+   },
+   "fa": {
+    "meaning": "تصحیح کردن"
+   }
+  },
+  "zM1e2Juod7": {
+   "en": {
+    "meaning": "mark, grade",
+    "example": "She always gets good marks."
+   },
+   "tr": {
+    "meaning": "not"
+   },
+   "th": {
+    "meaning": "คะแนน, เกรด"
+   },
+   "vi": {
+    "meaning": "điểm"
+   },
+   "fa": {
+    "meaning": "نمره"
+   }
+  },
+  "x5&FnMXoJ5": {
+   "en": {
+    "meaning": "gifted, talented",
+    "example": "She is very gifted."
+   },
+   "tr": {
+    "meaning": "yetenekli"
+   },
+   "th": {
+    "meaning": "มีพรสวรรค์"
+   },
+   "vi": {
+    "meaning": "có năng khiếu"
+   },
+   "fa": {
+    "meaning": "بااستعداد"
+   }
+  },
+  "e1OwrZc<r3": {
+   "en": {
+    "meaning": "classmate",
+    "example": "My classmates were very nice."
+   },
+   "tr": {
+    "meaning": "sınıf arkadaşı"
+   },
+   "th": {
+    "meaning": "เพื่อนร่วมชั้น"
+   },
+   "vi": {
+    "meaning": "bạn cùng lớp"
+   },
+   "fa": {
+    "meaning": "همکلاسی"
+   }
+  },
+  "JE{DR3?e)Z": {
+   "en": {
+    "meaning": "favourite subject",
+    "example": "My favourite subject was biology."
+   },
+   "tr": {
+    "meaning": "en sevdiği ders"
+   },
+   "th": {
+    "meaning": "วิชาโปรด"
+   },
+   "vi": {
+    "meaning": "môn học yêu thích"
+   },
+   "fa": {
+    "meaning": "درس مورد علاقه"
+   }
+  },
+  "Fm5M[Gdki-": {
+   "en": {
+    "meaning": "school subject",
+    "example": "Which school subject didn't you like?"
+   },
+   "tr": {
+    "meaning": "okul dersi"
+   },
+   "th": {
+    "meaning": "วิชาเรียน"
+   },
+   "vi": {
+    "meaning": "môn học"
+   },
+   "fa": {
+    "meaning": "درس مدرسه"
+   }
+  },
+  "vPY$)5;v7z": {
+   "en": {
+    "meaning": "foreign language",
+    "example": "I'm learning two foreign languages."
+   },
+   "tr": {
+    "meaning": "yabancı dil"
+   },
+   "th": {
+    "meaning": "ภาษาต่างประเทศ"
+   },
+   "vi": {
+    "meaning": "ngoại ngữ"
+   },
+   "fa": {
+    "meaning": "زبان خارجی"
+   }
+  },
+  "jcj!l*jh|(": {
+   "en": {
+    "meaning": "grammar",
+    "example": "German grammar is difficult."
+   },
+   "tr": {
+    "meaning": "dilbilgisi"
+   },
+   "th": {
+    "meaning": "ไวยากรณ์"
+   },
+   "vi": {
+    "meaning": "ngữ pháp"
+   },
+   "fa": {
+    "meaning": "دستور زبان"
+   }
+  },
+  "EH0`-.FV?]": {
+   "en": {
+    "meaning": "assessment, rating",
+    "example": "The marking was fair."
+   },
+   "tr": {
+    "meaning": "değerlendirme"
+   },
+   "th": {
+    "meaning": "การประเมิน"
+   },
+   "vi": {
+    "meaning": "sự đánh giá"
+   },
+   "fa": {
+    "meaning": "ارزیابی"
+   }
+  },
+  "iEP!J;18X-": {
+   "en": {
+    "meaning": "project",
+    "example": "We're working on a project."
+   },
+   "tr": {
+    "meaning": "proje"
+   },
+   "th": {
+    "meaning": "โครงการ"
+   },
+   "vi": {
+    "meaning": "dự án"
+   },
+   "fa": {
+    "meaning": "پروژه"
+   }
+  },
+  "gq^71Y7{bR": {
+   "en": {
+    "meaning": "experiment",
+    "example": "We do an experiment in chemistry."
+   },
+   "tr": {
+    "meaning": "deney"
+   },
+   "th": {
+    "meaning": "การทดลอง"
+   },
+   "vi": {
+    "meaning": "thí nghiệm"
+   },
+   "fa": {
+    "meaning": "آزمایش"
+   }
+  },
+  "k%{+n_@Dpi": {
+   "en": {
+    "meaning": "homework",
+    "example": "Have you done your homework?"
+   },
+   "tr": {
+    "meaning": "ödev"
+   },
+   "th": {
+    "meaning": "การบ้าน"
+   },
+   "vi": {
+    "meaning": "bài tập về nhà"
+   },
+   "fa": {
+    "meaning": "تکلیف"
+   }
+  },
+  "x;w-$|{xmb": {
+   "en": {
+    "meaning": "of compulsory school age",
+    "example": "Children must go to school from the age of six."
+   },
+   "tr": {
+    "meaning": "okul çağında"
+   },
+   "th": {
+    "meaning": "ถึงเกณฑ์เข้าเรียน"
+   },
+   "vi": {
+    "meaning": "đến tuổi đi học bắt buộc"
+   },
+   "fa": {
+    "meaning": "در سن آموزش اجباری"
+   }
+  },
+  "wDLu}Ex3o&": {
+   "en": {
+    "meaning": "exercise",
+    "example": "Please do exercise 3."
+   },
+   "tr": {
+    "meaning": "alıştırma"
+   },
+   "th": {
+    "meaning": "แบบฝึกหัด"
+   },
+   "vi": {
+    "meaning": "bài tập"
+   },
+   "fa": {
+    "meaning": "تمرین"
+   }
+  },
+  "Qm>16dP={.": {
+   "en": {
+    "meaning": "mistake",
+    "example": "I made a mistake."
+   },
+   "tr": {
+    "meaning": "hata"
+   },
+   "th": {
+    "meaning": "ข้อผิดพลาด"
+   },
+   "vi": {
+    "meaning": "lỗi"
+   },
+   "fa": {
+    "meaning": "اشتباه"
+   }
+  },
+  "uPn{hXTK8M": {
+   "en": {
+    "meaning": "to skip school",
+    "example": "He skipped school today."
+   },
+   "tr": {
+    "meaning": "okulu asmak"
+   },
+   "th": {
+    "meaning": "โดดเรียน"
+   },
+   "vi": {
+    "meaning": "trốn học"
+   },
+   "fa": {
+    "meaning": "از مدرسه در رفتن"
+   }
+  },
+  "h>c<ME}a>n": {
+   "en": {
+    "meaning": "school system",
+    "example": "Every country has a different school system."
+   },
+   "tr": {
+    "meaning": "eğitim sistemi"
+   },
+   "th": {
+    "meaning": "ระบบการศึกษา"
+   },
+   "vi": {
+    "meaning": "hệ thống giáo dục"
+   },
+   "fa": {
+    "meaning": "نظام آموزشی"
+   }
+  },
+  "LPjj$BiZ,;": {
+   "en": {
+    "meaning": "exam",
+    "example": "I have an exam tomorrow."
+   },
+   "tr": {
+    "meaning": "sınav"
+   },
+   "th": {
+    "meaning": "การสอบ"
+   },
+   "vi": {
+    "meaning": "kỳ thi"
+   },
+   "fa": {
+    "meaning": "امتحان"
+   }
+  },
+  "u8mr+tmn||": {
+   "en": {
+    "meaning": "loud, noisy",
+    "example": "The children are very loud."
+   },
+   "tr": {
+    "meaning": "gürültülü"
+   },
+   "th": {
+    "meaning": "ดัง, เสียงดัง"
+   },
+   "vi": {
+    "meaning": "ồn ào"
+   },
+   "fa": {
+    "meaning": "پرسروصدا"
+   }
+  },
+  "ISgeQ+!Lif": {
+   "en": {
+    "meaning": "break",
+    "example": "We eat something in the break."
+   },
+   "tr": {
+    "meaning": "teneffüs, mola"
+   },
+   "th": {
+    "meaning": "ช่วงพัก"
+   },
+   "vi": {
+    "meaning": "giờ nghỉ"
+   },
+   "fa": {
+    "meaning": "زنگ تفریح"
+   }
+  },
+  "sG;wE?Gf<a": {
+   "en": {
+    "meaning": "sports hall",
+    "example": "PE is in the sports hall."
+   },
+   "tr": {
+    "meaning": "spor salonu"
+   },
+   "th": {
+    "meaning": "โรงยิม"
+   },
+   "vi": {
+    "meaning": "nhà thi đấu"
+   },
+   "fa": {
+    "meaning": "سالن ورزش"
+   }
+  },
+  "zgYFCTZJ_1": {
+   "en": {
+    "meaning": "blackboard",
+    "example": "The teacher writes on the board."
+   },
+   "tr": {
+    "meaning": "tahta"
+   },
+   "th": {
+    "meaning": "กระดานดำ"
+   },
+   "vi": {
+    "meaning": "bảng đen"
+   },
+   "fa": {
+    "meaning": "تخته‌سیاه"
+   }
+  },
+  "mb7zSyv/H0": {
+   "en": {
+    "meaning": "chalk",
+    "example": "We need new chalk."
+   },
+   "tr": {
+    "meaning": "tebeşir"
+   },
+   "th": {
+    "meaning": "ชอล์ก"
+   },
+   "vi": {
+    "meaning": "phấn"
+   },
+   "fa": {
+    "meaning": "گچ"
+   }
+  },
+  "r?%af,<%3M": {
+   "en": {
+    "meaning": "class register",
+    "example": "The teacher writes everything in the class register."
+   },
+   "tr": {
+    "meaning": "sınıf defteri"
+   },
+   "th": {
+    "meaning": "สมุดบันทึกประจำชั้น"
+   },
+   "vi": {
+    "meaning": "sổ đầu bài"
+   },
+   "fa": {
+    "meaning": "دفتر کلاس"
+   }
+  },
+  "Dy<0pS%Djv": {
+   "en": {
+    "meaning": "course list",
+    "example": "Your name isn't on the course list."
+   },
+   "tr": {
+    "meaning": "kurs listesi"
+   },
+   "th": {
+    "meaning": "รายชื่อผู้เรียน"
+   },
+   "vi": {
+    "meaning": "danh sách học viên"
+   },
+   "fa": {
+    "meaning": "فهرست شرکت‌کنندگان"
+   }
+  },
+  "tsi_oG2yWF": {
+   "en": {
+    "meaning": "classroom (for a course)",
+    "example": "The classroom is on the second floor."
+   },
+   "tr": {
+    "meaning": "derslik"
+   },
+   "th": {
+    "meaning": "ห้องเรียน"
+   },
+   "vi": {
+    "meaning": "phòng học"
+   },
+   "fa": {
+    "meaning": "کلاس"
+   }
+  },
+  "Q+X_EH_J*{": {
+   "en": {
+    "meaning": "teaching format",
+    "example": "Discussion is a teaching format."
+   },
+   "tr": {
+    "meaning": "öğretim biçimi"
+   },
+   "th": {
+    "meaning": "รูปแบบการสอน"
+   },
+   "vi": {
+    "meaning": "hình thức dạy học"
+   },
+   "fa": {
+    "meaning": "شیوهٔ تدریس"
+   }
+  },
+  "dybkI:lq}v": {
+   "en": {
+    "meaning": "typical",
+    "example": "That's typically German."
+   },
+   "tr": {
+    "meaning": "tipik"
+   },
+   "th": {
+    "meaning": "ตามแบบฉบับ"
+   },
+   "vi": {
+    "meaning": "điển hình"
+   },
+   "fa": {
+    "meaning": "معمول، نمونه"
+   }
+  },
+  "k1&nhm4AJt": {
+   "en": {
+    "meaning": "to help shape",
+    "example": "Pupils can help shape the lessons."
+   },
+   "tr": {
+    "meaning": "birlikte şekillendirmek"
+   },
+   "th": {
+    "meaning": "ร่วมกำหนด"
+   },
+   "vi": {
+    "meaning": "cùng tham gia xây dựng"
+   },
+   "fa": {
+    "meaning": "در شکل‌دادن مشارکت کردن"
+   }
+  },
+  "Fr7%4bK,9I": {
+   "en": {
+    "meaning": "group work",
+    "example": "Today we're doing group work."
+   },
+   "tr": {
+    "meaning": "grup çalışması"
+   },
+   "th": {
+    "meaning": "งานกลุ่ม"
+   },
+   "vi": {
+    "meaning": "làm việc nhóm"
+   },
+   "fa": {
+    "meaning": "کار گروهی"
+   }
+  },
+  "w;>M)`co/|": {
+   "en": {
+    "meaning": "discussion",
+    "example": "The discussion was very interesting."
+   },
+   "tr": {
+    "meaning": "tartışma"
+   },
+   "th": {
+    "meaning": "การอภิปราย"
+   },
+   "vi": {
+    "meaning": "cuộc thảo luận"
+   },
+   "fa": {
+    "meaning": "بحث"
+   }
+  },
+  "gn4%(^?CQz": {
+   "en": {
+    "meaning": "presentation (in class)",
+    "example": "Tomorrow I have to give a presentation."
+   },
+   "tr": {
+    "meaning": "sunum"
+   },
+   "th": {
+    "meaning": "การรายงานหน้าชั้น"
+   },
+   "vi": {
+    "meaning": "bài thuyết trình"
+   },
+   "fa": {
+    "meaning": "ارائه (در کلاس)"
+   }
+  },
+  "4HNeSBO8d": {
+   "en": {
+    "meaning": "to give (a speech); to hold",
+    "example": "He is giving a speech."
+   },
+   "tr": {
+    "meaning": "(konuşma) yapmak; tutmak"
+   },
+   "th": {
+    "meaning": "กล่าว (สุนทรพจน์); ถือ"
+   },
+   "vi": {
+    "meaning": "phát biểu; cầm"
+   },
+   "fa": {
+    "meaning": "(سخنرانی) کردن؛ نگه داشتن"
+   }
+  },
+  "Mhg!LFLDz3": {
+   "en": {
+    "meaning": "in the morning",
+    "example": "I have class in the mornings."
+   },
+   "tr": {
+    "meaning": "öğleden önce"
+   },
+   "th": {
+    "meaning": "ช่วงเช้า"
+   },
+   "vi": {
+    "meaning": "buổi sáng"
+   },
+   "fa": {
+    "meaning": "صبح‌ها"
+   }
+  },
+  "KX0(?%,k_M": {
+   "en": {
+    "meaning": "in the afternoon",
+    "example": "I work in the afternoons."
+   },
+   "tr": {
+    "meaning": "öğleden sonra"
+   },
+   "th": {
+    "meaning": "ช่วงบ่าย"
+   },
+   "vi": {
+    "meaning": "buổi chiều"
+   },
+   "fa": {
+    "meaning": "بعدازظهرها"
+   }
+  },
+  "rr~iN,7yYI": {
+   "en": {
+    "meaning": "international",
+    "example": "The school is very international."
+   },
+   "tr": {
+    "meaning": "uluslararası"
+   },
+   "th": {
+    "meaning": "นานาชาติ"
+   },
+   "vi": {
+    "meaning": "quốc tế"
+   },
+   "fa": {
+    "meaning": "بین‌المللی"
+   }
+  },
+  "Ctwtc:YRMC": {
+   "en": {
+    "meaning": "athletics",
+    "example": "Athletics is taught at the Gymnasium."
+   },
+   "tr": {
+    "meaning": "atletizm"
+   },
+   "th": {
+    "meaning": "กรีฑา"
+   },
+   "vi": {
+    "meaning": "điền kinh"
+   },
+   "fa": {
+    "meaning": "دوومیدانی"
+   }
+  },
+  "n<vO.1ks3+": {
+   "en": {
+    "meaning": "school law",
+    "example": "Every federal state makes its own school laws."
+   },
+   "tr": {
+    "meaning": "okul yasası"
+   },
+   "th": {
+    "meaning": "กฎหมายการศึกษา"
+   },
+   "vi": {
+    "meaning": "luật giáo dục"
+   },
+   "fa": {
+    "meaning": "قانون آموزش و پرورش"
+   }
+  },
+  "b(>d6tyz|>": {
+   "en": {
+    "meaning": "to regulate",
+    "example": "The law regulates the holidays."
+   },
+   "tr": {
+    "meaning": "düzenlemek"
+   },
+   "th": {
+    "meaning": "กำหนด, จัดการ"
+   },
+   "vi": {
+    "meaning": "quy định"
+   },
+   "fa": {
+    "meaning": "تنظیم کردن"
+   }
+  },
+  "u(X[ggs2]D": {
+   "en": {
+    "meaning": "holidays (school)",
+    "example": "In the holidays we go to the sea."
+   },
+   "tr": {
+    "meaning": "tatil"
+   },
+   "th": {
+    "meaning": "วันหยุด, ปิดเทอม"
+   },
+   "vi": {
+    "meaning": "kỳ nghỉ"
+   },
+   "fa": {
+    "meaning": "تعطیلات"
+   }
+  },
+  "Dg2[JI,)Ru": {
+   "en": {
+    "meaning": "summer holidays",
+    "example": "The summer holidays last six weeks."
+   },
+   "tr": {
+    "meaning": "yaz tatili"
+   },
+   "th": {
+    "meaning": "ปิดเทอมฤดูร้อน"
+   },
+   "vi": {
+    "meaning": "nghỉ hè"
+   },
+   "fa": {
+    "meaning": "تعطیلات تابستان"
+   }
+  },
+  "gSciVFc[;,": {
+   "en": {
+    "meaning": "autumn holidays",
+    "example": "In the autumn holidays we visit Grandma."
+   },
+   "tr": {
+    "meaning": "sonbahar tatili"
+   },
+   "th": {
+    "meaning": "ปิดเทอมฤดูใบไม้ร่วง"
+   },
+   "vi": {
+    "meaning": "nghỉ thu"
+   },
+   "fa": {
+    "meaning": "تعطیلات پاییزی"
+   }
+  },
+  "I(jy@c.;U@": {
+   "en": {
+    "meaning": "Easter holidays",
+    "example": "There are no classes in the Easter holidays."
+   },
+   "tr": {
+    "meaning": "Paskalya tatili"
+   },
+   "th": {
+    "meaning": "ปิดเทอมอีสเตอร์"
+   },
+   "vi": {
+    "meaning": "nghỉ lễ Phục sinh"
+   },
+   "fa": {
+    "meaning": "تعطیلات عید پاک"
+   }
+  },
+  "pX&nQ7Qd5M": {
+   "en": {
+    "meaning": "public holiday",
+    "example": "Tomorrow is a public holiday."
+   },
+   "tr": {
+    "meaning": "resmî tatil"
+   },
+   "th": {
+    "meaning": "วันหยุดนักขัตฤกษ์"
+   },
+   "vi": {
+    "meaning": "ngày lễ"
+   },
+   "fa": {
+    "meaning": "تعطیل رسمی"
+   }
+  },
+  "FR(AJ.7M#e": {
+   "en": {
+    "meaning": "to last",
+    "example": "The course lasts three months."
+   },
+   "tr": {
+    "meaning": "sürmek"
+   },
+   "th": {
+    "meaning": "ใช้เวลา, กินเวลา"
+   },
+   "vi": {
+    "meaning": "kéo dài"
+   },
+   "fa": {
+    "meaning": "طول کشیدن"
+   }
+  },
+  "J&7fdj=,qm": {
+   "en": {
+    "meaning": "federal government",
+    "example": "The federal government doesn't regulate schools."
+   },
+   "tr": {
+    "meaning": "federal hükûmet"
+   },
+   "th": {
+    "meaning": "รัฐบาลกลาง"
+   },
+   "vi": {
+    "meaning": "chính phủ liên bang"
+   },
+   "fa": {
+    "meaning": "دولت فدرال"
+   }
+  },
+  "xs+,s/:gq+": {
+   "en": {
+    "meaning": "to begin",
+    "example": "The school year starts in autumn."
+   },
+   "tr": {
+    "meaning": "başlamak"
+   },
+   "th": {
+    "meaning": "เริ่ม"
+   },
+   "vi": {
+    "meaning": "bắt đầu"
+   },
+   "fa": {
+    "meaning": "شروع شدن"
+   }
+  },
+  "i$Ac*hPSr_": {
+   "en": {
+    "meaning": "to end",
+    "example": "The film ends at 10 pm."
+   },
+   "tr": {
+    "meaning": "bitmek"
+   },
+   "th": {
+    "meaning": "จบ"
+   },
+   "vi": {
+    "meaning": "kết thúc"
+   },
+   "fa": {
+    "meaning": "تمام شدن"
+   }
+  },
+  "y~Q]Ua!<o<": {
+   "en": {
+    "meaning": "computer science",
+    "example": "My brother studies computer science."
+   },
+   "tr": {
+    "meaning": "bilgisayar bilimi"
+   },
+   "th": {
+    "meaning": "วิทยาการคอมพิวเตอร์"
+   },
+   "vi": {
+    "meaning": "tin học"
+   },
+   "fa": {
+    "meaning": "علوم کامپیوتر"
+   }
+  },
+  "EKcN<8ifr%": {
+   "en": {
+    "meaning": "confused",
+    "example": "I'm completely confused."
+   },
+   "tr": {
+    "meaning": "kafası karışık"
+   },
+   "th": {
+    "meaning": "สับสน"
+   },
+   "vi": {
+    "meaning": "bối rối"
+   },
+   "fa": {
+    "meaning": "گیج"
+   }
+  },
+  "CsL~2uoQ>#": {
+   "en": {
+    "meaning": "album",
+    "example": "Her new album is great."
+   },
+   "tr": {
+    "meaning": "albüm"
+   },
+   "th": {
+    "meaning": "อัลบั้ม"
+   },
+   "vi": {
+    "meaning": "album"
+   },
+   "fa": {
+    "meaning": "آلبوم"
+   }
+  },
+  "g06&]RXSxL": {
+   "en": {
+    "meaning": "memory",
+    "example": "I have a good memory."
+   },
+   "tr": {
+    "meaning": "hafıza"
+   },
+   "th": {
+    "meaning": "ความจำ"
+   },
+   "vi": {
+    "meaning": "trí nhớ"
+   },
+   "fa": {
+    "meaning": "حافظه"
+   }
+  },
+  "GZHl}.&udB": {
+   "en": {
+    "meaning": "brain",
+    "example": "The brain needs a lot of sleep."
+   },
+   "tr": {
+    "meaning": "beyin"
+   },
+   "th": {
+    "meaning": "สมอง"
+   },
+   "vi": {
+    "meaning": "não"
+   },
+   "fa": {
+    "meaning": "مغز"
+   }
+  },
+  "Ob!4>hX<bg": {
+   "en": {
+    "meaning": "noise, sound",
+    "example": "What's that noise?"
+   },
+   "tr": {
+    "meaning": "ses"
+   },
+   "th": {
+    "meaning": "เสียง"
+   },
+   "vi": {
+    "meaning": "tiếng động"
+   },
+   "fa": {
+    "meaning": "صدا"
+   }
+  },
+  "ib+fQTy%C~": {
+   "en": {
+    "meaning": "perfume",
+    "example": "Her perfume smells good."
+   },
+   "tr": {
+    "meaning": "parfüm"
+   },
+   "th": {
+    "meaning": "น้ำหอม"
+   },
+   "vi": {
+    "meaning": "nước hoa"
+   },
+   "fa": {
+    "meaning": "عطر"
+   }
+  },
+  "wB*|n($.#1": {
+   "en": {
+    "meaning": "ritual",
+    "example": "Coffee in the morning is my ritual."
+   },
+   "tr": {
+    "meaning": "ritüel"
+   },
+   "th": {
+    "meaning": "พิธีกรรม, กิจวัตร"
+   },
+   "vi": {
+    "meaning": "nghi thức, thói quen"
+   },
+   "fa": {
+    "meaning": "آیین، عادت"
+   }
+  },
+  "p#XkAa*Mf0": {
+   "en": {
+    "meaning": "report",
+    "example": "I'm writing a report on the project."
+   },
+   "tr": {
+    "meaning": "rapor"
+   },
+   "th": {
+    "meaning": "รายงาน"
+   },
+   "vi": {
+    "meaning": "báo cáo"
+   },
+   "fa": {
+    "meaning": "گزارش"
+   }
+  },
+  "J^`,WE+_B<": {
+   "en": {
+    "meaning": "driving licence",
+    "example": "I'm taking my driving test at the moment."
+   },
+   "tr": {
+    "meaning": "ehliyet"
+   },
+   "th": {
+    "meaning": "ใบขับขี่"
+   },
+   "vi": {
+    "meaning": "bằng lái xe"
+   },
+   "fa": {
+    "meaning": "گواهینامه"
+   }
+  },
+  "Ih(%Q.T1#k": {
+   "en": {
+    "meaning": "smell",
+    "example": "I like the smell of coffee."
+   },
+   "tr": {
+    "meaning": "koku"
+   },
+   "th": {
+    "meaning": "กลิ่น"
+   },
+   "vi": {
+    "meaning": "mùi"
+   },
+   "fa": {
+    "meaning": "بو"
+   }
+  },
+  "dZC:fI[5->": {
+   "en": {
+    "meaning": "taste",
+    "example": "The cake tastes sweet."
+   },
+   "tr": {
+    "meaning": "tat; zevk"
+   },
+   "th": {
+    "meaning": "รสชาติ; รสนิยม"
+   },
+   "vi": {
+    "meaning": "vị; gu"
+   },
+   "fa": {
+    "meaning": "مزه؛ سلیقه"
+   }
+  },
+  "Pk&OSC<$Av": {
+   "en": {
+    "meaning": "passenger",
+    "example": "All passengers must get off."
+   },
+   "tr": {
+    "meaning": "yolcu"
+   },
+   "th": {
+    "meaning": "ผู้โดยสาร"
+   },
+   "vi": {
+    "meaning": "hành khách"
+   },
+   "fa": {
+    "meaning": "مسافر"
+   }
+  },
+  "s/Xh$Zs&Vt": {
+   "en": {
+    "meaning": "sense; meaning",
+    "example": "That makes no sense."
+   },
+   "tr": {
+    "meaning": "anlam; duyu"
+   },
+   "th": {
+    "meaning": "ความหมาย; ประสาทสัมผัส"
+   },
+   "vi": {
+    "meaning": "ý nghĩa; giác quan"
+   },
+   "fa": {
+    "meaning": "معنا؛ حس"
+   }
+  },
+  "rH,)lk[IhD": {
+   "en": {
+    "meaning": "eyesight",
+    "example": "Eyesight gets worse with age."
+   },
+   "tr": {
+    "meaning": "görme gücü"
+   },
+   "th": {
+    "meaning": "สายตา"
+   },
+   "vi": {
+    "meaning": "thị lực"
+   },
+   "fa": {
+    "meaning": "بینایی"
+   }
+  },
+  "kc+#6TZZ_q": {
+   "en": {
+    "meaning": "present (time)",
+    "example": "I live in the present."
+   },
+   "tr": {
+    "meaning": "şimdiki zaman"
+   },
+   "th": {
+    "meaning": "ปัจจุบัน"
+   },
+   "vi": {
+    "meaning": "hiện tại"
+   },
+   "fa": {
+    "meaning": "زمان حال"
+   }
+  },
+  "e9XBoLyak~": {
+   "en": {
+    "meaning": "view; prospect",
+    "example": "There's a great view from here."
+   },
+   "tr": {
+    "meaning": "manzara; gelecek"
+   },
+   "th": {
+    "meaning": "ทิวทัศน์; โอกาส"
+   },
+   "vi": {
+    "meaning": "cảnh; triển vọng"
+   },
+   "fa": {
+    "meaning": "منظره؛ چشم‌انداز"
+   }
+  },
+  "OMmR:DVk[<": {
+   "en": {
+    "meaning": "voice",
+    "example": "She has a beautiful voice."
+   },
+   "tr": {
+    "meaning": "ses"
+   },
+   "th": {
+    "meaning": "เสียง"
+   },
+   "vi": {
+    "meaning": "giọng"
+   },
+   "fa": {
+    "meaning": "صدا"
+   }
+  },
+  "BO[i?M2UlX": {
+   "en": {
+    "meaning": "to support, to promote",
+    "example": "The school supports gifted children."
+   },
+   "tr": {
+    "meaning": "desteklemek"
+   },
+   "th": {
+    "meaning": "ส่งเสริม"
+   },
+   "vi": {
+    "meaning": "thúc đẩy, hỗ trợ"
+   },
+   "fa": {
+    "meaning": "حمایت کردن، پرورش دادن"
+   }
+  },
+  "k&A|$kL,d>": {
+   "en": {
+    "meaning": "to be about",
+    "example": "The film is about a family."
+   },
+   "tr": {
+    "meaning": "... hakkında olmak"
+   },
+   "th": {
+    "meaning": "เกี่ยวกับ"
+   },
+   "vi": {
+    "meaning": "kể về"
+   },
+   "fa": {
+    "meaning": "دربارهٔ ... بودن"
+   }
+  },
+  "E+dO$SEmyW": {
+   "en": {
+    "meaning": "to hate",
+    "example": "I hate Mondays."
+   },
+   "tr": {
+    "meaning": "nefret etmek"
+   },
+   "th": {
+    "meaning": "เกลียด"
+   },
+   "vi": {
+    "meaning": "ghét"
+   },
+   "fa": {
+    "meaning": "متنفر بودن"
+   }
+  },
+  "Fb%1zEB]xa": {
+   "en": {
+    "meaning": "to be added",
+    "example": "On top of the costs there is the rent."
+   },
+   "tr": {
+    "meaning": "eklenmek"
+   },
+   "th": {
+    "meaning": "เพิ่มเข้ามา"
+   },
+   "vi": {
+    "meaning": "cộng thêm"
+   },
+   "fa": {
+    "meaning": "اضافه شدن"
+   }
+  },
+  "r.2#GTr;0s": {
+   "en": {
+    "meaning": "to motivate",
+    "example": "The teacher is good at motivating the pupils."
+   },
+   "tr": {
+    "meaning": "motive etmek"
+   },
+   "th": {
+    "meaning": "สร้างแรงจูงใจ"
+   },
+   "vi": {
+    "meaning": "khích lệ"
+   },
+   "fa": {
+    "meaning": "انگیزه دادن"
+   }
+  },
+  "c0>^zcsJ8?": {
+   "en": {
+    "meaning": "to smell",
+    "example": "It smells of coffee here."
+   },
+   "tr": {
+    "meaning": "koklamak; kokmak"
+   },
+   "th": {
+    "meaning": "ดม; มีกลิ่น"
+   },
+   "vi": {
+    "meaning": "ngửi; có mùi"
+   },
+   "fa": {
+    "meaning": "بو کردن؛ بو دادن"
+   }
+  },
+  "u((BS=47z)": {
+   "en": {
+    "meaning": "to taste",
+    "example": "I like the food."
+   },
+   "tr": {
+    "meaning": "tadı olmak"
+   },
+   "th": {
+    "meaning": "มีรสชาติ"
+   },
+   "vi": {
+    "meaning": "có vị"
+   },
+   "fa": {
+    "meaning": "مزه دادن"
+   }
+  },
+  "d=fT2^sp|P": {
+   "en": {
+    "meaning": "to strengthen",
+    "example": "Sport strengthens the body."
+   },
+   "tr": {
+    "meaning": "güçlendirmek"
+   },
+   "th": {
+    "meaning": "เสริมสร้าง"
+   },
+   "vi": {
+    "meaning": "tăng cường"
+   },
+   "fa": {
+    "meaning": "تقویت کردن"
+   }
+  },
+  "Ga.1_5_EaV": {
+   "en": {
+    "meaning": "to be connected with",
+    "example": "That's connected with the weather."
+   },
+   "tr": {
+    "meaning": "... ile ilgili olmak"
+   },
+   "th": {
+    "meaning": "เกี่ยวข้องกับ"
+   },
+   "vi": {
+    "meaning": "liên quan đến"
+   },
+   "fa": {
+    "meaning": "مربوط بودن به"
+   }
+  },
+  "ey.$1W}Y.i": {
+   "en": {
+    "meaning": "to play an important role",
+    "example": "Family plays an important role for me."
+   },
+   "tr": {
+    "meaning": "önemli rol oynamak"
+   },
+   "th": {
+    "meaning": "มีบทบาทสำคัญ"
+   },
+   "vi": {
+    "meaning": "đóng vai trò quan trọng"
+   },
+   "fa": {
+    "meaning": "نقش مهمی داشتن"
+   }
+  },
+  "vH]N`1N=c8": {
+   "en": {
+    "meaning": "to come first",
+    "example": "She came first."
+   },
+   "tr": {
+    "meaning": "birinci olmak"
+   },
+   "th": {
+    "meaning": "ได้ที่หนึ่ง"
+   },
+   "vi": {
+    "meaning": "đạt hạng nhất"
+   },
+   "fa": {
+    "meaning": "مقام اول را کسب کردن"
+   }
+  },
+  "kz@IU2IRp7": {
+   "en": {
+    "meaning": "to sit on someone's lap",
+    "example": "The child is sitting on its mother's lap."
+   },
+   "tr": {
+    "meaning": "kucağında oturmak"
+   },
+   "th": {
+    "meaning": "นั่งบนตัก"
+   },
+   "vi": {
+    "meaning": "ngồi trên đùi"
+   },
+   "fa": {
+    "meaning": "روی پا نشستن"
+   }
+  }
+ },
+ "grammar": {
+  "l47f[L,!E3": {
+   "en": "masculine/neuter genitive: des + noun with -(e)s"
+  },
+  "nH]eB/h?P{": {
+   "en": "one-syllable nouns often take -es"
+  },
+  "vJ03#bx@Jk": {
+   "en": "feminine genitive: der, the noun doesn't change"
+  },
+  "tvXV$:MnOM": {
+   "en": "plural genitive: der"
+  },
+  "Oaj^=ZT`I~": {
+   "en": "plural genitive: der Gäste"
+  },
+  "v@DKu;mv_Y": {
+   "en": "name + s before the noun: no article, no apostrophe"
+  },
+  "jz%cl.FxXq": {
+   "en": "genitive with names: the name comes first"
+  },
+  "OEnhetG!yw": {
+   "en": "names ending in s / x / z → only an apostrophe"
+  },
+  "Ce1e<hNnvn": {
+   "en": "asking about ownership: wessen + noun; gehören + dative → wem"
+  },
+  "Fw=aRk<hl}": {
+   "en": "wegen + genitive"
+  },
+  "k}Z$Y92SmP": {
+   "en": "während + genitive (feminine: der)"
+  },
+  "c,{2I]|g^<": {
+   "en": "dürfen → durfte (no umlaut in the past)"
+  },
+  "BZ@@XyAH!m": {
+   "en": "können → konnte"
+  },
+  "O/=fBUQ=8~": {
+   "en": "müssen → musste"
+  },
+  "o3Y1nOSWok": {
+   "en": "wollen → wollte"
+  },
+  "b,$sl_o~gS": {
+   "en": "mögen → mochte"
+  },
+  "r+O>0a/)He": {
+   "en": "wenig → weniger (comparative)"
+  },
+  "spev/pm+ti": {
+   "en": "sich erinnern an + accusative"
+  },
+  "qc6)R/k9|d": {
+   "en": "sich vorbereiten auf + accusative; the separable prefix goes to the end"
+  },
+  "j}jpa1sO~}": {
+   "en": "andererseits takes position 1 → the verb comes right after it"
+  }
+ }
+}

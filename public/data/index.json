@@ -50,7 +50,12 @@
    "order": 2,
    "date": "2026-10-05",
    "langs": [
-    "zh"
+    "zh",
+    "en",
+    "tr",
+    "th",
+    "vi",
+    "fa"
    ],
    "words": 98,
    "grammar": 24,
@@ -64,7 +69,12 @@
    "order": 3,
    "date": "2026-10-12",
    "langs": [
-    "zh"
+    "zh",
+    "en",
+    "tr",
+    "th",
+    "vi",
+    "fa"
    ],
    "words": 261,
    "grammar": 20,
