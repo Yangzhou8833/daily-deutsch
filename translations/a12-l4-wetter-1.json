@@ -1,0 +1,635 @@
+{
+ "words": {
+  "mEl$rXPNgK": {
+   "en": {
+    "meaning": "proverb, saying",
+    "example": "Read the German proverbs."
+   },
+   "tr": {
+    "meaning": "atasözü"
+   },
+   "th": {
+    "meaning": "สุภาษิต"
+   },
+   "vi": {
+    "meaning": "tục ngữ"
+   },
+   "fa": {
+    "meaning": "ضرب‌المثل"
+   }
+  },
+  "J9q({:v<-#": {
+   "en": {
+    "meaning": "to think about, to consider",
+    "example": "Think about what the sentences mean."
+   },
+   "tr": {
+    "meaning": "düşünmek"
+   },
+   "th": {
+    "meaning": "ไตร่ตรอง"
+   },
+   "vi": {
+    "meaning": "suy nghĩ"
+   },
+   "fa": {
+    "meaning": "فکر کردن"
+   }
+  },
+  "E4`l{{X=GW": {
+   "en": {
+    "meaning": "mother tongue",
+    "example": "Is there a proverb in your mother tongue?"
+   },
+   "tr": {
+    "meaning": "ana dil"
+   },
+   "th": {
+    "meaning": "ภาษาแม่"
+   },
+   "vi": {
+    "meaning": "tiếng mẹ đẻ"
+   },
+   "fa": {
+    "meaning": "زبان مادری"
+   }
+  },
+  "na0ID/g8UA": {
+   "en": {
+    "meaning": "bucket",
+    "example": "It's raining cats and dogs."
+   },
+   "tr": {
+    "meaning": "kova"
+   },
+   "th": {
+    "meaning": "ถัง"
+   },
+   "vi": {
+    "meaning": "cái xô"
+   },
+   "fa": {
+    "meaning": "سطل"
+   }
+  },
+  "jr(!NaiIyl": {
+   "en": {
+    "meaning": "foul weather",
+    "example": "What awful weather!"
+   },
+   "tr": {
+    "meaning": "berbat hava"
+   },
+   "th": {
+    "meaning": "อากาศแย่มาก"
+   },
+   "vi": {
+    "meaning": "thời tiết tồi tệ"
+   },
+   "fa": {
+    "meaning": "هوای خیلی بد"
+   }
+  },
+  "rHH&`uHblp": {
+   "en": {
+    "meaning": "to prevail, to reign",
+    "example": "A harsh climate prevails."
+   },
+   "tr": {
+    "meaning": "hüküm sürmek"
+   },
+   "th": {
+    "meaning": "ปกคลุม, ครอบงำ"
+   },
+   "vi": {
+    "meaning": "thống trị, bao trùm"
+   },
+   "fa": {
+    "meaning": "حاکم بودن"
+   }
+  },
+  "IM_^/}.Z!x": {
+   "en": {
+    "meaning": "rough; harsh",
+    "example": "The climate is harsh."
+   },
+   "tr": {
+    "meaning": "sert, haşin"
+   },
+   "th": {
+    "meaning": "หยาบ; รุนแรง"
+   },
+   "vi": {
+    "meaning": "thô; khắc nghiệt"
+   },
+   "fa": {
+    "meaning": "خشن؛ سخت"
+   }
+  },
+  "Oo>Q4%Ck>a": {
+   "en": {
+    "meaning": "climate",
+    "example": "The climate is changing."
+   },
+   "tr": {
+    "meaning": "iklim"
+   },
+   "th": {
+    "meaning": "ภูมิอากาศ"
+   },
+   "vi": {
+    "meaning": "khí hậu"
+   },
+   "fa": {
+    "meaning": "آب‌وهوا، اقلیم"
+   }
+  },
+  "nOW`:l*:V{": {
+   "en": {
+    "meaning": "star",
+    "example": "That's anybody's guess."
+   },
+   "tr": {
+    "meaning": "yıldız"
+   },
+   "th": {
+    "meaning": "ดาว"
+   },
+   "vi": {
+    "meaning": "ngôi sao"
+   },
+   "fa": {
+    "meaning": "ستاره"
+   }
+  },
+  "O[8R7CV]TR": {
+   "en": {
+    "meaning": "empty",
+    "example": "Clear your plate!"
+   },
+   "tr": {
+    "meaning": "boş"
+   },
+   "th": {
+    "meaning": "ว่าง, เปล่า"
+   },
+   "vi": {
+    "meaning": "trống, rỗng"
+   },
+   "fa": {
+    "meaning": "خالی"
+   }
+  },
+  "ir#I+vC8@_": {
+   "en": {
+    "meaning": "sun",
+    "example": "The sun is shining."
+   },
+   "tr": {
+    "meaning": "güneş"
+   },
+   "th": {
+    "meaning": "ดวงอาทิตย์"
+   },
+   "vi": {
+    "meaning": "mặt trời"
+   },
+   "fa": {
+    "meaning": "خورشید"
+   }
+  },
+  "hDG3o%d.6T": {
+   "en": {
+    "meaning": "sunshine",
+    "example": "There's a lot of sunshine today."
+   },
+   "tr": {
+    "meaning": "güneş ışığı"
+   },
+   "th": {
+    "meaning": "แสงแดด"
+   },
+   "vi": {
+    "meaning": "ánh nắng"
+   },
+   "fa": {
+    "meaning": "آفتاب"
+   }
+  },
+  "b3+sR*T_.k": {
+   "en": {
+    "meaning": "to shine",
+    "example": "The sun is shining all day."
+   },
+   "tr": {
+    "meaning": "parlamak"
+   },
+   "th": {
+    "meaning": "ส่องแสง"
+   },
+   "vi": {
+    "meaning": "chiếu sáng"
+   },
+   "fa": {
+    "meaning": "تابیدن"
+   }
+  },
+  "o`[hcmw8(7": {
+   "en": {
+    "meaning": "sunny",
+    "example": "It will be sunny tomorrow."
+   },
+   "tr": {
+    "meaning": "güneşli"
+   },
+   "th": {
+    "meaning": "แดดจัด"
+   },
+   "vi": {
+    "meaning": "nắng"
+   },
+   "fa": {
+    "meaning": "آفتابی"
+   }
+  },
+  "Lp6cmsu8Q]": {
+   "en": {
+    "meaning": "bright, fair",
+    "example": "It's bright in the south."
+   },
+   "tr": {
+    "meaning": "açık, güneşli"
+   },
+   "th": {
+    "meaning": "ปลอดโปร่ง"
+   },
+   "vi": {
+    "meaning": "quang đãng"
+   },
+   "fa": {
+    "meaning": "صاف، آفتابی"
+   }
+  },
+  "J&_Hcidjc7": {
+   "en": {
+    "meaning": "rain",
+    "example": "Later there will be rain."
+   },
+   "tr": {
+    "meaning": "yağmur"
+   },
+   "th": {
+    "meaning": "ฝน"
+   },
+   "vi": {
+    "meaning": "mưa"
+   },
+   "fa": {
+    "meaning": "باران"
+   }
+  },
+  "o_&MF^3yYo": {
+   "en": {
+    "meaning": "precipitation",
+    "example": "Precipitation: 93 per cent."
+   },
+   "tr": {
+    "meaning": "yağış"
+   },
+   "th": {
+    "meaning": "ปริมาณน้ำฝน"
+   },
+   "vi": {
+    "meaning": "lượng mưa"
+   },
+   "fa": {
+    "meaning": "بارش"
+   }
+  },
+  "fW,wA_78$x": {
+   "en": {
+    "meaning": "shower",
+    "example": "There will be showers during the day."
+   },
+   "tr": {
+    "meaning": "sağanak"
+   },
+   "th": {
+    "meaning": "ฝนตกเป็นพักๆ"
+   },
+   "vi": {
+    "meaning": "mưa rào"
+   },
+   "fa": {
+    "meaning": "رگبار"
+   }
+  },
+  "F;->]Sfp~v": {
+   "en": {
+    "meaning": "rain shower",
+    "example": "There are heavy showers."
+   },
+   "tr": {
+    "meaning": "sağanak yağmur"
+   },
+   "th": {
+    "meaning": "ฝนตกเป็นพักๆ"
+   },
+   "vi": {
+    "meaning": "cơn mưa rào"
+   },
+   "fa": {
+    "meaning": "رگبار باران"
+   }
+  },
+  "D}lu%Aj[t}": {
+   "en": {
+    "meaning": "to rain",
+    "example": "It's raining lightly."
+   },
+   "tr": {
+    "meaning": "yağmur yağmak"
+   },
+   "th": {
+    "meaning": "ฝนตก"
+   },
+   "vi": {
+    "meaning": "mưa"
+   },
+   "fa": {
+    "meaning": "باران باریدن"
+   }
+  },
+  "CyFyRH:?Uz": {
+   "en": {
+    "meaning": "rainy",
+    "example": "The weather stays rainy."
+   },
+   "tr": {
+    "meaning": "yağmurlu"
+   },
+   "th": {
+    "meaning": "มีฝนตกบ่อย"
+   },
+   "vi": {
+    "meaning": "nhiều mưa"
+   },
+   "fa": {
+    "meaning": "بارانی"
+   }
+  },
+  "p>?~cp,_Uq": {
+   "en": {
+    "meaning": "thunderstorm",
+    "example": "There will be thunderstorms in the evening."
+   },
+   "tr": {
+    "meaning": "gök gürültülü fırtına"
+   },
+   "th": {
+    "meaning": "พายุฝนฟ้าคะนอง"
+   },
+   "vi": {
+    "meaning": "dông"
+   },
+   "fa": {
+    "meaning": "رعد و برق، توفان"
+   }
+  },
+  "K[RK!n.N>+": {
+   "en": {
+    "meaning": "to thunderstorm",
+    "example": "There's a thunderstorm."
+   },
+   "tr": {
+    "meaning": "gök gürültülü fırtına olmak"
+   },
+   "th": {
+    "meaning": "ฟ้าคะนอง"
+   },
+   "vi": {
+    "meaning": "có dông"
+   },
+   "fa": {
+    "meaning": "رعد و برق زدن"
+   }
+  },
+  "hdhr3YR_3:": {
+   "en": {
+    "meaning": "storm",
+    "example": "The storm is coming from the west."
+   },
+   "tr": {
+    "meaning": "fırtına"
+   },
+   "th": {
+    "meaning": "พายุ"
+   },
+   "vi": {
+    "meaning": "bão"
+   },
+   "fa": {
+    "meaning": "توفان"
+   }
+  },
+  "jJve+;sDy8": {
+   "en": {
+    "meaning": "to be stormy",
+    "example": "It's been stormy for hours."
+   },
+   "tr": {
+    "meaning": "fırtına çıkmak"
+   },
+   "th": {
+    "meaning": "พายุพัด"
+   },
+   "vi": {
+    "meaning": "có bão"
+   },
+   "fa": {
+    "meaning": "توفان شدن"
+   }
+  },
+  "nVAE:X)K%l": {
+   "en": {
+    "meaning": "stormy",
+    "example": "It was quite stormy."
+   },
+   "tr": {
+    "meaning": "fırtınalı"
+   },
+   "th": {
+    "meaning": "มีพายุ"
+   },
+   "vi": {
+    "meaning": "bão bùng"
+   },
+   "fa": {
+    "meaning": "توفانی"
+   }
+  },
+  "p2,$KGWHE:": {
+   "en": {
+    "meaning": "lightning",
+    "example": "Lightning comes before thunder."
+   },
+   "tr": {
+    "meaning": "şimşek"
+   },
+   "th": {
+    "meaning": "ฟ้าแลบ"
+   },
+   "vi": {
+    "meaning": "tia chớp"
+   },
+   "fa": {
+    "meaning": "آذرخش"
+   }
+  },
+  "tT9=F{q$E.": {
+   "en": {
+    "meaning": "to flash (lightning)",
+    "example": "There is thunder and lightning."
+   },
+   "tr": {
+    "meaning": "şimşek çakmak"
+   },
+   "th": {
+    "meaning": "ฟ้าแลบ"
+   },
+   "vi": {
+    "meaning": "chớp"
+   },
+   "fa": {
+    "meaning": "برق زدن"
+   }
+  },
+  "c^.bYVl$RN": {
+   "en": {
+    "meaning": "thunder",
+    "example": "You can hear the thunder."
+   },
+   "tr": {
+    "meaning": "gök gürültüsü"
+   },
+   "th": {
+    "meaning": "ฟ้าร้อง"
+   },
+   "vi": {
+    "meaning": "sấm"
+   },
+   "fa": {
+    "meaning": "رعد"
+   }
+  },
+  "o(1x=PgS??": {
+   "en": {
+    "meaning": "to thunder",
+    "example": "It's thundering loudly."
+   },
+   "tr": {
+    "meaning": "gürlemek"
+   },
+   "th": {
+    "meaning": "ฟ้าร้อง"
+   },
+   "vi": {
+    "meaning": "sấm rền"
+   },
+   "fa": {
+    "meaning": "رعد زدن"
+   }
+  },
+  "BfeuLW)?aR": {
+   "en": {
+    "meaning": "cloud",
+    "example": "There are only a few clouds."
+   },
+   "tr": {
+    "meaning": "bulut"
+   },
+   "th": {
+    "meaning": "เมฆ"
+   },
+   "vi": {
+    "meaning": "đám mây"
+   },
+   "fa": {
+    "meaning": "ابر"
+   }
+  },
+  "Jbc~|UsQsL": {
+   "en": {
+    "meaning": "cloudy",
+    "example": "Sometimes sunny, sometimes cloudy."
+   },
+   "tr": {
+    "meaning": "bulutlu"
+   },
+   "th": {
+    "meaning": "มีเมฆ"
+   },
+   "vi": {
+    "meaning": "nhiều mây"
+   },
+   "fa": {
+    "meaning": "ابری"
+   }
+  },
+  "HO=mW&eJDi": {
+   "en": {
+    "meaning": "cloudy, overcast",
+    "example": "It's cloudy, but it isn't raining."
+   },
+   "tr": {
+    "meaning": "bulutlu, kapalı"
+   },
+   "th": {
+    "meaning": "มีเมฆมาก"
+   },
+   "vi": {
+    "meaning": "có mây"
+   },
+   "fa": {
+    "meaning": "ابری"
+   }
+  },
+  "q;7p$W{1=Q": {
+   "en": {
+    "meaning": "overcast",
+    "example": "The sky is overcast."
+   },
+   "tr": {
+    "meaning": "kapalı"
+   },
+   "th": {
+    "meaning": "ฟ้าครึ้ม"
+   },
+   "vi": {
+    "meaning": "u ám"
+   },
+   "fa": {
+    "meaning": "گرفته"
+   }
+  },
+  "s20XR6B(1": {
+   "en": {
+    "meaning": "cloudless",
+    "example": "The sky was cloudless."
+   },
+   "tr": {
+    "meaning": "bulutsuz"
+   },
+   "th": {
+    "meaning": "ไม่มีเมฆ"
+   },
+   "vi": {
+    "meaning": "không mây"
+   },
+   "fa": {
+    "meaning": "بی‌ابر"
+   }
+  }
+ },
+ "grammar": {}
+}

@@ -1,0 +1,779 @@
+{
+ "words": {
+  "o2KZ)AdWOK": {
+   "en": {
+    "meaning": "snow",
+    "example": "There is snow on the ground."
+   },
+   "tr": {
+    "meaning": "kar"
+   },
+   "th": {
+    "meaning": "หิมะ"
+   },
+   "vi": {
+    "meaning": "tuyết"
+   },
+   "fa": {
+    "meaning": "برف"
+   }
+  },
+  "OD?bk1}cv^": {
+   "en": {
+    "meaning": "to snow",
+    "example": "It isn't snowing."
+   },
+   "tr": {
+    "meaning": "kar yağmak"
+   },
+   "th": {
+    "meaning": "หิมะตก"
+   },
+   "vi": {
+    "meaning": "tuyết rơi"
+   },
+   "fa": {
+    "meaning": "برف باریدن"
+   }
+  },
+  "Oie$2G>L:T": {
+   "en": {
+    "meaning": "to hail",
+    "example": "It's hailing."
+   },
+   "tr": {
+    "meaning": "dolu yağmak"
+   },
+   "th": {
+    "meaning": "ลูกเห็บตก"
+   },
+   "vi": {
+    "meaning": "mưa đá"
+   },
+   "fa": {
+    "meaning": "تگرگ باریدن"
+   }
+  },
+  "hn6+?gund0": {
+   "en": {
+    "meaning": "slippery roads, black ice",
+    "example": "Caution, slippery roads!"
+   },
+   "tr": {
+    "meaning": "buzlanma"
+   },
+   "th": {
+    "meaning": "ถนนลื่น"
+   },
+   "vi": {
+    "meaning": "đường trơn"
+   },
+   "fa": {
+    "meaning": "لغزندگی جاده"
+   }
+  },
+  "E{q=ex:Hcu": {
+   "en": {
+    "meaning": "slippery; smooth",
+    "example": "The road is slippery."
+   },
+   "tr": {
+    "meaning": "kaygan"
+   },
+   "th": {
+    "meaning": "ลื่น"
+   },
+   "vi": {
+    "meaning": "trơn"
+   },
+   "fa": {
+    "meaning": "لیز"
+   }
+  },
+  "g{;3NC#*&W": {
+   "en": {
+    "meaning": "freezing rain",
+    "example": "There is freezing rain."
+   },
+   "tr": {
+    "meaning": "dondurucu yağmur"
+   },
+   "th": {
+    "meaning": "ฝนเยือกแข็ง"
+   },
+   "vi": {
+    "meaning": "mưa băng"
+   },
+   "fa": {
+    "meaning": "باران یخ‌زده"
+   }
+  },
+  "E=s:Y*^OpE": {
+   "en": {
+    "meaning": "icy",
+    "example": "It's icy cold."
+   },
+   "tr": {
+    "meaning": "buz gibi"
+   },
+   "th": {
+    "meaning": "หนาวจัด"
+   },
+   "vi": {
+    "meaning": "lạnh buốt"
+   },
+   "fa": {
+    "meaning": "یخ‌زده"
+   }
+  },
+  "N,Ug(m~5w?": {
+   "en": {
+    "meaning": "fog",
+    "example": "There may be fog in the river valleys."
+   },
+   "tr": {
+    "meaning": "sis"
+   },
+   "th": {
+    "meaning": "หมอก"
+   },
+   "vi": {
+    "meaning": "sương mù"
+   },
+   "fa": {
+    "meaning": "مه"
+   }
+  },
+  "ivQqX|ee-1": {
+   "en": {
+    "meaning": "foggy",
+    "example": "It's very foggy."
+   },
+   "tr": {
+    "meaning": "sisli"
+   },
+   "th": {
+    "meaning": "มีหมอก"
+   },
+   "vi": {
+    "meaning": "có sương mù"
+   },
+   "fa": {
+    "meaning": "مه‌آلود"
+   }
+  },
+  "Pcj~yecY]J": {
+   "en": {
+    "meaning": "wind",
+    "example": "The wind is coming from the north-west."
+   },
+   "tr": {
+    "meaning": "rüzgâr"
+   },
+   "th": {
+    "meaning": "ลม"
+   },
+   "vi": {
+    "meaning": "gió"
+   },
+   "fa": {
+    "meaning": "باد"
+   }
+  },
+  "d-#*%ekz6C": {
+   "en": {
+    "meaning": "to blow",
+    "example": "A strong wind is blowing from the south."
+   },
+   "tr": {
+    "meaning": "esmek"
+   },
+   "th": {
+    "meaning": "พัด"
+   },
+   "vi": {
+    "meaning": "thổi"
+   },
+   "fa": {
+    "meaning": "وزیدن"
+   }
+  },
+  "jj:g{xsU*P": {
+   "en": {
+    "meaning": "windy",
+    "example": "It was windy."
+   },
+   "tr": {
+    "meaning": "rüzgârlı"
+   },
+   "th": {
+    "meaning": "ลมแรง"
+   },
+   "vi": {
+    "meaning": "có gió"
+   },
+   "fa": {
+    "meaning": "بادی"
+   }
+  },
+  "m{;QKUgqS/": {
+   "en": {
+    "meaning": "wind direction",
+    "example": "The wind direction is changing."
+   },
+   "tr": {
+    "meaning": "rüzgâr yönü"
+   },
+   "th": {
+    "meaning": "ทิศทางลม"
+   },
+   "vi": {
+    "meaning": "hướng gió"
+   },
+   "fa": {
+    "meaning": "جهت باد"
+   }
+  },
+  "pmohzEK~oE": {
+   "en": {
+    "meaning": "wind speed",
+    "example": "The wind speed is increasing."
+   },
+   "tr": {
+    "meaning": "rüzgâr hızı"
+   },
+   "th": {
+    "meaning": "ความเร็วลม"
+   },
+   "vi": {
+    "meaning": "tốc độ gió"
+   },
+   "fa": {
+    "meaning": "سرعت باد"
+   }
+  },
+  "LqI&s&ON?i": {
+   "en": {
+    "meaning": "wind force",
+    "example": "The wind reaches force 7."
+   },
+   "tr": {
+    "meaning": "rüzgâr şiddeti"
+   },
+   "th": {
+    "meaning": "กำลังลม"
+   },
+   "vi": {
+    "meaning": "cấp gió"
+   },
+   "fa": {
+    "meaning": "شدت باد"
+   }
+  },
+  "q:pXoB0g,9": {
+   "en": {
+    "meaning": "weak, light",
+    "example": "A light wind is blowing."
+   },
+   "tr": {
+    "meaning": "zayıf, hafif"
+   },
+   "th": {
+    "meaning": "อ่อน"
+   },
+   "vi": {
+    "meaning": "yếu, nhẹ"
+   },
+   "fa": {
+    "meaning": "ضعیف"
+   }
+  },
+  "h^71%*u|pT": {
+   "en": {
+    "meaning": "moderate",
+    "example": "moderate wind from the west"
+   },
+   "tr": {
+    "meaning": "ılımlı, orta"
+   },
+   "th": {
+    "meaning": "ปานกลาง"
+   },
+   "vi": {
+    "meaning": "vừa phải"
+   },
+   "fa": {
+    "meaning": "متوسط"
+   }
+  },
+  "wMuRxu$fhf": {
+   "en": {
+    "meaning": "temperature",
+    "example": "Temperatures are rising."
+   },
+   "tr": {
+    "meaning": "sıcaklık"
+   },
+   "th": {
+    "meaning": "อุณหภูมิ"
+   },
+   "vi": {
+    "meaning": "nhiệt độ"
+   },
+   "fa": {
+    "meaning": "دما"
+   }
+  },
+  "tVh~K`LCqd": {
+   "en": {
+    "meaning": "maximum temperature",
+    "example": "The maximum temperature is around 24 degrees."
+   },
+   "tr": {
+    "meaning": "en yüksek sıcaklık"
+   },
+   "th": {
+    "meaning": "อุณหภูมิสูงสุด"
+   },
+   "vi": {
+    "meaning": "nhiệt độ cao nhất"
+   },
+   "fa": {
+    "meaning": "بیشترین دما"
+   }
+  },
+  "f(vc{jM]Is": {
+   "en": {
+    "meaning": "minimum temperature",
+    "example": "The minimum temperature is 16 degrees."
+   },
+   "tr": {
+    "meaning": "en düşük sıcaklık"
+   },
+   "th": {
+    "meaning": "อุณหภูมิต่ำสุด"
+   },
+   "vi": {
+    "meaning": "nhiệt độ thấp nhất"
+   },
+   "fa": {
+    "meaning": "کمترین دما"
+   }
+  },
+  "H!l(PH+bgO": {
+   "en": {
+    "meaning": "degree",
+    "example": "It's 21 degrees."
+   },
+   "tr": {
+    "meaning": "derece"
+   },
+   "th": {
+    "meaning": "องศา"
+   },
+   "vi": {
+    "meaning": "độ"
+   },
+   "fa": {
+    "meaning": "درجه"
+   }
+  },
+  "c.Xv+<MUxb": {
+   "en": {
+    "meaning": "to amount to, to be",
+    "example": "The temperature is 15 degrees."
+   },
+   "tr": {
+    "meaning": "olmak (değer)"
+   },
+   "th": {
+    "meaning": "มีค่า, เท่ากับ"
+   },
+   "vi": {
+    "meaning": "là, đạt"
+   },
+   "fa": {
+    "meaning": "بالغ شدن بر"
+   }
+  },
+  "#>/7<6mKo": {
+   "en": {
+    "meaning": "to be around",
+    "example": "Temperatures are around 15 degrees."
+   },
+   "tr": {
+    "meaning": "civarında olmak"
+   },
+   "th": {
+    "meaning": "อยู่ที่ประมาณ"
+   },
+   "vi": {
+    "meaning": "ở khoảng"
+   },
+   "fa": {
+    "meaning": "حدود … بودن"
+   }
+  },
+  "ld_fa7Bv%&": {
+   "en": {
+    "meaning": "to sink, to drop",
+    "example": "The temperature drops at night."
+   },
+   "tr": {
+    "meaning": "düşmek"
+   },
+   "th": {
+    "meaning": "ลดลง"
+   },
+   "vi": {
+    "meaning": "giảm xuống"
+   },
+   "fa": {
+    "meaning": "پایین آمدن"
+   }
+  },
+  "JbmRP%Gfy_": {
+   "en": {
+    "meaning": "to fall",
+    "example": "The temperature falls to 12 degrees."
+   },
+   "tr": {
+    "meaning": "düşmek"
+   },
+   "th": {
+    "meaning": "ลดลง; ตก"
+   },
+   "vi": {
+    "meaning": "giảm; rơi"
+   },
+   "fa": {
+    "meaning": "افتادن، کاهش یافتن"
+   }
+  },
+  "G0niSSGF*w": {
+   "en": {
+    "meaning": "to rise",
+    "example": "The temperature rises in the afternoon."
+   },
+   "tr": {
+    "meaning": "yükselmek"
+   },
+   "th": {
+    "meaning": "สูงขึ้น"
+   },
+   "vi": {
+    "meaning": "tăng lên"
+   },
+   "fa": {
+    "meaning": "بالا رفتن"
+   }
+  },
+  "B`Wj)Q2JwE": {
+   "en": {
+    "meaning": "to reach",
+    "example": "Temperatures reach 30 degrees."
+   },
+   "tr": {
+    "meaning": "ulaşmak"
+   },
+   "th": {
+    "meaning": "ถึง"
+   },
+   "vi": {
+    "meaning": "đạt tới"
+   },
+   "fa": {
+    "meaning": "رسیدن به"
+   }
+  },
+  "rGA5KLG^ng": {
+   "en": {
+    "meaning": "cool",
+    "example": "It's cool and damp."
+   },
+   "tr": {
+    "meaning": "serin"
+   },
+   "th": {
+    "meaning": "เย็นสบาย"
+   },
+   "vi": {
+    "meaning": "mát"
+   },
+   "fa": {
+    "meaning": "خنک"
+   }
+  },
+  "mm/Eb*Q@_~": {
+   "en": {
+    "meaning": "mild",
+    "example": "It's pleasantly mild."
+   },
+   "tr": {
+    "meaning": "ılık"
+   },
+   "th": {
+    "meaning": "อบอุ่นสบาย"
+   },
+   "vi": {
+    "meaning": "ôn hòa"
+   },
+   "fa": {
+    "meaning": "معتدل"
+   }
+  },
+  "z!KK;*<O6c": {
+   "en": {
+    "meaning": "dry",
+    "example": "The weather is nice, warm and dry."
+   },
+   "tr": {
+    "meaning": "kuru"
+   },
+   "th": {
+    "meaning": "แห้ง"
+   },
+   "vi": {
+    "meaning": "khô"
+   },
+   "fa": {
+    "meaning": "خشک"
+   }
+  },
+  "6N_LIO7s:": {
+   "en": {
+    "meaning": "damp, humid",
+    "example": "Cool, damp sea air is coming in."
+   },
+   "tr": {
+    "meaning": "nemli"
+   },
+   "th": {
+    "meaning": "ชื้น"
+   },
+   "vi": {
+    "meaning": "ẩm ướt"
+   },
+   "fa": {
+    "meaning": "مرطوب"
+   }
+  },
+  "P&yu>|6DwX": {
+   "en": {
+    "meaning": "wet",
+    "example": "The weather was wet and cold."
+   },
+   "tr": {
+    "meaning": "ıslak"
+   },
+   "th": {
+    "meaning": "เปียก"
+   },
+   "vi": {
+    "meaning": "ướt"
+   },
+   "fa": {
+    "meaning": "خیس"
+   }
+  },
+  "Bp/^K?8;+Z": {
+   "en": {
+    "meaning": "unpleasant",
+    "example": "It's unpleasantly hot."
+   },
+   "tr": {
+    "meaning": "rahatsız edici"
+   },
+   "th": {
+    "meaning": "ไม่สบาย"
+   },
+   "vi": {
+    "meaning": "khó chịu"
+   },
+   "fa": {
+    "meaning": "ناخوشایند"
+   }
+  },
+  "df%{Os|%!R": {
+   "en": {
+    "meaning": "pleasant",
+    "example": "The temperature is pleasant."
+   },
+   "tr": {
+    "meaning": "hoş, rahat"
+   },
+   "th": {
+    "meaning": "สบาย"
+   },
+   "vi": {
+    "meaning": "dễ chịu"
+   },
+   "fa": {
+    "meaning": "خوشایند"
+   }
+  },
+  "vm4S|dxJ.v": {
+   "en": {
+    "meaning": "mixed",
+    "example": "The weather was mixed."
+   },
+   "tr": {
+    "meaning": "karışık"
+   },
+   "th": {
+    "meaning": "ผสม"
+   },
+   "vi": {
+    "meaning": "lẫn lộn, thất thường"
+   },
+   "fa": {
+    "meaning": "متغیر"
+   }
+  },
+  "n@+Q6wr_>h": {
+   "en": {
+    "meaning": "sky",
+    "example": "Lots of rain falls from the sky."
+   },
+   "tr": {
+    "meaning": "gökyüzü"
+   },
+   "th": {
+    "meaning": "ท้องฟ้า"
+   },
+   "vi": {
+    "meaning": "bầu trời"
+   },
+   "fa": {
+    "meaning": "آسمان"
+   }
+  },
+  "wT/dynPtUJ": {
+   "en": {
+    "meaning": "weather report",
+    "example": "The weather report says rain."
+   },
+   "tr": {
+    "meaning": "hava durumu"
+   },
+   "th": {
+    "meaning": "พยากรณ์อากาศ"
+   },
+   "vi": {
+    "meaning": "dự báo thời tiết"
+   },
+   "fa": {
+    "meaning": "گزارش هواشناسی"
+   }
+  },
+  "Ml>:_JyH>6": {
+   "en": {
+    "meaning": "lousy",
+    "example": "The weather is really lousy!"
+   },
+   "tr": {
+    "meaning": "berbat"
+   },
+   "th": {
+    "meaning": "แย่"
+   },
+   "vi": {
+    "meaning": "tệ"
+   },
+   "fa": {
+    "meaning": "افتضاح"
+   }
+  },
+  "Q2M~YCiD3d": {
+   "en": {
+    "meaning": "bad, serious",
+    "example": "It's going to get even worse."
+   },
+   "tr": {
+    "meaning": "kötü"
+   },
+   "th": {
+    "meaning": "แย่, ร้ายแรง"
+   },
+   "vi": {
+    "meaning": "tồi tệ"
+   },
+   "fa": {
+    "meaning": "بد، وخیم"
+   }
+  },
+  "nGKI!K$fGS": {
+   "en": {
+    "meaning": "coast",
+    "example": "It's bright on the coast."
+   },
+   "tr": {
+    "meaning": "sahil"
+   },
+   "th": {
+    "meaning": "ชายฝั่ง"
+   },
+   "vi": {
+    "meaning": "bờ biển"
+   },
+   "fa": {
+    "meaning": "ساحل"
+   }
+  },
+  "bNY2*Ho[W>": {
+   "en": {
+    "meaning": "middle, centre",
+    "example": "It's warm in the centre."
+   },
+   "tr": {
+    "meaning": "orta"
+   },
+   "th": {
+    "meaning": "ตอนกลาง"
+   },
+   "vi": {
+    "meaning": "miền trung"
+   },
+   "fa": {
+    "meaning": "مرکز"
+   }
+  },
+  "m%U`J;#hZ)": {
+   "en": {
+    "meaning": "north-west",
+    "example": "The wind is coming from the north-west."
+   },
+   "tr": {
+    "meaning": "kuzeybatı"
+   },
+   "th": {
+    "meaning": "ทิศตะวันตกเฉียงเหนือ"
+   },
+   "vi": {
+    "meaning": "tây bắc"
+   },
+   "fa": {
+    "meaning": "شمال غربی"
+   }
+  },
+  "z)8e&p%`Yo": {
+   "en": {
+    "meaning": "the Alps",
+    "example": "There is snow in the Alps."
+   },
+   "tr": {
+    "meaning": "Alpler"
+   },
+   "th": {
+    "meaning": "เทือกเขาแอลป์"
+   },
+   "vi": {
+    "meaning": "dãy Alps"
+   },
+   "fa": {
+    "meaning": "کوه‌های آلپ"
+   }
+  }
+ },
+ "grammar": {}
+}
