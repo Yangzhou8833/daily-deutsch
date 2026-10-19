@@ -222,6 +222,142 @@
    "_word": "a12-l2-feste: Feuerwerk sehen",
    "article": null,
    "word": "das Feuerwerk sehen"
+  },
+  "g}-zXCFC=U": {
+   "_card": "a12-l1-grammatik G21: Die Bücher {{c1::stehen::静止还是移动}} im Regal. Timo {{c2::stellt::静止还是移动}} sie in den Schrank.",
+   "text": "Die Bücher {{c1::stehen::Wo? oder Wohin?}} im Regal. Timo {{c2::stellt::Wo? oder Wohin?}} sie in den Schrank."
+  },
+  "FOueNS!#FU": {
+   "_card": "a12-l1-grammatik G25: Das Bild hat an der Wand {{c1::gehangen::hängen 静态完成时}}.",
+   "text": "Das Bild hat an der Wand {{c1::gehangen::Perfekt von hängen (Wo?)}}."
+  },
+  "geIxt]O!6a": {
+   "_card": "a12-l1-grammatik G26: Ich habe das Bild an die Wand {{c1::gehängt::hängen 动态完成时}}.",
+   "text": "Ich habe das Bild an die Wand {{c1::gehängt::Perfekt von hängen (Wohin?)}}."
+  },
+  "d~[7b-YIei": {
+   "_card": "a12-l1-grammatik G27: stehen 的完成时是 {{c1::gestanden}}，stellen 的是 {{c2::gestellt}}。",
+   "text": "Perfekt: stehen → hat {{c1::gestanden}}, stellen → hat {{c2::gestellt}}."
+  },
+  "mQRK[iu$:G": {
+   "_card": "a12-l1-grammatik G28: liegen 的完成时是 {{c1::gelegen}}，legen 的是 {{c2::gelegt}}。",
+   "text": "Perfekt: liegen → hat {{c1::gelegen}}, legen → hat {{c2::gelegt}}."
+  },
+  "zzZ17XFVex": {
+   "_card": "a12-l1-grammatik G29: sitzen 的完成时是 {{c1::gesessen}}，setzen 的是 {{c2::gesetzt}}。",
+   "text": "Perfekt: sitzen → hat {{c1::gesessen}}, setzen → hat {{c2::gesetzt}}."
+  },
+  "Qn5JYgH_e@": {
+   "_card": "a12-l1-grammatik G30: Das Bild hängt {{c1::an der::贴垂直面}} Wand.",
+   "text": "Das Bild hängt {{c1::an der::senkrechte Fläche}} Wand."
+  },
+  "v)cvp#Y$bi": {
+   "_card": "a12-l1-grammatik G32: Die Katze sitzt {{c1::zwischen den::两者之间}} Sesseln.",
+   "text": "Die Katze sitzt {{c1::zwischen den::in der Mitte von zwei Dingen}} Sesseln."
+  },
+  "IcIJsU:*no": {
+   "_card": "a12-l1-grammatik G47: Das Zimmer von Astrid = {{c1::Astrids::不加撇号}} Zimmer.",
+   "text": "Das Zimmer von Astrid = {{c1::Astrids::ohne Apostroph}} Zimmer."
+  },
+  "h<49H,5XEt": {
+   "_card": "a12-l1-grammatik G48: Das Zimmer von Klaus = {{c1::Klaus'::s 结尾怎么办}} Zimmer.",
+   "text": "Das Zimmer von Klaus = {{c1::Klaus'::Name endet auf -s}} Zimmer."
+  },
+  "mb]:(*]V2=": {
+   "_card": "a12-l1-grammatik G50: Der Flughafen liegt {{c1::im Norden von::在内部的北部}} Hamburg.",
+   "text": "Der Flughafen liegt {{c1::im Norden von::im nördlichen Teil}} Hamburg."
+  },
+  "n*N06[Yw~3": {
+   "_card": "a12-l1-grammatik G51: Der Flughafen liegt {{c1::nördlich vom::在……以北}} Stadtpark.",
+   "text": "Der Flughafen liegt {{c1::nördlich vom::außerhalb, Richtung Norden}} Stadtpark."
+  },
+  "fBFNmTao1Q": {
+   "_card": "a12-l1-grammatik G54: Stört dich das nicht? – {{c1::Doch::ja 还是 doch}}, das stört mich!",
+   "text": "Stört dich das nicht? – {{c1::Doch::ja oder doch?}}, das stört mich!"
+  },
+  "F9Dn%`fXqM": {
+   "_card": "a12-l1-grammatik G56: 德国的一楼叫 {{c1::Erdgeschoss}}，二楼叫 {{c2::erstes Obergeschoss}}。",
+   "text": "Das Stockwerk auf Straßenhöhe heißt {{c1::Erdgeschoss}}, das Stockwerk darüber heißt {{c2::erstes Obergeschoss}}."
+  },
+  "j+JjtQR<c]": {
+   "_card": "a12-l1-grammatik G57: 缩写 NK 是 {{c1::Nebenkosten}}，EBK 是 {{c2::Einbauküche}}。",
+   "text": "Die Abkürzung NK bedeutet {{c1::Nebenkosten}}, EBK bedeutet {{c2::Einbauküche}}."
+  },
+  "qIBy6UN=mh": {
+   "_card": "a12-l1-grammatik G58: Hund 词尾的 d 读作 {{c1::[t]}}，但 Hunde 里的 d 读作 {{c2::[d]}}。",
+   "text": "Das d am Ende von „Hund“ spricht man {{c1::[t]}}, das d in „Hunde“ spricht man {{c2::[d]}}."
+  },
+  "NMhOei,+0T": {
+   "_card": "a12-l1-grammatik G59: Tag 词尾的 g 读作 {{c1::[k]}}，Tage 里的 g 读作 {{c2::[g]}}。",
+   "text": "Das g am Ende von „Tag“ spricht man {{c1::[k]}}, das g in „Tage“ spricht man {{c2::[g]}}."
+  },
+  "K.$l?XXSHp": {
+   "_card": "a12-l1-grammatik G60: Sonne 里的 s 读作 {{c1::[z]::浊还是清}}，das 里的 s 读作 {{c2::[s]}}。",
+   "text": "Das s in „Sonne“ spricht man {{c1::[z]::stimmhaft oder stimmlos?}}, das s in „das“ spricht man {{c2::[s]}}."
+  },
+  "MhB>dM4rV:": {
+   "_card": "a12-l1-grammatik G61: Im Schlafzimmer steht {{c1::ein::第一格还是第四格}} Tisch.",
+   "text": "Im Schlafzimmer steht {{c1::ein::Nominativ oder Akkusativ?}} Tisch."
+  },
+  "xqe5@:+a{D": {
+   "_card": "a12-l1-grammatik G62: Im Bad gibt es {{c1::einen::第一格还是第四格}} Spiegel.",
+   "text": "Im Bad gibt es {{c1::einen::Nominativ oder Akkusativ?}} Spiegel."
+  },
+  "f&o>TKDkd{": {
+   "_card": "a12-l1-grammatik G63: Das Haus hat {{c1::eine::第一格还是第四格}} Terrasse.",
+   "text": "Das Haus hat {{c1::eine::Nominativ oder Akkusativ?}} Terrasse."
+  },
+  "y7d&o`6Ta@": {
+   "_card": "a12-l2-grammatik G4: Hat {{c1::Ihnen::Sie（您）}} das Essen geschmeckt?",
+   "text": "Hat {{c1::Ihnen::Sie (formell)}} das Essen geschmeckt?"
+  },
+  "O<B%sJ*5wK": {
+   "_card": "a12-l2-grammatik G14: Was ist {{c1::Ihnen::Sie（您）}} wichtig bei einem Job?",
+   "text": "Was ist {{c1::Ihnen::Sie (formell)}} wichtig bei einem Job?"
+  },
+  "o=?_nehd*N": {
+   "_card": "a12-l2-grammatik G55: {{c1::Stell::stellen 的 du 祈使}} Blumen in die Küche!",
+   "text": "{{c1::Stell::Imperativ (du) von stellen}} Blumen in die Küche!"
+  },
+  "jC[uc8r#-8": {
+   "_card": "a12-l2-grammatik G56: {{c1::Leg::legen 的 du 祈使}} die Kissen auf das Sofa!",
+   "text": "{{c1::Leg::Imperativ (du) von legen}} die Kissen auf das Sofa!"
+  },
+  "i[h[yhtG0#": {
+   "_card": "a12-l2-grammatik G57: {{c1::Häng::hängen 的 du 祈使}} Fotos an die Wand!",
+   "text": "{{c1::Häng::Imperativ (du) von hängen}} Fotos an die Wand!"
+  },
+  "dQTFNVcelP": {
+   "_card": "a12-l3-grammatik G0: Alex will den Arbeitsplatz wechseln, {{c1::weil::动词在句尾}} die Kollegen nicht nett {{c1::sind}}.",
+   "text": "Alex will den Arbeitsplatz wechseln, {{c1::weil::Verb am Ende}} die Kollegen nicht nett {{c1::sind}}."
+  },
+  "Om?FQ-hf@m": {
+   "_card": "a12-l3-grammatik G1: Tom arbeitet Teilzeit, {{c1::denn::动词在第二位}} er {{c1::hat}} drei Kinder.",
+   "text": "Tom arbeitet Teilzeit, {{c1::denn::Verb auf Position 2}} er {{c1::hat}} drei Kinder."
+  },
+  "B,aT#i}!g/": {
+   "_card": "a12-l3-grammatik G4: {{c1::Weil::denn 不能放句首}} die Miete zu hoch ist, muss er umziehen.",
+   "text": "{{c1::Weil::denn steht nie am Satzanfang}} die Miete zu hoch ist, muss er umziehen."
+  },
+  "cM<80D/Y&a": {
+   "_card": "a12-l3-grammatik G11: Er wollte Schiffskapitän werden, aber er {{c1::ist::sein 还是 haben}} Bäcker geworden.",
+   "text": "Er wollte Schiffskapitän werden, aber er {{c1::ist::sein oder haben?}} Bäcker geworden."
+  },
+  "yJ~dUJNtkm": {
+   "_card": "a12-l3-grammatik G12: Ich {{c1::wollte::wollen 的过去式}} Tierärztin werden.",
+   "text": "Ich {{c1::wollte::Präteritum von wollen}} Tierärztin werden."
+  },
+  "Qv%@1E@?)q": {
+   "_card": "a12-l3-grammatik G16: können 的过去式是 {{c1::konnte}}，müssen 是 {{c2::musste}}，dürfen 是 {{c3::durfte}}。",
+   "text": "Präteritum: können → {{c1::konnte}}, müssen → {{c2::musste}}, dürfen → {{c3::durfte}}."
+  },
+  "H`$f5!>9K4": {
+   "_card": "a12-l3-grammatik G17: Ich bin nicht zufrieden, {{c1::obwohl::尽管}} ich ganz gut {{c1::verdiene}}.",
+   "text": "Ich bin nicht zufrieden, {{c1::obwohl::Gegengrund}} ich ganz gut {{c1::verdiene}}."
+  },
+  "JyD|K=G/K1": {
+   "_card": "a12-l3-grammatik G19: Wir haben kein Familienleben mehr. {{c1::Deshalb bin ich::deshalb + 主语 + 动词}} nicht zufrieden.",
+   "text": "Wir haben kein Familienleben mehr. {{c1::Deshalb bin ich::deshalb + Verb + Subjekt}} nicht zufrieden."
   }
  }
 }

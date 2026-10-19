@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { Fragment, useEffect, useMemo, useState } from "react";
 import { SpeakButton } from "../components/common";
 import { useLang } from "../i18n";
 import { logDrill } from "../store";
@@ -6,28 +6,49 @@ import type { Lesson } from "../types";
 import { sameAnswer } from "../util";
 import { Feedback, inputProps, QuizFrame, UmlautBar, useLastInput, useQuiz } from "./quiz";
 
+/**
+ * One answer per gap. Separable verbs have two gaps and an answer like "setzt … ab";
+ * when the pieces don't match the gaps ("Herz … auf … der … Zunge" for one gap) they form one answer.
+ */
+function gapAnswers(cloze: string, answer: string): string[] {
+  const gaps = cloze.split("___").length - 1;
+  const pieces = answer
+    .split("…")
+    .map((s) => s.trim())
+    .filter(Boolean);
+  if (pieces.length === gaps) return pieces;
+  if (gaps === 1) return [pieces.join(" ")];
+  return Array.from({ length: gaps }, (_, i) => pieces[i] ?? "");
+}
+
 export default function ClozeDrill({ lesson, backTo }: { lesson: Lesson; backTo: string }) {
   const { t, pick } = useLang();
   const quiz = useQuiz(lesson.words.filter((w) => w.cloze && w.answer && w.cloze.includes("___")));
   const w = quiz.item;
-  const [value, setValue] = useState("");
+  const texts = useMemo(() => (w ? w.cloze!.split("___") : []), [w]);
+  const answers = useMemo(() => (w ? gapAnswers(w.cloze!, w.answer!) : []), [w]);
+  const [values, setValues] = useState<string[]>([]);
   const [hint, setHint] = useState(0);
-  const input = useLastInput();
+  const focused = useLastInput();
 
   useEffect(() => {
-    setValue("");
+    setValues([]);
     setHint(0);
-    input.current?.focus();
-  }, [w, input]);
+    // focus() fires no focus event if the input already has focus, so record it directly
+    focused.current = document.querySelector<HTMLInputElement>(".gap");
+    focused.current?.focus();
+  }, [w, focused]);
+
+  const right = (i: number) => sameAnswer(values[i] ?? "", answers[i]);
 
   const submit = (giveUp = false) => {
     if (!w || quiz.result !== null) return;
-    const ok = !giveUp && sameAnswer(value, w.answer!);
+    const ok = !giveUp && answers.every((_, i) => right(i));
     logDrill(w.id, lesson.id, "cloze", ok);
     quiz.answer(ok);
   };
 
-  const [before, after] = w ? w.cloze!.split("___", 2) : ["", ""];
+  const longest = Math.max(0, ...answers.map((a) => a.length));
   return (
     <QuizFrame quiz={quiz} backTo={backTo}>
       {w && (
@@ -41,21 +62,26 @@ export default function ClozeDrill({ lesson, backTo }: { lesson: Lesson; backTo:
                 submit();
               }}
             >
-              {before}
-              {quiz.result === null ? (
-                <input
-                  ref={input}
-                  className="gap"
-                  value={value}
-                  size={Math.max(4, w.answer!.length)}
-                  placeholder={hint ? w.answer!.slice(0, hint) + "…" : ""}
-                  onChange={(e) => setValue(e.target.value)}
-                  {...inputProps}
-                />
-              ) : (
-                <b className={quiz.result ? "ok-text" : "bad-text"}>{w.answer}</b>
-              )}
-              {after}
+              {texts.map((text, i) => (
+                <Fragment key={i}>
+                  {text}
+                  {i < answers.length &&
+                    (quiz.result === null ? (
+                      <input
+                        className="gap"
+                        value={values[i] ?? ""}
+                        size={Math.max(4, answers[i].length)}
+                        placeholder={hint ? answers[i].slice(0, hint) + "…" : ""}
+                        onFocus={(e) => (focused.current = e.currentTarget)}
+                        onChange={(e) => setValues((v) => Object.assign([...v], { [i]: e.target.value }))}
+                        {...inputProps}
+                      />
+                    ) : (
+                      <b className={right(i) ? "ok-text" : "bad-text"}>{answers[i]}</b>
+                    ))}
+                </Fragment>
+              ))}
+              <button type="submit" hidden />
             </form>
             {quiz.result !== null && (
               <div className="example">
@@ -68,9 +94,9 @@ export default function ClozeDrill({ lesson, backTo }: { lesson: Lesson; backTo:
           </div>
           {quiz.result === null ? (
             <>
-              <UmlautBar target={input} />
+              <UmlautBar target={focused} />
               <div className="row">
-                <button className="btn" onClick={() => setHint((h) => Math.min(h + 1, w.answer!.length))}>
+                <button className="btn" onClick={() => setHint((h) => Math.min(h + 1, longest))}>
                   💡 {t("hintFirst")}
                 </button>
                 <button className="btn" onClick={() => submit(true)}>
@@ -82,7 +108,7 @@ export default function ClozeDrill({ lesson, backTo }: { lesson: Lesson; backTo:
               </div>
             </>
           ) : (
-            <Feedback ok={quiz.result} answer={w.answer} onNext={quiz.next} />
+            <Feedback ok={quiz.result} answer={answers.join(" … ")} onNext={quiz.next} />
           )}
         </>
       )}

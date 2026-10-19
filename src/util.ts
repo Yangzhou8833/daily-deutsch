@@ -18,13 +18,13 @@ export function shuffle<T>(items: T[]): T[] {
   return a;
 }
 
-/** Lenient answer check: trims, collapses spaces, ignores case and trailing punctuation. Umlauts must match. */
+/** Lenient answer check: trims, collapses spaces, ignores case and trailing punctuation (also "…"). Umlauts must match. */
 export function sameAnswer(given: string, expected: string): boolean {
   const norm = (s: string) =>
     s
       .trim()
       .replace(/\s+/g, " ")
-      .replace(/[.,!?;:]+$/, "")
+      .replace(/[\s.,!?;:…]+$/, "")
       .toLowerCase();
   return norm(given) === norm(expected);
 }

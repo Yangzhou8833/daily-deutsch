@@ -42,7 +42,8 @@ OVERLAY_WORDS, OVERLAY_GRAMMAR, OVERLAY_FIXES = load_overlays()
 
 
 def fix_word(w):
-    """Apply field corrections from translations/fixes.json to a word as read from a deck."""
+    """Apply field corrections from translations/fixes.json to a word as read from a deck
+    (grammar cards get theirs in finish_grammar)."""
     return dict(w, **OVERLAY_FIXES.get(w["id"], {}))
 
 
@@ -63,6 +64,7 @@ def finish_word(w):
 
 
 def finish_grammar(g):
+    g.update(OVERLAY_FIXES.get(g["id"], {}))
     g["hint"].update(OVERLAY_GRAMMAR.get(g["id"], {}))
     g.pop("tags", None)
     return g
@@ -79,7 +81,9 @@ def mtime(path):
 
 def write_lesson(index, lesson, course, lektion, order):
     words, grammar, sentences = lesson["words"], lesson["grammar"], lesson.get("sentences", [])
-    langs = [l for l in LANGS if words and all(l in w["meaning"] for w in words)] or ["zh"]
+    # a grammar-only unit counts as translated into the languages all its hints have
+    items, field = (words, "meaning") if words else (grammar, "hint")
+    langs = [l for l in LANGS if items and all(l in x[field] for x in items)] or ["zh"]
     lesson.update(langs=langs, sentences=sentences, course=course, lektion=lektion)
     with open(os.path.join(OUT, "lessons", f"{lesson['id']}.json"), "w", encoding="utf-8") as f:
         json.dump(lesson, f, ensure_ascii=False, separators=(",", ":"))
