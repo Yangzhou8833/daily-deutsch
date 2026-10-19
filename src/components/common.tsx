@@ -4,6 +4,7 @@ import { updateProfile, useAccount } from "../account";
 import { LANGS, setLang, setUiLang, UI_LANGS, useLang, type UiLang } from "../i18n";
 import type { Lang } from "../types";
 import type { Word } from "../types";
+import type { DayCounts } from "../store";
 import { speak } from "../util";
 
 export function Header({ back, title }: { back?: string; title?: string }) {
@@ -163,5 +164,35 @@ export function ProgressBar({ value, max }: { value: number; max: number }) {
     <div className="bar" role="progressbar" aria-valuenow={value} aria-valuemax={max}>
       <div style={{ width: `${max ? Math.min(100, (value / max) * 100) : 0}%` }} />
     </div>
+  );
+}
+
+/** Anki's three numbers: new (blue) · learning (red) · due (green); the label is in the tooltip and the legend. */
+export function DayCountsView({ counts, current }: { counts: DayCounts; current?: keyof DayCounts }) {
+  const { t } = useLang();
+  const parts: { key: keyof DayCounts; label: string }[] = [
+    { key: "new", label: t("countNew") },
+    { key: "learning", label: t("countLearning") },
+    { key: "review", label: t("countReview") },
+  ];
+  return (
+    <span className="daycounts" aria-label={parts.map((p) => `${p.label} ${counts[p.key]}`).join(", ")}>
+      {parts.map((p) => (
+        <b key={p.key} className={`dc-${p.key} ${current === p.key ? "dc-current" : ""}`} title={p.label}>
+          {counts[p.key]}
+        </b>
+      ))}
+    </span>
+  );
+}
+
+/** Legend for DayCountsView, so the colours are never the only cue. */
+export function DayCountsLegend() {
+  const { t } = useLang();
+  return (
+    <p className="daycounts-legend muted small">
+      <span className="dc-new">●</span> {t("countNew")} <span className="dc-learning">●</span> {t("countLearning")}{" "}
+      <span className="dc-review">●</span> {t("countReview")}
+    </p>
   );
 }

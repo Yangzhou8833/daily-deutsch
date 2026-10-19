@@ -8,6 +8,8 @@ import ClassBoard from "./pages/ClassBoard";
 import Home from "./pages/Home";
 import LessonPage from "./pages/Lesson";
 import { Practice, Review } from "./pages/Practice";
+import SettingsPage from "./pages/Settings";
+import StatsPage from "./pages/Stats";
 import "./styles.css";
 
 // Hash routing keeps one static link working on any host (GitHub Pages has no SPA rewrites).
@@ -17,6 +19,8 @@ createRoot(document.getElementById("root")!).render(
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/review" element={<Review />} />
+        <Route path="/stats" element={<StatsPage />} />
+        <Route path="/settings" element={<SettingsPage />} />
         <Route path="/account" element={<AccountPage />} />
         <Route path="/join/:code" element={<AccountPage />} />
         <Route path="/class" element={<ClassBoard />} />

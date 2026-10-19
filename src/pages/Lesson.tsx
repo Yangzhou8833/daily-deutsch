@@ -1,8 +1,9 @@
 import { Link, useParams } from "react-router-dom";
-import { Loading, Page, ProgressBar, TranslationNotice } from "../components/common";
+import { DayCountsView, Loading, Page, ProgressBar, TranslationNotice } from "../components/common";
 import { loadLesson, useAsync } from "../data";
 import { useLang, type UIKey } from "../i18n";
-import { dueIds, isHidden, learnedCount, useProgress } from "../store";
+import { useSettingsVersion } from "../settings";
+import { dayCounts, isHidden, isNewWord, learnedCount, useProgress } from "../store";
 
 const MODES: { mode: string; icon: string; title: UIKey; desc: UIKey }[] = [
   { mode: "learn", icon: "🃏", title: "learn", desc: "learnDesc" },
@@ -18,6 +19,7 @@ export default function LessonPage() {
   const { id = "" } = useParams();
   const { t, lang } = useLang();
   useProgress();
+  useSettingsVersion();
   const lesson = useAsync(() => loadLesson(id), [id]);
   if (!lesson)
     return (
@@ -28,7 +30,7 @@ export default function LessonPage() {
 
   const words = lesson.words.filter((w) => !isHidden(w.id));
   const learned = learnedCount(id);
-  const due = dueIds(new Date(), id).length;
+  const today = dayCounts(id, words.filter((w) => isNewWord(w.id)).length);
   const counts: Record<string, number> = {
     learn: words.length,
     article: words.filter((w) => w.article).length,
@@ -63,7 +65,7 @@ export default function LessonPage() {
             <span className="mode-icon">{m.icon}</span>
             <span className="mode-title">
               {t(m.title)}
-              {m.mode === "learn" && due > 0 && <span className="pill due">{due}</span>}
+              {m.mode === "learn" && <DayCountsView counts={today} />}
             </span>
             <span className="mode-desc muted">
               {m.mode === "list" ? `${counts.list} ${t("words")}` : m.mode === "sentence" || m.mode === "grammar" ? `${counts[m.mode]} · ${t(m.desc)}` : t(m.desc)}

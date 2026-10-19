@@ -2,6 +2,7 @@
 import { useSyncExternalStore } from "react";
 import type { Session } from "@supabase/supabase-js";
 import { setLang } from "./i18n";
+import { applyRemoteSettings, getSettings, onSettingsChange } from "./settings";
 import { supabase } from "./supabase";
 import { flush, fullSync, stopSync } from "./sync";
 import type { Lang } from "./types";
@@ -79,6 +80,11 @@ async function onSession(session: Session | null, signedInNow: boolean) {
   try {
     const profile = await loadProfileAndClass(userId);
     if (signedInNow && profile) setLang(profile.native_lang);
+    // study options live in the user's metadata; getUser() returns the current copy, not the cached session
+    const { data } = await supabase!.auth.getUser();
+    const study = data.user?.user_metadata?.study;
+    if (study) applyRemoteSettings(study);
+    else await supabase!.auth.updateUser({ data: { study: getSettings() } }); // first sign-in: keep this device's options
     set({ syncing: true, syncError: undefined });
     await fullSync(userId);
     set({ syncing: false });
@@ -86,6 +92,11 @@ async function onSession(session: Session | null, signedInNow: boolean) {
     set({ syncing: false, syncError: message(e) });
   }
 }
+
+// options changed on this device go to the account, so the other devices pick them up on their next sign-in check
+onSettingsChange((study) => {
+  if (state.status === "in") supabase!.auth.updateUser({ data: { study } });
+});
 
 if (supabase) {
   supabase.auth.getSession().then(({ data }) => onSession(data.session, false));

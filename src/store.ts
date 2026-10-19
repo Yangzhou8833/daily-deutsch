@@ -4,6 +4,7 @@
  */
 import { useSyncExternalStore } from "react";
 import { createEmptyCard, fsrs, generatorParameters, Rating, State, type Card, type Grade } from "ts-fsrs";
+import { extraNewToday, getSettings } from "./settings";
 import type { DrillMode } from "./types";
 
 export { Rating };
@@ -30,8 +31,15 @@ export interface LogEvent {
 }
 
 const KEY = "dd:progress";
+export const dayKey = (t: number) => new Date(t).toLocaleDateString("sv"); // YYYY-MM-DD, local time
 const MAX_LOG = 5000;
-const scheduler = fsrs(generatorParameters({ enable_fuzz: true, request_retention: 0.9 }));
+let fsrsFor: { retention: number; f: ReturnType<typeof fsrs> } | undefined;
+/** FSRS scheduler for the retention chosen in the study options. */
+function scheduler() {
+  const retention = getSettings().retention;
+  if (fsrsFor?.retention !== retention) fsrsFor = { retention, f: fsrs(generatorParameters({ enable_fuzz: true, request_retention: retention })) };
+  return fsrsFor.f;
+}
 
 let cards: Record<string, Entry> = {};
 let log: LogEvent[] = [];
@@ -84,7 +92,7 @@ export function useProgress() {
 export const getCard = (wordId: string): Card | undefined => cards[wordId]?.card;
 
 export function previewDue(wordId: string, now = new Date()): Record<Grade, Date> {
-  const prev = scheduler.repeat(getCard(wordId) ?? createEmptyCard(now), now);
+  const prev = scheduler().repeat(getCard(wordId) ?? createEmptyCard(now), now);
   return {
     [Rating.Again]: prev[Rating.Again].card.due,
     [Rating.Hard]: prev[Rating.Hard].card.due,
@@ -94,7 +102,7 @@ export function previewDue(wordId: string, now = new Date()): Record<Grade, Date
 }
 
 export function review(wordId: string, lesson: string, grade: Grade, now = new Date()): Card {
-  const card = scheduler.next(getCard(wordId) ?? createEmptyCard(now), now, grade).card;
+  const card = scheduler().next(getCard(wordId) ?? createEmptyCard(now), now, grade).card;
   cards[wordId] = { lesson, card, u: now.getTime(), dirty: true };
   pushLog({ w: wordId, l: lesson, m: "learn", ok: grade !== Rating.Again, g: grade, t: now.getTime() });
   return card;
@@ -121,18 +129,92 @@ export function setHidden(wordId: string, lesson: string, hidden: boolean) {
   save();
 }
 
-export function dueIds(now = new Date(), lesson?: string): string[] {
-  return Object.entries(cards)
-    .filter(([, e]) => !e.hidden && (!lesson || e.lesson === lesson) && e.card.due <= now)
-    .sort((a, b) => a[1].card.due.getTime() - b[1].card.due.getTime())
-    .map(([id]) => id);
+// ---------------------------------------------------------------- Anki-style daily queues
+
+/** Learning cards due within this window are shown now, like Anki's "learn ahead limit". */
+export const LEARN_AHEAD_MS = 20 * 60 * 1000;
+
+const endOfToday = () => {
+  const d = new Date();
+  d.setHours(24, 0, 0, 0);
+  return d.getTime();
+};
+
+/** "learning": a short step (minutes) is due; "review": a review card is due today. */
+function queueOf(e: Entry, now: number): "learning" | "review" | null {
+  if (e.hidden) return null;
+  const due = e.card.due.getTime();
+  if (e.card.state === State.Learning || e.card.state === State.Relearning) return due <= now + LEARN_AHEAD_MS ? "learning" : null;
+  if (e.card.state === State.Review) return due < endOfToday() ? "review" : null;
+  return null;
 }
 
-export function dueLessons(now = new Date()): Record<string, number> {
-  const out: Record<string, number> = {};
-  for (const e of Object.values(cards)) if (!e.hidden && e.card.due <= now) out[e.lesson] = (out[e.lesson] ?? 0) + 1;
-  return out;
+/** Never studied (an entry may exist only because the word was hidden and restored). */
+export const isNewWord = (wordId: string) => !cards[wordId] || cards[wordId].card.state === State.New;
+export const queueOfWord = (wordId: string) => (cards[wordId] ? queueOf(cards[wordId], Date.now()) : null);
+
+let todayMemo: { key: string; introduced: Set<string>; reviews: number } | undefined;
+/** Words first studied today, and review answers given today (flashcards only). */
+function today() {
+  const day = dayKey(Date.now());
+  const key = `${day}|${version}`;
+  if (todayMemo?.key === key) return todayMemo;
+  const before = new Set<string>();
+  const answers = new Map<string, number>();
+  for (const e of log) {
+    if (e.m !== "learn") continue;
+    if (dayKey(e.t) === day) answers.set(e.w, (answers.get(e.w) ?? 0) + 1);
+    else before.add(e.w);
+  }
+  // reps guards against a trimmed log: a card with more reviews than today's answers is not new today
+  const introduced = new Set([...answers].filter(([w, n]) => !before.has(w) && (cards[w]?.card.reps ?? 0) <= n).map(([w]) => w));
+  let reviews = 0;
+  for (const [w, n] of answers) if (!introduced.has(w)) reviews += n;
+  todayMemo = { key, introduced, reviews };
+  return todayMemo;
 }
+
+export const newStudiedToday = () => today().introduced.size;
+export const reviewsDoneToday = () => today().reviews;
+export const newLeftToday = () => Math.max(0, getSettings().newPerDay + extraNewToday() - newStudiedToday());
+export const reviewsLeftToday = () => Math.max(0, getSettings().maxReviews - reviewsDoneToday());
+
+/** Learning and review cards due now (uncapped), most overdue first. */
+export function dueNow(lesson?: string): { learning: string[]; review: string[] } {
+  const now = Date.now();
+  const learning: [string, number][] = [];
+  const review: [string, number][] = [];
+  for (const [id, e] of Object.entries(cards)) {
+    if (lesson && e.lesson !== lesson) continue;
+    const q = queueOf(e, now);
+    if (q) (q === "learning" ? learning : review).push([id, e.card.due.getTime()]);
+  }
+  const ids = (xs: [string, number][]) => xs.sort((a, b) => a[1] - b[1]).map(([id]) => id);
+  return { learning: ids(learning), review: ids(review) };
+}
+
+/** Entries of a lesson that are no longer new words (studied) or hidden. */
+export const studiedOrHidden = (lesson: string) => Object.values(cards).filter((e) => e.lesson === lesson && (e.hidden || e.card.state !== State.New)).length;
+
+export interface DayCounts {
+  new: number;
+  learning: number;
+  review: number;
+}
+
+/** Anki's three numbers: new words still allowed today, learning cards, reviews due (capped by today's limit). */
+export function dayCounts(lesson?: string, unseenWords = 0): DayCounts {
+  const due = dueNow(lesson);
+  return {
+    new: Math.min(unseenWords, newLeftToday()),
+    learning: due.learning.length,
+    review: Math.min(due.review.length, reviewsLeftToday()),
+  };
+}
+
+/** Read-only views for the statistics page. */
+export const allEntries = (): Readonly<Record<string, Entry>> => cards;
+export const allLog = (): readonly LogEvent[] => log;
 
 /** Lesson ids that progress entries point at. */
 export const lessonIdsInUse = () => new Set(Object.values(cards).map((e) => e.lesson));
@@ -156,8 +238,6 @@ export function relocate(lessonIds: Set<string>, wordLesson: Map<string, string>
 export function learnedCount(lesson: string): number {
   return Object.values(cards).filter((e) => e.lesson === lesson && e.card.state !== State.New).length;
 }
-
-const dayKey = (t: number) => new Date(t).toLocaleDateString("sv"); // YYYY-MM-DD, local time
 
 /** Consecutive days with at least one answer, ending today (or yesterday if nothing yet today). */
 export function streak(): number {

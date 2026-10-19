@@ -313,3 +313,49 @@ h2 { font-size: 1.1rem; margin: 1.8rem 0 0.6rem; }
 .grade-no { color: var(--bad); }
 /* Persian is right-to-left: each translated line takes its direction from its own text */
 .meaning, .example .muted, .wl-meaning, .gram, .feedback, .notice { unicode-bidi: plaintext; }
+
+/* Anki-style counts, study options, statistics */
+:root { --viz-1: #86b6ef; --viz-2: #3987e5; --viz-3: #1c5cab; --viz-4: #0d366b; }
+@media (prefers-color-scheme: dark) { :root { --viz-1: #184f95; --viz-2: #2a78d6; --viz-3: #5598e7; --viz-4: #9ec5f4; } }
+.stats { grid-template-columns: repeat(auto-fit, minmax(90px, 1fr)); }
+.daycounts { display: inline-flex; gap: 8px; font-variant-numeric: tabular-nums; font-size: 0.9rem; }
+.dc-new { color: var(--der); }
+.dc-learning { color: var(--bad); }
+.dc-review { color: var(--ok); }
+.dc-current { text-decoration: underline; text-underline-offset: 3px; }
+.daycounts-legend { margin: -4px 0 8px; }
+.home-links { margin: 0 0 16px; }
+.option { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 14px 16px; margin-bottom: 12px; }
+.option-label { display: block; font-weight: 600; margin-bottom: 8px; }
+.option select, .block-select { width: 100%; padding: 10px; border-radius: 10px; border: 1px solid var(--line); background: var(--surface); color: var(--text); font: inherit; }
+.block-select { margin-bottom: 12px; }
+.stepper { display: flex; gap: 8px; align-items: center; }
+.stepper input { flex: 1; min-width: 0; text-align: center; padding: 10px; border-radius: 10px; border: 1px solid var(--line); background: var(--surface); color: var(--text); font: inherit; font-size: 1.1rem; }
+.stepper .btn { width: 48px; flex: none; }
+.card-section { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 14px 16px; margin-bottom: 12px; }
+.card-section h3 { margin: 0 0 4px; font-size: 1rem; }
+.readout { margin: 0 0 8px; min-height: 1.2em; }
+.chart { width: 100%; height: auto; display: block; overflow: visible; }
+.chart .axis { stroke: var(--line); stroke-width: 1; }
+.chart .tick { fill: var(--muted); font-size: 9px; }
+.chart .bar { fill: var(--viz-2); }
+.chart .hit { cursor: pointer; outline: none; }
+.chart .hit:focus-visible .bar, .chart .hit:hover .bar { fill: var(--viz-3); }
+.lvl-0 { fill: var(--line); background: var(--line); }
+.lvl-1 { fill: var(--viz-1); background: var(--viz-1); }
+.lvl-2 { fill: var(--viz-2); background: var(--viz-2); }
+.lvl-3 { fill: var(--viz-3); background: var(--viz-3); }
+.lvl-4 { fill: var(--viz-4); background: var(--viz-4); }
+.heat rect.hit:hover, .heat rect.hit:focus-visible { stroke: var(--text); stroke-width: 1; }
+.swatch { display: inline-block; width: 10px; height: 10px; border-radius: 2px; vertical-align: middle; margin: 0 1px; }
+.heat-legend { margin: 6px 0 0; }
+.stack { display: flex; gap: 2px; height: 14px; margin: 8px 0; }
+.seg { border-radius: 4px; min-width: 4px; }
+.st-new { background: var(--viz-1); }
+.st-learning { background: var(--viz-2); }
+.st-young { background: var(--viz-3); }
+.st-mature { background: var(--viz-4); }
+.legend { list-style: none; padding: 0; margin: 4px 0; display: grid; grid-template-columns: 1fr 1fr; gap: 4px 12px; font-size: 0.9rem; }
+.hero-num { font-size: 2.2rem; font-weight: 700; font-variant-numeric: tabular-nums; }
+.table-view table { width: 100%; border-collapse: collapse; font-size: 0.85rem; margin-top: 6px; }
+.table-view td, .table-view th { text-align: left; padding: 2px 4px; border-bottom: 1px solid var(--line); }
