@@ -8,6 +8,15 @@
    "tr": {
     "meaning": "hoşgörü",
     "example": "Hoşgörü birlikte yaşamak için önemlidir."
+   },
+   "th": {
+    "meaning": "ความอดทนอดกลั้น, การยอมรับความแตกต่าง"
+   },
+   "vi": {
+    "meaning": "sự khoan dung"
+   },
+   "fa": {
+    "meaning": "تحمل، مدارا"
    }
   },
   "Qo3B|sx[?I": {
@@ -18,6 +27,15 @@
    "tr": {
     "meaning": "kültür",
     "example": "Alman kültürüne neler aittir?"
+   },
+   "th": {
+    "meaning": "วัฒนธรรม"
+   },
+   "vi": {
+    "meaning": "văn hóa"
+   },
+   "fa": {
+    "meaning": "فرهنگ"
    }
   },
   "h!GRo2UL|W": {
@@ -28,6 +46,15 @@
    "tr": {
     "meaning": "gelenek, adet",
     "example": "Paskalya'nın birçok eski geleneği vardır."
+   },
+   "th": {
+    "meaning": "ประเพณี, ธรรมเนียม"
+   },
+   "vi": {
+    "meaning": "phong tục"
+   },
+   "fa": {
+    "meaning": "رسم، سنت"
    }
   },
   "NZgB<692Ju": {
@@ -38,6 +65,15 @@
    "tr": {
     "meaning": "bayram; şenlik",
     "example": "Oktoberfest büyük bir şenliktir."
+   },
+   "th": {
+    "meaning": "เทศกาล; งานฉลอง"
+   },
+   "vi": {
+    "meaning": "lễ hội; buổi lễ"
+   },
+   "fa": {
+    "meaning": "جشن، جشنواره"
    }
   },
   "os:g=!}Vmz": {
@@ -48,6 +84,15 @@
    "tr": {
     "meaning": "geleneksel kıyafet (ör. Bavyera deri pantolonu, dirndl)",
     "example": "Bavyera'da birçok insan şenliklerde geleneksel kıyafet giyer."
+   },
+   "th": {
+    "meaning": "ชุดประจำถิ่น"
+   },
+   "vi": {
+    "meaning": "trang phục truyền thống"
+   },
+   "fa": {
+    "meaning": "لباس محلی سنتی"
    }
   },
   "KTjDZUGF^(": {
@@ -58,6 +103,15 @@
    "tr": {
     "meaning": "giysi, kıyafet",
     "example": "Kıyafetlerimi internetten almayı severim."
+   },
+   "th": {
+    "meaning": "เสื้อผ้า"
+   },
+   "vi": {
+    "meaning": "quần áo, trang phục"
+   },
+   "fa": {
+    "meaning": "لباس، پوشاک"
    }
   },
   "o_4b<RS,.3": {
@@ -68,6 +122,15 @@
    "tr": {
     "meaning": "sanat",
     "example": "Modern sanatla ilgileniyor."
+   },
+   "th": {
+    "meaning": "ศิลปะ"
+   },
+   "vi": {
+    "meaning": "nghệ thuật"
+   },
+   "fa": {
+    "meaning": "هنر"
    }
   },
   "j*_T-.L1_L": {
@@ -78,6 +141,15 @@
    "tr": {
     "meaning": "mimari",
     "example": "Elbphilharmonie'nin mimarisi etkileyici."
+   },
+   "th": {
+    "meaning": "สถาปัตยกรรม"
+   },
+   "vi": {
+    "meaning": "kiến trúc"
+   },
+   "fa": {
+    "meaning": "معماری"
    }
   },
   "g5vn%-^s&%": {
@@ -88,6 +160,15 @@
    "tr": {
     "meaning": "boş zaman etkinliği",
     "example": "Bisiklet sürmek popüler bir boş zaman etkinliğidir."
+   },
+   "th": {
+    "meaning": "กิจกรรมยามว่าง"
+   },
+   "vi": {
+    "meaning": "hoạt động giải trí"
+   },
+   "fa": {
+    "meaning": "سرگرمی، فعالیت اوقات فراغت"
    }
   },
   "p]di.-jz-f": {
@@ -98,6 +179,15 @@
    "tr": {
     "meaning": "otomobil markası",
     "example": "Birçok otomobil markası Almanya'dan gelir."
+   },
+   "th": {
+    "meaning": "ยี่ห้อรถยนต์"
+   },
+   "vi": {
+    "meaning": "hãng xe hơi"
+   },
+   "fa": {
+    "meaning": "برند خودرو"
    }
   },
   "Mvxl}F_/%_": {
@@ -108,6 +198,15 @@
    "tr": {
     "meaning": "duvar; sur",
     "example": "Berlin Duvarı 1989'da yıkıldı."
+   },
+   "th": {
+    "meaning": "กำแพง"
+   },
+   "vi": {
+    "meaning": "bức tường"
+   },
+   "fa": {
+    "meaning": "دیوار"
    }
   },
   "yq{DrLTETd": {
@@ -118,6 +217,15 @@
    "tr": {
     "meaning": "sığınak, bunker",
     "example": "Hamburg'da hâlâ birçok eski sığınak var."
+   },
+   "th": {
+    "meaning": "บังเกอร์, หลุมหลบภัย"
+   },
+   "vi": {
+    "meaning": "boong-ke, hầm trú ẩn"
+   },
+   "fa": {
+    "meaning": "پناهگاه"
    }
   },
   "wrK|nbVEvq": {
@@ -128,6 +236,15 @@
    "tr": {
     "meaning": "yer, mekân",
     "example": "Eskiden bu yerde bir duvar vardı."
+   },
+   "th": {
+    "meaning": "สถานที่"
+   },
+   "vi": {
+    "meaning": "nơi, địa điểm"
+   },
+   "fa": {
+    "meaning": "مکان، جا"
    }
   },
   "bmNSZKeXmf": {
@@ -138,6 +255,15 @@
    "tr": {
     "meaning": "selamlaşma",
     "example": "Selamlaşırken el sıkışılır."
+   },
+   "th": {
+    "meaning": "การทักทาย"
+   },
+   "vi": {
+    "meaning": "sự chào hỏi"
+   },
+   "fa": {
+    "meaning": "احوال‌پرسی، سلام"
    }
   },
   "qYd@?P,6T|": {
@@ -148,6 +274,15 @@
    "tr": {
     "meaning": "dokunma, temas",
     "example": "Brezilya'da dokunmak daha yaygındır."
+   },
+   "th": {
+    "meaning": "การสัมผัส"
+   },
+   "vi": {
+    "meaning": "sự đụng chạm"
+   },
+   "fa": {
+    "meaning": "لمس، تماس بدنی"
    }
   },
   "x7Zwymh)C6": {
@@ -158,6 +293,15 @@
    "tr": {
     "meaning": "göz teması",
     "example": "Sohbette göz teması önemlidir."
+   },
+   "th": {
+    "meaning": "การสบตา"
+   },
+   "vi": {
+    "meaning": "giao tiếp bằng mắt"
+   },
+   "fa": {
+    "meaning": "تماس چشمی"
    }
   },
   "M4B%u_Soy<": {
@@ -168,6 +312,15 @@
    "tr": {
     "meaning": "fiziksel temas",
     "example": "Finlandiya'da sohbet sırasında neredeyse hiç fiziksel temas olmaz."
+   },
+   "th": {
+    "meaning": "การสัมผัสร่างกาย"
+   },
+   "vi": {
+    "meaning": "tiếp xúc cơ thể"
+   },
+   "fa": {
+    "meaning": "تماس بدنی"
    }
   },
   "H=x7/h.!Yr": {
@@ -178,6 +331,15 @@
    "tr": {
     "meaning": "mesafe, ara",
     "example": "Lütfen mesafenizi koruyun!"
+   },
+   "th": {
+    "meaning": "ระยะห่าง"
+   },
+   "vi": {
+    "meaning": "khoảng cách"
+   },
+   "fa": {
+    "meaning": "فاصله"
    }
   },
   "jnTksj-awb": {
@@ -188,6 +350,15 @@
    "tr": {
     "meaning": "mesafe",
     "example": "Kişiler arasındaki mesafe büyük."
+   },
+   "th": {
+    "meaning": "ระยะทาง, ระยะห่าง"
+   },
+   "vi": {
+    "meaning": "khoảng cách"
+   },
+   "fa": {
+    "meaning": "فاصله"
    }
   },
   "ps7ydCbSsU": {
@@ -198,6 +369,15 @@
    "tr": {
     "meaning": "mesafeli, soğuk",
     "example": "Almanlar mesafeli mi?"
+   },
+   "th": {
+    "meaning": "เย็นชา, ห่างเหิน"
+   },
+   "vi": {
+    "meaning": "xa cách, lạnh lùng"
+   },
+   "fa": {
+    "meaning": "سرد، با فاصله"
    }
   },
   "AkL%^>VhwO": {
@@ -208,6 +388,15 @@
    "tr": {
     "meaning": "yakın; dar",
     "example": "Kız kardeşimle yakın bir ilişkim var."
+   },
+   "th": {
+    "meaning": "ใกล้ชิด; แคบ"
+   },
+   "vi": {
+    "meaning": "thân thiết; chật, hẹp"
+   },
+   "fa": {
+    "meaning": "نزدیک، صمیمی؛ تنگ"
    }
   },
   "PAJhgR)RIv": {
@@ -218,6 +407,15 @@
    "tr": {
     "meaning": "samimi, tanıdık",
     "example": "İkisi çok samimi."
+   },
+   "th": {
+    "meaning": "สนิทสนม, คุ้นเคย"
+   },
+   "vi": {
+    "meaning": "thân mật, quen thuộc"
+   },
+   "fa": {
+    "meaning": "صمیمی، آشنا"
    }
   },
   "n24M>Wf~7&": {
@@ -228,6 +426,15 @@
    "tr": {
     "meaning": "değiş tokuş etmek, paylaşmak",
     "example": "Telefon numaralarını paylaşıyorlar."
+   },
+   "th": {
+    "meaning": "แลกเปลี่ยน"
+   },
+   "vi": {
+    "meaning": "trao đổi"
+   },
+   "fa": {
+    "meaning": "مبادله کردن، رد و بدل کردن"
    }
   },
   "Qn<*WQja0-": {
@@ -238,6 +445,15 @@
    "tr": {
     "meaning": "sevinç, mutluluk",
     "example": "Senin ülkende insanlar sevinci nasıl gösterir?"
+   },
+   "th": {
+    "meaning": "ความยินดี, ความสุข"
+   },
+   "vi": {
+    "meaning": "niềm vui"
+   },
+   "fa": {
+    "meaning": "شادی، خوشحالی"
    }
   },
   "C3A1!XY&Rx": {
@@ -248,6 +464,15 @@
    "tr": {
     "meaning": "ev sahibine götürülen hediye",
     "example": "Davet edildiğinde ev sahibine bir hediye götürülür."
+   },
+   "th": {
+    "meaning": "ของฝากเวลาไปเยี่ยมบ้าน"
+   },
+   "vi": {
+    "meaning": "quà khi đến chơi nhà"
+   },
+   "fa": {
+    "meaning": "هدیه برای میزبان"
    }
   },
   "Ei;oscOx}.": {
@@ -258,6 +483,15 @@
    "tr": {
     "meaning": "kural",
     "example": "Her toplumda kurallar vardır."
+   },
+   "th": {
+    "meaning": "กฎ"
+   },
+   "vi": {
+    "meaning": "quy tắc"
+   },
+   "fa": {
+    "meaning": "قانون، قاعده"
    }
   },
   "ut,UOM<tup": {
@@ -268,6 +502,15 @@
    "tr": {
     "meaning": "kırmak; çiğnemek",
     "example": "Kuralı çiğnersen ceza alırsın."
+   },
+   "th": {
+    "meaning": "ทำลาย; ฝ่าฝืน"
+   },
+   "vi": {
+    "meaning": "làm gãy; vi phạm"
+   },
+   "fa": {
+    "meaning": "شکستن؛ زیر پا گذاشتن"
    }
   },
   "cN5PY*``B}": {
@@ -278,6 +521,15 @@
    "tr": {
     "meaning": "ceza; para cezası",
     "example": "Yanlış park etmenin cezası vardır."
+   },
+   "th": {
+    "meaning": "การลงโทษ; ค่าปรับ"
+   },
+   "vi": {
+    "meaning": "hình phạt; tiền phạt"
+   },
+   "fa": {
+    "meaning": "مجازات؛ جریمه"
    }
   },
   "f*DdMro/<,": {
@@ -288,6 +540,15 @@
    "tr": {
     "meaning": "norm, standart",
     "example": "Genel normlar çoğu zaman yazılı değildir."
+   },
+   "th": {
+    "meaning": "บรรทัดฐาน"
+   },
+   "vi": {
+    "meaning": "chuẩn mực"
+   },
+   "fa": {
+    "meaning": "هنجار، معیار"
    }
   },
   "l8w>:Z];0a": {
@@ -298,6 +559,15 @@
    "tr": {
     "meaning": "tabela, levha",
     "example": "Tabelada \"Sigara içmek yasaktır\" yazıyor."
+   },
+   "th": {
+    "meaning": "ป้าย"
+   },
+   "vi": {
+    "meaning": "biển báo, tấm biển"
+   },
+   "fa": {
+    "meaning": "تابلو"
    }
   },
   "AYmA<d&IAp": {
@@ -308,6 +578,15 @@
    "tr": {
     "meaning": "afiş, poster",
     "example": "Her yerde konser afişleri asılı."
+   },
+   "th": {
+    "meaning": "โปสเตอร์"
+   },
+   "vi": {
+    "meaning": "áp phích"
+   },
+   "fa": {
+    "meaning": "پوستر"
    }
   },
   "dN_,VN<q2@": {
@@ -318,6 +597,15 @@
    "tr": {
     "meaning": "görünür",
     "example": "Bazı kurallar açıkça görünür."
+   },
+   "th": {
+    "meaning": "มองเห็นได้"
+   },
+   "vi": {
+    "meaning": "nhìn thấy được"
+   },
+   "fa": {
+    "meaning": "قابل مشاهده"
    }
   },
   "K|[~knVD-~": {
@@ -328,6 +616,15 @@
    "tr": {
     "meaning": "görünmez",
     "example": "Görünmez kurallar da vardır."
+   },
+   "th": {
+    "meaning": "มองไม่เห็น"
+   },
+   "vi": {
+    "meaning": "vô hình"
+   },
+   "fa": {
+    "meaning": "نامرئی"
    }
   },
   "et9BO02u)s": {
@@ -338,6 +635,15 @@
    "tr": {
     "meaning": "ön koşul, şart",
     "example": "Almanca bu iş için bir ön koşul."
+   },
+   "th": {
+    "meaning": "เงื่อนไข, ข้อกำหนดเบื้องต้น"
+   },
+   "vi": {
+    "meaning": "điều kiện tiên quyết"
+   },
+   "fa": {
+    "meaning": "پیش‌شرط"
    }
   },
   "kD~vEX@f.R": {
@@ -348,6 +654,15 @@
    "tr": {
     "meaning": "yanlış anlaşılma",
     "example": "Bu bir yanlış anlaşılmaydı."
+   },
+   "th": {
+    "meaning": "ความเข้าใจผิด"
+   },
+   "vi": {
+    "meaning": "sự hiểu lầm"
+   },
+   "fa": {
+    "meaning": "سوءتفاهم"
    }
   },
   "ABGy}#kp+Q": {
@@ -358,6 +673,15 @@
    "tr": {
     "meaning": "davranış",
     "example": "Davranışı çok tuhaftı."
+   },
+   "th": {
+    "meaning": "พฤติกรรม"
+   },
+   "vi": {
+    "meaning": "hành vi, cách cư xử"
+   },
+   "fa": {
+    "meaning": "رفتار"
    }
   },
   "kPdvB@T^$G": {
@@ -368,6 +692,15 @@
    "tr": {
     "meaning": "davranmak",
     "example": "Arkadaşları nasıl davrandı?"
+   },
+   "th": {
+    "meaning": "ประพฤติ, ทำตัว"
+   },
+   "vi": {
+    "meaning": "cư xử"
+   },
+   "fa": {
+    "meaning": "رفتار کردن"
    }
   },
   "3@MDD>T4;": {
@@ -378,6 +711,15 @@
    "tr": {
     "meaning": "davranış biçimi",
     "example": "Her kültürün kendine özgü davranış biçimleri vardır."
+   },
+   "th": {
+    "meaning": "รูปแบบพฤติกรรม"
+   },
+   "vi": {
+    "meaning": "cách ứng xử"
+   },
+   "fa": {
+    "meaning": "شیوهٔ رفتار"
    }
   },
   "Pg[t+^`dw`": {
@@ -388,6 +730,15 @@
    "tr": {
     "meaning": "trafik işareti",
     "example": "Trafik kurallarını trafik işaretlerinden anlarsın."
+   },
+   "th": {
+    "meaning": "ป้ายจราจร"
+   },
+   "vi": {
+    "meaning": "biển báo giao thông"
+   },
+   "fa": {
+    "meaning": "تابلوی راهنمایی و رانندگی"
    }
   },
   "C<2if)jg:o": {
@@ -398,6 +749,15 @@
    "tr": {
     "meaning": "trafik kuralı",
     "example": "Trafik kurallarını bilmek zorundasın."
+   },
+   "th": {
+    "meaning": "กฎจราจร"
+   },
+   "vi": {
+    "meaning": "luật giao thông"
+   },
+   "fa": {
+    "meaning": "قانون راهنمایی و رانندگی"
    }
   },
   "u@4W?[W9b9": {
@@ -408,6 +768,15 @@
    "tr": {
     "meaning": "aklında tutmak, ezberlemek",
     "example": "Kelimeleri aklımda tutamıyorum."
+   },
+   "th": {
+    "meaning": "จดจำ"
+   },
+   "vi": {
+    "meaning": "ghi nhớ"
+   },
+   "fa": {
+    "meaning": "به خاطر سپردن"
    }
   },
   "p]N%xxaJfA": {
@@ -418,6 +787,15 @@
    "tr": {
     "meaning": "yolunda gitmek, başarmak (günlük dil)",
     "example": "Her şey yolunda gitti mi?"
+   },
+   "th": {
+    "meaning": "สำเร็จ, เป็นไปด้วยดี (ภาษาพูด)"
+   },
+   "vi": {
+    "meaning": "suôn sẻ, thành công (khẩu ngữ)"
+   },
+   "fa": {
+    "meaning": "جور شدن، درست پیش رفتن (محاوره‌ای)"
    }
   },
   "lOJzdyZ_H]": {
@@ -428,6 +806,15 @@
    "tr": {
     "meaning": "bir şekilde",
     "example": "Bir şekilde olur."
+   },
+   "th": {
+    "meaning": "อย่างใดอย่างหนึ่ง, ยังไงก็ตาม"
+   },
+   "vi": {
+    "meaning": "bằng cách nào đó"
+   },
+   "fa": {
+    "meaning": "به نوعی، یه جوری"
    }
   },
   "D{I@Xo#i9U": {
@@ -438,6 +825,15 @@
    "tr": {
     "meaning": "çalışmak, işlemek",
     "example": "Birlikte yaşamak iyi işliyor."
+   },
+   "th": {
+    "meaning": "ทำงาน, ใช้ได้"
+   },
+   "vi": {
+    "meaning": "hoạt động, vận hành"
+   },
+   "fa": {
+    "meaning": "کار کردن، عمل کردن"
    }
   },
   "q/6.sGfr8I": {
@@ -448,6 +844,15 @@
    "tr": {
     "meaning": "tanımak, fark etmek",
     "example": "Kuralları tabelalardan anlarsın."
+   },
+   "th": {
+    "meaning": "จำได้, สังเกตเห็น"
+   },
+   "vi": {
+    "meaning": "nhận ra"
+   },
+   "fa": {
+    "meaning": "تشخیص دادن، شناختن"
    }
   },
   "o7Sn~M^/jq": {
@@ -458,6 +863,15 @@
    "tr": {
     "meaning": "tanınabilir, belli",
     "example": "Kurallar her zaman kolayca anlaşılmaz."
+   },
+   "th": {
+    "meaning": "สังเกตได้, จำแนกได้"
+   },
+   "vi": {
+    "meaning": "có thể nhận ra"
+   },
+   "fa": {
+    "meaning": "قابل تشخیص"
    }
   },
   "E6z:iH^,}%": {
@@ -468,6 +882,15 @@
    "tr": {
     "meaning": "... olarak adlandırmak",
     "example": "Onlara \"yazılı olmayan yasalar\" diyebiliriz."
+   },
+   "th": {
+    "meaning": "เรียกว่า"
+   },
+   "vi": {
+    "meaning": "gọi là"
+   },
+   "fa": {
+    "meaning": "نامیدن به عنوان"
    }
   },
   "xIeg+AkYTc": {
@@ -478,6 +901,15 @@
    "tr": {
     "meaning": "yazılı olmayan",
     "example": "Bu yazılı olmayan bir yasadır."
+   },
+   "th": {
+    "meaning": "ไม่ได้เขียนไว้"
+   },
+   "vi": {
+    "meaning": "bất thành văn"
+   },
+   "fa": {
+    "meaning": "نانوشته"
    }
   },
   "I>$hNd*=L5": {
@@ -488,6 +920,15 @@
    "tr": {
     "meaning": "not etmek, yazmak",
     "example": "Adresi not ettim."
+   },
+   "th": {
+    "meaning": "จดไว้"
+   },
+   "vi": {
+    "meaning": "ghi lại"
+   },
+   "fa": {
+    "meaning": "یادداشت کردن"
    }
   },
   "FG_@0aeNxb": {
@@ -498,6 +939,15 @@
    "tr": {
     "meaning": "... ile bağlı olmak",
     "example": "Her insan kültürüne güçlü bir şekilde bağlıdır."
+   },
+   "th": {
+    "meaning": "เชื่อมโยงกับ"
+   },
+   "vi": {
+    "meaning": "gắn bó với"
+   },
+   "fa": {
+    "meaning": "پیوند داشتن با"
    }
   },
   "eNVl$mn[]j": {
@@ -508,6 +958,15 @@
    "tr": {
     "meaning": "etkilemek",
     "example": "Kültür davranışlarımızı etkiler."
+   },
+   "th": {
+    "meaning": "มีอิทธิพลต่อ"
+   },
+   "vi": {
+    "meaning": "ảnh hưởng"
+   },
+   "fa": {
+    "meaning": "تأثیر گذاشتن"
    }
   },
   "M{t@ZY[:,.": {
@@ -518,6 +977,15 @@
    "tr": {
     "meaning": "farklılık göstermek, ayrılmak",
     "example": "Kurallar kültürden kültüre farklılık gösterir."
+   },
+   "th": {
+    "meaning": "แตกต่างกัน"
+   },
+   "vi": {
+    "meaning": "khác nhau"
+   },
+   "fa": {
+    "meaning": "متفاوت بودن"
    }
   },
   "wtQo6erg4R": {
@@ -528,6 +996,15 @@
    "tr": {
     "meaning": "haber vermek",
     "example": "Lütfen önceden bana haber ver!"
+   },
+   "th": {
+    "meaning": "แจ้งให้ทราบ"
+   },
+   "vi": {
+    "meaning": "báo cho biết"
+   },
+   "fa": {
+    "meaning": "خبر دادن"
    }
   },
   "gS$l<XToTp": {
@@ -538,6 +1015,15 @@
    "tr": {
     "meaning": "önceden",
     "example": "Lütfen önceden ara!"
+   },
+   "th": {
+    "meaning": "ล่วงหน้า, ก่อนหน้า"
+   },
+   "vi": {
+    "meaning": "trước, trước đó"
+   },
+   "fa": {
+    "meaning": "از قبل"
    }
   },
   "iZnG&C.~q6": {
@@ -548,6 +1034,15 @@
    "tr": {
     "meaning": "durum",
     "example": "Bu durumda ne diyeceğimi bilemedim."
+   },
+   "th": {
+    "meaning": "สถานการณ์"
+   },
+   "vi": {
+    "meaning": "tình huống"
+   },
+   "fa": {
+    "meaning": "موقعیت"
    }
   },
   "GKp^0?W1!J": {
@@ -558,6 +1053,15 @@
    "tr": {
     "meaning": "olmak, meydana gelmek",
     "example": "Bu sık sık olur."
+   },
+   "th": {
+    "meaning": "เกิดขึ้น"
+   },
+   "vi": {
+    "meaning": "xảy ra"
+   },
+   "fa": {
+    "meaning": "پیش آمدن، اتفاق افتادن"
    }
   },
   "DmNADzV_%j": {
@@ -568,6 +1072,15 @@
    "tr": {
     "meaning": "gözlemlemek",
     "example": "Almanya'da neler gözlemlediniz?"
+   },
+   "th": {
+    "meaning": "สังเกต"
+   },
+   "vi": {
+    "meaning": "quan sát"
+   },
+   "fa": {
+    "meaning": "مشاهده کردن"
    }
   },
   "OYKaW&Z.:f": {
@@ -578,6 +1091,15 @@
    "tr": {
     "meaning": "fikir, görüş",
     "example": "Kişilerin farklı görüşleri var."
+   },
+   "th": {
+    "meaning": "ความคิดเห็น"
+   },
+   "vi": {
+    "meaning": "ý kiến"
+   },
+   "fa": {
+    "meaning": "نظر، عقیده"
    }
   },
   "K1g-@xrdQj": {
@@ -588,6 +1110,15 @@
    "tr": {
     "meaning": "(fikir) belirtmek, ifade etmek",
     "example": "Fikrini açıkça ifade ediyor."
+   },
+   "th": {
+    "meaning": "แสดง (ความคิดเห็น)"
+   },
+   "vi": {
+    "meaning": "bày tỏ (ý kiến)"
+   },
+   "fa": {
+    "meaning": "بیان کردن (نظر)"
    }
   },
   "sZ9`O2@K{5": {
@@ -598,6 +1129,15 @@
    "tr": {
     "meaning": "katılmak, onaylamak",
     "example": "Sana katılıyorum."
+   },
+   "th": {
+    "meaning": "เห็นด้วย"
+   },
+   "vi": {
+    "meaning": "đồng ý"
+   },
+   "fa": {
+    "meaning": "موافقت کردن"
    }
   },
   "uczL^vbJ6%": {
@@ -608,6 +1148,15 @@
    "tr": {
     "meaning": "reddetmek",
     "example": "Teklifi reddetti."
+   },
+   "th": {
+    "meaning": "ปฏิเสธ"
+   },
+   "vi": {
+    "meaning": "từ chối, phản đối"
+   },
+   "fa": {
+    "meaning": "رد کردن"
    }
   },
   "et|tzrSciD": {
@@ -618,6 +1167,15 @@
    "tr": {
     "meaning": "doğru, öyle",
     "example": "Evet, doğru."
+   },
+   "th": {
+    "meaning": "ถูกต้อง, ใช่"
+   },
+   "vi": {
+    "meaning": "đúng vậy"
+   },
+   "fa": {
+    "meaning": "درسته"
    }
   },
   "F00P[DJh~T": {
@@ -628,6 +1186,15 @@
    "tr": {
     "meaning": "düzenli, organize",
     "example": "Almanlar çok düzenlidir."
+   },
+   "th": {
+    "meaning": "เป็นระเบียบ, มีการจัดการดี"
+   },
+   "vi": {
+    "meaning": "ngăn nắp, có tổ chức"
+   },
+   "fa": {
+    "meaning": "منظم"
    }
   },
   "gtx,+XW0q#": {
@@ -638,6 +1205,15 @@
    "tr": {
     "meaning": "kaos, karmaşa",
     "example": "Masam darmadağın."
+   },
+   "th": {
+    "meaning": "ความวุ่นวาย"
+   },
+   "vi": {
+    "meaning": "sự hỗn loạn"
+   },
+   "fa": {
+    "meaning": "آشفتگی، هرج و مرج"
    }
   },
   "t@Dc;Z!W&-": {
@@ -648,6 +1224,15 @@
    "tr": {
     "meaning": "elverişsiz, uygun olmayan",
     "example": "Randevu benim için uygun değil."
+   },
+   "th": {
+    "meaning": "ไม่สะดวก, ไม่เหมาะ"
+   },
+   "vi": {
+    "meaning": "bất lợi, không thuận tiện"
+   },
+   "fa": {
+    "meaning": "نامناسب"
    }
   },
   "hV<BUs7U?k": {
@@ -658,6 +1243,15 @@
    "tr": {
     "meaning": "sorumluluk sahibi",
     "example": "Çok sorumluluk sahibi biri."
+   },
+   "th": {
+    "meaning": "มีความรับผิดชอบ"
+   },
+   "vi": {
+    "meaning": "có trách nhiệm"
+   },
+   "fa": {
+    "meaning": "وظیفه‌شناس"
    }
   },
   "q[2h:kD2Xe": {
@@ -668,6 +1262,15 @@
    "tr": {
     "meaning": "hatta, bile",
     "example": "Kırmızı ışıkta bile bekliyorlar."
+   },
+   "th": {
+    "meaning": "แม้แต่"
+   },
+   "vi": {
+    "meaning": "thậm chí"
+   },
+   "fa": {
+    "meaning": "حتی"
    }
   },
   "pq&O.zPcd#": {
@@ -678,6 +1281,15 @@
    "tr": {
     "meaning": "tanımak, kabul etmek (resmî olarak)",
     "example": "Diplomam Almanya'da tanındı."
+   },
+   "th": {
+    "meaning": "ยอมรับ, รับรอง"
+   },
+   "vi": {
+    "meaning": "công nhận"
+   },
+   "fa": {
+    "meaning": "به رسمیت شناختن"
    }
   },
   "hc{|%yz2EB": {
@@ -688,6 +1300,15 @@
    "tr": {
     "meaning": "parça, kısım",
     "example": "Toplumun bir parçası gibi hissetmek istiyorum."
+   },
+   "th": {
+    "meaning": "ส่วน"
+   },
+   "vi": {
+    "meaning": "phần"
+   },
+   "fa": {
+    "meaning": "بخش، جزء"
    }
   },
   "lH/51x-U7L": {
@@ -698,6 +1319,15 @@
    "tr": {
     "meaning": "birbiriyle, birlikte",
     "example": "Birlikte çok zaman geçiriyoruz."
+   },
+   "th": {
+    "meaning": "ด้วยกัน, ซึ่งกันและกัน"
+   },
+   "vi": {
+    "meaning": "cùng nhau, với nhau"
+   },
+   "fa": {
+    "meaning": "با هم"
    }
   },
   "wkT+OSy}4v": {
@@ -708,6 +1338,15 @@
    "tr": {
     "meaning": "iş yeri, kadro",
     "example": "Bir iş bulmayı diliyorum."
+   },
+   "th": {
+    "meaning": "ตำแหน่งงาน"
+   },
+   "vi": {
+    "meaning": "chỗ làm, việc làm"
+   },
+   "fa": {
+    "meaning": "شغل، جای کار"
    }
   },
   "L2J(jrGB@`": {
@@ -718,6 +1357,15 @@
    "tr": {
     "meaning": "spor yapmak",
     "example": "Haftada iki kez spor yapıyorum."
+   },
+   "th": {
+    "meaning": "เล่นกีฬา"
+   },
+   "vi": {
+    "meaning": "chơi thể thao"
+   },
+   "fa": {
+    "meaning": "ورزش کردن"
    }
   },
   "D?zI}6Dh{/": {
@@ -728,6 +1376,15 @@
    "tr": {
     "meaning": "dilek, istek",
     "example": "En büyük dileğim kendime ait bir ev."
+   },
+   "th": {
+    "meaning": "ความปรารถนา"
+   },
+   "vi": {
+    "meaning": "mong muốn, điều ước"
+   },
+   "fa": {
+    "meaning": "آرزو"
    }
   },
   "pdo:D~g{IA": {
@@ -738,6 +1395,15 @@
    "tr": {
     "meaning": "anket",
     "example": "Kursta bir anket yapın."
+   },
+   "th": {
+    "meaning": "แบบสำรวจ"
+   },
+   "vi": {
+    "meaning": "cuộc khảo sát"
+   },
+   "fa": {
+    "meaning": "نظرسنجی"
    }
   },
   "i~<J`h5K5O": {
@@ -748,6 +1414,15 @@
    "tr": {
     "meaning": "ünlü",
     "example": "Ünlü olmayı çok isterdim."
+   },
+   "th": {
+    "meaning": "มีชื่อเสียง"
+   },
+   "vi": {
+    "meaning": "nổi tiếng"
+   },
+   "fa": {
+    "meaning": "مشهور"
    }
   },
   "E$c-Zk3ve{": {
@@ -758,6 +1433,15 @@
    "tr": {
     "meaning": "kazanmak",
     "example": "Piyangoyu kazanmak isterdim."
+   },
+   "th": {
+    "meaning": "ชนะ; ถูก (รางวัล)"
+   },
+   "vi": {
+    "meaning": "thắng; trúng (giải)"
+   },
+   "fa": {
+    "meaning": "بردن؛ برنده شدن"
    }
   },
   "M>UdJT[~==": {
@@ -768,6 +1452,15 @@
    "tr": {
     "meaning": "loto, piyango",
     "example": "Her hafta loto oynuyor."
+   },
+   "th": {
+    "meaning": "ลอตเตอรี่"
+   },
+   "vi": {
+    "meaning": "xổ số"
+   },
+   "fa": {
+    "meaning": "لاتاری، بخت‌آزمایی"
    }
   },
   "tRiMm:gL16": {
@@ -778,6 +1471,15 @@
    "tr": {
     "meaning": "dinlenmek",
     "example": "Hafta sonu dinlenmek istiyorum."
+   },
+   "th": {
+    "meaning": "พักผ่อน"
+   },
+   "vi": {
+    "meaning": "nghỉ ngơi"
+   },
+   "fa": {
+    "meaning": "استراحت کردن"
    }
   },
   "yAxy$Cnzin": {
@@ -788,6 +1490,15 @@
    "tr": {
     "meaning": "en azından",
     "example": "O zaman en azından ünlü birini tanırdım."
+   },
+   "th": {
+    "meaning": "อย่างน้อย"
+   },
+   "vi": {
+    "meaning": "ít nhất"
+   },
+   "fa": {
+    "meaning": "دست‌کم"
    }
   },
   "oIt~10#r%3": {
@@ -798,6 +1509,15 @@
    "tr": {
     "meaning": "nihayet, sonunda",
     "example": "Nihayet tatildeyiz!"
+   },
+   "th": {
+    "meaning": "ในที่สุด"
+   },
+   "vi": {
+    "meaning": "cuối cùng"
+   },
+   "fa": {
+    "meaning": "بالاخره"
    }
   },
   "t,a%9@Zc`4": {
@@ -808,6 +1528,15 @@
    "tr": {
     "meaning": "kayak tatili",
     "example": "Kışın kayak tatiline gideriz."
+   },
+   "th": {
+    "meaning": "วันหยุดเล่นสกี"
+   },
+   "vi": {
+    "meaning": "kỳ nghỉ trượt tuyết"
+   },
+   "fa": {
+    "meaning": "تعطیلات اسکی"
    }
   },
   "MTgL%ZM[&>": {
@@ -818,6 +1547,15 @@
    "tr": {
     "meaning": "hemşire (kadın)",
     "example": "Sonja hemşire olarak çalışıyor."
+   },
+   "th": {
+    "meaning": "พยาบาล (หญิง)"
+   },
+   "vi": {
+    "meaning": "y tá (nữ)"
+   },
+   "fa": {
+    "meaning": "پرستار (زن)"
    }
   },
   "k$=M+nNH3B": {
@@ -828,6 +1566,15 @@
    "tr": {
     "meaning": "yarım gün",
     "example": "Bir ofiste yarım gün çalışıyor."
+   },
+   "th": {
+    "meaning": "ครึ่งวัน (งานพาร์ทไทม์)"
+   },
+   "vi": {
+    "meaning": "nửa ngày (bán thời gian)"
+   },
+   "fa": {
+    "meaning": "نیمه‌وقت"
    }
   },
   "Cyp=$K1F:j": {
@@ -838,6 +1585,15 @@
    "tr": {
     "meaning": "şehir merkezi",
     "example": "Şehir merkezinde bir dükkânı var."
+   },
+   "th": {
+    "meaning": "ใจกลางเมือง"
+   },
+   "vi": {
+    "meaning": "trung tâm thành phố"
+   },
+   "fa": {
+    "meaning": "مرکز شهر"
    }
   },
   "Bf;`s4X5rA": {
@@ -848,6 +1604,15 @@
    "tr": {
     "meaning": "sohbet ortağı",
     "example": "Sohbet ortağınız hakkında yazın."
+   },
+   "th": {
+    "meaning": "คู่สนทนา"
+   },
+   "vi": {
+    "meaning": "người đối thoại"
+   },
+   "fa": {
+    "meaning": "هم‌صحبت"
    }
   }
  },

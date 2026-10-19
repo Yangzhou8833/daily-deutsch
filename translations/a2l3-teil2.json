@@ -8,6 +8,15 @@
    "tr": {
     "meaning": "Almanya Federal Cumhuriyeti",
     "example": "Almanya Federal Cumhuriyeti 16 eyaletten oluşur."
+   },
+   "th": {
+    "meaning": "สหพันธ์สาธารณรัฐเยอรมนี"
+   },
+   "vi": {
+    "meaning": "Cộng hòa Liên bang Đức"
+   },
+   "fa": {
+    "meaning": "جمهوری فدرال آلمان"
    }
   },
   "ya/e`P8|_[": {
@@ -18,6 +27,15 @@
    "tr": {
     "meaning": "federal devlet",
     "example": "Almanya federal bir devlettir."
+   },
+   "th": {
+    "meaning": "รัฐสหพันธ์"
+   },
+   "vi": {
+    "meaning": "nhà nước liên bang"
+   },
+   "fa": {
+    "meaning": "دولت فدرال"
    }
   },
   "jdNbbU;Mt/": {
@@ -28,6 +46,15 @@
    "tr": {
     "meaning": "federal devlet, Bund",
     "example": "Federal devlet ve eyaletler birlikte çalışır."
+   },
+   "th": {
+    "meaning": "สหพันธ์, รัฐบาลกลาง"
+   },
+   "vi": {
+    "meaning": "liên bang"
+   },
+   "fa": {
+    "meaning": "دولت فدرال، فدراسیون"
    }
   },
   "qe_wC^6]4~": {
@@ -38,6 +65,15 @@
    "tr": {
     "meaning": "devlet yapısı, devletlik",
     "example": "Eyaletlerin kendi devlet yapısı vardır."
+   },
+   "th": {
+    "meaning": "ความเป็นรัฐ"
+   },
+   "vi": {
+    "meaning": "tư cách nhà nước"
+   },
+   "fa": {
+    "meaning": "دولت‌بودگی، ساختار دولتی"
    }
   },
   "JxT?jLj}Oe": {
@@ -48,6 +84,15 @@
    "tr": {
     "meaning": "Federal Şansölye",
     "example": "Federal Şansölye'nin adı Friedrich Merz."
+   },
+   "th": {
+    "meaning": "นายกรัฐมนตรีเยอรมนี"
+   },
+   "vi": {
+    "meaning": "Thủ tướng Liên bang"
+   },
+   "fa": {
+    "meaning": "صدراعظم فدرال"
    }
   },
   "mH`Rl!Y$E`": {
@@ -58,6 +103,15 @@
    "tr": {
     "meaning": "Federal Cumhurbaşkanı",
     "example": "Federal Cumhurbaşkanı'nın adı Frank-Walter Steinmeier."
+   },
+   "th": {
+    "meaning": "ประธานาธิบดีเยอรมนี"
+   },
+   "vi": {
+    "meaning": "Tổng thống Liên bang"
+   },
+   "fa": {
+    "meaning": "رئیس‌جمهور فدرال"
    }
   },
   "s7c[@^J@Ez": {
@@ -68,6 +122,15 @@
    "tr": {
     "meaning": "Federal Meclis (Bundestag)",
     "example": "Federal Meclis Berlin'dedir."
+   },
+   "th": {
+    "meaning": "รัฐสภาสหพันธ์ (บุนเดสทาก)"
+   },
+   "vi": {
+    "meaning": "Quốc hội Liên bang"
+   },
+   "fa": {
+    "meaning": "مجلس فدرال (بوندستاگ)"
    }
   },
   "t1aSNOax.<": {
@@ -78,6 +141,15 @@
    "tr": {
     "meaning": "Federal Konsey (Bundesrat)",
     "example": "Federal Konsey'de eyaletlerin temsilcileri bulunur."
+   },
+   "th": {
+    "meaning": "สภาผู้แทนรัฐ (บุนเดสรัท)"
+   },
+   "vi": {
+    "meaning": "Hội đồng Liên bang"
+   },
+   "fa": {
+    "meaning": "شورای فدرال (بوندسرات)"
    }
   },
   "w,yd#aR~,H": {
@@ -88,6 +160,15 @@
    "tr": {
     "meaning": "federal seçim",
     "example": "Federal seçim dört yılda bir yapılır."
+   },
+   "th": {
+    "meaning": "การเลือกตั้งสภาสหพันธ์"
+   },
+   "vi": {
+    "meaning": "bầu cử Quốc hội Liên bang"
+   },
+   "fa": {
+    "meaning": "انتخابات مجلس فدرال"
    }
   },
   "f<<V}q%@r6": {
@@ -98,6 +179,15 @@
    "tr": {
     "meaning": "seçim; tercih",
     "example": "Seçim yarın."
+   },
+   "th": {
+    "meaning": "การเลือกตั้ง; การเลือก"
+   },
+   "vi": {
+    "meaning": "cuộc bầu cử; sự lựa chọn"
+   },
+   "fa": {
+    "meaning": "انتخابات؛ انتخاب"
    }
   },
   "F3W+|}NOf": {
@@ -108,6 +198,15 @@
    "tr": {
     "meaning": "federal yasa",
     "example": "Federal yasa tüm Almanya'da geçerlidir."
+   },
+   "th": {
+    "meaning": "กฎหมายสหพันธ์"
+   },
+   "vi": {
+    "meaning": "luật liên bang"
+   },
+   "fa": {
+    "meaning": "قانون فدرال"
    }
   },
   "F_yA)fQFtu": {
@@ -118,6 +217,15 @@
    "tr": {
     "meaning": "federal mahkeme",
     "example": "Federal mahkeme karar verdi."
+   },
+   "th": {
+    "meaning": "ศาลสหพันธ์"
+   },
+   "vi": {
+    "meaning": "tòa án liên bang"
+   },
+   "fa": {
+    "meaning": "دادگاه فدرال"
    }
   },
   "yMAypI}q7~": {
@@ -128,6 +236,15 @@
    "tr": {
     "meaning": "Alman Silahlı Kuvvetleri",
     "example": "Kuzenim orduda."
+   },
+   "th": {
+    "meaning": "กองทัพเยอรมนี"
+   },
+   "vi": {
+    "meaning": "Quân đội Liên bang Đức"
+   },
+   "fa": {
+    "meaning": "ارتش آلمان"
    }
   },
   "H(Pq*p>ASB": {
@@ -138,6 +255,15 @@
    "tr": {
     "meaning": "Federal Polis",
     "example": "Garda Federal Polis var."
+   },
+   "th": {
+    "meaning": "ตำรวจสหพันธ์"
+   },
+   "vi": {
+    "meaning": "cảnh sát liên bang"
+   },
+   "fa": {
+    "meaning": "پلیس فدرال"
    }
   },
   "xcpn8H(idl": {
@@ -148,6 +274,15 @@
    "tr": {
     "meaning": "Federal Demiryolları",
     "example": "Demiryolunun eski adı \"Deutsche Bundesbahn\" idi."
+   },
+   "th": {
+    "meaning": "การรถไฟสหพันธ์"
+   },
+   "vi": {
+    "meaning": "đường sắt liên bang"
+   },
+   "fa": {
+    "meaning": "راه‌آهن فدرال"
    }
   },
   "zquOwOYnMa": {
@@ -158,6 +293,15 @@
    "tr": {
     "meaning": "Bundesliga (Alman futbol ligi)",
     "example": "HSV yeniden Bundesliga'da oynuyor."
+   },
+   "th": {
+    "meaning": "บุนเดสลีกา (ฟุตบอลลีกเยอรมนี)"
+   },
+   "vi": {
+    "meaning": "Bundesliga (giải bóng đá Đức)"
+   },
+   "fa": {
+    "meaning": "بوندسلیگا (لیگ فوتبال آلمان)"
    }
   },
   "i|bGtP,%ff": {
@@ -168,6 +312,15 @@
    "tr": {
     "meaning": "Bundesbank (merkez bankası)",
     "example": "Bundesbank Frankfurt'tadır."
+   },
+   "th": {
+    "meaning": "ธนาคารกลางเยอรมนี"
+   },
+   "vi": {
+    "meaning": "Ngân hàng Trung ương Đức"
+   },
+   "fa": {
+    "meaning": "بانک مرکزی آلمان"
    }
   },
   "t{Qg{=pX(k": {
@@ -178,6 +331,15 @@
    "tr": {
     "meaning": "federal karayolu",
     "example": "Federal karayolundan gidiyoruz."
+   },
+   "th": {
+    "meaning": "ทางหลวงสหพันธ์"
+   },
+   "vi": {
+    "meaning": "quốc lộ liên bang"
+   },
+   "fa": {
+    "meaning": "جادهٔ فدرال"
    }
   },
   "F&0ca{IK:b": {
@@ -188,6 +350,15 @@
    "tr": {
     "meaning": "Federal Dışişleri Bakanlığı",
     "example": "Federal Dışişleri Bakanlığı'nda çalışıyor."
+   },
+   "th": {
+    "meaning": "กระทรวงการต่างประเทศเยอรมนี"
+   },
+   "vi": {
+    "meaning": "Bộ Ngoại giao Đức"
+   },
+   "fa": {
+    "meaning": "وزارت امور خارجهٔ آلمان"
    }
   },
   "l_wm0]x4pL": {
@@ -198,6 +369,15 @@
    "tr": {
     "meaning": "eyalet başkenti",
     "example": "Kiel, Schleswig-Holstein'ın eyalet başkentidir."
+   },
+   "th": {
+    "meaning": "เมืองหลวงของรัฐ"
+   },
+   "vi": {
+    "meaning": "thủ phủ bang"
+   },
+   "fa": {
+    "meaning": "مرکز ایالت"
    }
   },
   "H+Jvx^CGlS": {
@@ -208,6 +388,15 @@
    "tr": {
     "meaning": "başkent",
     "example": "Berlin, Almanya'nın başkentidir."
+   },
+   "th": {
+    "meaning": "เมืองหลวง"
+   },
+   "vi": {
+    "meaning": "thủ đô"
+   },
+   "fa": {
+    "meaning": "پایتخت"
    }
   },
   "rDuQHxwgUX": {
@@ -218,6 +407,15 @@
    "tr": {
     "meaning": "(Almanya'nın) yeniden birleşmesi",
     "example": "1990'daki yeniden birleşmeden sonra 16 eyalet vardı."
+   },
+   "th": {
+    "meaning": "การรวมประเทศ (เยอรมนี)"
+   },
+   "vi": {
+    "meaning": "sự tái thống nhất (nước Đức)"
+   },
+   "fa": {
+    "meaning": "اتحاد مجدد (آلمان)"
    }
   },
   "F*NrI*SVVn": {
@@ -228,6 +426,15 @@
    "tr": {
     "meaning": "... -den oluşmak",
     "example": "Almanya 16 eyaletten oluşur."
+   },
+   "th": {
+    "meaning": "ประกอบด้วย"
+   },
+   "vi": {
+    "meaning": "bao gồm"
+   },
+   "fa": {
+    "meaning": "تشکیل شدن از"
    }
   },
   "K%CYgMBg-]": {
@@ -238,6 +445,15 @@
    "tr": {
     "meaning": "... ile sınırı olmak",
     "example": "Almanya'nın dokuz ülkeyle sınırı var."
+   },
+   "th": {
+    "meaning": "มีพรมแดนติดกับ"
+   },
+   "vi": {
+    "meaning": "giáp với"
+   },
+   "fa": {
+    "meaning": "هم‌مرز بودن با"
    }
   },
   "jvGvkxlZ{i": {
@@ -248,6 +464,15 @@
    "tr": {
     "meaning": "komşu; komşu ülke (n-Deklination)",
     "example": "Almanya'nın dokuz doğrudan komşusu var."
+   },
+   "th": {
+    "meaning": "เพื่อนบ้าน; ประเทศเพื่อนบ้าน"
+   },
+   "vi": {
+    "meaning": "hàng xóm; nước láng giềng"
+   },
+   "fa": {
+    "meaning": "همسایه؛ کشور همسایه"
    }
   },
   "sz/U8SKhr+": {
@@ -258,6 +483,15 @@
    "tr": {
     "meaning": "kalp; merkez",
     "example": "Almanya Avrupa'nın kalbinde yer alır."
+   },
+   "th": {
+    "meaning": "หัวใจ; ใจกลาง"
+   },
+   "vi": {
+    "meaning": "trái tim; trung tâm"
+   },
+   "fa": {
+    "meaning": "قلب؛ مرکز"
    }
   },
   "H4#$A/W}{0": {
@@ -268,6 +502,15 @@
    "tr": {
     "meaning": "sakin, nüfus",
     "example": "Hamburg'un yaklaşık iki milyon nüfusu var."
+   },
+   "th": {
+    "meaning": "ผู้อยู่อาศัย, ประชากร"
+   },
+   "vi": {
+    "meaning": "cư dân"
+   },
+   "fa": {
+    "meaning": "ساکن، جمعیت"
    }
   },
   "K1XXY!1<bW": {
@@ -278,6 +521,15 @@
    "tr": {
     "meaning": "nüfus sayısı",
     "example": "Hangi eyaletin nüfusu en fazla?"
+   },
+   "th": {
+    "meaning": "จำนวนประชากร"
+   },
+   "vi": {
+    "meaning": "dân số"
+   },
+   "fa": {
+    "meaning": "جمعیت، تعداد ساکنان"
    }
   },
   "h[|8WM:X7$": {
@@ -288,6 +540,15 @@
    "tr": {
     "meaning": "kilometrekare",
     "example": "Almanya 357.588 kilometrekaredir."
+   },
+   "th": {
+    "meaning": "ตารางกิโลเมตร"
+   },
+   "vi": {
+    "meaning": "ki-lô-mét vuông"
+   },
+   "fa": {
+    "meaning": "کیلومتر مربع"
    }
   },
   "FD:6nZSfqa": {
@@ -298,6 +559,15 @@
    "tr": {
     "meaning": "bayrak",
     "example": "Alman bayrağı siyah-kırmızı-altın rengidir."
+   },
+   "th": {
+    "meaning": "ธง"
+   },
+   "vi": {
+    "meaning": "lá cờ"
+   },
+   "fa": {
+    "meaning": "پرچم"
    }
   },
   "f7&C?^FefN": {
@@ -308,6 +578,15 @@
    "tr": {
     "meaning": "nehir",
     "example": "Ren, Almanya'nın en uzun nehridir."
+   },
+   "th": {
+    "meaning": "แม่น้ำ"
+   },
+   "vi": {
+    "meaning": "sông"
+   },
+   "fa": {
+    "meaning": "رودخانه"
    }
   },
   "LnzDMhk,`4": {
@@ -318,6 +597,15 @@
    "tr": {
     "meaning": "düz",
     "example": "Kuzey çoğunlukla düzdür."
+   },
+   "th": {
+    "meaning": "แบนราบ"
+   },
+   "vi": {
+    "meaning": "bằng phẳng"
+   },
+   "fa": {
+    "meaning": "صاف، هموار"
    }
   },
   "mw1wNYLO(a": {
@@ -328,6 +616,15 @@
    "tr": {
     "meaning": "tepelik",
     "example": "Arazi tepelik."
+   },
+   "th": {
+    "meaning": "เป็นเนินเขา"
+   },
+   "vi": {
+    "meaning": "đồi núi nhấp nhô"
+   },
+   "fa": {
+    "meaning": "تپه‌ای"
    }
   },
   "n[PnB1iGTX": {
@@ -338,6 +635,15 @@
    "tr": {
     "meaning": "dağlık",
     "example": "Güney dağlıktır."
+   },
+   "th": {
+    "meaning": "เป็นภูเขา"
+   },
+   "vi": {
+    "meaning": "nhiều núi"
+   },
+   "fa": {
+    "meaning": "کوهستانی"
    }
   },
   "hJ40ACnA9w": {
@@ -348,6 +654,15 @@
    "tr": {
     "meaning": "çoğunlukla, ağırlıklı olarak",
     "example": "Ülke çoğunlukla düzdür."
+   },
+   "th": {
+    "meaning": "ส่วนใหญ่"
+   },
+   "vi": {
+    "meaning": "chủ yếu"
+   },
+   "fa": {
+    "meaning": "عمدتاً"
    }
   },
   "J^`E/W.rfI": {
@@ -358,6 +673,15 @@
    "tr": {
     "meaning": "liman",
     "example": "Hamburg, Almanya'nın en büyük limanına sahip."
+   },
+   "th": {
+    "meaning": "ท่าเรือ"
+   },
+   "vi": {
+    "meaning": "cảng"
+   },
+   "fa": {
+    "meaning": "بندر"
    }
   },
   "zUn>S5g+`{": {
@@ -368,6 +692,15 @@
    "tr": {
     "meaning": "deniz limanı",
     "example": "Hamburg, Almanya'nın en önemli deniz limanıdır."
+   },
+   "th": {
+    "meaning": "ท่าเรือทะเล"
+   },
+   "vi": {
+    "meaning": "cảng biển"
+   },
+   "fa": {
+    "meaning": "بندر دریایی"
    }
   },
   "x(tTs%wgzD": {
@@ -378,6 +711,15 @@
    "tr": {
     "meaning": "bulunmak, yer almak",
     "example": "En yüksek dağlar güneyde bulunur."
+   },
+   "th": {
+    "meaning": "ตั้งอยู่"
+   },
+   "vi": {
+    "meaning": "nằm ở"
+   },
+   "fa": {
+    "meaning": "قرار داشتن"
    }
   },
   "e~Ma>DOu1l": {
@@ -388,6 +730,15 @@
    "tr": {
     "meaning": "dağ",
     "example": "Zugspitze, Almanya'nın en yüksek dağıdır."
+   },
+   "th": {
+    "meaning": "ภูเขา"
+   },
+   "vi": {
+    "meaning": "núi"
+   },
+   "fa": {
+    "meaning": "کوه"
    }
   },
   "i1`oC`f+&y": {
@@ -398,6 +749,15 @@
    "tr": {
     "meaning": "cezir, alçalma",
     "example": "Cezirde çamur düzlüklerinde yürüyebilirsin."
+   },
+   "th": {
+    "meaning": "น้ำลง"
+   },
+   "vi": {
+    "meaning": "thủy triều xuống"
+   },
+   "fa": {
+    "meaning": "جزر"
    }
   },
   "InA^V_S{kR": {
@@ -408,6 +768,15 @@
    "tr": {
     "meaning": "met, yükselme; sel",
     "example": "Met olunca su geri gelir."
+   },
+   "th": {
+    "meaning": "น้ำขึ้น; น้ำท่วม"
+   },
+   "vi": {
+    "meaning": "thủy triều lên; lũ lụt"
+   },
+   "fa": {
+    "meaning": "مد؛ سیل"
    }
   },
   "t<L+OFLLuo": {
@@ -418,6 +787,15 @@
    "tr": {
     "meaning": "doğa olayı",
     "example": "Gelgit bir doğa olayıdır."
+   },
+   "th": {
+    "meaning": "ปรากฏการณ์ธรรมชาติ"
+   },
+   "vi": {
+    "meaning": "hiện tượng tự nhiên"
+   },
+   "fa": {
+    "meaning": "پدیدهٔ طبیعی"
    }
   },
   "MhCEfK1uQg": {
@@ -428,6 +806,15 @@
    "tr": {
     "meaning": "sahil, kıyı",
     "example": "Tatile sahile gidiyoruz."
+   },
+   "th": {
+    "meaning": "ชายฝั่ง"
+   },
+   "vi": {
+    "meaning": "bờ biển"
+   },
+   "fa": {
+    "meaning": "ساحل"
    }
   },
   "B?@qRryHjs": {
@@ -438,6 +825,15 @@
    "tr": {
     "meaning": "deniz",
     "example": "Schleswig-Holstein iki deniz arasında yer alır."
+   },
+   "th": {
+    "meaning": "ทะเล"
+   },
+   "vi": {
+    "meaning": "biển"
+   },
+   "fa": {
+    "meaning": "دریا"
    }
   },
   "Hx&T:RKrlq": {
@@ -448,6 +844,15 @@
    "tr": {
     "meaning": "Kuzey Denizi",
     "example": "Kuzey Denizi'nde yüzülebilir."
+   },
+   "th": {
+    "meaning": "ทะเลเหนือ"
+   },
+   "vi": {
+    "meaning": "Biển Bắc"
+   },
+   "fa": {
+    "meaning": "دریای شمال"
    }
   },
   "o-5ufdjV:-": {
@@ -458,6 +863,15 @@
    "tr": {
     "meaning": "Baltık Denizi",
     "example": "Lübeck, Baltık Denizi kıyısındadır."
+   },
+   "th": {
+    "meaning": "ทะเลบอลติก"
+   },
+   "vi": {
+    "meaning": "biển Baltic"
+   },
+   "fa": {
+    "meaning": "دریای بالتیک"
    }
   },
   "Br_z/a+AUz": {
@@ -468,6 +882,15 @@
    "tr": {
     "meaning": "göl (der See)",
     "example": "Konstanz Gölü büyük bir göldür."
+   },
+   "th": {
+    "meaning": "ทะเลสาบ"
+   },
+   "vi": {
+    "meaning": "hồ"
+   },
+   "fa": {
+    "meaning": "دریاچه"
    }
   },
   "cnKgsjcJ3c": {
@@ -478,6 +901,15 @@
    "tr": {
     "meaning": "posta kodu (= PLZ)",
     "example": "Posta kodunuz nedir?"
+   },
+   "th": {
+    "meaning": "รหัสไปรษณีย์"
+   },
+   "vi": {
+    "meaning": "mã bưu chính"
+   },
+   "fa": {
+    "meaning": "کد پستی"
    }
   },
   "k$4>^l;!UI": {
@@ -488,6 +920,15 @@
    "tr": {
     "meaning": "stadyum",
     "example": "Bayern'in stadyumunun adı Allianz Arena."
+   },
+   "th": {
+    "meaning": "สนามกีฬา"
+   },
+   "vi": {
+    "meaning": "sân vận động"
+   },
+   "fa": {
+    "meaning": "ورزشگاه"
    }
   },
   "g-O;jvYzJ?": {
@@ -498,6 +939,15 @@
    "tr": {
     "meaning": "yöresel ürün, spesiyalite",
     "example": "Thüringen'in spesiyalitesi ızgara sosistir."
+   },
+   "th": {
+    "meaning": "อาหารขึ้นชื่อ, ของพื้นเมือง"
+   },
+   "vi": {
+    "meaning": "đặc sản"
+   },
+   "fa": {
+    "meaning": "غذای محلی، تخصص"
    }
   },
   "n&z#pEL3=T": {
@@ -508,6 +958,15 @@
    "tr": {
     "meaning": "manzara, doğa",
     "example": "Güneydeki manzara çok güzel."
+   },
+   "th": {
+    "meaning": "ทิวทัศน์"
+   },
+   "vi": {
+    "meaning": "phong cảnh"
+   },
+   "fa": {
+    "meaning": "چشم‌انداز، منظره"
    }
   },
   "vbM$t7Ymn`": {
@@ -518,6 +977,15 @@
    "tr": {
     "meaning": "manzara bakımından",
     "example": "Bu, manzara bakımından güzel bir eyalet."
+   },
+   "th": {
+    "meaning": "ในแง่ทิวทัศน์"
+   },
+   "vi": {
+    "meaning": "về mặt phong cảnh"
+   },
+   "fa": {
+    "meaning": "از نظر منظره"
    }
   },
   "f6SoZ^En<.": {
@@ -528,6 +996,15 @@
    "tr": {
     "meaning": "görülmeye değer yer",
     "example": "Hamburg'da görülmeye değer neler var?"
+   },
+   "th": {
+    "meaning": "สถานที่ท่องเที่ยว"
+   },
+   "vi": {
+    "meaning": "danh lam thắng cảnh"
+   },
+   "fa": {
+    "meaning": "جای دیدنی"
    }
   },
   "C`<&LS}G5Z": {
@@ -538,6 +1015,15 @@
    "tr": {
     "meaning": "sanayi",
     "example": "Baden-Württemberg'de sanayi çok önemlidir."
+   },
+   "th": {
+    "meaning": "อุตสาหกรรม"
+   },
+   "vi": {
+    "meaning": "công nghiệp"
+   },
+   "fa": {
+    "meaning": "صنعت"
    }
   },
   "Fy;eA;{)ap": {
@@ -548,6 +1034,15 @@
    "tr": {
     "meaning": "teknik, teknoloji",
     "example": "Teknolojiyle ilgileniyorum."
+   },
+   "th": {
+    "meaning": "เทคโนโลยี"
+   },
+   "vi": {
+    "meaning": "kỹ thuật, công nghệ"
+   },
+   "fa": {
+    "meaning": "فناوری"
    }
   },
   "uoR!ll7e5C": {
@@ -558,6 +1053,15 @@
    "tr": {
     "meaning": "tanınmış, ünlü",
     "example": "O tanınmış biri."
+   },
+   "th": {
+    "meaning": "มีชื่อเสียง"
+   },
+   "vi": {
+    "meaning": "nổi bật, nổi tiếng"
+   },
+   "fa": {
+    "meaning": "سرشناس"
    }
   },
   "pz8=-9]K{&": {
@@ -568,6 +1072,15 @@
    "tr": {
     "meaning": "sembol",
     "example": "Brandenburg Kapısı Berlin'in bir sembolüdür."
+   },
+   "th": {
+    "meaning": "สัญลักษณ์"
+   },
+   "vi": {
+    "meaning": "biểu tượng"
+   },
+   "fa": {
+    "meaning": "نماد"
    }
   },
   "tt-5lh51P&": {
@@ -578,6 +1091,15 @@
    "tr": {
     "meaning": "mevsim",
     "example": "En çok hangi mevsimi seversin?"
+   },
+   "th": {
+    "meaning": "ฤดูกาล"
+   },
+   "vi": {
+    "meaning": "mùa"
+   },
+   "fa": {
+    "meaning": "فصل"
    }
   },
   "Q+lExNw]d$": {
@@ -588,6 +1110,15 @@
    "tr": {
     "meaning": "moda",
     "example": "Modayla çok ilgileniyor."
+   },
+   "th": {
+    "meaning": "แฟชั่น"
+   },
+   "vi": {
+    "meaning": "thời trang"
+   },
+   "fa": {
+    "meaning": "مد"
    }
   },
   "kW&^e(*wb`": {
@@ -598,6 +1129,15 @@
    "tr": {
     "meaning": "ulaşım aracı",
     "example": "Bisiklet en sevdiğim ulaşım aracı."
+   },
+   "th": {
+    "meaning": "ยานพาหนะ"
+   },
+   "vi": {
+    "meaning": "phương tiện giao thông"
+   },
+   "fa": {
+    "meaning": "وسیلهٔ نقلیه"
    }
   },
   "H<$]nEK})6": {
@@ -608,6 +1148,15 @@
    "tr": {
     "meaning": "boş zaman değerlendirme",
     "example": "Boş zamanı değerlendirmek için birçok seçenek var."
+   },
+   "th": {
+    "meaning": "การใช้เวลาว่าง"
+   },
+   "vi": {
+    "meaning": "việc sắp xếp thời gian rảnh"
+   },
+   "fa": {
+    "meaning": "گذراندن اوقات فراغت"
    }
   },
   "uaSk0x@;j+": {
@@ -618,6 +1167,15 @@
    "tr": {
     "meaning": "kalabalık nüfuslu",
     "example": "NRW en kalabalık nüfuslu eyalettir."
+   },
+   "th": {
+    "meaning": "มีประชากรมาก"
+   },
+   "vi": {
+    "meaning": "đông dân"
+   },
+   "fa": {
+    "meaning": "پرجمعیت"
    }
   },
   "kg:6v-a!3j": {
@@ -628,6 +1186,15 @@
    "tr": {
     "meaning": "merkez",
     "example": "Köln bir kültür merkezidir."
+   },
+   "th": {
+    "meaning": "ศูนย์กลาง"
+   },
+   "vi": {
+    "meaning": "trung tâm"
+   },
+   "fa": {
+    "meaning": "مرکز"
    }
   },
   "H+P!?c[H?J": {
@@ -638,6 +1205,15 @@
    "tr": {
     "meaning": "kültür merkezi",
     "example": "Berlin bir Avrupa kültür merkezidir."
+   },
+   "th": {
+    "meaning": "ศูนย์วัฒนธรรม"
+   },
+   "vi": {
+    "meaning": "trung tâm văn hóa"
+   },
+   "fa": {
+    "meaning": "مرکز فرهنگی"
    }
   },
   "Fty,UJfaIq": {
@@ -648,6 +1224,15 @@
    "tr": {
     "meaning": "katedral",
     "example": "Köln katedraliyle ünlüdür."
+   },
+   "th": {
+    "meaning": "มหาวิหาร"
+   },
+   "vi": {
+    "meaning": "nhà thờ lớn"
+   },
+   "fa": {
+    "meaning": "کلیسای جامع"
    }
   },
   "k!08.@s5KH": {
@@ -658,6 +1243,15 @@
    "tr": {
     "meaning": "karnaval",
     "example": "Şubatta Köln'de karnaval kutlanır."
+   },
+   "th": {
+    "meaning": "งานคาร์นิวัล"
+   },
+   "vi": {
+    "meaning": "lễ hội hóa trang"
+   },
+   "fa": {
+    "meaning": "کارناوال"
    }
   },
   "LEY.KRZ=bv": {
@@ -668,6 +1262,15 @@
    "tr": {
     "meaning": "Hansa şehri",
     "example": "Hamburg özgür bir Hansa şehridir."
+   },
+   "th": {
+    "meaning": "เมืองฮันซา"
+   },
+   "vi": {
+    "meaning": "thành phố Hanse"
+   },
+   "fa": {
+    "meaning": "شهر هانزایی"
    }
   },
   "AKc%Z5)yQz": {
@@ -678,6 +1281,15 @@
    "tr": {
     "meaning": "metropol",
     "example": "Hamburg zarif caddeleri olan bir metropoldür."
+   },
+   "th": {
+    "meaning": "มหานคร"
+   },
+   "vi": {
+    "meaning": "đô thị lớn"
+   },
+   "fa": {
+    "meaning": "کلان‌شهر"
    }
   },
   "uXPeWKT_QT": {
@@ -688,6 +1300,15 @@
    "tr": {
     "meaning": "zarif, şık",
     "example": "Şık bir elbise giyiyor."
+   },
+   "th": {
+    "meaning": "สง่างาม"
+   },
+   "vi": {
+    "meaning": "thanh lịch"
+   },
+   "fa": {
+    "meaning": "شیک، باوقار"
    }
   },
   "dT?Lqb*H?h": {
@@ -698,6 +1319,15 @@
    "tr": {
     "meaning": "kanal",
     "example": "Hamburg'da birçok kanal var."
+   },
+   "th": {
+    "meaning": "คลอง"
+   },
+   "vi": {
+    "meaning": "kênh đào"
+   },
+   "fa": {
+    "meaning": "کانال"
    }
   },
   "jeC{-b%-8v": {
@@ -708,6 +1338,15 @@
    "tr": {
     "meaning": "köprü",
     "example": "Hamburg'da 1000'den fazla köprü var."
+   },
+   "th": {
+    "meaning": "สะพาน"
+   },
+   "vi": {
+    "meaning": "cây cầu"
+   },
+   "fa": {
+    "meaning": "پل"
    }
   },
   "J+<Z1h=$>@": {
@@ -718,6 +1357,15 @@
    "tr": {
     "meaning": "dünyaya açıklık",
     "example": "Berlin dünyaya açıklığıyla tanınır."
+   },
+   "th": {
+    "meaning": "ความเปิดกว้างต่อโลก"
+   },
+   "vi": {
+    "meaning": "sự cởi mở với thế giới"
+   },
+   "fa": {
+    "meaning": "جهان‌نگری باز"
    }
   },
   "h!ul&J9gNV": {
@@ -728,6 +1376,15 @@
    "tr": {
     "meaning": "orman",
     "example": "Ormanda yürüyüş yaparız."
+   },
+   "th": {
+    "meaning": "ป่า"
+   },
+   "vi": {
+    "meaning": "rừng"
+   },
+   "fa": {
+    "meaning": "جنگل"
    }
   },
   "v)D.EtN]!p": {
@@ -738,6 +1395,15 @@
    "tr": {
     "meaning": "şair, yazar",
     "example": "Goethe ünlü bir Alman şairidir."
+   },
+   "th": {
+    "meaning": "กวี, นักเขียน"
+   },
+   "vi": {
+    "meaning": "nhà thơ"
+   },
+   "fa": {
+    "meaning": "شاعر"
    }
   },
   "H`.bk6:?:X": {
@@ -748,6 +1414,15 @@
    "tr": {
     "meaning": "cihaz, alet",
     "example": "Jena optik cihazlarıyla tanınır."
+   },
+   "th": {
+    "meaning": "อุปกรณ์"
+   },
+   "vi": {
+    "meaning": "thiết bị"
+   },
+   "fa": {
+    "meaning": "دستگاه"
    }
   },
   "zkFov^e|jf": {
@@ -758,6 +1433,15 @@
    "tr": {
     "meaning": "ekonomi sektörü",
     "example": "Turizm önemli bir ekonomi sektörüdür."
+   },
+   "th": {
+    "meaning": "สาขาเศรษฐกิจ"
+   },
+   "vi": {
+    "meaning": "ngành kinh tế"
+   },
+   "fa": {
+    "meaning": "بخش اقتصادی"
    }
   },
   "ifu(Q<R(YC": {
@@ -768,6 +1452,15 @@
    "tr": {
     "meaning": "ekonomi",
     "example": "Alman ekonomisi güçlüdür."
+   },
+   "th": {
+    "meaning": "เศรษฐกิจ"
+   },
+   "vi": {
+    "meaning": "kinh tế"
+   },
+   "fa": {
+    "meaning": "اقتصاد"
    }
   },
   "C4hNz];1YX": {
@@ -778,6 +1471,15 @@
    "tr": {
     "meaning": "simge yapı",
     "example": "Berlin'in simgesi Brandenburg Kapısı'dır."
+   },
+   "th": {
+    "meaning": "สัญลักษณ์เมือง"
+   },
+   "vi": {
+    "meaning": "biểu tượng, công trình mang tính biểu tượng"
+   },
+   "fa": {
+    "meaning": "نماد شهر"
    }
   },
   "jo<Y^S5)V:": {
@@ -788,6 +1490,15 @@
    "tr": {
     "meaning": "sanayi merkezi",
     "example": "Berlin önemli bir sanayi merkezidir."
+   },
+   "th": {
+    "meaning": "ศูนย์อุตสาหกรรม"
+   },
+   "vi": {
+    "meaning": "trung tâm công nghiệp"
+   },
+   "fa": {
+    "meaning": "مرکز صنعتی"
    }
   },
   "I_O#eKF5.I": {
@@ -798,6 +1509,15 @@
    "tr": {
     "meaning": "gezi yeri",
     "example": "Kara Orman popüler bir gezi yeridir."
+   },
+   "th": {
+    "meaning": "จุดหมายสำหรับไปเที่ยว"
+   },
+   "vi": {
+    "meaning": "điểm dã ngoại"
+   },
+   "fa": {
+    "meaning": "مقصد گردش"
    }
   },
   "hr/%%`T$Nx": {
@@ -808,6 +1528,15 @@
    "tr": {
     "meaning": "tatil yeri",
     "example": "Baltık Denizi popüler bir tatil yeridir."
+   },
+   "th": {
+    "meaning": "จุดหมายวันหยุด"
+   },
+   "vi": {
+    "meaning": "điểm đến du lịch"
+   },
+   "fa": {
+    "meaning": "مقصد تعطیلات"
    }
   },
   "l}:+b;x=tl": {
@@ -818,6 +1547,15 @@
    "tr": {
     "meaning": "tatil cenneti",
     "example": "Bavyera bir tatil cennetidir."
+   },
+   "th": {
+    "meaning": "สวรรค์แห่งการพักผ่อน"
+   },
+   "vi": {
+    "meaning": "thiên đường nghỉ dưỡng"
+   },
+   "fa": {
+    "meaning": "بهشت تعطیلات"
    }
   },
   "75;l6+6Un": {
@@ -828,6 +1566,15 @@
    "tr": {
     "meaning": "şato, saray",
     "example": "Neuschwanstein ünlü bir şatodur."
+   },
+   "th": {
+    "meaning": "ปราสาท, พระราชวัง"
+   },
+   "vi": {
+    "meaning": "lâu đài, cung điện"
+   },
+   "fa": {
+    "meaning": "قصر، کاخ"
    }
   },
   "y,jyM<+!%z": {
@@ -838,6 +1585,15 @@
    "tr": {
     "meaning": "bölge",
     "example": "Stuttgart çevresindeki bölge çok zengindir."
+   },
+   "th": {
+    "meaning": "ภูมิภาค"
+   },
+   "vi": {
+    "meaning": "vùng"
+   },
+   "fa": {
+    "meaning": "منطقه"
    }
   },
   "I:mL(-SRF`": {
@@ -848,6 +1604,15 @@
    "tr": {
     "meaning": "dünya savaşı",
     "example": "İkinci Dünya Savaşı'ndan önce Saksonya sanayinin kalbiydi."
+   },
+   "th": {
+    "meaning": "สงครามโลก"
+   },
+   "vi": {
+    "meaning": "chiến tranh thế giới"
+   },
+   "fa": {
+    "meaning": "جنگ جهانی"
    }
   },
   "sqOCxb*Wf=": {
@@ -858,6 +1623,15 @@
    "tr": {
     "meaning": "opera; opera binası",
     "example": "Hafta sonu operaya gidiyoruz."
+   },
+   "th": {
+    "meaning": "โอเปรา; โรงอุปรากร"
+   },
+   "vi": {
+    "meaning": "opera; nhà hát opera"
+   },
+   "fa": {
+    "meaning": "اپرا؛ سالن اپرا"
    }
   },
   "r=}{@@PS5Z": {
@@ -868,6 +1642,15 @@
    "tr": {
     "meaning": "fuar",
     "example": "Leipzig fuarıyla tanınır."
+   },
+   "th": {
+    "meaning": "งานแสดงสินค้า"
+   },
+   "vi": {
+    "meaning": "hội chợ"
+   },
+   "fa": {
+    "meaning": "نمایشگاه"
    }
   },
   "bItUF=]!Y&": {
@@ -878,6 +1661,15 @@
    "tr": {
     "meaning": "yayınevi",
     "example": "Bir yayınevinde çalışıyor."
+   },
+   "th": {
+    "meaning": "สำนักพิมพ์"
+   },
+   "vi": {
+    "meaning": "nhà xuất bản"
+   },
+   "fa": {
+    "meaning": "انتشارات"
    }
   },
   "r0S>2m(wM-": {
@@ -888,6 +1680,15 @@
    "tr": {
     "meaning": "ilgi çekici yer",
     "example": "Alpler büyük bir ilgi odağıdır."
+   },
+   "th": {
+    "meaning": "สิ่งดึงดูดใจ"
+   },
+   "vi": {
+    "meaning": "điểm thu hút"
+   },
+   "fa": {
+    "meaning": "جاذبه"
    }
   },
   "H|_C#^-x^t": {
@@ -898,6 +1699,15 @@
    "tr": {
     "meaning": "dünyaca ünlü",
     "example": "Oktoberfest dünyaca ünlüdür."
+   },
+   "th": {
+    "meaning": "มีชื่อเสียงระดับโลก"
+   },
+   "vi": {
+    "meaning": "nổi tiếng thế giới"
+   },
+   "fa": {
+    "meaning": "مشهور جهانی"
    }
   },
   "h]xN`6i$bo": {
@@ -908,6 +1718,15 @@
    "tr": {
     "meaning": "koleksiyon",
     "example": "Müzenin büyük bir koleksiyonu var."
+   },
+   "th": {
+    "meaning": "ของสะสม, คอลเลกชัน"
+   },
+   "vi": {
+    "meaning": "bộ sưu tập"
+   },
+   "fa": {
+    "meaning": "مجموعه"
    }
   },
   "qR~j@,rW05": {
@@ -918,6 +1737,15 @@
    "tr": {
     "meaning": "tarih; hikâye",
     "example": "Alman tarihiyle ilgileniyorum."
+   },
+   "th": {
+    "meaning": "ประวัติศาสตร์; เรื่องราว"
+   },
+   "vi": {
+    "meaning": "lịch sử; câu chuyện"
+   },
+   "fa": {
+    "meaning": "تاریخ؛ داستان"
    }
   },
   "Iw?#sSdNi_": {
@@ -928,6 +1756,15 @@
    "tr": {
     "meaning": "... arasında sayılmak",
     "example": "Ren vadisi en güzel manzaralar arasında sayılır."
+   },
+   "th": {
+    "meaning": "นับเป็นหนึ่งใน"
+   },
+   "vi": {
+    "meaning": "thuộc vào, được xếp vào"
+   },
+   "fa": {
+    "meaning": "جزو ... بودن"
    }
   },
   "q=`*tn/_(t": {
@@ -938,6 +1775,15 @@
    "tr": {
     "meaning": "sahip olmak",
     "example": "Trier'in birçok Roma yapısı var."
+   },
+   "th": {
+    "meaning": "เป็นเจ้าของ"
+   },
+   "vi": {
+    "meaning": "sở hữu"
+   },
+   "fa": {
+    "meaning": "داشتن، مالک بودن"
    }
   },
   "I41I5G.~^Q": {
@@ -948,6 +1794,15 @@
    "tr": {
     "meaning": "yapı, bina",
     "example": "Porta Nigra bir Roma yapısıdır."
+   },
+   "th": {
+    "meaning": "สิ่งก่อสร้าง"
+   },
+   "vi": {
+    "meaning": "công trình kiến trúc"
+   },
+   "fa": {
+    "meaning": "بنا، ساختمان"
    }
   },
   "iYh*(6?Ca(": {
@@ -958,6 +1813,15 @@
    "tr": {
     "meaning": "merkez, yönetim yeri; oturak",
     "example": "Mainz, ZDF'nin merkezidir."
+   },
+   "th": {
+    "meaning": "ที่ตั้ง, สำนักงานใหญ่; ที่นั่ง"
+   },
+   "vi": {
+    "meaning": "trụ sở; chỗ ngồi"
+   },
+   "fa": {
+    "meaning": "مقر؛ صندلی"
    }
   },
   "uVSVh[h>rZ": {
@@ -968,6 +1832,15 @@
    "tr": {
     "meaning": "çekmek; giymek",
     "example": "Kiel Haftası dünyanın her yerinden ziyaretçi çeker."
+   },
+   "th": {
+    "meaning": "ดึงดูด; สวม (เสื้อผ้า)"
+   },
+   "vi": {
+    "meaning": "thu hút; mặc (quần áo)"
+   },
+   "fa": {
+    "meaning": "جذب کردن؛ پوشیدن"
    }
   },
   "l8O`>Za*_o": {
@@ -978,6 +1851,15 @@
    "tr": {
     "meaning": "ziyaretçi",
     "example": "Yazın birçok ziyaretçi gelir."
+   },
+   "th": {
+    "meaning": "ผู้มาเยือน"
+   },
+   "vi": {
+    "meaning": "khách tham quan"
+   },
+   "fa": {
+    "meaning": "بازدیدکننده"
    }
   },
   "H#djr@*`cf": {
@@ -988,6 +1870,15 @@
    "tr": {
     "meaning": "dünya kültür mirası",
     "example": "Lübeck, UNESCO Dünya Kültür Mirası listesindedir."
+   },
+   "th": {
+    "meaning": "มรดกโลกทางวัฒนธรรม"
+   },
+   "vi": {
+    "meaning": "di sản văn hóa thế giới"
+   },
+   "fa": {
+    "meaning": "میراث فرهنگی جهانی"
    }
   },
   "A%HO@;5fWF": {
@@ -998,6 +1889,15 @@
    "tr": {
     "meaning": "güçlü",
     "example": "Lübeck en güçlü Hansa şehriydi."
+   },
+   "th": {
+    "meaning": "ทรงอำนาจ"
+   },
+   "vi": {
+    "meaning": "hùng mạnh"
+   },
+   "fa": {
+    "meaning": "قدرتمند"
    }
   },
   "gH<},.pLw8": {
@@ -1008,6 +1908,15 @@
    "tr": {
     "meaning": "konut, oturma",
     "example": "Şehirde oturmak pahalı."
+   },
+   "th": {
+    "meaning": "การอยู่อาศัย"
+   },
+   "vi": {
+    "meaning": "việc ở, nhà ở"
+   },
+   "fa": {
+    "meaning": "سکونت، مسکن"
    }
   },
   "coCUApj466": {
@@ -1018,6 +1927,15 @@
    "tr": {
     "meaning": "tek kişilik hane",
     "example": "Berlin'de birçok tek kişilik hane var."
+   },
+   "th": {
+    "meaning": "ครัวเรือนคนเดียว"
+   },
+   "vi": {
+    "meaning": "hộ gia đình một người"
+   },
+   "fa": {
+    "meaning": "خانوار تک‌نفره"
    }
   },
   "v+&=T@ewqE": {
@@ -1028,6 +1946,15 @@
    "tr": {
     "meaning": "etkilenmek",
     "example": "Büyük şehirler özellikle etkileniyor."
+   },
+   "th": {
+    "meaning": "ได้รับผลกระทบ"
+   },
+   "vi": {
+    "meaning": "bị ảnh hưởng"
+   },
+   "fa": {
+    "meaning": "تحت تأثیر قرار گرفتن"
    }
   },
   "Q)kreXd(F1": {
@@ -1038,6 +1965,15 @@
    "tr": {
     "meaning": "gelişme",
     "example": "Bu ilginç bir gelişme."
+   },
+   "th": {
+    "meaning": "พัฒนาการ"
+   },
+   "vi": {
+    "meaning": "sự phát triển"
+   },
+   "fa": {
+    "meaning": "توسعه، تحول"
    }
   },
   "O$H%K*|`m%": {
@@ -1048,6 +1984,15 @@
    "tr": {
     "meaning": "... -e yakın, ... -den az",
     "example": "Yarıya yakını yalnız yaşıyor."
+   },
+   "th": {
+    "meaning": "เกือบ, ไม่ถึง"
+   },
+   "vi": {
+    "meaning": "gần, chưa đến"
+   },
+   "fa": {
+    "meaning": "نزدیک به، کمی کمتر از"
    }
   },
   "Og$MdV@P!;": {
@@ -1058,6 +2003,15 @@
    "tr": {
     "meaning": "vatandaşlık, uyruk",
     "example": "Hangi uyruktansınız?"
+   },
+   "th": {
+    "meaning": "สัญชาติ"
+   },
+   "vi": {
+    "meaning": "quốc tịch"
+   },
+   "fa": {
+    "meaning": "تابعیت"
    }
   },
   "HrH9do1K%C": {
@@ -1068,6 +2022,15 @@
    "tr": {
     "meaning": "Avrupalı",
     "example": "Bunların üçte ikiye yakını Avrupalı."
+   },
+   "th": {
+    "meaning": "ชาวยุโรป"
+   },
+   "vi": {
+    "meaning": "người châu Âu"
+   },
+   "fa": {
+    "meaning": "اروپایی"
    }
   },
   "vo<Q)?oe8+": {
@@ -1078,6 +2041,15 @@
    "tr": {
     "meaning": "vatandaş",
     "example": "Bütün vatandaşlar oy kullanabilir."
+   },
+   "th": {
+    "meaning": "พลเมือง"
+   },
+   "vi": {
+    "meaning": "công dân"
+   },
+   "fa": {
+    "meaning": "شهروند"
    }
   },
   "vDVw)*@525": {
@@ -1088,6 +2060,15 @@
    "tr": {
     "meaning": "oluşturmak",
     "example": "En büyük grubu oluşturuyorlar."
+   },
+   "th": {
+    "meaning": "ก่อตัวเป็น, ประกอบเป็น"
+   },
+   "vi": {
+    "meaning": "tạo thành"
+   },
+   "fa": {
+    "meaning": "تشکیل دادن"
    }
   },
   "lPKR5>;,U4": {
@@ -1098,6 +2079,15 @@
    "tr": {
     "meaning": "grup",
     "example": "Gruplar halinde çalışıyoruz."
+   },
+   "th": {
+    "meaning": "กลุ่ม"
+   },
+   "vi": {
+    "meaning": "nhóm"
+   },
+   "fa": {
+    "meaning": "گروه"
    }
   },
   "g37{/>5FD7": {
@@ -1108,6 +2098,15 @@
    "tr": {
     "meaning": "kırsala taşınmak",
     "example": "Birçok aile kırsala taşınıyor."
+   },
+   "th": {
+    "meaning": "ย้ายไปอยู่ชนบท"
+   },
+   "vi": {
+    "meaning": "chuyển về nông thôn"
+   },
+   "fa": {
+    "meaning": "به روستا نقل مکان کردن"
    }
   },
   "r~~X&~5@-": {
@@ -1118,6 +2117,15 @@
    "tr": {
     "meaning": "yoğun nüfuslu",
     "example": "Almanya yoğun nüfuslu bir ülkedir."
+   },
+   "th": {
+    "meaning": "ประชากรหนาแน่น"
+   },
+   "vi": {
+    "meaning": "đông dân cư"
+   },
+   "fa": {
+    "meaning": "پرجمعیت، متراکم"
    }
   },
   "G!9DzjLa-w": {
@@ -1128,6 +2136,15 @@
    "tr": {
     "meaning": "alan, yüzölçümü",
     "example": "Şehrin yüzölçümü 755 km²'dir."
+   },
+   "th": {
+    "meaning": "พื้นที่"
+   },
+   "vi": {
+    "meaning": "diện tích"
+   },
+   "fa": {
+    "meaning": "مساحت"
    }
   },
   "DcKw)fKQy-": {
@@ -1138,6 +2155,15 @@
    "tr": {
     "meaning": "kırsal",
     "example": "Kırsal bir bölgede yaşıyor."
+   },
+   "th": {
+    "meaning": "ชนบท"
+   },
+   "vi": {
+    "meaning": "thuộc nông thôn"
+   },
+   "fa": {
+    "meaning": "روستایی"
    }
   },
   "Q<)dl$2:@6": {
@@ -1148,6 +2174,15 @@
    "tr": {
     "meaning": "bölge, civar",
     "example": "Bu civarda süpermarket yok."
+   },
+   "th": {
+    "meaning": "บริเวณ, แถบ"
+   },
+   "vi": {
+    "meaning": "vùng, khu vực"
+   },
+   "fa": {
+    "meaning": "ناحیه، اطراف"
    }
   },
   "Et,p,^hCf4": {
@@ -1158,6 +2193,15 @@
    "tr": {
     "meaning": "bölge, alan",
     "example": "Seyrek nüfuslu bölgelerde nüfus azalıyor."
+   },
+   "th": {
+    "meaning": "เขต, พื้นที่"
+   },
+   "vi": {
+    "meaning": "khu vực"
+   },
+   "fa": {
+    "meaning": "منطقه"
    }
   },
   "cuO4Fy6637": {
@@ -1168,6 +2212,15 @@
    "tr": {
     "meaning": "buna karşın, ise",
     "example": "Aileler ise yeşil alanlara taşınmayı seviyor."
+   },
+   "th": {
+    "meaning": "ในทางกลับกัน"
+   },
+   "vi": {
+    "meaning": "ngược lại"
+   },
+   "fa": {
+    "meaning": "در مقابل، اما"
    }
   },
   "L(wPSn5{*j": {
@@ -1178,6 +2231,15 @@
    "tr": {
     "meaning": "yeşilliğe, doğaya",
     "example": "Pazar günü doğaya gidiyoruz."
+   },
+   "th": {
+    "meaning": "ไปธรรมชาติ, ชานเมือง"
+   },
+   "vi": {
+    "meaning": "ra ngoại ô, về với thiên nhiên"
+   },
+   "fa": {
+    "meaning": "به دل طبیعت"
    }
   },
   "L&Zlgoxqvw": {
@@ -1188,6 +2250,15 @@
    "tr": {
     "meaning": "... yakınında",
     "example": "Hamburg yakınında oturuyoruz."
+   },
+   "th": {
+    "meaning": "ใกล้กับ"
+   },
+   "vi": {
+    "meaning": "gần"
+   },
+   "fa": {
+    "meaning": "نزدیکِ"
    }
   },
   "O#N#!0nM{3": {
@@ -1198,6 +2269,15 @@
    "tr": {
     "meaning": "yalnız, ıssız",
     "example": "Issız bir bölgede yaşıyorlar."
+   },
+   "th": {
+    "meaning": "เปล่าเปลี่ยว, เงียบเหงา"
+   },
+   "vi": {
+    "meaning": "cô đơn, hẻo lánh"
+   },
+   "fa": {
+    "meaning": "تنها، دورافتاده"
    }
   },
   "m6ou<G-DX%": {
@@ -1208,6 +2288,15 @@
    "tr": {
     "meaning": "üçte bir",
     "example": "Nüfusun üçte biri büyük şehirlerde yaşıyor."
+   },
+   "th": {
+    "meaning": "หนึ่งในสาม"
+   },
+   "vi": {
+    "meaning": "một phần ba"
+   },
+   "fa": {
+    "meaning": "یک‌سوم"
    }
   },
   "AWg[z0lfV*": {
@@ -1218,6 +2307,15 @@
    "tr": {
     "meaning": "dörtte bir; semt",
     "example": "Bunların yaklaşık dörtte biri kırsalda yaşıyor."
+   },
+   "th": {
+    "meaning": "หนึ่งในสี่; ย่าน"
+   },
+   "vi": {
+    "meaning": "một phần tư; khu phố"
+   },
+   "fa": {
+    "meaning": "یک‌چهارم؛ محله"
    }
   },
   "v;FDc?{Nwk": {
@@ -1228,6 +2326,15 @@
    "tr": {
     "meaning": "beşte bir",
     "example": "Almanların beşte biri yalnız yaşıyor."
+   },
+   "th": {
+    "meaning": "หนึ่งในห้า"
+   },
+   "vi": {
+    "meaning": "một phần năm"
+   },
+   "fa": {
+    "meaning": "یک‌پنجم"
    }
   },
   "dMmN,QMM;!": {
@@ -1238,6 +2345,15 @@
    "tr": {
     "meaning": "altıda bir",
     "example": "Altıda birinden biraz fazlası Türk."
+   },
+   "th": {
+    "meaning": "หนึ่งในหก"
+   },
+   "vi": {
+    "meaning": "một phần sáu"
+   },
+   "fa": {
+    "meaning": "یک‌ششم"
    }
   },
   "FMQW*{Z$HU": {
@@ -1248,6 +2364,15 @@
    "tr": {
     "meaning": "çoğunluk",
     "example": "Hamburgluların çoğunluğu memnun."
+   },
+   "th": {
+    "meaning": "ส่วนใหญ่"
+   },
+   "vi": {
+    "meaning": "đa số"
+   },
+   "fa": {
+    "meaning": "اکثریت"
    }
   },
   "JyvV8Y{|5J": {
@@ -1258,6 +2383,15 @@
    "tr": {
     "meaning": "katılımcı",
     "example": "Her iki katılımcıdan biri yalnız yaşıyor."
+   },
+   "th": {
+    "meaning": "ผู้เข้าร่วม"
+   },
+   "vi": {
+    "meaning": "người tham gia"
+   },
+   "fa": {
+    "meaning": "شرکت‌کننده"
    }
   },
   "zJvcsk^kgm": {
@@ -1268,6 +2402,15 @@
    "tr": {
     "meaning": "istatistik",
     "example": "İstatistik ne gösteriyor?"
+   },
+   "th": {
+    "meaning": "สถิติ"
+   },
+   "vi": {
+    "meaning": "thống kê"
+   },
+   "fa": {
+    "meaning": "آمار"
    }
   },
   "ysBKD39KDh": {
@@ -1278,6 +2421,15 @@
    "tr": {
     "meaning": "veri, bilgi",
     "example": "\"Dörtte bir\" gibi ifadeler kullanın."
+   },
+   "th": {
+    "meaning": "ข้อมูล"
+   },
+   "vi": {
+    "meaning": "dữ liệu, thông tin"
+   },
+   "fa": {
+    "meaning": "داده، اطلاعات"
    }
   },
   "d:*RN#0$pb": {
@@ -1288,6 +2440,15 @@
    "tr": {
     "meaning": "sayı; rakam",
     "example": "Bekârların sayısı arttı."
+   },
+   "th": {
+    "meaning": "ตัวเลข; จำนวน"
+   },
+   "vi": {
+    "meaning": "con số; số lượng"
+   },
+   "fa": {
+    "meaning": "عدد؛ تعداد"
    }
   },
   "eSZuNR-Ow": {
@@ -1298,6 +2459,15 @@
    "tr": {
     "meaning": "... -e odaklanmak",
     "example": "Sınava odaklanıyorum."
+   },
+   "th": {
+    "meaning": "มุ่งความสนใจไปที่"
+   },
+   "vi": {
+    "meaning": "tập trung vào"
+   },
+   "fa": {
+    "meaning": "تمرکز کردن روی"
    }
   },
   "i-8S$#mMRA": {
@@ -1308,6 +2478,15 @@
    "tr": {
     "meaning": "konut durumu",
     "example": "Konut durumunuzdan memnun musunuz?"
+   },
+   "th": {
+    "meaning": "สภาพที่อยู่อาศัย"
+   },
+   "vi": {
+    "meaning": "tình trạng nhà ở"
+   },
+   "fa": {
+    "meaning": "وضعیت مسکن"
    }
   },
   "tf2]>d|2/*": {
@@ -1318,6 +2497,15 @@
    "tr": {
     "meaning": "kirada oturmak",
     "example": "Almanların çoğu kirada oturur."
+   },
+   "th": {
+    "meaning": "เช่าบ้านอยู่"
+   },
+   "vi": {
+    "meaning": "ở nhà thuê"
+   },
+   "fa": {
+    "meaning": "مستأجر بودن"
    }
   },
   "s6CVu{TQ}-": {
@@ -1328,6 +2516,15 @@
    "tr": {
     "meaning": "kira",
     "example": "Hamburg'da kiralar yüksek."
+   },
+   "th": {
+    "meaning": "ค่าเช่า"
+   },
+   "vi": {
+    "meaning": "tiền thuê nhà"
+   },
+   "fa": {
+    "meaning": "اجاره‌بها"
    }
   },
   "bo8~{dD&aH": {
@@ -1338,6 +2535,15 @@
    "tr": {
     "meaning": "mülk daire",
     "example": "Kendilerine ait bir daire satın aldılar."
+   },
+   "th": {
+    "meaning": "คอนโดที่ซื้อเป็นเจ้าของ"
+   },
+   "vi": {
+    "meaning": "căn hộ sở hữu"
+   },
+   "fa": {
+    "meaning": "آپارتمان ملکی"
    }
   },
   "dUKg@)a!6c": {
@@ -1348,6 +2554,15 @@
    "tr": {
     "meaning": "semt, mahalle",
     "example": "Hangi semtte oturuyorsun?"
+   },
+   "th": {
+    "meaning": "ย่าน, เขต"
+   },
+   "vi": {
+    "meaning": "quận, khu phố"
+   },
+   "fa": {
+    "meaning": "محله"
    }
   },
   "n;[mDfjf?B": {
@@ -1358,6 +2573,15 @@
    "tr": {
     "meaning": "banliyö",
     "example": "Hamburg'un bir banliyösünde oturuyoruz."
+   },
+   "th": {
+    "meaning": "ชานเมือง"
+   },
+   "vi": {
+    "meaning": "ngoại ô"
+   },
+   "fa": {
+    "meaning": "حومهٔ شهر"
    }
   },
   "Eh+cm&Sv*H": {
@@ -1368,6 +2592,15 @@
    "tr": {
     "meaning": "oturma alanı",
     "example": "Dairenin 60 m² oturma alanı var."
+   },
+   "th": {
+    "meaning": "พื้นที่ใช้สอย"
+   },
+   "vi": {
+    "meaning": "diện tích ở"
+   },
+   "fa": {
+    "meaning": "مساحت مسکونی"
    }
   },
   "DXsqL[O?<Q": {
@@ -1378,6 +2611,15 @@
    "tr": {
     "meaning": "balkon",
     "example": "Balkonda kahve içiyorum."
+   },
+   "th": {
+    "meaning": "ระเบียง"
+   },
+   "vi": {
+    "meaning": "ban công"
+   },
+   "fa": {
+    "meaning": "بالکن"
    }
   },
   "n}(<d4uv2/": {
@@ -1388,6 +2630,15 @@
    "tr": {
     "meaning": "teras",
     "example": "Evin büyük bir terası var."
+   },
+   "th": {
+    "meaning": "ระเบียง, ลาน"
+   },
+   "vi": {
+    "meaning": "sân hiên"
+   },
+   "fa": {
+    "meaning": "تراس"
    }
   },
   "BGW,Ev[u$X": {
@@ -1398,6 +2649,15 @@
    "tr": {
     "meaning": "garaj",
     "example": "Araba garajda."
+   },
+   "th": {
+    "meaning": "โรงรถ"
+   },
+   "vi": {
+    "meaning": "nhà để xe"
+   },
+   "fa": {
+    "meaning": "گاراژ"
    }
   },
   "DS>N`$7F]e": {
@@ -1408,6 +2668,15 @@
    "tr": {
     "meaning": "döşeme, iç dekorasyon",
     "example": "Dairenin döşemesi modern."
+   },
+   "th": {
+    "meaning": "การตกแต่ง"
+   },
+   "vi": {
+    "meaning": "nội thất"
+   },
+   "fa": {
+    "meaning": "چیدمان، دکوراسیون"
    }
   },
   "KO)o4w5WEe": {
@@ -1418,6 +2687,15 @@
    "tr": {
     "meaning": "mobilya",
     "example": "Mobilyalar kullanışlı olmalı."
+   },
+   "th": {
+    "meaning": "เฟอร์นิเจอร์"
+   },
+   "vi": {
+    "meaning": "đồ nội thất"
+   },
+   "fa": {
+    "meaning": "مبلمان"
    }
   },
   "m2NtBBiY9}": {
@@ -1428,6 +2706,15 @@
    "tr": {
     "meaning": "bozulmak",
     "example": "Telefonum bozuldu."
+   },
+   "th": {
+    "meaning": "เสีย, พัง"
+   },
+   "vi": {
+    "meaning": "bị hỏng"
+   },
+   "fa": {
+    "meaning": "خراب شدن"
    }
   },
   "Jmh1Z1KW-Y": {
@@ -1438,6 +2725,15 @@
    "tr": {
     "meaning": "... -e dikkat etmek",
     "example": "Almanlar mobilya alırken fiyata dikkat eder."
+   },
+   "th": {
+    "meaning": "ใส่ใจ"
+   },
+   "vi": {
+    "meaning": "chú ý đến"
+   },
+   "fa": {
+    "meaning": "توجه کردن به"
    }
   },
   "vxb+s=xU!:": {
@@ -1448,6 +2744,15 @@
    "tr": {
     "meaning": "danışmak",
     "example": "Satın almadan önce danışırım."
+   },
+   "th": {
+    "meaning": "ขอคำปรึกษา"
+   },
+   "vi": {
+    "meaning": "nhờ tư vấn"
+   },
+   "fa": {
+    "meaning": "مشورت گرفتن"
    }
   },
   "Q:@B|Vo[5r": {
@@ -1458,6 +2763,15 @@
    "tr": {
     "meaning": "iç mimar (n-Deklination)",
     "example": "Bir iç mimara sordular."
+   },
+   "th": {
+    "meaning": "มัณฑนากร"
+   },
+   "vi": {
+    "meaning": "kiến trúc sư nội thất"
+   },
+   "fa": {
+    "meaning": "طراح داخلی"
    }
   },
   "Dm*f0M}Yq5": {
@@ -1468,6 +2782,15 @@
    "tr": {
     "meaning": "hayal etmek",
     "example": "Düşünsene: lotoyu kazanmış!"
+   },
+   "th": {
+    "meaning": "จินตนาการ"
+   },
+   "vi": {
+    "meaning": "tưởng tượng"
+   },
+   "fa": {
+    "meaning": "تصور کردن"
    }
   },
   "f3D+Q+8@Q<": {
@@ -1478,6 +2801,15 @@
    "tr": {
     "meaning": "sonuç",
     "example": "Bu bir anketin sonucu."
+   },
+   "th": {
+    "meaning": "ผลลัพธ์"
+   },
+   "vi": {
+    "meaning": "kết quả"
+   },
+   "fa": {
+    "meaning": "نتیجه"
    }
   },
   "v4iyqQQr:?": {
@@ -1488,6 +2820,15 @@
    "tr": {
     "meaning": "sıralama",
     "example": "Sıralamada ikinci sırada Berlin geliyor."
+   },
+   "th": {
+    "meaning": "การจัดอันดับ"
+   },
+   "vi": {
+    "meaning": "bảng xếp hạng"
+   },
+   "fa": {
+    "meaning": "رتبه‌بندی"
    }
   },
   "p,v%$ylxz>": {
@@ -1498,6 +2839,15 @@
    "tr": {
     "meaning": "ankete katılan (sıfat gibi çekilir: ein Befragter)",
     "example": "Ankete katılanların %31'i şehirde yaşamak istemiyor."
+   },
+   "th": {
+    "meaning": "ผู้ตอบแบบสอบถาม"
+   },
+   "vi": {
+    "meaning": "người được hỏi"
+   },
+   "fa": {
+    "meaning": "پاسخ‌دهنده"
    }
   },
   "ymxc8@JSco": {
@@ -1508,6 +2858,15 @@
    "tr": {
     "meaning": "emeklilik",
     "example": "Babam iki yıldır emekli."
+   },
+   "th": {
+    "meaning": "การเกษียณอายุ"
+   },
+   "vi": {
+    "meaning": "nghỉ hưu"
+   },
+   "fa": {
+    "meaning": "بازنشستگی"
    }
   },
   "i,9b`Q(=16": {
@@ -1518,6 +2877,15 @@
    "tr": {
     "meaning": "küçük kasaba",
     "example": "Küçük bir kasabada büyüdüm."
+   },
+   "th": {
+    "meaning": "เมืองเล็ก"
+   },
+   "vi": {
+    "meaning": "thị trấn nhỏ"
+   },
+   "fa": {
+    "meaning": "شهر کوچک"
    }
   },
   "x*:idpe=8<": {
@@ -1528,6 +2896,15 @@
    "tr": {
     "meaning": "büyük şehir",
     "example": "Gençler büyük şehre taşınıyor."
+   },
+   "th": {
+    "meaning": "เมืองใหญ่"
+   },
+   "vi": {
+    "meaning": "thành phố lớn"
+   },
+   "fa": {
+    "meaning": "شهر بزرگ"
    }
   }
  },

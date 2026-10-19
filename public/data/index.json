@@ -14,7 +14,10 @@
    "langs": [
     "zh",
     "en",
-    "tr"
+    "tr",
+    "th",
+    "vi",
+    "fa"
    ],
    "words": 85,
    "grammar": 21,
@@ -30,7 +33,10 @@
    "langs": [
     "zh",
     "en",
-    "tr"
+    "tr",
+    "th",
+    "vi",
+    "fa"
    ],
    "words": 153,
    "grammar": 22,
