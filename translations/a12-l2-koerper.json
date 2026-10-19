@@ -1,0 +1,473 @@
+{
+ "words": {
+  ".AuMcW5uT": {
+   "en": {
+    "meaning": "eye",
+    "example": "Her eyes are red."
+   },
+   "tr": {
+    "meaning": "göz"
+   },
+   "th": {
+    "meaning": "ตา"
+   },
+   "vi": {
+    "meaning": "mắt"
+   },
+   "fa": {
+    "meaning": "چشم"
+   }
+  },
+  "D/~|RD&uQP": {
+   "en": {
+    "meaning": "eyebrow",
+    "example": "She has dark eyebrows."
+   },
+   "tr": {
+    "meaning": "kaş"
+   },
+   "th": {
+    "meaning": "คิ้ว"
+   },
+   "vi": {
+    "meaning": "lông mày"
+   },
+   "fa": {
+    "meaning": "ابرو"
+   }
+  },
+  "s&6:;O]]ip": {
+   "en": {
+    "meaning": "eyelash",
+    "example": "Her eyelashes are very long."
+   },
+   "tr": {
+    "meaning": "kirpik"
+   },
+   "th": {
+    "meaning": "ขนตา"
+   },
+   "vi": {
+    "meaning": "lông mi"
+   },
+   "fa": {
+    "meaning": "مژه"
+   }
+  },
+  "FaaFPZR!v1": {
+   "en": {
+    "meaning": "forehead",
+    "example": "Tim puts his hand on Lisa's forehead."
+   },
+   "tr": {
+    "meaning": "alın"
+   },
+   "th": {
+    "meaning": "หน้าผาก"
+   },
+   "vi": {
+    "meaning": "trán"
+   },
+   "fa": {
+    "meaning": "پیشانی"
+   }
+  },
+  "NJj_eEQ0&-": {
+   "en": {
+    "meaning": "nose",
+    "example": "Her nose is running and her face is very pale."
+   },
+   "tr": {
+    "meaning": "burun"
+   },
+   "th": {
+    "meaning": "จมูก"
+   },
+   "vi": {
+    "meaning": "mũi"
+   },
+   "fa": {
+    "meaning": "بینی"
+   }
+  },
+  "jkXK!A7{R#": {
+   "en": {
+    "meaning": "nostril",
+    "example": "People have two nostrils."
+   },
+   "tr": {
+    "meaning": "burun deliği"
+   },
+   "th": {
+    "meaning": "รูจมูก"
+   },
+   "vi": {
+    "meaning": "lỗ mũi"
+   },
+   "fa": {
+    "meaning": "سوراخ بینی"
+   }
+  },
+  "iBU&=U^wE^": {
+   "en": {
+    "meaning": "mouth",
+    "example": "Open your mouth, please!"
+   },
+   "tr": {
+    "meaning": "ağız"
+   },
+   "th": {
+    "meaning": "ปาก"
+   },
+   "vi": {
+    "meaning": "miệng"
+   },
+   "fa": {
+    "meaning": "دهان"
+   }
+  },
+  "Qgu<b7x,N!": {
+   "en": {
+    "meaning": "lip",
+    "example": "In winter my lips are dry."
+   },
+   "tr": {
+    "meaning": "dudak"
+   },
+   "th": {
+    "meaning": "ริมฝีปาก"
+   },
+   "vi": {
+    "meaning": "môi"
+   },
+   "fa": {
+    "meaning": "لب"
+   }
+  },
+  "Fn.n+s6`Y>": {
+   "en": {
+    "meaning": "tooth",
+    "example": "He quickly brushes his teeth."
+   },
+   "tr": {
+    "meaning": "diş"
+   },
+   "th": {
+    "meaning": "ฟัน"
+   },
+   "vi": {
+    "meaning": "răng"
+   },
+   "fa": {
+    "meaning": "دندان"
+   }
+  },
+  "e}n;l6i(?e": {
+   "en": {
+    "meaning": "chin",
+    "example": "The man has a beard on his chin."
+   },
+   "tr": {
+    "meaning": "çene"
+   },
+   "th": {
+    "meaning": "คาง"
+   },
+   "vi": {
+    "meaning": "cằm"
+   },
+   "fa": {
+    "meaning": "چانه"
+   }
+  },
+  "x#f={f~97Z": {
+   "en": {
+    "meaning": "ear",
+    "example": "My ears hurt."
+   },
+   "tr": {
+    "meaning": "kulak"
+   },
+   "th": {
+    "meaning": "หู"
+   },
+   "vi": {
+    "meaning": "tai"
+   },
+   "fa": {
+    "meaning": "گوش"
+   }
+  },
+  "n=_&dgSabe": {
+   "en": {
+    "meaning": "earlobe",
+    "example": "She is wearing an earring in her earlobe."
+   },
+   "tr": {
+    "meaning": "kulak memesi"
+   },
+   "th": {
+    "meaning": "ติ่งหู"
+   },
+   "vi": {
+    "meaning": "dái tai"
+   },
+   "fa": {
+    "meaning": "نرمهٔ گوش"
+   }
+  },
+  "kp~(`P;o={": {
+   "en": {
+    "meaning": "head",
+    "example": "My head has been hurting all day."
+   },
+   "tr": {
+    "meaning": "baş, kafa"
+   },
+   "th": {
+    "meaning": "ศีรษะ"
+   },
+   "vi": {
+    "meaning": "đầu"
+   },
+   "fa": {
+    "meaning": "سر"
+   }
+  },
+  "Ba51${~f^K": {
+   "en": {
+    "meaning": "neck (back of the neck)",
+    "example": "My neck hurts after work."
+   },
+   "tr": {
+    "meaning": "ense"
+   },
+   "th": {
+    "meaning": "ต้นคอ"
+   },
+   "vi": {
+    "meaning": "gáy"
+   },
+   "fa": {
+    "meaning": "پشت گردن"
+   }
+  },
+  "iFj?}uCXiI": {
+   "en": {
+    "meaning": "neck; throat",
+    "example": "I have a sore throat and can't speak."
+   },
+   "tr": {
+    "meaning": "boyun; boğaz"
+   },
+   "th": {
+    "meaning": "คอ; ลำคอ"
+   },
+   "vi": {
+    "meaning": "cổ; họng"
+   },
+   "fa": {
+    "meaning": "گردن؛ گلو"
+   }
+  },
+  "tE7pu7/3XS": {
+   "en": {
+    "meaning": "shoulder",
+    "example": "My shoulders are really stiff."
+   },
+   "tr": {
+    "meaning": "omuz"
+   },
+   "th": {
+    "meaning": "ไหล่"
+   },
+   "vi": {
+    "meaning": "vai"
+   },
+   "fa": {
+    "meaning": "شانه"
+   }
+  },
+  "fmV,x+tDx?": {
+   "en": {
+    "meaning": "back",
+    "example": "Lisa's back hurts."
+   },
+   "tr": {
+    "meaning": "sırt"
+   },
+   "th": {
+    "meaning": "หลัง"
+   },
+   "vi": {
+    "meaning": "lưng"
+   },
+   "fa": {
+    "meaning": "کمر، پشت"
+   }
+  },
+  "e]TV0J0pSE": {
+   "en": {
+    "meaning": "hand",
+    "example": "I write with my right hand."
+   },
+   "tr": {
+    "meaning": "el"
+   },
+   "th": {
+    "meaning": "มือ"
+   },
+   "vi": {
+    "meaning": "bàn tay"
+   },
+   "fa": {
+    "meaning": "دست"
+   }
+  },
+  "BT2e)Eyk(;": {
+   "en": {
+    "meaning": "belly, stomach",
+    "example": "My stomach hurts. I have stomach cramps."
+   },
+   "tr": {
+    "meaning": "karın"
+   },
+   "th": {
+    "meaning": "ท้อง"
+   },
+   "vi": {
+    "meaning": "bụng"
+   },
+   "fa": {
+    "meaning": "شکم"
+   }
+  },
+  "t)a5QA/q,4": {
+   "en": {
+    "meaning": "knee",
+    "example": "My knee hurts when I do sport."
+   },
+   "tr": {
+    "meaning": "diz"
+   },
+   "th": {
+    "meaning": "เข่า"
+   },
+   "vi": {
+    "meaning": "đầu gối"
+   },
+   "fa": {
+    "meaning": "زانو"
+   }
+  },
+  "yL_U;lg]f,": {
+   "en": {
+    "meaning": "ankle",
+    "example": "I fell and my ankle hurts."
+   },
+   "tr": {
+    "meaning": "ayak bileği"
+   },
+   "th": {
+    "meaning": "ข้อเท้า"
+   },
+   "vi": {
+    "meaning": "mắt cá chân"
+   },
+   "fa": {
+    "meaning": "قوزک پا"
+   }
+  },
+  "HH:|x|=4#p": {
+   "en": {
+    "meaning": "foot",
+    "example": "My feet hurt after work."
+   },
+   "tr": {
+    "meaning": "ayak"
+   },
+   "th": {
+    "meaning": "เท้า"
+   },
+   "vi": {
+    "meaning": "bàn chân"
+   },
+   "fa": {
+    "meaning": "پا"
+   }
+  },
+  "C;%ya*8uJ`": {
+   "en": {
+    "meaning": "toe",
+    "example": "People have ten toes."
+   },
+   "tr": {
+    "meaning": "ayak parmağı"
+   },
+   "th": {
+    "meaning": "นิ้วเท้า"
+   },
+   "vi": {
+    "meaning": "ngón chân"
+   },
+   "fa": {
+    "meaning": "انگشت پا"
+   }
+  },
+  "d2JuT<|maS": {
+   "en": {
+    "meaning": "face",
+    "example": "Her face is very pale."
+   },
+   "tr": {
+    "meaning": "yüz"
+   },
+   "th": {
+    "meaning": "ใบหน้า"
+   },
+   "vi": {
+    "meaning": "khuôn mặt"
+   },
+   "fa": {
+    "meaning": "صورت"
+   }
+  },
+  "y[.hpzrK|e": {
+   "en": {
+    "meaning": "body",
+    "example": "My whole body hurts."
+   },
+   "tr": {
+    "meaning": "vücut"
+   },
+   "th": {
+    "meaning": "ร่างกาย"
+   },
+   "vi": {
+    "meaning": "cơ thể"
+   },
+   "fa": {
+    "meaning": "بدن"
+   }
+  },
+  "yfQ+CP`}ba": {
+   "en": {
+    "meaning": "lung",
+    "example": "I'm going to listen to your lungs."
+   },
+   "tr": {
+    "meaning": "akciğer"
+   },
+   "th": {
+    "meaning": "ปอด"
+   },
+   "vi": {
+    "meaning": "phổi"
+   },
+   "fa": {
+    "meaning": "ریه"
+   }
+  }
+ },
+ "grammar": {}
+}

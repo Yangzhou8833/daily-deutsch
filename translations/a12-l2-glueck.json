@@ -1,0 +1,533 @@
+{
+ "words": {
+  "oZW~6q2LzL": {
+   "en": {
+    "meaning": "skier",
+    "example": "A skier means a risk of accidents."
+   },
+   "tr": {
+    "meaning": "kayakçı"
+   },
+   "th": {
+    "meaning": "นักสกี"
+   },
+   "vi": {
+    "meaning": "người trượt tuyết"
+   },
+   "fa": {
+    "meaning": "اسکی‌باز"
+   }
+  },
+  "rQVzYLL9;c": {
+   "en": {
+    "meaning": "shark",
+    "example": "The shark means a lust for power."
+   },
+   "tr": {
+    "meaning": "köpekbalığı"
+   },
+   "th": {
+    "meaning": "ฉลาม"
+   },
+   "vi": {
+    "meaning": "cá mập"
+   },
+   "fa": {
+    "meaning": "کوسه"
+   }
+  },
+  "f_cW&heLUo": {
+   "en": {
+    "meaning": "seahorse",
+    "example": "The seahorse means a cruise."
+   },
+   "tr": {
+    "meaning": "denizatı"
+   },
+   "th": {
+    "meaning": "ม้าน้ำ"
+   },
+   "vi": {
+    "meaning": "cá ngựa"
+   },
+   "fa": {
+    "meaning": "اسب دریایی"
+   }
+  },
+  "v$juJllw>#": {
+   "en": {
+    "meaning": "teapot",
+    "example": "The teapot means patience."
+   },
+   "tr": {
+    "meaning": "çaydanlık"
+   },
+   "th": {
+    "meaning": "กาน้ำชา"
+   },
+   "vi": {
+    "meaning": "ấm trà"
+   },
+   "fa": {
+    "meaning": "قوری"
+   }
+  },
+  "Az}sls_Fr2": {
+   "en": {
+    "meaning": "axe",
+    "example": "The axe is in the garden."
+   },
+   "tr": {
+    "meaning": "balta"
+   },
+   "th": {
+    "meaning": "ขวาน"
+   },
+   "vi": {
+    "meaning": "cái rìu"
+   },
+   "fa": {
+    "meaning": "تبر"
+   }
+  },
+  "b57d;b~<%a": {
+   "en": {
+    "meaning": "lion",
+    "example": "The lion jumps down."
+   },
+   "tr": {
+    "meaning": "aslan"
+   },
+   "th": {
+    "meaning": "สิงโต"
+   },
+   "vi": {
+    "meaning": "sư tử"
+   },
+   "fa": {
+    "meaning": "شیر"
+   }
+  },
+  "o/Q$%1dL6/": {
+   "en": {
+    "meaning": "to jump down",
+    "example": "The lion jumps down."
+   },
+   "tr": {
+    "meaning": "aşağı atlamak"
+   },
+   "th": {
+    "meaning": "กระโดดลงมา"
+   },
+   "vi": {
+    "meaning": "nhảy xuống"
+   },
+   "fa": {
+    "meaning": "پایین پریدن"
+   }
+  },
+  "o}ZzFIypjF": {
+   "en": {
+    "meaning": "nail; fingernail",
+    "example": "The nails mean luck."
+   },
+   "tr": {
+    "meaning": "çivi; tırnak"
+   },
+   "th": {
+    "meaning": "ตะปู; เล็บ"
+   },
+   "vi": {
+    "meaning": "cái đinh; móng tay"
+   },
+   "fa": {
+    "meaning": "میخ؛ ناخن"
+   }
+  },
+  "fetAT}GbOy": {
+   "en": {
+    "meaning": "lust for power",
+    "example": "A lust for power can cause problems."
+   },
+   "tr": {
+    "meaning": "iktidar hırsı"
+   },
+   "th": {
+    "meaning": "ความกระหายอำนาจ"
+   },
+   "vi": {
+    "meaning": "lòng ham quyền lực"
+   },
+   "fa": {
+    "meaning": "قدرت‌طلبی"
+   }
+  },
+  "k3]`Qf%<QU": {
+   "en": {
+    "meaning": "patience",
+    "example": "You have to train your own patience."
+   },
+   "tr": {
+    "meaning": "sabır"
+   },
+   "th": {
+    "meaning": "ความอดทน"
+   },
+   "vi": {
+    "meaning": "sự kiên nhẫn"
+   },
+   "fa": {
+    "meaning": "صبر"
+   }
+  },
+  "n_b]72L=5$": {
+   "en": {
+    "meaning": "to marry, to get married",
+    "example": "They are getting married next year."
+   },
+   "tr": {
+    "meaning": "evlenmek"
+   },
+   "th": {
+    "meaning": "แต่งงาน"
+   },
+   "vi": {
+    "meaning": "kết hôn"
+   },
+   "fa": {
+    "meaning": "ازدواج کردن"
+   }
+  },
+  "MXp]DwFi++": {
+   "en": {
+    "meaning": "coming, next",
+    "example": "next year"
+   },
+   "tr": {
+    "meaning": "gelecek"
+   },
+   "th": {
+    "meaning": "ที่จะมาถึง"
+   },
+   "vi": {
+    "meaning": "sắp tới"
+   },
+   "fa": {
+    "meaning": "آینده"
+   }
+  },
+  "I|7XATOOx/": {
+   "en": {
+    "meaning": "love",
+    "example": "That means true love."
+   },
+   "tr": {
+    "meaning": "aşk, sevgi"
+   },
+   "th": {
+    "meaning": "ความรัก"
+   },
+   "vi": {
+    "meaning": "tình yêu"
+   },
+   "fa": {
+    "meaning": "عشق"
+   },
+   "zh": {
+    "example": "这代表真爱。"
+   }
+  },
+  "I=ms=WsrQ5": {
+   "en": {
+    "meaning": "risk of accidents",
+    "example": "Caution: risk of accidents!"
+   },
+   "tr": {
+    "meaning": "kaza tehlikesi"
+   },
+   "th": {
+    "meaning": "อันตรายจากอุบัติเหตุ"
+   },
+   "vi": {
+    "meaning": "nguy cơ tai nạn"
+   },
+   "fa": {
+    "meaning": "خطر حادثه"
+   }
+  },
+  "p}aUSO1VV~": {
+   "en": {
+    "meaning": "cruise",
+    "example": "We're going on a cruise."
+   },
+   "tr": {
+    "meaning": "gemi turu"
+   },
+   "th": {
+    "meaning": "การล่องเรือสำราญ"
+   },
+   "vi": {
+    "meaning": "chuyến du thuyền"
+   },
+   "fa": {
+    "meaning": "سفر دریایی با کشتی تفریحی"
+   }
+  },
+  "kWUhFyB-j}": {
+   "en": {
+    "meaning": "luck; happiness",
+    "example": "That brings luck."
+   },
+   "tr": {
+    "meaning": "şans; mutluluk"
+   },
+   "th": {
+    "meaning": "โชค; ความสุข"
+   },
+   "vi": {
+    "meaning": "may mắn; hạnh phúc"
+   },
+   "fa": {
+    "meaning": "شانس؛ خوشبختی"
+   }
+  },
+  "EmLKbu*L%m": {
+   "en": {
+    "meaning": "coin",
+    "example": "A coin means: you will become rich."
+   },
+   "tr": {
+    "meaning": "madeni para"
+   },
+   "th": {
+    "meaning": "เหรียญ"
+   },
+   "vi": {
+    "meaning": "đồng xu"
+   },
+   "fa": {
+    "meaning": "سکه"
+   }
+  },
+  "M84u$86/U@": {
+   "en": {
+    "meaning": "rich",
+    "example": "You'll become rich in the new year!"
+   },
+   "tr": {
+    "meaning": "zengin"
+   },
+   "th": {
+    "meaning": "รวย"
+   },
+   "vi": {
+    "meaning": "giàu"
+   },
+   "fa": {
+    "meaning": "ثروتمند"
+   }
+  },
+  "deKF$yyV{7": {
+   "en": {
+    "meaning": "snake; queue",
+    "example": "A snake means an argument."
+   },
+   "tr": {
+    "meaning": "yılan; kuyruk"
+   },
+   "th": {
+    "meaning": "งู; แถว"
+   },
+   "vi": {
+    "meaning": "con rắn; hàng người"
+   },
+   "fa": {
+    "meaning": "مار؛ صف"
+   }
+  },
+  "nm+Hlc#tUI": {
+   "en": {
+    "meaning": "knife",
+    "example": "A knife is not good at all."
+   },
+   "tr": {
+    "meaning": "bıçak"
+   },
+   "th": {
+    "meaning": "มีด"
+   },
+   "vi": {
+    "meaning": "con dao"
+   },
+   "fa": {
+    "meaning": "چاقو"
+   }
+  },
+  "p)V19,^beH": {
+   "en": {
+    "meaning": "bird",
+    "example": "A bird? You must be careful at work."
+   },
+   "tr": {
+    "meaning": "kuş"
+   },
+   "th": {
+    "meaning": "นก"
+   },
+   "vi": {
+    "meaning": "con chim"
+   },
+   "fa": {
+    "meaning": "پرنده"
+   }
+  },
+  "Fj{-:pHwZq": {
+   "en": {
+    "meaning": "future",
+    "example": "How can you look into the future?"
+   },
+   "tr": {
+    "meaning": "gelecek"
+   },
+   "th": {
+    "meaning": "อนาคต"
+   },
+   "vi": {
+    "meaning": "tương lai"
+   },
+   "fa": {
+    "meaning": "آینده"
+   }
+  },
+  "x_pf?wR*u0": {
+   "en": {
+    "meaning": "chimney sweep",
+    "example": "The chimney sweep brings luck."
+   },
+   "tr": {
+    "meaning": "baca temizleyicisi"
+   },
+   "th": {
+    "meaning": "คนกวาดปล่องไฟ"
+   },
+   "vi": {
+    "meaning": "thợ cạo ống khói"
+   },
+   "fa": {
+    "meaning": "دودکش‌پاک‌کن"
+   }
+  },
+  "A+*j5m:GsD": {
+   "en": {
+    "meaning": "ladybird",
+    "example": "The ladybird brings luck."
+   },
+   "tr": {
+    "meaning": "uğur böceği"
+   },
+   "th": {
+    "meaning": "เต่าทอง"
+   },
+   "vi": {
+    "meaning": "bọ rùa"
+   },
+   "fa": {
+    "meaning": "کفشدوزک"
+   }
+  },
+  "z!nW${3.]D": {
+   "en": {
+    "meaning": "fly agaric (red toadstool)",
+    "example": "The fly agaric is a lucky charm."
+   },
+   "tr": {
+    "meaning": "sinek mantarı (kırmızı mantar)"
+   },
+   "th": {
+    "meaning": "เห็ดพิษหมวกแดง"
+   },
+   "vi": {
+    "meaning": "nấm đỏ (nấm độc)"
+   },
+   "fa": {
+    "meaning": "قارچ مگس‌کش (قارچ قرمز)"
+   }
+  },
+  "Ag(h+k(#Oy": {
+   "en": {
+    "meaning": "clover leaf",
+    "example": "A four-leaf clover brings luck."
+   },
+   "tr": {
+    "meaning": "yonca yaprağı"
+   },
+   "th": {
+    "meaning": "ใบโคลเวอร์"
+   },
+   "vi": {
+    "meaning": "lá cỏ ba lá"
+   },
+   "fa": {
+    "meaning": "برگ شبدر"
+   }
+  },
+  "h:Bs$dJU[`": {
+   "en": {
+    "meaning": "horseshoe",
+    "example": "The horseshoe is hanging above the door."
+   },
+   "tr": {
+    "meaning": "at nalı"
+   },
+   "th": {
+    "meaning": "เกือกม้า"
+   },
+   "vi": {
+    "meaning": "móng ngựa"
+   },
+   "fa": {
+    "meaning": "نعل اسب"
+   }
+  },
+  "Fvb1|c.mEE": {
+   "en": {
+    "meaning": "lucky pig",
+    "example": "People give lucky pigs on New Year's Eve."
+   },
+   "tr": {
+    "meaning": "uğur domuzu"
+   },
+   "th": {
+    "meaning": "หมูนำโชค"
+   },
+   "vi": {
+    "meaning": "heo may mắn"
+   },
+   "fa": {
+    "meaning": "خوک خوش‌شانسی"
+   },
+   "zh": {
+    "example": "跨年夜人们送幸运猪。"
+   }
+  },
+  "e!NbtU^T]C": {
+   "en": {
+    "meaning": "similar",
+    "example": "Do people do something similar?"
+   },
+   "tr": {
+    "meaning": "benzer"
+   },
+   "th": {
+    "meaning": "คล้ายกัน"
+   },
+   "vi": {
+    "meaning": "tương tự"
+   },
+   "fa": {
+    "meaning": "مشابه"
+   }
+  }
+ },
+ "grammar": {}
+}

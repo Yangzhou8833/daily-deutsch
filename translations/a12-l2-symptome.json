@@ -1,0 +1,494 @@
+{
+ "words": {
+  "Al86ArPo7X": {
+   "en": {
+    "meaning": "cold, runny nose",
+    "example": "I have a cold and keep sneezing."
+   },
+   "tr": {
+    "meaning": "nezle"
+   },
+   "th": {
+    "meaning": "หวัด, น้ำมูกไหล"
+   },
+   "vi": {
+    "meaning": "sổ mũi"
+   },
+   "fa": {
+    "meaning": "آبریزش بینی، زکام"
+   }
+  },
+  "J3|U>tW/cJ": {
+   "en": {
+    "meaning": "cough",
+    "example": "For a cough I take a syrup."
+   },
+   "tr": {
+    "meaning": "öksürük"
+   },
+   "th": {
+    "meaning": "อาการไอ"
+   },
+   "vi": {
+    "meaning": "ho"
+   },
+   "fa": {
+    "meaning": "سرفه"
+   }
+  },
+  "z*w*ILl/ME": {
+   "en": {
+    "meaning": "fever",
+    "example": "You're really hot! I think you have a fever."
+   },
+   "tr": {
+    "meaning": "ateş"
+   },
+   "th": {
+    "meaning": "ไข้"
+   },
+   "vi": {
+    "meaning": "sốt"
+   },
+   "fa": {
+    "meaning": "تب"
+   },
+   "zh": {
+    "example": "你身上好烫！我觉得你发烧了。"
+   }
+  },
+  "w0N2;qOHT}": {
+   "en": {
+    "meaning": "nausea",
+    "example": "When you feel sick you shouldn't eat anything."
+   },
+   "tr": {
+    "meaning": "mide bulantısı"
+   },
+   "th": {
+    "meaning": "คลื่นไส้"
+   },
+   "vi": {
+    "meaning": "buồn nôn"
+   },
+   "fa": {
+    "meaning": "حالت تهوع"
+   }
+  },
+  "q<wF;z^b6G": {
+   "en": {
+    "meaning": "vomiting",
+    "example": "Vomiting and diarrhoea are typical of a stomach bug."
+   },
+   "tr": {
+    "meaning": "kusma"
+   },
+   "th": {
+    "meaning": "อาเจียน"
+   },
+   "vi": {
+    "meaning": "nôn mửa"
+   },
+   "fa": {
+    "meaning": "استفراغ"
+   }
+  },
+  "wrm)q>!Dps": {
+   "en": {
+    "meaning": "diarrhoea",
+    "example": "I have diarrhoea and stomach cramps."
+   },
+   "tr": {
+    "meaning": "ishal"
+   },
+   "th": {
+    "meaning": "ท้องเสีย"
+   },
+   "vi": {
+    "meaning": "tiêu chảy"
+   },
+   "fa": {
+    "meaning": "اسهال"
+   }
+  },
+  "JUSI@;SujO": {
+   "en": {
+    "meaning": "headache",
+    "example": "The next day I always have a headache."
+   },
+   "tr": {
+    "meaning": "baş ağrısı"
+   },
+   "th": {
+    "meaning": "ปวดหัว"
+   },
+   "vi": {
+    "meaning": "đau đầu"
+   },
+   "fa": {
+    "meaning": "سردرد"
+   }
+  },
+  "q//&=gSoOi": {
+   "en": {
+    "meaning": "sore throat",
+    "example": "I have a sore throat and a cough."
+   },
+   "tr": {
+    "meaning": "boğaz ağrısı"
+   },
+   "th": {
+    "meaning": "เจ็บคอ"
+   },
+   "vi": {
+    "meaning": "đau họng"
+   },
+   "fa": {
+    "meaning": "گلودرد"
+   }
+  },
+  "CJZC|EB<jQ": {
+   "en": {
+    "meaning": "aching limbs",
+    "example": "I have a cough, a cold and aching limbs."
+   },
+   "tr": {
+    "meaning": "eklem ve kas ağrısı"
+   },
+   "th": {
+    "meaning": "ปวดเมื่อยตามตัว"
+   },
+   "vi": {
+    "meaning": "đau nhức chân tay"
+   },
+   "fa": {
+    "meaning": "درد اندام‌ها"
+   }
+  },
+  "LMtO=En:D=": {
+   "en": {
+    "meaning": "stomach cramps",
+    "example": "After eating I had stomach cramps."
+   },
+   "tr": {
+    "meaning": "mide krampları"
+   },
+   "th": {
+    "meaning": "ปวดเกร็งท้อง"
+   },
+   "vi": {
+    "meaning": "co thắt dạ dày"
+   },
+   "fa": {
+    "meaning": "گرفتگی معده"
+   }
+  },
+  "n]QO>pnq_0": {
+   "en": {
+    "meaning": "loss of appetite",
+    "example": "Loss of appetite is also a symptom."
+   },
+   "tr": {
+    "meaning": "iştahsızlık"
+   },
+   "th": {
+    "meaning": "เบื่ออาหาร"
+   },
+   "vi": {
+    "meaning": "chán ăn"
+   },
+   "fa": {
+    "meaning": "بی‌اشتهایی"
+   }
+  },
+  "q+YE+:(E23": {
+   "en": {
+    "meaning": "tiredness",
+    "example": "Tiredness and fever are typical of flu."
+   },
+   "tr": {
+    "meaning": "yorgunluk"
+   },
+   "th": {
+    "meaning": "ความเหนื่อยล้า"
+   },
+   "vi": {
+    "meaning": "mệt mỏi"
+   },
+   "fa": {
+    "meaning": "خستگی"
+   }
+  },
+  "o|_dNy+6[{": {
+   "en": {
+    "meaning": "to sneeze",
+    "example": "With hay fever I have to sneeze a lot."
+   },
+   "tr": {
+    "meaning": "hapşırmak"
+   },
+   "th": {
+    "meaning": "จาม"
+   },
+   "vi": {
+    "meaning": "hắt hơi"
+   },
+   "fa": {
+    "meaning": "عطسه کردن"
+   }
+  },
+  "jTosw+^e/#": {
+   "en": {
+    "meaning": "to cough",
+    "example": "Now cough, please!"
+   },
+   "tr": {
+    "meaning": "öksürmek"
+   },
+   "th": {
+    "meaning": "ไอ"
+   },
+   "vi": {
+    "meaning": "ho"
+   },
+   "fa": {
+    "meaning": "سرفه کردن"
+   }
+  },
+  "IZ}dI?;$4~": {
+   "en": {
+    "meaning": "to sweat",
+    "example": "When I have a fever, I sweat a lot."
+   },
+   "tr": {
+    "meaning": "terlemek"
+   },
+   "th": {
+    "meaning": "เหงื่อออก"
+   },
+   "vi": {
+    "meaning": "đổ mồ hôi"
+   },
+   "fa": {
+    "meaning": "عرق کردن"
+   }
+  },
+  "vj7i{LB3If": {
+   "en": {
+    "meaning": "to feel cold",
+    "example": "I feel cold, but my face is hot."
+   },
+   "tr": {
+    "meaning": "üşümek"
+   },
+   "th": {
+    "meaning": "รู้สึกหนาว"
+   },
+   "vi": {
+    "meaning": "thấy lạnh"
+   },
+   "fa": {
+    "meaning": "سردش شدن"
+   }
+  },
+  "v/4KO(skgq": {
+   "en": {
+    "meaning": "to have difficulty breathing",
+    "example": "With hay fever I can hardly breathe."
+   },
+   "tr": {
+    "meaning": "zor nefes almak"
+   },
+   "th": {
+    "meaning": "หายใจลำบาก"
+   },
+   "vi": {
+    "meaning": "khó thở"
+   },
+   "fa": {
+    "meaning": "به سختی نفس کشیدن"
+   }
+  },
+  "fW)jn%d22g": {
+   "en": {
+    "meaning": "flu",
+    "example": "With flu you have a fever and aching limbs."
+   },
+   "tr": {
+    "meaning": "grip"
+   },
+   "th": {
+    "meaning": "ไข้หวัดใหญ่"
+   },
+   "vi": {
+    "meaning": "cúm"
+   },
+   "fa": {
+    "meaning": "آنفولانزا"
+   }
+  },
+  "LZvKgVl~v2": {
+   "en": {
+    "meaning": "cold",
+    "example": "I think you have a cold."
+   },
+   "tr": {
+    "meaning": "soğuk algınlığı"
+   },
+   "th": {
+    "meaning": "หวัด"
+   },
+   "vi": {
+    "meaning": "cảm lạnh"
+   },
+   "fa": {
+    "meaning": "سرماخوردگی"
+   }
+  },
+  "DH7HPzqIG2": {
+   "en": {
+    "meaning": "stomach bug, gastroenteritis",
+    "example": "With a stomach bug you have diarrhoea."
+   },
+   "tr": {
+    "meaning": "mide-bağırsak enfeksiyonu"
+   },
+   "th": {
+    "meaning": "โรคกระเพาะลำไส้อักเสบ"
+   },
+   "vi": {
+    "meaning": "viêm dạ dày ruột"
+   },
+   "fa": {
+    "meaning": "آنفولانزای معده"
+   }
+  },
+  "h^0,f7eF88": {
+   "en": {
+    "meaning": "food poisoning",
+    "example": "After the fish he had food poisoning."
+   },
+   "tr": {
+    "meaning": "gıda zehirlenmesi"
+   },
+   "th": {
+    "meaning": "อาหารเป็นพิษ"
+   },
+   "vi": {
+    "meaning": "ngộ độc thực phẩm"
+   },
+   "fa": {
+    "meaning": "مسمومیت غذایی"
+   }
+  },
+  "sd(,&>37qQ": {
+   "en": {
+    "meaning": "hay fever",
+    "example": "In spring I always have hay fever."
+   },
+   "tr": {
+    "meaning": "saman nezlesi"
+   },
+   "th": {
+    "meaning": "ไข้ละอองฟาง (แพ้เกสร)"
+   },
+   "vi": {
+    "meaning": "dị ứng phấn hoa"
+   },
+   "fa": {
+    "meaning": "تب یونجه، حساسیت فصلی"
+   }
+  },
+  "Hi5;Nng+])": {
+   "en": {
+    "meaning": "migraine",
+    "example": "With a migraine she needs peace and quiet."
+   },
+   "tr": {
+    "meaning": "migren"
+   },
+   "th": {
+    "meaning": "ไมเกรน"
+   },
+   "vi": {
+    "meaning": "đau nửa đầu"
+   },
+   "fa": {
+    "meaning": "میگرن"
+   }
+  },
+  "O^d=(z2eX<": {
+   "en": {
+    "meaning": "rheumatism",
+    "example": "My grandma has rheumatism and aching limbs."
+   },
+   "tr": {
+    "meaning": "romatizma"
+   },
+   "th": {
+    "meaning": "โรครูมาติซึม"
+   },
+   "vi": {
+    "meaning": "bệnh thấp khớp"
+   },
+   "fa": {
+    "meaning": "روماتیسم"
+   }
+  },
+  "zh#[A}@YEt": {
+   "en": {
+    "meaning": "symptom",
+    "example": "Which symptom doesn't she have?"
+   },
+   "tr": {
+    "meaning": "belirti"
+   },
+   "th": {
+    "meaning": "อาการ"
+   },
+   "vi": {
+    "meaning": "triệu chứng"
+   },
+   "fa": {
+    "meaning": "علامت"
+   }
+  },
+  "Ke/.YFbP~v": {
+   "en": {
+    "meaning": "stomach ache",
+    "example": "I have a stomach ache."
+   },
+   "tr": {
+    "meaning": "karın ağrısı"
+   },
+   "th": {
+    "meaning": "ปวดท้อง"
+   },
+   "vi": {
+    "meaning": "đau bụng"
+   },
+   "fa": {
+    "meaning": "دل‌درد"
+   }
+  },
+  "iS*7_jdn|k": {
+   "en": {
+    "meaning": "fear",
+    "example": "I'm very scared."
+   },
+   "tr": {
+    "meaning": "korku"
+   },
+   "th": {
+    "meaning": "ความกลัว"
+   },
+   "vi": {
+    "meaning": "nỗi sợ"
+   },
+   "fa": {
+    "meaning": "ترس"
+   }
+  }
+ },
+ "grammar": {}
+}

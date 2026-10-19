@@ -1,0 +1,1001 @@
+{
+ "words": {
+  "CK;!+r!)OE": {
+   "en": {
+    "meaning": "tablet, pill",
+    "example": "Take the tablets after meals."
+   },
+   "tr": {
+    "meaning": "tablet, hap"
+   },
+   "th": {
+    "meaning": "ยาเม็ด"
+   },
+   "vi": {
+    "meaning": "viên thuốc"
+   },
+   "fa": {
+    "meaning": "قرص"
+   }
+  },
+  "mmDiK=F2xD": {
+   "en": {
+    "meaning": "pill",
+    "example": "She may take a maximum of four of the pills a day."
+   },
+   "tr": {
+    "meaning": "hap"
+   },
+   "th": {
+    "meaning": "ยาเม็ด"
+   },
+   "vi": {
+    "meaning": "viên thuốc"
+   },
+   "fa": {
+    "meaning": "قرص"
+   }
+  },
+  "lg8{_^hb~L": {
+   "en": {
+    "meaning": "drops",
+    "example": "Mix the drops with a little water!"
+   },
+   "tr": {
+    "meaning": "damla"
+   },
+   "th": {
+    "meaning": "ยาหยด"
+   },
+   "vi": {
+    "meaning": "thuốc nhỏ giọt"
+   },
+   "fa": {
+    "meaning": "قطره"
+   }
+  },
+  "F;:mSZ`9:i": {
+   "en": {
+    "meaning": "juice; (cough) syrup",
+    "example": "A syrup from the pharmacy helps against a cough."
+   },
+   "tr": {
+    "meaning": "meyve suyu; şurup"
+   },
+   "th": {
+    "meaning": "น้ำผลไม้; ยาน้ำเชื่อม"
+   },
+   "vi": {
+    "meaning": "nước ép; si-rô thuốc"
+   },
+   "fa": {
+    "meaning": "آبمیوه؛ شربت"
+   },
+   "zh": {
+    "meaning": "果汁；（药用）糖浆"
+   }
+  },
+  "D(K4j[pmfi": {
+   "en": {
+    "meaning": "capsule",
+    "example": "Take two capsules a day."
+   },
+   "tr": {
+    "meaning": "kapsül"
+   },
+   "th": {
+    "meaning": "แคปซูล"
+   },
+   "vi": {
+    "meaning": "viên nang"
+   },
+   "fa": {
+    "meaning": "کپسول"
+   }
+  },
+  "be@,#?>>@Q": {
+   "en": {
+    "meaning": "plaster, band-aid",
+    "example": "I need a plaster for my finger."
+   },
+   "tr": {
+    "meaning": "yara bandı"
+   },
+   "th": {
+    "meaning": "พลาสเตอร์ปิดแผล"
+   },
+   "vi": {
+    "meaning": "băng cá nhân"
+   },
+   "fa": {
+    "meaning": "چسب زخم"
+   }
+  },
+  "D+2UoDwUwu": {
+   "en": {
+    "meaning": "bandage",
+    "example": "The doctor puts a bandage round the hand."
+   },
+   "tr": {
+    "meaning": "sargı"
+   },
+   "th": {
+    "meaning": "ผ้าพันแผล"
+   },
+   "vi": {
+    "meaning": "băng gạc"
+   },
+   "fa": {
+    "meaning": "باند، پانسمان"
+   }
+  },
+  "fMTP|Sqn5Z": {
+   "en": {
+    "meaning": "ointment, cream",
+    "example": "Apply the ointment to your chest!"
+   },
+   "tr": {
+    "meaning": "merhem"
+   },
+   "th": {
+    "meaning": "ยาทา, ขี้ผึ้ง"
+   },
+   "vi": {
+    "meaning": "thuốc mỡ"
+   },
+   "fa": {
+    "meaning": "پماد"
+   }
+  },
+  "fxy}&OBY&T": {
+   "en": {
+    "meaning": "effervescent tablet",
+    "example": "The effervescent tablet goes into the water."
+   },
+   "tr": {
+    "meaning": "efervesan tablet"
+   },
+   "th": {
+    "meaning": "ยาเม็ดฟู่"
+   },
+   "vi": {
+    "meaning": "viên sủi"
+   },
+   "fa": {
+    "meaning": "قرص جوشان"
+   }
+  },
+  "lE9U%BIron": {
+   "en": {
+    "meaning": "vitamin",
+    "example": "In winter I take vitamins."
+   },
+   "tr": {
+    "meaning": "vitamin"
+   },
+   "th": {
+    "meaning": "วิตามิน"
+   },
+   "vi": {
+    "meaning": "vitamin"
+   },
+   "fa": {
+    "meaning": "ویتامین"
+   }
+  },
+  "dmZ5Y3}IVd": {
+   "en": {
+    "meaning": "suppository",
+    "example": "There are also suppositories for small children."
+   },
+   "tr": {
+    "meaning": "fitil"
+   },
+   "th": {
+    "meaning": "ยาเหน็บ"
+   },
+   "vi": {
+    "meaning": "thuốc đạn"
+   },
+   "fa": {
+    "meaning": "شیاف"
+   }
+  },
+  "yU;D}jV?~a": {
+   "en": {
+    "meaning": "medicine, medication",
+    "example": "A medicine is a remedy for illnesses."
+   },
+   "tr": {
+    "meaning": "ilaç"
+   },
+   "th": {
+    "meaning": "ยา"
+   },
+   "vi": {
+    "meaning": "thuốc"
+   },
+   "fa": {
+    "meaning": "دارو"
+   }
+  },
+  "Im]g!Y~_T:": {
+   "en": {
+    "meaning": "cough syrup",
+    "example": "I buy a bottle of cough syrup."
+   },
+   "tr": {
+    "meaning": "öksürük şurubu"
+   },
+   "th": {
+    "meaning": "ยาแก้ไอ"
+   },
+   "vi": {
+    "meaning": "si-rô ho"
+   },
+   "fa": {
+    "meaning": "شربت سرفه"
+   }
+  },
+  "KdY`@RNvPj": {
+   "en": {
+    "meaning": "stomach drops",
+    "example": "The stomach drops are purely herbal."
+   },
+   "tr": {
+    "meaning": "mide damlası"
+   },
+   "th": {
+    "meaning": "ยาหยดแก้ปวดท้อง"
+   },
+   "vi": {
+    "meaning": "thuốc nhỏ giọt đau dạ dày"
+   },
+   "fa": {
+    "meaning": "قطرهٔ معده"
+   }
+  },
+  "t*n6G~mvr_": {
+   "en": {
+    "meaning": "cold ointment, chest rub",
+    "example": "She is supposed to apply the cold ointment to her chest."
+   },
+   "tr": {
+    "meaning": "soğuk algınlığı merhemi"
+   },
+   "th": {
+    "meaning": "ยาทาแก้หวัด"
+   },
+   "vi": {
+    "meaning": "dầu bôi trị cảm"
+   },
+   "fa": {
+    "meaning": "پماد سرماخوردگی"
+   }
+  },
+  "C2H2WPMDF}": {
+   "en": {
+    "meaning": "tissue; handkerchief",
+    "example": "The pharmacist gives the customer tissues."
+   },
+   "tr": {
+    "meaning": "mendil"
+   },
+   "th": {
+    "meaning": "ทิชชู; ผ้าเช็ดหน้า"
+   },
+   "vi": {
+    "meaning": "khăn giấy; khăn tay"
+   },
+   "fa": {
+    "meaning": "دستمال کاغذی"
+   }
+  },
+  "yc_0+s87DR": {
+   "en": {
+    "meaning": "prescription",
+    "example": "You need a prescription for this medicine."
+   },
+   "tr": {
+    "meaning": "reçete"
+   },
+   "th": {
+    "meaning": "ใบสั่งยา"
+   },
+   "vi": {
+    "meaning": "đơn thuốc"
+   },
+   "fa": {
+    "meaning": "نسخه"
+   }
+  },
+  "m^#b,#SXs6": {
+   "en": {
+    "meaning": "referral (to a specialist)",
+    "example": "The doctor writes me a referral."
+   },
+   "tr": {
+    "meaning": "sevk kağıdı"
+   },
+   "th": {
+    "meaning": "ใบส่งตัว"
+   },
+   "vi": {
+    "meaning": "giấy chuyển viện"
+   },
+   "fa": {
+    "meaning": "معرفی‌نامه (به پزشک متخصص)"
+   }
+  },
+  "iX@~ka}!8$": {
+   "en": {
+    "meaning": "health insurance card",
+    "example": "At the doctor's you have to show your health insurance card."
+   },
+   "tr": {
+    "meaning": "sağlık kartı"
+   },
+   "th": {
+    "meaning": "บัตรประกันสุขภาพ"
+   },
+   "vi": {
+    "meaning": "thẻ bảo hiểm y tế"
+   },
+   "fa": {
+    "meaning": "کارت بیمهٔ درمانی"
+   }
+  },
+  "iyT@Fj~CIj": {
+   "en": {
+    "meaning": "to fill (a prescription), to redeem",
+    "example": "I get my prescription filled at the pharmacy."
+   },
+   "tr": {
+    "meaning": "(reçeteyi) eczaneden almak"
+   },
+   "th": {
+    "meaning": "(นำใบสั่งยา) ไปรับยา"
+   },
+   "vi": {
+    "meaning": "lấy thuốc theo đơn"
+   },
+   "fa": {
+    "meaning": "(نسخه را) پیچیدن"
+   }
+  },
+  "I,w8MKAEv,": {
+   "en": {
+    "meaning": "sick note",
+    "example": "With a sick note I can stay at home."
+   },
+   "tr": {
+    "meaning": "hastalık raporu"
+   },
+   "th": {
+    "meaning": "ใบรับรองแพทย์ (ลาป่วย)"
+   },
+   "vi": {
+    "meaning": "giấy nghỉ ốm"
+   },
+   "fa": {
+    "meaning": "گواهی استعلاجی"
+   }
+  },
+  "A9`$m,~Drj": {
+   "en": {
+    "meaning": "to prescribe",
+    "example": "The doctor prescribes me a medicine."
+   },
+   "tr": {
+    "meaning": "reçete etmek"
+   },
+   "th": {
+    "meaning": "สั่งยา"
+   },
+   "vi": {
+    "meaning": "kê đơn"
+   },
+   "fa": {
+    "meaning": "تجویز کردن"
+   }
+  },
+  "Q-+f@v[UZY": {
+   "en": {
+    "meaning": "pharmacy, chemist's",
+    "example": "I buy tablets at the pharmacy."
+   },
+   "tr": {
+    "meaning": "eczane"
+   },
+   "th": {
+    "meaning": "ร้านขายยา"
+   },
+   "vi": {
+    "meaning": "hiệu thuốc"
+   },
+   "fa": {
+    "meaning": "داروخانه"
+   }
+  },
+  "vLukMf658z": {
+   "en": {
+    "meaning": "health insurance company",
+    "example": "The card comes from the health insurance company."
+   },
+   "tr": {
+    "meaning": "sağlık sigortası şirketi"
+   },
+   "th": {
+    "meaning": "บริษัทประกันสุขภาพ"
+   },
+   "vi": {
+    "meaning": "quỹ bảo hiểm y tế"
+   },
+   "fa": {
+    "meaning": "صندوق بیمهٔ درمانی"
+   }
+  },
+  "q++zWExv5V": {
+   "en": {
+    "meaning": "injection; syringe",
+    "example": "I'm afraid of injections."
+   },
+   "tr": {
+    "meaning": "iğne, enjeksiyon"
+   },
+   "th": {
+    "meaning": "การฉีดยา; เข็มฉีดยา"
+   },
+   "vi": {
+    "meaning": "tiêm; ống tiêm"
+   },
+   "fa": {
+    "meaning": "آمپول، تزریق"
+   },
+   "zh": {
+    "meaning": "注射、打针；针筒"
+   }
+  },
+  "E[B_xH[!v8": {
+   "en": {
+    "meaning": "to take (medicine)",
+    "example": "Take 30 drops after meals."
+   },
+   "tr": {
+    "meaning": "(ilaç) almak, içmek"
+   },
+   "th": {
+    "meaning": "รับประทาน (ยา)"
+   },
+   "vi": {
+    "meaning": "uống (thuốc)"
+   },
+   "fa": {
+    "meaning": "(دارو) مصرف کردن"
+   }
+  },
+  "r)5hg,Aeu1": {
+   "en": {
+    "meaning": "to apply (cream)",
+    "example": "Apply the ointment to your forehead!"
+   },
+   "tr": {
+    "meaning": "sürmek"
+   },
+   "th": {
+    "meaning": "ทา"
+   },
+   "vi": {
+    "meaning": "bôi, thoa"
+   },
+   "fa": {
+    "meaning": "(پماد) مالیدن"
+   }
+  },
+  "srkvu*Y5S,": {
+   "en": {
+    "meaning": "doctor's surgery, practice",
+    "example": "Nevin is at the doctor's surgery."
+   },
+   "tr": {
+    "meaning": "muayenehane"
+   },
+   "th": {
+    "meaning": "คลินิก"
+   },
+   "vi": {
+    "meaning": "phòng khám"
+   },
+   "fa": {
+    "meaning": "مطب"
+   }
+  },
+  "ESD{*@[M;!": {
+   "en": {
+    "meaning": "waiting room",
+    "example": "She goes into the waiting room."
+   },
+   "tr": {
+    "meaning": "bekleme salonu"
+   },
+   "th": {
+    "meaning": "ห้องรอตรวจ"
+   },
+   "vi": {
+    "meaning": "phòng chờ"
+   },
+   "fa": {
+    "meaning": "اتاق انتظار"
+   }
+  },
+  "dpW;b<M,vD": {
+   "en": {
+    "meaning": "health insurance card",
+    "example": "The assistant asks for the insurance card."
+   },
+   "tr": {
+    "meaning": "sigorta kartı"
+   },
+   "th": {
+    "meaning": "บัตรประกันสุขภาพ"
+   },
+   "vi": {
+    "meaning": "thẻ bảo hiểm"
+   },
+   "fa": {
+    "meaning": "کارت بیمه"
+   }
+  },
+  "rkq.Co_CYb": {
+   "en": {
+    "meaning": "health insurance card",
+    "example": "Please show your health insurance card."
+   },
+   "tr": {
+    "meaning": "sağlık sigortası kartı"
+   },
+   "th": {
+    "meaning": "บัตรประกันสุขภาพ"
+   },
+   "vi": {
+    "meaning": "thẻ bảo hiểm y tế"
+   },
+   "fa": {
+    "meaning": "کارت بیمه"
+   }
+  },
+  "E-L+/|n8,{": {
+   "en": {
+    "meaning": "to show, to present",
+    "example": "She is supposed to show her card."
+   },
+   "tr": {
+    "meaning": "ibraz etmek, göstermek"
+   },
+   "th": {
+    "meaning": "แสดง, ยื่น"
+   },
+   "vi": {
+    "meaning": "xuất trình"
+   },
+   "fa": {
+    "meaning": "ارائه دادن"
+   }
+  },
+  "f2=RQ!Mp8*": {
+   "en": {
+    "meaning": "to call (someone's name)",
+    "example": "The doctor calls the patients."
+   },
+   "tr": {
+    "meaning": "(adını) çağırmak"
+   },
+   "th": {
+    "meaning": "เรียกชื่อ"
+   },
+   "vi": {
+    "meaning": "gọi tên"
+   },
+   "fa": {
+    "meaning": "صدا زدن"
+   }
+  },
+  "PLUyiI6tB?": {
+   "en": {
+    "meaning": "to be one's turn",
+    "example": "It'll be ages before it's my turn."
+   },
+   "tr": {
+    "meaning": "sırası gelmek"
+   },
+   "th": {
+    "meaning": "ถึงคิว"
+   },
+   "vi": {
+    "meaning": "đến lượt"
+   },
+   "fa": {
+    "meaning": "نوبت کسی شدن"
+   }
+  },
+  "FtGBbhk[/K": {
+   "en": {
+    "meaning": "to be one's turn",
+    "example": "When is it my turn?"
+   },
+   "tr": {
+    "meaning": "sırası gelmek"
+   },
+   "th": {
+    "meaning": "ถึงคิว"
+   },
+   "vi": {
+    "meaning": "đến lượt"
+   },
+   "fa": {
+    "meaning": "نوبت کسی رسیدن"
+   }
+  },
+  "pj6VH>+H,4": {
+   "en": {
+    "meaning": "colloquial",
+    "example": "\"Drankommen\" is colloquial."
+   },
+   "tr": {
+    "meaning": "günlük dilde"
+   },
+   "th": {
+    "meaning": "ภาษาพูด"
+   },
+   "vi": {
+    "meaning": "khẩu ngữ, thông tục"
+   },
+   "fa": {
+    "meaning": "محاوره‌ای"
+   }
+  },
+  "hg8OPl:.5U": {
+   "en": {
+    "meaning": "(female) assistant",
+    "example": "The assistant asks for the card."
+   },
+   "tr": {
+    "meaning": "(kadın) asistan"
+   },
+   "th": {
+    "meaning": "ผู้ช่วย (หญิง)"
+   },
+   "vi": {
+    "meaning": "trợ lý (nữ)"
+   },
+   "fa": {
+    "meaning": "دستیار (زن)"
+   }
+  },
+  "eGWp?v|Qd,": {
+   "en": {
+    "meaning": "patient",
+    "example": "She is the only patient."
+   },
+   "tr": {
+    "meaning": "hasta"
+   },
+   "th": {
+    "meaning": "ผู้ป่วย"
+   },
+   "vi": {
+    "meaning": "bệnh nhân"
+   },
+   "fa": {
+    "meaning": "بیمار"
+   }
+  },
+  "z;Plb6TV,$": {
+   "en": {
+    "meaning": "only, sole",
+    "example": "She is the only patient."
+   },
+   "tr": {
+    "meaning": "tek, biricik"
+   },
+   "th": {
+    "meaning": "เพียงคนเดียว, เดียว"
+   },
+   "vi": {
+    "meaning": "duy nhất"
+   },
+   "fa": {
+    "meaning": "تنها، یگانه"
+   }
+  },
+  "u<MR#l!?,z": {
+   "en": {
+    "meaning": "the next (woman)",
+    "example": "She is next."
+   },
+   "tr": {
+    "meaning": "sıradaki (kadın)"
+   },
+   "th": {
+    "meaning": "คนต่อไป (หญิง)"
+   },
+   "vi": {
+    "meaning": "người tiếp theo (nữ)"
+   },
+   "fa": {
+    "meaning": "نفر بعدی (زن)"
+   }
+  },
+  "K=XE:d}>^F": {
+   "en": {
+    "meaning": "sick note",
+    "example": "The doctor gives her a sick note."
+   },
+   "tr": {
+    "meaning": "hastalık raporu"
+   },
+   "th": {
+    "meaning": "ใบรับรองแพทย์"
+   },
+   "vi": {
+    "meaning": "giấy chứng nhận nghỉ ốm"
+   },
+   "fa": {
+    "meaning": "گواهی استعلاجی"
+   }
+  },
+  "b*#r]YlG8+": {
+   "en": {
+    "meaning": "to sign off sick",
+    "example": "I'll sign you off sick."
+   },
+   "tr": {
+    "meaning": "rapor vermek"
+   },
+   "th": {
+    "meaning": "ออกใบรับรองแพทย์ให้ลาป่วย"
+   },
+   "vi": {
+    "meaning": "cho nghỉ ốm"
+   },
+   "fa": {
+    "meaning": "گواهی استعلاجی دادن"
+   }
+  },
+  "Dj=4PWC;~3": {
+   "en": {
+    "meaning": "to pick up, to collect",
+    "example": "She would like to pick up a medicine."
+   },
+   "tr": {
+    "meaning": "almak, teslim almak"
+   },
+   "th": {
+    "meaning": "ไปรับ"
+   },
+   "vi": {
+    "meaning": "lấy, nhận"
+   },
+   "fa": {
+    "meaning": "تحویل گرفتن"
+   }
+  },
+  "yx9KqO.+.G": {
+   "en": {
+    "meaning": "daily",
+    "example": "three times a day"
+   },
+   "tr": {
+    "meaning": "günlük, her gün"
+   },
+   "th": {
+    "meaning": "ทุกวัน"
+   },
+   "vi": {
+    "meaning": "hằng ngày"
+   },
+   "fa": {
+    "meaning": "روزانه"
+   }
+  },
+  "ugeta,Ia0{": {
+   "en": {
+    "meaning": "to listen (with a stethoscope)",
+    "example": "The doctor listens to the lungs."
+   },
+   "tr": {
+    "meaning": "(steteskopla) dinlemek"
+   },
+   "th": {
+    "meaning": "ฟังเสียง (ด้วยหูฟังแพทย์)"
+   },
+   "vi": {
+    "meaning": "nghe phổi, nghe tim"
+   },
+   "fa": {
+    "meaning": "با گوشی معاینه کردن"
+   }
+  },
+  "lAg]>#2C`J": {
+   "en": {
+    "meaning": "to breathe out",
+    "example": "Please breathe out deeply!"
+   },
+   "tr": {
+    "meaning": "nefes vermek"
+   },
+   "th": {
+    "meaning": "หายใจออก"
+   },
+   "vi": {
+    "meaning": "thở ra"
+   },
+   "fa": {
+    "meaning": "بازدم کردن"
+   }
+  },
+  "k^V;R_2N1@": {
+   "en": {
+    "meaning": "deep; deeply",
+    "example": "Please breathe in and out deeply."
+   },
+   "tr": {
+    "meaning": "derin"
+   },
+   "th": {
+    "meaning": "ลึก"
+   },
+   "vi": {
+    "meaning": "sâu"
+   },
+   "fa": {
+    "meaning": "عمیق"
+   }
+  },
+  "x;5ii7_gZT": {
+   "en": {
+    "meaning": "to measure",
+    "example": "Taking a temperature in the ear."
+   },
+   "tr": {
+    "meaning": "ölçmek"
+   },
+   "th": {
+    "meaning": "วัด"
+   },
+   "vi": {
+    "meaning": "đo"
+   },
+   "fa": {
+    "meaning": "اندازه گرفتن"
+   }
+  },
+  "AWBZbUoR^W": {
+   "en": {
+    "meaning": "slight; easy, light",
+    "example": "38.6 – that's a slight fever."
+   },
+   "tr": {
+    "meaning": "hafif; kolay"
+   },
+   "th": {
+    "meaning": "เล็กน้อย; ง่าย"
+   },
+   "vi": {
+    "meaning": "nhẹ; dễ"
+   },
+   "fa": {
+    "meaning": "خفیف؛ آسان"
+   }
+  },
+  "rA.o8aVY|Q": {
+   "en": {
+    "meaning": "to look (appearance)",
+    "example": "That doesn't look so good."
+   },
+   "tr": {
+    "meaning": "görünmek"
+   },
+   "th": {
+    "meaning": "ดูเหมือน"
+   },
+   "vi": {
+    "meaning": "trông có vẻ"
+   },
+   "fa": {
+    "meaning": "به نظر رسیدن"
+   }
+  },
+  "c2/ien3DFw": {
+   "en": {
+    "meaning": "rest, quiet",
+    "example": "You need a lot of rest now."
+   },
+   "tr": {
+    "meaning": "dinlenme, sükunet"
+   },
+   "th": {
+    "meaning": "การพักผ่อน, ความสงบ"
+   },
+   "vi": {
+    "meaning": "sự nghỉ ngơi, yên tĩnh"
+   },
+   "fa": {
+    "meaning": "استراحت، آرامش"
+   }
+  },
+  "u=Y23II5H#": {
+   "en": {
+    "meaning": "medicine",
+    "example": "You should take medicine."
+   },
+   "tr": {
+    "meaning": "ilaç; tıp"
+   },
+   "th": {
+    "meaning": "ยา; การแพทย์"
+   },
+   "vi": {
+    "meaning": "thuốc; y học"
+   },
+   "fa": {
+    "meaning": "دارو؛ پزشکی"
+   }
+  },
+  "QX+Mfe9;&C": {
+   "en": {
+    "meaning": "presentation, talk",
+    "example": "I have to give a presentation."
+   },
+   "tr": {
+    "meaning": "sunum"
+   },
+   "th": {
+    "meaning": "การนำเสนอรายงาน"
+   },
+   "vi": {
+    "meaning": "bài thuyết trình"
+   },
+   "fa": {
+    "meaning": "ارائه، کنفرانس"
+   }
+  },
+  "kmN;v?;XnQ": {
+   "en": {
+    "meaning": "to give (a talk); to hold",
+    "example": "Tomorrow I'm giving a presentation."
+   },
+   "tr": {
+    "meaning": "(sunum) yapmak; tutmak"
+   },
+   "th": {
+    "meaning": "(นำเสนอ) รายงาน; ถือ"
+   },
+   "vi": {
+    "meaning": "thuyết trình; cầm"
+   },
+   "fa": {
+    "meaning": "(ارائه) دادن؛ نگه داشتن"
+   }
+  },
+  "gLy<T7ae#G": {
+   "en": {
+    "meaning": "finished, ready",
+    "example": "I'm not finished either."
+   },
+   "tr": {
+    "meaning": "bitmiş, hazır"
+   },
+   "th": {
+    "meaning": "เสร็จ, พร้อม"
+   },
+   "vi": {
+    "meaning": "xong, sẵn sàng"
+   },
+   "fa": {
+    "meaning": "تمام، آماده"
+   }
+  }
+ },
+ "grammar": {}
+}

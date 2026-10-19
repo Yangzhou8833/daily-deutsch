@@ -1,0 +1,545 @@
+{
+ "words": {
+  "jBz]s9_Dl7": {
+   "en": {
+    "meaning": "to answer",
+    "example": "I ask you and you answer me."
+   },
+   "tr": {
+    "meaning": "cevap vermek"
+   },
+   "th": {
+    "meaning": "ตอบ"
+   },
+   "vi": {
+    "meaning": "trả lời"
+   },
+   "fa": {
+    "meaning": "جواب دادن"
+   }
+  },
+  "dkdWoq61=@": {
+   "en": {
+    "meaning": "to meet, to come across",
+    "example": "I often meet my neighbour on the stairs."
+   },
+   "tr": {
+    "meaning": "rastlamak"
+   },
+   "th": {
+    "meaning": "พบโดยบังเอิญ"
+   },
+   "vi": {
+    "meaning": "gặp, tình cờ gặp"
+   },
+   "fa": {
+    "meaning": "برخوردن به"
+   }
+  },
+  "ucgfCM{!_5": {
+   "en": {
+    "meaning": "to thank",
+    "example": "Thank you for your help."
+   },
+   "tr": {
+    "meaning": "teşekkür etmek"
+   },
+   "th": {
+    "meaning": "ขอบคุณ"
+   },
+   "vi": {
+    "meaning": "cảm ơn"
+   },
+   "fa": {
+    "meaning": "تشکر کردن"
+   }
+  },
+  "MRfQ%D:h6*": {
+   "en": {
+    "meaning": "to occur to (someone)",
+    "example": "What shall we give Max? I can't think of anything."
+   },
+   "tr": {
+    "meaning": "aklına gelmek"
+   },
+   "th": {
+    "meaning": "นึกออก"
+   },
+   "vi": {
+    "meaning": "chợt nghĩ ra"
+   },
+   "fa": {
+    "meaning": "به ذهن رسیدن"
+   }
+  },
+  "KAl5cwrf>K": {
+   "en": {
+    "meaning": "to be missing; to be missed",
+    "example": "I miss you. I miss you so much."
+   },
+   "tr": {
+    "meaning": "eksik olmak; özlenmek"
+   },
+   "th": {
+    "meaning": "ขาด; คิดถึง"
+   },
+   "vi": {
+    "meaning": "thiếu; nhớ"
+   },
+   "fa": {
+    "meaning": "کم بودن؛ دلتنگ بودن"
+   }
+  },
+  "oPC;cW3k)%": {
+   "en": {
+    "meaning": "to follow",
+    "example": "I'll show you your classroom. Please follow me!"
+   },
+   "tr": {
+    "meaning": "takip etmek"
+   },
+   "th": {
+    "meaning": "ตาม"
+   },
+   "vi": {
+    "meaning": "đi theo"
+   },
+   "fa": {
+    "meaning": "دنبال کردن"
+   }
+  },
+  "P/MJC=bR~S": {
+   "en": {
+    "meaning": "to please, to like",
+    "example": "I think the T-shirt is nice. Do you like it?"
+   },
+   "tr": {
+    "meaning": "hoşuna gitmek"
+   },
+   "th": {
+    "meaning": "ถูกใจ, ชอบ"
+   },
+   "vi": {
+    "meaning": "thích"
+   },
+   "fa": {
+    "meaning": "خوش آمدن"
+   }
+  },
+  "d+CJ2zq1Kc": {
+   "en": {
+    "meaning": "to be (doing)",
+    "example": "How are you? – I'm fine."
+   },
+   "tr": {
+    "meaning": "(birinin) durumu"
+   },
+   "th": {
+    "meaning": "(ใคร) เป็นอย่างไร"
+   },
+   "vi": {
+    "meaning": "(ai đó) thế nào"
+   },
+   "fa": {
+    "meaning": "حال (کسی) بودن"
+   }
+  },
+  "LY3;NQ@/ST": {
+   "en": {
+    "meaning": "to belong to",
+    "example": "That's not my pen. Is it yours?"
+   },
+   "tr": {
+    "meaning": "ait olmak"
+   },
+   "th": {
+    "meaning": "เป็นของ"
+   },
+   "vi": {
+    "meaning": "thuộc về"
+   },
+   "fa": {
+    "meaning": "تعلق داشتن"
+   }
+  },
+  "<g{~*?RJc": {
+   "en": {
+    "meaning": "to congratulate",
+    "example": "Happy birthday from us!"
+   },
+   "tr": {
+    "meaning": "tebrik etmek"
+   },
+   "th": {
+    "meaning": "แสดงความยินดี"
+   },
+   "vi": {
+    "meaning": "chúc mừng"
+   },
+   "fa": {
+    "meaning": "تبریک گفتن"
+   }
+  },
+  "ha!}qKx;(C": {
+   "en": {
+    "meaning": "to help",
+    "example": "I have a problem. Can you help me?"
+   },
+   "tr": {
+    "meaning": "yardım etmek"
+   },
+   "th": {
+    "meaning": "ช่วย"
+   },
+   "vi": {
+    "meaning": "giúp"
+   },
+   "fa": {
+    "meaning": "کمک کردن"
+   }
+  },
+  "HinHl^PU]r": {
+   "en": {
+    "meaning": "to be sorry",
+    "example": "Excuse me. I'm sorry."
+   },
+   "tr": {
+    "meaning": "üzgün olmak"
+   },
+   "th": {
+    "meaning": "เสียใจ, ขอโทษ"
+   },
+   "vi": {
+    "meaning": "xin lỗi, lấy làm tiếc"
+   },
+   "fa": {
+    "meaning": "متأسف بودن"
+   }
+  },
+  "h;(y%@k`$_": {
+   "en": {
+    "meaning": "to fit; to suit",
+    "example": "The trousers don't fit me any more."
+   },
+   "tr": {
+    "meaning": "uymak"
+   },
+   "th": {
+    "meaning": "พอดี; เหมาะ"
+   },
+   "vi": {
+    "meaning": "vừa; hợp"
+   },
+   "fa": {
+    "meaning": "اندازه بودن؛ مناسب بودن"
+   }
+  },
+  "cag+Rf7mQr": {
+   "en": {
+    "meaning": "to happen",
+    "example": "Luckily nothing happened to me."
+   },
+   "tr": {
+    "meaning": "olmak"
+   },
+   "th": {
+    "meaning": "เกิดขึ้น"
+   },
+   "vi": {
+    "meaning": "xảy ra"
+   },
+   "fa": {
+    "meaning": "اتفاق افتادن"
+   }
+  },
+  "uA}:v|>Qyk": {
+   "en": {
+    "meaning": "to harm",
+    "example": "Smoking harms your health."
+   },
+   "tr": {
+    "meaning": "zarar vermek"
+   },
+   "th": {
+    "meaning": "เป็นอันตรายต่อ"
+   },
+   "vi": {
+    "meaning": "có hại cho"
+   },
+   "fa": {
+    "meaning": "ضرر زدن"
+   }
+  },
+  "HNVj)?S@{o": {
+   "en": {
+    "meaning": "to taste (good)",
+    "example": "Did you enjoy the meal?"
+   },
+   "tr": {
+    "meaning": "lezzetli gelmek"
+   },
+   "th": {
+    "meaning": "อร่อย"
+   },
+   "vi": {
+    "meaning": "ngon, hợp khẩu vị"
+   },
+   "fa": {
+    "meaning": "خوشمزه بودن"
+   }
+  },
+  "q~WaPEM3KD": {
+   "en": {
+    "meaning": "to feel (hot, cold…)",
+    "example": "One moment I'm hot. Then I'm cold."
+   },
+   "tr": {
+    "meaning": "(sıcak, soğuk) olmak"
+   },
+   "th": {
+    "meaning": "รู้สึก (ร้อน, หนาว)"
+   },
+   "vi": {
+    "meaning": "cảm thấy (nóng, lạnh)"
+   },
+   "fa": {
+    "meaning": "(گرم، سرد) بودن"
+   }
+  },
+  "ou*1)bU4sL": {
+   "en": {
+    "meaning": "to suit (clothes)",
+    "example": "His new jacket suits him well."
+   },
+   "tr": {
+    "meaning": "yakışmak"
+   },
+   "th": {
+    "meaning": "(เสื้อผ้า) เหมาะกับ"
+   },
+   "vi": {
+    "meaning": "hợp (quần áo)"
+   },
+   "fa": {
+    "meaning": "(لباس) به کسی آمدن"
+   }
+  },
+  "Gbul>au;2e": {
+   "en": {
+    "meaning": "to trust",
+    "example": "Don't you trust me?"
+   },
+   "tr": {
+    "meaning": "güvenmek"
+   },
+   "th": {
+    "meaning": "ไว้ใจ"
+   },
+   "vi": {
+    "meaning": "tin tưởng"
+   },
+   "fa": {
+    "meaning": "اعتماد کردن"
+   }
+  },
+  "D:lb&8Ka@T": {
+   "en": {
+    "meaning": "to forgive",
+    "example": "Please forgive me!"
+   },
+   "tr": {
+    "meaning": "affetmek"
+   },
+   "th": {
+    "meaning": "ให้อภัย"
+   },
+   "vi": {
+    "meaning": "tha thứ"
+   },
+   "fa": {
+    "meaning": "بخشیدن"
+   }
+  },
+  "E:~Zy@F/Lh": {
+   "en": {
+    "meaning": "to hurt",
+    "example": "My head has been hurting all day."
+   },
+   "tr": {
+    "meaning": "acımak, ağrımak"
+   },
+   "th": {
+    "meaning": "เจ็บ, ปวด"
+   },
+   "vi": {
+    "meaning": "đau"
+   },
+   "fa": {
+    "meaning": "درد کردن"
+   }
+  },
+  "r85DU66P]r": {
+   "en": {
+    "meaning": "to wave",
+    "example": "The train is about to leave. Wave to Grandma."
+   },
+   "tr": {
+    "meaning": "el sallamak"
+   },
+   "th": {
+    "meaning": "โบกมือ"
+   },
+   "vi": {
+    "meaning": "vẫy tay"
+   },
+   "fa": {
+    "meaning": "دست تکان دادن"
+   }
+  },
+  "LuLr?]ve/}": {
+   "en": {
+    "meaning": "to contradict",
+    "example": "Why do you always contradict me?"
+   },
+   "tr": {
+    "meaning": "itiraz etmek"
+   },
+   "th": {
+    "meaning": "แย้ง"
+   },
+   "vi": {
+    "meaning": "phản bác"
+   },
+   "fa": {
+    "meaning": "مخالفت کردن"
+   }
+  },
+  "w==K3l+Bn]": {
+   "en": {
+    "meaning": "to listen to",
+    "example": "The pupils listen carefully to the teacher."
+   },
+   "tr": {
+    "meaning": "dinlemek"
+   },
+   "th": {
+    "meaning": "ฟัง"
+   },
+   "vi": {
+    "meaning": "lắng nghe"
+   },
+   "fa": {
+    "meaning": "گوش دادن"
+   }
+  },
+  "E3;)(?gMKW": {
+   "en": {
+    "meaning": "to agree with",
+    "example": "I completely agree with you."
+   },
+   "tr": {
+    "meaning": "katılmak, onaylamak"
+   },
+   "th": {
+    "meaning": "เห็นด้วย"
+   },
+   "vi": {
+    "meaning": "đồng ý"
+   },
+   "fa": {
+    "meaning": "موافقت کردن"
+   }
+  },
+  "w@f{5->gzC": {
+   "en": {
+    "meaning": "to be important (to someone)",
+    "example": "What is important to you in a job?"
+   },
+   "tr": {
+    "meaning": "(biri için) önemli olmak"
+   },
+   "th": {
+    "meaning": "สำคัญ (สำหรับใคร)"
+   },
+   "vi": {
+    "meaning": "quan trọng (với ai)"
+   },
+   "fa": {
+    "meaning": "(برای کسی) مهم بودن"
+   }
+  },
+  "l>_e>du_x?": {
+   "en": {
+    "meaning": "dative object",
+    "example": "These verbs only have a dative object."
+   },
+   "tr": {
+    "meaning": "datif nesnesi"
+   },
+   "th": {
+    "meaning": "กรรมรอง (Dativ)"
+   },
+   "vi": {
+    "meaning": "tân ngữ cách 3 (Dativ)"
+   },
+   "fa": {
+    "meaning": "مفعول غیرمستقیم (داتیو)"
+   }
+  },
+  "LXN/O1ZbqY": {
+   "en": {
+    "meaning": "accusative object",
+    "example": "There is no accusative object."
+   },
+   "tr": {
+    "meaning": "akuzatif nesnesi"
+   },
+   "th": {
+    "meaning": "กรรมตรง (Akkusativ)"
+   },
+   "vi": {
+    "meaning": "tân ngữ cách 4 (Akkusativ)"
+   },
+   "fa": {
+    "meaning": "مفعول مستقیم (آکوزاتیو)"
+   }
+  },
+  "lKv{32kVLE": {
+   "en": {
+    "meaning": "subject",
+    "example": "The subject is usually a thing."
+   },
+   "tr": {
+    "meaning": "özne"
+   },
+   "th": {
+    "meaning": "ประธาน"
+   },
+   "vi": {
+    "meaning": "chủ ngữ"
+   },
+   "fa": {
+    "meaning": "فاعل"
+   }
+  },
+  "b!)wBPRq`*": {
+   "en": {
+    "meaning": "thing, matter",
+    "example": "The subject is a thing."
+   },
+   "tr": {
+    "meaning": "şey"
+   },
+   "th": {
+    "meaning": "สิ่ง, เรื่อง"
+   },
+   "vi": {
+    "meaning": "đồ vật, việc"
+   },
+   "fa": {
+    "meaning": "چیز، موضوع"
+   }
+  }
+ },
+ "grammar": {}
+}

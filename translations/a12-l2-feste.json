@@ -1,0 +1,963 @@
+{
+ "words": {
+  "dEn6CMk,PK": {
+   "en": {
+    "meaning": "birthday",
+    "example": "When is your birthday? – On the fifteenth of August."
+   },
+   "tr": {
+    "meaning": "doğum günü"
+   },
+   "th": {
+    "meaning": "วันเกิด"
+   },
+   "vi": {
+    "meaning": "sinh nhật"
+   },
+   "fa": {
+    "meaning": "تولد"
+   }
+  },
+  "la`d>$uUZ#": {
+   "en": {
+    "meaning": "Christmas",
+    "example": "At Christmas we decorate the tree."
+   },
+   "tr": {
+    "meaning": "Noel"
+   },
+   "th": {
+    "meaning": "คริสต์มาส"
+   },
+   "vi": {
+    "meaning": "Giáng sinh"
+   },
+   "fa": {
+    "meaning": "کریسمس"
+   }
+  },
+  "rXPW-z,ZfB": {
+   "en": {
+    "meaning": "carnival",
+    "example": "At carnival people wear costumes."
+   },
+   "tr": {
+    "meaning": "karnaval"
+   },
+   "th": {
+    "meaning": "เทศกาลคาร์นิวัล"
+   },
+   "vi": {
+    "meaning": "lễ hội hóa trang"
+   },
+   "fa": {
+    "meaning": "کارناوال"
+   }
+  },
+  "Bn~-ymIkK9": {
+   "en": {
+    "meaning": "New Year's Eve",
+    "example": "On New Year's Eve we watch the fireworks."
+   },
+   "tr": {
+    "meaning": "yılbaşı gecesi"
+   },
+   "th": {
+    "meaning": "คืนส่งท้ายปีเก่า"
+   },
+   "vi": {
+    "meaning": "đêm giao thừa"
+   },
+   "fa": {
+    "meaning": "شب سال نو (میلادی)"
+   }
+  },
+  "gUEH!)|0|q": {
+   "en": {
+    "meaning": "Oktoberfest (Munich beer festival)",
+    "example": "You can earn a lot of money at the Oktoberfest."
+   },
+   "tr": {
+    "meaning": "Oktoberfest (Münih bira festivali)"
+   },
+   "th": {
+    "meaning": "เทศกาลเบียร์มิวนิก"
+   },
+   "vi": {
+    "meaning": "lễ hội bia Oktoberfest"
+   },
+   "fa": {
+    "meaning": "اکتبرفست (جشنوارهٔ آبجو مونیخ)"
+   }
+  },
+  "bM7I#XUR^!": {
+   "en": {
+    "meaning": "wedding",
+    "example": "At the wedding they exchange rings."
+   },
+   "tr": {
+    "meaning": "düğün"
+   },
+   "th": {
+    "meaning": "งานแต่งงาน"
+   },
+   "vi": {
+    "meaning": "đám cưới"
+   },
+   "fa": {
+    "meaning": "عروسی"
+   }
+  },
+  "e*15;9M*p7": {
+   "en": {
+    "meaning": "family celebration",
+    "example": "I often take photos at family celebrations."
+   },
+   "tr": {
+    "meaning": "aile kutlaması"
+   },
+   "th": {
+    "meaning": "งานเลี้ยงครอบครัว"
+   },
+   "vi": {
+    "meaning": "tiệc gia đình"
+   },
+   "fa": {
+    "meaning": "جشن خانوادگی"
+   }
+  },
+  "s3f-0cdvq/": {
+   "en": {
+    "meaning": "company party",
+    "example": "I also often go to company parties."
+   },
+   "tr": {
+    "meaning": "şirket partisi"
+   },
+   "th": {
+    "meaning": "งานเลี้ยงบริษัท"
+   },
+   "vi": {
+    "meaning": "tiệc công ty"
+   },
+   "fa": {
+    "meaning": "جشن شرکت"
+   }
+  },
+  "wHPkvXPp3p": {
+   "en": {
+    "meaning": "public festival, fair",
+    "example": "Family celebration or public festival – we all like celebrating."
+   },
+   "tr": {
+    "meaning": "halk şenliği"
+   },
+   "th": {
+    "meaning": "งานเทศกาลประจำท้องถิ่น"
+   },
+   "vi": {
+    "meaning": "lễ hội dân gian"
+   },
+   "fa": {
+    "meaning": "جشن مردمی"
+   }
+  },
+  "Q]9M:uq>$G": {
+   "en": {
+    "meaning": "birthday party",
+    "example": "Did you get the invitation to her birthday party?"
+   },
+   "tr": {
+    "meaning": "doğum günü partisi"
+   },
+   "th": {
+    "meaning": "งานวันเกิด"
+   },
+   "vi": {
+    "meaning": "tiệc sinh nhật"
+   },
+   "fa": {
+    "meaning": "جشن تولد"
+   }
+  },
+  "z4/DqI#j?": {
+   "en": {
+    "meaning": "party (colloquial)",
+    "example": "My life without friends, flirting and parties."
+   },
+   "tr": {
+    "meaning": "parti"
+   },
+   "th": {
+    "meaning": "ปาร์ตี้"
+   },
+   "vi": {
+    "meaning": "bữa tiệc"
+   },
+   "fa": {
+    "meaning": "مهمانی"
+   }
+  },
+  "c_/ihX[Dvg": {
+   "en": {
+    "meaning": "to get presents",
+    "example": "On your birthday you get presents."
+   },
+   "tr": {
+    "meaning": "hediye almak"
+   },
+   "th": {
+    "meaning": "ได้รับของขวัญ"
+   },
+   "vi": {
+    "meaning": "nhận quà"
+   },
+   "fa": {
+    "meaning": "هدیه گرفتن"
+   }
+  },
+  "iDbGI=XhK#": {
+   "en": {
+    "meaning": "to decorate the tree",
+    "example": "Father decorates the Christmas tree."
+   },
+   "tr": {
+    "meaning": "ağacı süslemek"
+   },
+   "th": {
+    "meaning": "ประดับต้นคริสต์มาส"
+   },
+   "vi": {
+    "meaning": "trang trí cây thông"
+   },
+   "fa": {
+    "meaning": "درخت را تزئین کردن"
+   }
+  },
+  "g=nKD<O_{m": {
+   "en": {
+    "meaning": "to exchange rings",
+    "example": "At the wedding the bride and groom exchange rings."
+   },
+   "tr": {
+    "meaning": "yüzük takmak"
+   },
+   "th": {
+    "meaning": "แลกแหวน"
+   },
+   "vi": {
+    "meaning": "trao nhẫn"
+   },
+   "fa": {
+    "meaning": "حلقه رد و بدل کردن"
+   }
+  },
+  "k1B`4HEIk%": {
+   "en": {
+    "meaning": "to ride the merry-go-round",
+    "example": "At the fair the children ride the merry-go-round."
+   },
+   "tr": {
+    "meaning": "atlıkarıncaya binmek"
+   },
+   "th": {
+    "meaning": "นั่งม้าหมุน"
+   },
+   "vi": {
+    "meaning": "đi vòng quay ngựa gỗ"
+   },
+   "fa": {
+    "meaning": "چرخ‌وفلک سوار شدن"
+   }
+  },
+  "ty~/E:-KlP": {
+   "en": {
+    "meaning": "to wear a costume",
+    "example": "At carnival he wears a funny costume."
+   },
+   "tr": {
+    "meaning": "kostüm giymek"
+   },
+   "th": {
+    "meaning": "สวมชุดแฟนซี"
+   },
+   "vi": {
+    "meaning": "mặc trang phục hóa trang"
+   },
+   "fa": {
+    "meaning": "لباس مبدل پوشیدن"
+   }
+  },
+  "C(1KiIY:s[": {
+   "en": {
+    "meaning": "to watch the fireworks",
+    "example": "On New Year's Eve we watch the fireworks together."
+   },
+   "tr": {
+    "meaning": "havai fişekleri izlemek"
+   },
+   "th": {
+    "meaning": "ดูดอกไม้ไฟ"
+   },
+   "vi": {
+    "meaning": "xem pháo hoa"
+   },
+   "fa": {
+    "meaning": "آتش‌بازی تماشا کردن"
+   }
+  },
+  "CPm]g[j76F": {
+   "en": {
+    "meaning": "to clink glasses, to toast",
+    "example": "Maybe people also raise a toast."
+   },
+   "tr": {
+    "meaning": "kadeh tokuşturmak"
+   },
+   "th": {
+    "meaning": "ชนแก้ว"
+   },
+   "vi": {
+    "meaning": "cụng ly"
+   },
+   "fa": {
+    "meaning": "به سلامتی گیلاس زدن"
+   }
+  },
+  "r7aT]7s&[I": {
+   "en": {
+    "meaning": "to catch the bridal bouquet",
+    "example": "She caught the bridal bouquet at the wedding."
+   },
+   "tr": {
+    "meaning": "gelin buketini yakalamak"
+   },
+   "th": {
+    "meaning": "รับช่อดอกไม้เจ้าสาว"
+   },
+   "vi": {
+    "meaning": "bắt được bó hoa cưới"
+   },
+   "fa": {
+    "meaning": "دستهٔ گل عروس را گرفتن"
+   }
+  },
+  "l7S#Gur(XA": {
+   "en": {
+    "meaning": "festival, celebration",
+    "example": "Which festivals do you celebrate?"
+   },
+   "tr": {
+    "meaning": "bayram, kutlama"
+   },
+   "th": {
+    "meaning": "เทศกาล, งานฉลอง"
+   },
+   "vi": {
+    "meaning": "lễ hội"
+   },
+   "fa": {
+    "meaning": "جشن"
+   }
+  },
+  "H2K5zc1bq&": {
+   "en": {
+    "meaning": "public holiday",
+    "example": "3 October is a public holiday."
+   },
+   "tr": {
+    "meaning": "resmî tatil"
+   },
+   "th": {
+    "meaning": "วันหยุดนักขัตฤกษ์"
+   },
+   "vi": {
+    "meaning": "ngày lễ"
+   },
+   "fa": {
+    "meaning": "تعطیل رسمی"
+   }
+  },
+  "HpzES{5tWT": {
+   "en": {
+    "meaning": "to celebrate",
+    "example": "Easter is celebrated in March or April."
+   },
+   "tr": {
+    "meaning": "kutlamak"
+   },
+   "th": {
+    "meaning": "ฉลอง"
+   },
+   "vi": {
+    "meaning": "ăn mừng, tổ chức lễ"
+   },
+   "fa": {
+    "meaning": "جشن گرفتن"
+   }
+  },
+  "K/K|_m7=)V": {
+   "en": {
+    "meaning": "Easter",
+    "example": "At Easter people paint eggs."
+   },
+   "tr": {
+    "meaning": "Paskalya"
+   },
+   "th": {
+    "meaning": "อีสเตอร์"
+   },
+   "vi": {
+    "meaning": "lễ Phục sinh"
+   },
+   "fa": {
+    "meaning": "عید پاک"
+   }
+  },
+  "QW1p@;gbh7": {
+   "en": {
+    "meaning": "Easter bonfire",
+    "example": "People light Easter bonfires."
+   },
+   "tr": {
+    "meaning": "Paskalya ateşi"
+   },
+   "th": {
+    "meaning": "กองไฟวันอีสเตอร์"
+   },
+   "vi": {
+    "meaning": "lửa trại lễ Phục sinh"
+   },
+   "fa": {
+    "meaning": "آتش عید پاک"
+   }
+  },
+  "QqhcH]isQ&": {
+   "en": {
+    "meaning": "to paint (on)",
+    "example": "People paint eggs."
+   },
+   "tr": {
+    "meaning": "boyamak"
+   },
+   "th": {
+    "meaning": "ระบายสี"
+   },
+   "vi": {
+    "meaning": "tô màu, vẽ lên"
+   },
+   "fa": {
+    "meaning": "رنگ کردن"
+   }
+  },
+  "m&t;;~FShj": {
+   "en": {
+    "meaning": "egg",
+    "example": "The eggs are colourful."
+   },
+   "tr": {
+    "meaning": "yumurta"
+   },
+   "th": {
+    "meaning": "ไข่"
+   },
+   "vi": {
+    "meaning": "trứng"
+   },
+   "fa": {
+    "meaning": "تخم‌مرغ"
+   }
+  },
+  "OL/_|pSS^4": {
+   "en": {
+    "meaning": "Easter bunny",
+    "example": "People eat chocolate Easter bunnies."
+   },
+   "tr": {
+    "meaning": "Paskalya tavşanı"
+   },
+   "th": {
+    "meaning": "กระต่ายอีสเตอร์"
+   },
+   "vi": {
+    "meaning": "thỏ Phục sinh"
+   },
+   "fa": {
+    "meaning": "خرگوش عید پاک"
+   }
+  },
+  "dQ(=?D-_p;": {
+   "en": {
+    "meaning": "close; narrow",
+    "example": "People celebrate with close friends."
+   },
+   "tr": {
+    "meaning": "yakın; dar"
+   },
+   "th": {
+    "meaning": "สนิท; แคบ"
+   },
+   "vi": {
+    "meaning": "thân thiết; hẹp"
+   },
+   "fa": {
+    "meaning": "صمیمی؛ تنگ"
+   }
+  },
+  "A`xOb$A.Ka": {
+   "en": {
+    "meaning": "to pour",
+    "example": "People pour wax."
+   },
+   "tr": {
+    "meaning": "dökmek"
+   },
+   "th": {
+    "meaning": "เท"
+   },
+   "vi": {
+    "meaning": "đổ, rót"
+   },
+   "fa": {
+    "meaning": "ریختن"
+   }
+  },
+  "GQ)E_N?{qh": {
+   "en": {
+    "meaning": "wax",
+    "example": "The wax becomes liquid."
+   },
+   "tr": {
+    "meaning": "balmumu"
+   },
+   "th": {
+    "meaning": "ขี้ผึ้ง"
+   },
+   "vi": {
+    "meaning": "sáp"
+   },
+   "fa": {
+    "meaning": "موم"
+   }
+  },
+  "E<c,d?op]w": {
+   "en": {
+    "meaning": "sparkling wine",
+    "example": "At midnight people drink sparkling wine."
+   },
+   "tr": {
+    "meaning": "köpüklü şarap"
+   },
+   "th": {
+    "meaning": "สปาร์กลิงไวน์"
+   },
+   "vi": {
+    "meaning": "rượu vang sủi"
+   },
+   "fa": {
+    "meaning": "شراب گازدار"
+   }
+  },
+  "hzHU`YK~W9": {
+   "en": {
+    "meaning": "fireworks",
+    "example": "People let off fireworks."
+   },
+   "tr": {
+    "meaning": "havai fişek"
+   },
+   "th": {
+    "meaning": "ดอกไม้ไฟ"
+   },
+   "vi": {
+    "meaning": "pháo hoa"
+   },
+   "fa": {
+    "meaning": "آتش‌بازی"
+   }
+  },
+  "vVnr6_me;*": {
+   "en": {
+    "meaning": "to light",
+    "example": "We light the fireworks."
+   },
+   "tr": {
+    "meaning": "yakmak, tutuşturmak"
+   },
+   "th": {
+    "meaning": "จุด"
+   },
+   "vi": {
+    "meaning": "châm lửa"
+   },
+   "fa": {
+    "meaning": "روشن کردن"
+   }
+  },
+  "N#XW8u..y!": {
+   "en": {
+    "meaning": "national holiday",
+    "example": "3 October is the national holiday."
+   },
+   "tr": {
+    "meaning": "ulusal bayram"
+   },
+   "th": {
+    "meaning": "วันชาติ"
+   },
+   "vi": {
+    "meaning": "ngày quốc khánh"
+   },
+   "fa": {
+    "meaning": "روز ملی"
+   }
+  },
+  "H#dgBiEJ!Q": {
+   "en": {
+    "meaning": "Christmas market",
+    "example": "Christmas markets open in November."
+   },
+   "tr": {
+    "meaning": "Noel pazarı"
+   },
+   "th": {
+    "meaning": "ตลาดคริสต์มาส"
+   },
+   "vi": {
+    "meaning": "chợ Giáng sinh"
+   },
+   "fa": {
+    "meaning": "بازار کریسمس"
+   }
+  },
+  "sd[8#tf#NG": {
+   "en": {
+    "meaning": "fried sausage",
+    "example": "There are fried sausages at the market."
+   },
+   "tr": {
+    "meaning": "kızarmış sosis"
+   },
+   "th": {
+    "meaning": "ไส้กรอกย่าง"
+   },
+   "vi": {
+    "meaning": "xúc xích nướng"
+   },
+   "fa": {
+    "meaning": "سوسیس کبابی"
+   }
+  },
+  "Gy]KhotLgx": {
+   "en": {
+    "meaning": "mulled wine",
+    "example": "I like drinking mulled wine."
+   },
+   "tr": {
+    "meaning": "sıcak şarap"
+   },
+   "th": {
+    "meaning": "ไวน์ร้อน"
+   },
+   "vi": {
+    "meaning": "rượu vang nóng"
+   },
+   "fa": {
+    "meaning": "شراب گرم"
+   }
+  },
+  "N|?Vdl~u!,": {
+   "en": {
+    "meaning": "to decorate",
+    "example": "We decorate the tree."
+   },
+   "tr": {
+    "meaning": "süslemek"
+   },
+   "th": {
+    "meaning": "ประดับตกแต่ง"
+   },
+   "vi": {
+    "meaning": "trang trí"
+   },
+   "fa": {
+    "meaning": "تزئین کردن"
+   }
+  },
+  "DF/Aolzz58": {
+   "en": {
+    "meaning": "trade union",
+    "example": "The trade unions organise demonstrations."
+   },
+   "tr": {
+    "meaning": "sendika"
+   },
+   "th": {
+    "meaning": "สหภาพแรงงาน"
+   },
+   "vi": {
+    "meaning": "công đoàn"
+   },
+   "fa": {
+    "meaning": "اتحادیهٔ کارگری"
+   }
+  },
+  "khmA$!Rvo4": {
+   "en": {
+    "meaning": "to organise, to hold",
+    "example": "They are holding a party."
+   },
+   "tr": {
+    "meaning": "düzenlemek"
+   },
+   "th": {
+    "meaning": "จัด (งาน)"
+   },
+   "vi": {
+    "meaning": "tổ chức"
+   },
+   "fa": {
+    "meaning": "برگزار کردن"
+   }
+  },
+  "su)?r>`)tI": {
+   "en": {
+    "meaning": "demonstration",
+    "example": "On 1 May there are demonstrations."
+   },
+   "tr": {
+    "meaning": "gösteri, yürüyüş"
+   },
+   "th": {
+    "meaning": "การเดินขบวน"
+   },
+   "vi": {
+    "meaning": "cuộc biểu tình"
+   },
+   "fa": {
+    "meaning": "تظاهرات"
+   }
+  },
+  "fj!;e@v87N": {
+   "en": {
+    "meaning": "allowed",
+    "example": "Almost everything is allowed."
+   },
+   "tr": {
+    "meaning": "izin verilen"
+   },
+   "th": {
+    "meaning": "ได้รับอนุญาต"
+   },
+   "vi": {
+    "meaning": "được phép"
+   },
+   "fa": {
+    "meaning": "مجاز"
+   }
+  },
+  "GCDpF>*O[v": {
+   "en": {
+    "meaning": "funny, cheerful",
+    "example": "The people are cheerful."
+   },
+   "tr": {
+    "meaning": "eğlenceli, neşeli"
+   },
+   "th": {
+    "meaning": "สนุก, ร่าเริง"
+   },
+   "vi": {
+    "meaning": "vui vẻ"
+   },
+   "fa": {
+    "meaning": "شاد، بامزه"
+   }
+  },
+  "ruqs(oCJQl": {
+   "en": {
+    "meaning": "mask",
+    "example": "They wear masks."
+   },
+   "tr": {
+    "meaning": "maske"
+   },
+   "th": {
+    "meaning": "หน้ากาก"
+   },
+   "vi": {
+    "meaning": "mặt nạ"
+   },
+   "fa": {
+    "meaning": "ماسک"
+   }
+  },
+  "OzbGv!JuLe": {
+   "en": {
+    "meaning": "costume",
+    "example": "People wear costumes."
+   },
+   "tr": {
+    "meaning": "kostüm"
+   },
+   "th": {
+    "meaning": "ชุดแฟนซี"
+   },
+   "vi": {
+    "meaning": "trang phục hóa trang"
+   },
+   "fa": {
+    "meaning": "لباس مبدل"
+   }
+  },
+  "oiBPn71yRt": {
+   "en": {
+    "meaning": "annual; every year",
+    "example": "The festival has lots of visitors every year."
+   },
+   "tr": {
+    "meaning": "yıllık; her yıl"
+   },
+   "th": {
+    "meaning": "ประจำปี; ทุกปี"
+   },
+   "vi": {
+    "meaning": "hằng năm"
+   },
+   "fa": {
+    "meaning": "سالانه"
+   }
+  },
+  "c}tq@V3F(l": {
+   "en": {
+    "meaning": "about, around; round",
+    "example": "Around 6 million people come."
+   },
+   "tr": {
+    "meaning": "yaklaşık; yuvarlak"
+   },
+   "th": {
+    "meaning": "ประมาณ; กลม"
+   },
+   "vi": {
+    "meaning": "khoảng; tròn"
+   },
+   "fa": {
+    "meaning": "حدوداً؛ گرد"
+   }
+  },
+  "rJVaBYt;i,": {
+   "en": {
+    "meaning": "visitor",
+    "example": "The visitors drink a lot of beer."
+   },
+   "tr": {
+    "meaning": "ziyaretçi"
+   },
+   "th": {
+    "meaning": "ผู้มาเยือน"
+   },
+   "vi": {
+    "meaning": "khách tham quan"
+   },
+   "fa": {
+    "meaning": "بازدیدکننده"
+   },
+   "zh": {
+    "meaning": "访客、游客",
+    "example": "游客们喝很多啤酒。"
+   }
+  },
+  "uDE{QT`TH,": {
+   "en": {
+    "meaning": "litre",
+    "example": "They drank 7.3 million litres of beer."
+   },
+   "tr": {
+    "meaning": "litre"
+   },
+   "th": {
+    "meaning": "ลิตร"
+   },
+   "vi": {
+    "meaning": "lít"
+   },
+   "fa": {
+    "meaning": "لیتر"
+   }
+  },
+  "F2_%:9x&(H": {
+   "en": {
+    "meaning": "ox",
+    "example": "They ate 124 oxen."
+   },
+   "tr": {
+    "meaning": "öküz"
+   },
+   "th": {
+    "meaning": "วัวตัวผู้"
+   },
+   "vi": {
+    "meaning": "bò đực"
+   },
+   "fa": {
+    "meaning": "گاو نر"
+   }
+  },
+  "y*pG2+n7vx": {
+   "en": {
+    "meaning": "calf",
+    "example": "29 calves were eaten."
+   },
+   "tr": {
+    "meaning": "buzağı"
+   },
+   "th": {
+    "meaning": "ลูกวัว"
+   },
+   "vi": {
+    "meaning": "bê"
+   },
+   "fa": {
+    "meaning": "گوساله"
+   }
+  },
+  "f+;V,z(#Vx": {
+   "en": {
+    "meaning": "Mother's Day",
+    "example": "On Mother's Day people give flowers."
+   },
+   "tr": {
+    "meaning": "Anneler Günü"
+   },
+   "th": {
+    "meaning": "วันแม่"
+   },
+   "vi": {
+    "meaning": "Ngày của Mẹ"
+   },
+   "fa": {
+    "meaning": "روز مادر"
+   }
+  },
+  "E0tc{LKR[`": {
+   "en": {
+    "meaning": "popular",
+    "example": "Popular presents are flowers."
+   },
+   "tr": {
+    "meaning": "sevilen, popüler"
+   },
+   "th": {
+    "meaning": "เป็นที่นิยม"
+   },
+   "vi": {
+    "meaning": "được ưa thích"
+   },
+   "fa": {
+    "meaning": "محبوب"
+   }
+  }
+ },
+ "grammar": {}
+}
