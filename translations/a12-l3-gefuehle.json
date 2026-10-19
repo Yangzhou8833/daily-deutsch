@@ -1,0 +1,404 @@
+{
+ "words": {
+  "dhZtm]hL{0": {
+   "en": {
+    "meaning": "joy",
+    "example": "I'm beaming with joy."
+   },
+   "tr": {
+    "meaning": "sevinç"
+   },
+   "th": {
+    "meaning": "ความยินดี"
+   },
+   "vi": {
+    "meaning": "niềm vui"
+   },
+   "fa": {
+    "meaning": "شادی"
+   }
+  },
+  "I93j!hu~sG": {
+   "en": {
+    "meaning": "anger, rage",
+    "example": "I'm boiling with rage."
+   },
+   "tr": {
+    "meaning": "öfke"
+   },
+   "th": {
+    "meaning": "ความโกรธ"
+   },
+   "vi": {
+    "meaning": "cơn giận"
+   },
+   "fa": {
+    "meaning": "خشم"
+   }
+  },
+  "ttOn$$_!qu": {
+   "en": {
+    "meaning": "sadness",
+    "example": "Sadness and joy are opposites."
+   },
+   "tr": {
+    "meaning": "üzüntü"
+   },
+   "th": {
+    "meaning": "ความเศร้า"
+   },
+   "vi": {
+    "meaning": "nỗi buồn"
+   },
+   "fa": {
+    "meaning": "غم"
+   }
+  },
+  "iR51!XnaS6": {
+   "en": {
+    "meaning": "hatred",
+    "example": "I hate her!"
+   },
+   "tr": {
+    "meaning": "nefret"
+   },
+   "th": {
+    "meaning": "ความเกลียด"
+   },
+   "vi": {
+    "meaning": "lòng căm ghét"
+   },
+   "fa": {
+    "meaning": "نفرت"
+   }
+  },
+  "IrS_%j5=lw": {
+   "en": {
+    "meaning": "envy",
+    "example": "Out of envy he doesn't say anything nice about her."
+   },
+   "tr": {
+    "meaning": "kıskançlık (haset)"
+   },
+   "th": {
+    "meaning": "ความอิจฉา"
+   },
+   "vi": {
+    "meaning": "sự ghen tị"
+   },
+   "fa": {
+    "meaning": "حسادت (رشک)"
+   }
+  },
+  "Q~?AyZ{Sy+": {
+   "en": {
+    "meaning": "jealousy",
+    "example": "Anja is jealous of Sonja."
+   },
+   "tr": {
+    "meaning": "kıskançlık"
+   },
+   "th": {
+    "meaning": "ความหึงหวง"
+   },
+   "vi": {
+    "meaning": "sự ghen tuông"
+   },
+   "fa": {
+    "meaning": "حسادت (غیرت)"
+   }
+  },
+  "v3B_$Cqh-V": {
+   "en": {
+    "meaning": "boredom",
+    "example": "All the colleagues are bored."
+   },
+   "tr": {
+    "meaning": "can sıkıntısı"
+   },
+   "th": {
+    "meaning": "ความเบื่อ"
+   },
+   "vi": {
+    "meaning": "sự buồn chán"
+   },
+   "fa": {
+    "meaning": "کسالت"
+   }
+  },
+  "u:2.,,fOIr": {
+   "en": {
+    "meaning": "panic",
+    "example": "The employees start to panic."
+   },
+   "tr": {
+    "meaning": "panik"
+   },
+   "th": {
+    "meaning": "ความตื่นตระหนก"
+   },
+   "vi": {
+    "meaning": "sự hoảng loạn"
+   },
+   "fa": {
+    "meaning": "وحشت، هراس"
+   }
+  },
+  "n/!Zj=(XzZ": {
+   "en": {
+    "meaning": "annoyance; trouble",
+    "example": "I'm in trouble with my boss."
+   },
+   "tr": {
+    "meaning": "kızgınlık; sorun"
+   },
+   "th": {
+    "meaning": "ความหงุดหงิด; ปัญหา"
+   },
+   "vi": {
+    "meaning": "sự bực mình; rắc rối"
+   },
+   "fa": {
+    "meaning": "ناراحتی؛ دردسر"
+   },
+   "zh": {
+    "meaning": "恼火；麻烦"
+   }
+  },
+  "yUAc1I%e$[": {
+   "en": {
+    "meaning": "bad luck",
+    "example": "That was bad luck – the train had already gone."
+   },
+   "tr": {
+    "meaning": "şanssızlık"
+   },
+   "th": {
+    "meaning": "โชคร้าย"
+   },
+   "vi": {
+    "meaning": "xui xẻo"
+   },
+   "fa": {
+    "meaning": "بدشانسی"
+   }
+  },
+  "o9i@;^Nq~#": {
+   "en": {
+    "meaning": "to tremble, to shake",
+    "example": "I'm shaking all over."
+   },
+   "tr": {
+    "meaning": "titremek"
+   },
+   "th": {
+    "meaning": "ตัวสั่น"
+   },
+   "vi": {
+    "meaning": "run rẩy"
+   },
+   "fa": {
+    "meaning": "لرزیدن"
+   }
+  },
+  "BmVA{-x6~X": {
+   "en": {
+    "meaning": "to stutter",
+    "example": "When I'm nervous, I stutter."
+   },
+   "tr": {
+    "meaning": "kekelemek"
+   },
+   "th": {
+    "meaning": "พูดติดอ่าง"
+   },
+   "vi": {
+    "meaning": "nói lắp"
+   },
+   "fa": {
+    "meaning": "لکنت داشتن"
+   }
+  },
+  "n-_WAjUgSs": {
+   "en": {
+    "meaning": "to cry",
+    "example": "Don't cry."
+   },
+   "tr": {
+    "meaning": "ağlamak"
+   },
+   "th": {
+    "meaning": "ร้องไห้"
+   },
+   "vi": {
+    "meaning": "khóc"
+   },
+   "fa": {
+    "meaning": "گریه کردن"
+   }
+  },
+  "Mo,<MV33Ii": {
+   "en": {
+    "meaning": "to smile",
+    "example": "She smiles and says nothing."
+   },
+   "tr": {
+    "meaning": "gülümsemek"
+   },
+   "th": {
+    "meaning": "ยิ้ม"
+   },
+   "vi": {
+    "meaning": "mỉm cười"
+   },
+   "fa": {
+    "meaning": "لبخند زدن"
+   }
+  },
+  "PVX$QP%9w[": {
+   "en": {
+    "meaning": "to explode",
+    "example": "I'm about to explode."
+   },
+   "tr": {
+    "meaning": "patlamak"
+   },
+   "th": {
+    "meaning": "ระเบิด"
+   },
+   "vi": {
+    "meaning": "bùng nổ"
+   },
+   "fa": {
+    "meaning": "منفجر شدن"
+   }
+  },
+  "HuIU[.m%/0": {
+   "en": {
+    "meaning": "to boil with rage",
+    "example": "I'm boiling with rage."
+   },
+   "tr": {
+    "meaning": "öfkeden kudurmak"
+   },
+   "th": {
+    "meaning": "โกรธจนควันออกหู"
+   },
+   "vi": {
+    "meaning": "giận sôi máu"
+   },
+   "fa": {
+    "meaning": "از خشم جوش آوردن"
+   }
+  },
+  "jokEFU(wh`": {
+   "en": {
+    "meaning": "to beam with joy",
+    "example": "I'm beaming with joy."
+   },
+   "tr": {
+    "meaning": "sevinçten parlamak"
+   },
+   "th": {
+    "meaning": "ยิ้มแก้มปริ"
+   },
+   "vi": {
+    "meaning": "rạng rỡ vì vui"
+   },
+   "fa": {
+    "meaning": "از شادی درخشیدن"
+   }
+  },
+  "PRvTym3Ot;": {
+   "en": {
+    "meaning": "to jump for joy",
+    "example": "I do a little jump for joy."
+   },
+   "tr": {
+    "meaning": "sevinçten havaya zıplamak"
+   },
+   "th": {
+    "meaning": "กระโดดด้วยความดีใจ"
+   },
+   "vi": {
+    "meaning": "nhảy cẫng lên vì vui"
+   },
+   "fa": {
+    "meaning": "از خوشحالی بالا پریدن"
+   }
+  },
+  "M{BVu6!n1e": {
+   "en": {
+    "meaning": "to get worked up, to get upset",
+    "example": "Don't get so worked up!"
+   },
+   "tr": {
+    "meaning": "sinirlenmek"
+   },
+   "th": {
+    "meaning": "ตื่นเต้น, โมโห"
+   },
+   "vi": {
+    "meaning": "bực tức, kích động"
+   },
+   "fa": {
+    "meaning": "عصبانی شدن"
+   }
+  },
+  "BB+6Wk7FwK": {
+   "en": {
+    "meaning": "to feel",
+    "example": "I feel so terribly hurt."
+   },
+   "tr": {
+    "meaning": "hissetmek"
+   },
+   "th": {
+    "meaning": "รู้สึก"
+   },
+   "vi": {
+    "meaning": "cảm thấy"
+   },
+   "fa": {
+    "meaning": "احساس کردن"
+   }
+  },
+  "e1`(WW2h,9": {
+   "en": {
+    "meaning": "to be bored",
+    "example": "The boss talks and talks. Everyone is bored."
+   },
+   "tr": {
+    "meaning": "sıkılmak"
+   },
+   "th": {
+    "meaning": "เบื่อ"
+   },
+   "vi": {
+    "meaning": "thấy chán"
+   },
+   "fa": {
+    "meaning": "حوصله سر رفتن"
+   }
+  },
+  "i%]S={:v#E": {
+   "en": {
+    "meaning": "to be interested in",
+    "example": "She is very interested in culture."
+   },
+   "tr": {
+    "meaning": "ilgilenmek"
+   },
+   "th": {
+    "meaning": "สนใจ"
+   },
+   "vi": {
+    "meaning": "quan tâm đến"
+   },
+   "fa": {
+    "meaning": "علاقه داشتن به"
+   }
+  }
+ },
+ "grammar": {}
+}

@@ -1,0 +1,621 @@
+{
+ "words": {
+  "H|VM<?L<k}": {
+   "en": {
+    "meaning": "(bus/tram) stop",
+    "example": "He got to the stop too late."
+   },
+   "tr": {
+    "meaning": "durak"
+   },
+   "th": {
+    "meaning": "ป้ายรถเมล์"
+   },
+   "vi": {
+    "meaning": "trạm xe buýt"
+   },
+   "fa": {
+    "meaning": "ایستگاه اتوبوس"
+   }
+  },
+  "Czg?s89!|>": {
+   "en": {
+    "meaning": "to miss",
+    "example": "Frank missed the bus."
+   },
+   "tr": {
+    "meaning": "kaçırmak"
+   },
+   "th": {
+    "meaning": "พลาด"
+   },
+   "vi": {
+    "meaning": "lỡ"
+   },
+   "fa": {
+    "meaning": "از دست دادن"
+   }
+  },
+  "pU-F]hIAqB": {
+   "en": {
+    "meaning": "fault, blame",
+    "example": "It wasn't my fault."
+   },
+   "tr": {
+    "meaning": "suç, kabahat"
+   },
+   "th": {
+    "meaning": "ความผิด"
+   },
+   "vi": {
+    "meaning": "lỗi"
+   },
+   "fa": {
+    "meaning": "تقصیر"
+   }
+  },
+  "f%gd3HE%uh": {
+   "en": {
+    "meaning": "angry; bad, evil",
+    "example": "The boss was angry."
+   },
+   "tr": {
+    "meaning": "kızgın; kötü"
+   },
+   "th": {
+    "meaning": "โกรธ; ชั่วร้าย"
+   },
+   "vi": {
+    "meaning": "giận; xấu"
+   },
+   "fa": {
+    "meaning": "عصبانی؛ بد"
+   }
+  },
+  "p&%nuhPcRW": {
+   "en": {
+    "meaning": "backache",
+    "example": "He has bad backache."
+   },
+   "tr": {
+    "meaning": "sırt ağrısı"
+   },
+   "th": {
+    "meaning": "ปวดหลัง"
+   },
+   "vi": {
+    "meaning": "đau lưng"
+   },
+   "fa": {
+    "meaning": "کمردرد"
+   }
+  },
+  "<DHOgAKA-": {
+   "en": {
+    "meaning": "to sign up for",
+    "example": "I've signed up for a course."
+   },
+   "tr": {
+    "meaning": "kaydolmak"
+   },
+   "th": {
+    "meaning": "ลงทะเบียน"
+   },
+   "vi": {
+    "meaning": "đăng ký"
+   },
+   "fa": {
+    "meaning": "ثبت‌نام کردن"
+   }
+  },
+  "g(8[[Z&6CC": {
+   "en": {
+    "meaning": "programming language",
+    "example": "He is learning a new programming language."
+   },
+   "tr": {
+    "meaning": "programlama dili"
+   },
+   "th": {
+    "meaning": "ภาษาโปรแกรม"
+   },
+   "vi": {
+    "meaning": "ngôn ngữ lập trình"
+   },
+   "fa": {
+    "meaning": "زبان برنامه‌نویسی"
+   }
+  },
+  "E1X`d!m9^(": {
+   "en": {
+    "meaning": "to jog",
+    "example": "She goes jogging every day."
+   },
+   "tr": {
+    "meaning": "koşu yapmak"
+   },
+   "th": {
+    "meaning": "วิ่งจ็อกกิ้ง"
+   },
+   "vi": {
+    "meaning": "chạy bộ"
+   },
+   "fa": {
+    "meaning": "آهسته دویدن"
+   }
+  },
+  "RdW)rX!N3^": {
+   "en": {
+    "meaning": "to say \"du\" (informal you)",
+    "example": "The others say \"du\" to each other."
+   },
+   "tr": {
+    "meaning": "\"du\" diye hitap etmek"
+   },
+   "th": {
+    "meaning": "เรียกแบบเป็นกันเอง (du)"
+   },
+   "vi": {
+    "meaning": "xưng hô thân mật (du)"
+   },
+   "fa": {
+    "meaning": "«تو» خطاب کردن"
+   }
+  },
+  "fyqLJ.l=7?": {
+   "en": {
+    "meaning": "to say \"Sie\" (formal you)",
+    "example": "She addressed me as \"Sie\"."
+   },
+   "tr": {
+    "meaning": "\"Sie\" diye hitap etmek"
+   },
+   "th": {
+    "meaning": "เรียกแบบสุภาพ (Sie)"
+   },
+   "vi": {
+    "meaning": "xưng hô trang trọng (Sie)"
+   },
+   "fa": {
+    "meaning": "«شما» خطاب کردن"
+   }
+  },
+  "q&%c;/P&o^": {
+   "en": {
+    "meaning": "embarrassing",
+    "example": "I was embarrassed."
+   },
+   "tr": {
+    "meaning": "utandırıcı"
+   },
+   "th": {
+    "meaning": "น่าอาย"
+   },
+   "vi": {
+    "meaning": "ngại ngùng, xấu hổ"
+   },
+   "fa": {
+    "meaning": "خجالت‌آور"
+   }
+  },
+  "M;hgaTmVpb": {
+   "en": {
+    "meaning": "to behave",
+    "example": "I don't know how I should behave."
+   },
+   "tr": {
+    "meaning": "davranmak"
+   },
+   "th": {
+    "meaning": "ประพฤติ, วางตัว"
+   },
+   "vi": {
+    "meaning": "cư xử"
+   },
+   "fa": {
+    "meaning": "رفتار کردن"
+   }
+  },
+  "pUsS7|6.z;": {
+   "en": {
+    "meaning": "urgent; urgently",
+    "example": "Please call me urgently!"
+   },
+   "tr": {
+    "meaning": "acil"
+   },
+   "th": {
+    "meaning": "ด่วน"
+   },
+   "vi": {
+    "meaning": "khẩn cấp"
+   },
+   "fa": {
+    "meaning": "فوری"
+   }
+  },
+  "mBT+W9JEh6": {
+   "en": {
+    "meaning": "under no circumstances",
+    "example": "Never say \"du\"!"
+   },
+   "tr": {
+    "meaning": "asla, kesinlikle hayır"
+   },
+   "th": {
+    "meaning": "ไม่ว่ากรณีใดก็ตาม"
+   },
+   "vi": {
+    "meaning": "tuyệt đối không"
+   },
+   "fa": {
+    "meaning": "به هیچ وجه"
+   }
+  },
+  "C8j>B3aI!L": {
+   "en": {
+    "meaning": "should",
+    "example": "He should ask the boss.",
+    "info": "Konjunktiv II of sollen"
+   },
+   "tr": {
+    "meaning": "-meli, -malı"
+   },
+   "th": {
+    "meaning": "ควรจะ"
+   },
+   "vi": {
+    "meaning": "nên"
+   },
+   "fa": {
+    "meaning": "باید (پیشنهاد)"
+   }
+  },
+  "r(4xXWYsaE": {
+   "en": {
+    "meaning": "manners, etiquette",
+    "example": "Manners changed."
+   },
+   "tr": {
+    "meaning": "görgü kuralları"
+   },
+   "th": {
+    "meaning": "มารยาท"
+   },
+   "vi": {
+    "meaning": "phép lịch sự"
+   },
+   "fa": {
+    "meaning": "آداب معاشرت"
+   }
+  },
+  "C=>1j_n!BY": {
+   "en": {
+    "meaning": "radical; radically",
+    "example": "The forms changed radically."
+   },
+   "tr": {
+    "meaning": "radikal, köklü"
+   },
+   "th": {
+    "meaning": "อย่างสิ้นเชิง"
+   },
+   "vi": {
+    "meaning": "triệt để"
+   },
+   "fa": {
+    "meaning": "ریشه‌ای، اساسی"
+   }
+  },
+  "JbXBF(ds@|": {
+   "en": {
+    "meaning": "superior, boss",
+    "example": "The boss said \"du\" to his employees."
+   },
+   "tr": {
+    "meaning": "amir"
+   },
+   "th": {
+    "meaning": "หัวหน้า"
+   },
+   "vi": {
+    "meaning": "cấp trên"
+   },
+   "fa": {
+    "meaning": "مافوق، رئیس"
+   }
+  },
+  "uMTohZ8x3~": {
+   "en": {
+    "meaning": "relationship",
+    "example": "The relationship between the colleagues is good."
+   },
+   "tr": {
+    "meaning": "ilişki"
+   },
+   "th": {
+    "meaning": "ความสัมพันธ์"
+   },
+   "vi": {
+    "meaning": "mối quan hệ"
+   },
+   "fa": {
+    "meaning": "رابطه"
+   }
+  },
+  "h,`WzDQDL?": {
+   "en": {
+    "meaning": "among each other",
+    "example": "The colleagues say \"du\" to each other."
+   },
+   "tr": {
+    "meaning": "kendi aralarında"
+   },
+   "th": {
+    "meaning": "ระหว่างกัน"
+   },
+   "vi": {
+    "meaning": "với nhau"
+   },
+   "fa": {
+    "meaning": "با یکدیگر"
+   }
+  },
+  "xhY2d42K&$": {
+   "en": {
+    "meaning": "to be on the rise",
+    "example": "\"Sie\" is on the rise again."
+   },
+   "tr": {
+    "meaning": "yükselişte olmak"
+   },
+   "th": {
+    "meaning": "กำลังเพิ่มขึ้น"
+   },
+   "vi": {
+    "meaning": "đang thịnh hành"
+   },
+   "fa": {
+    "meaning": "رو به افزایش بودن"
+   }
+  },
+  "wfr)UU`zJR": {
+   "en": {
+    "meaning": "survey",
+    "example": "According to a survey it's 48 per cent."
+   },
+   "tr": {
+    "meaning": "anket"
+   },
+   "th": {
+    "meaning": "การสำรวจความคิดเห็น"
+   },
+   "vi": {
+    "meaning": "cuộc khảo sát"
+   },
+   "fa": {
+    "meaning": "نظرسنجی"
+   }
+  },
+  "Pi4Vgz$}c0": {
+   "en": {
+    "meaning": "per cent",
+    "example": "59 per cent of young people"
+   },
+   "tr": {
+    "meaning": "yüzde"
+   },
+   "th": {
+    "meaning": "เปอร์เซ็นต์"
+   },
+   "vi": {
+    "meaning": "phần trăm"
+   },
+   "fa": {
+    "meaning": "درصد"
+   }
+  },
+  "k!n0A=U<~}": {
+   "en": {
+    "meaning": "half",
+    "example": "Almost half say \"Sie\"."
+   },
+   "tr": {
+    "meaning": "yarı"
+   },
+   "th": {
+    "meaning": "ครึ่งหนึ่ง"
+   },
+   "vi": {
+    "meaning": "một nửa"
+   },
+   "fa": {
+    "meaning": "نصف"
+   }
+  },
+  "eBr(JZ1:l$": {
+   "en": {
+    "meaning": "to play a role",
+    "example": "That plays an important role."
+   },
+   "tr": {
+    "meaning": "rol oynamak"
+   },
+   "th": {
+    "meaning": "มีบทบาท"
+   },
+   "vi": {
+    "meaning": "đóng vai trò"
+   },
+   "fa": {
+    "meaning": "نقش داشتن"
+   },
+   "zh": {
+    "example": "这起着重要作用。"
+   }
+  },
+  "vEJr#+,m8p": {
+   "en": {
+    "meaning": "dealing with",
+    "example": "When dealing with others"
+   },
+   "tr": {
+    "meaning": "(biriyle) ilişki, davranış"
+   },
+   "th": {
+    "meaning": "การปฏิบัติต่อ"
+   },
+   "vi": {
+    "meaning": "cách đối xử với"
+   },
+   "fa": {
+    "meaning": "برخورد با"
+   }
+  },
+  "QDcw[Fum-=": {
+   "en": {
+    "meaning": "distant, reserved",
+    "example": "The Sie form is distant."
+   },
+   "tr": {
+    "meaning": "mesafeli"
+   },
+   "th": {
+    "meaning": "ห่างเหิน"
+   },
+   "vi": {
+    "meaning": "xa cách"
+   },
+   "fa": {
+    "meaning": "رسمی، فاصله‌دار"
+   }
+  },
+  "E8C82z9!I8": {
+   "en": {
+    "meaning": "respect",
+    "example": "It can express respect."
+   },
+   "tr": {
+    "meaning": "saygı"
+   },
+   "th": {
+    "meaning": "ความเคารพ"
+   },
+   "vi": {
+    "meaning": "sự tôn trọng"
+   },
+   "fa": {
+    "meaning": "احترام"
+   }
+  },
+  "NNpk_~4}ml": {
+   "en": {
+    "meaning": "to express",
+    "example": "That expresses respect."
+   },
+   "tr": {
+    "meaning": "ifade etmek"
+   },
+   "th": {
+    "meaning": "แสดงออก"
+   },
+   "vi": {
+    "meaning": "bày tỏ"
+   },
+   "fa": {
+    "meaning": "بیان کردن"
+   }
+  },
+  "tf1eD/;JwT": {
+   "en": {
+    "meaning": "impolite, rude",
+    "example": "Anyone who says \"du\" too quickly is considered rude."
+   },
+   "tr": {
+    "meaning": "kaba"
+   },
+   "th": {
+    "meaning": "ไม่สุภาพ"
+   },
+   "vi": {
+    "meaning": "bất lịch sự"
+   },
+   "fa": {
+    "meaning": "بی‌ادب"
+   }
+  },
+  "p=h4>R6JV4": {
+   "en": {
+    "meaning": "stiff; formal",
+    "example": "Anyone who says \"Sie\" for too long seems too stiff."
+   },
+   "tr": {
+    "meaning": "katı, resmî"
+   },
+   "th": {
+    "meaning": "แข็ง; เป็นทางการเกินไป"
+   },
+   "vi": {
+    "meaning": "cứng nhắc"
+   },
+   "fa": {
+    "meaning": "خشک، رسمی"
+   }
+  },
+  "f(`;64#0U=": {
+   "en": {
+    "meaning": "to be considered (as)",
+    "example": "That is considered impolite."
+   },
+   "tr": {
+    "meaning": "… sayılmak"
+   },
+   "th": {
+    "meaning": "ถือว่าเป็น"
+   },
+   "vi": {
+    "meaning": "được coi là"
+   },
+   "fa": {
+    "meaning": "به شمار آمدن"
+   }
+  },
+  "Rg}PNDR3wv": {
+   "en": {
+    "meaning": "to seem, to come across",
+    "example": "He seems very friendly."
+   },
+   "tr": {
+    "meaning": "görünmek"
+   },
+   "th": {
+    "meaning": "ดูเหมือน"
+   },
+   "vi": {
+    "meaning": "có vẻ"
+   },
+   "fa": {
+    "meaning": "به نظر رسیدن"
+   }
+  },
+  "I|O*GHyK[-": {
+   "en": {
+    "meaning": "to come into fashion",
+    "example": "Saying \"Sie\" is coming back into fashion."
+   },
+   "tr": {
+    "meaning": "moda olmak"
+   },
+   "th": {
+    "meaning": "เริ่มเป็นที่นิยม"
+   },
+   "vi": {
+    "meaning": "trở thành mốt"
+   },
+   "fa": {
+    "meaning": "مد شدن"
+   }
+  }
+ },
+ "grammar": {}
+}

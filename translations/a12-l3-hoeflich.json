@@ -1,0 +1,776 @@
+{
+ "words": {
+  "t9{Ou(X^C{": {
+   "en": {
+    "meaning": "to put through; to connect",
+    "example": "Could you put me through, please?"
+   },
+   "tr": {
+    "meaning": "bağlamak"
+   },
+   "th": {
+    "meaning": "ต่อสาย; เชื่อมต่อ"
+   },
+   "vi": {
+    "meaning": "nối máy; kết nối"
+   },
+   "fa": {
+    "meaning": "وصل کردن"
+   }
+  },
+  "Ae=HKg_T5z": {
+   "en": {
+    "meaning": "message",
+    "example": "I'll leave a message."
+   },
+   "tr": {
+    "meaning": "mesaj"
+   },
+   "th": {
+    "meaning": "ข้อความ"
+   },
+   "vi": {
+    "meaning": "tin nhắn, lời nhắn"
+   },
+   "fa": {
+    "meaning": "پیام"
+   }
+  },
+  "D^;c%u+7&p": {
+   "en": {
+    "meaning": "to leave (a message)",
+    "example": "Could I leave a message?"
+   },
+   "tr": {
+    "meaning": "bırakmak"
+   },
+   "th": {
+    "meaning": "ฝาก (ข้อความ)"
+   },
+   "vi": {
+    "meaning": "để lại (lời nhắn)"
+   },
+   "fa": {
+    "meaning": "گذاشتن (پیام)"
+   }
+  },
+  "nG(m=+rDGT": {
+   "en": {
+    "meaning": "to call back",
+    "example": "Please call me back."
+   },
+   "tr": {
+    "meaning": "geri aramak"
+   },
+   "th": {
+    "meaning": "โทรกลับ"
+   },
+   "vi": {
+    "meaning": "gọi lại"
+   },
+   "fa": {
+    "meaning": "دوباره زنگ زدن"
+   }
+  },
+  "dF(:YLbevd": {
+   "en": {
+    "meaning": "return call, callback",
+    "example": "We ask you to call back."
+   },
+   "tr": {
+    "meaning": "geri arama"
+   },
+   "th": {
+    "meaning": "การโทรกลับ"
+   },
+   "vi": {
+    "meaning": "cuộc gọi lại"
+   },
+   "fa": {
+    "meaning": "تماس برگشتی"
+   }
+  },
+  "oEPZy_G[E4": {
+   "en": {
+    "meaning": "reason",
+    "example": "Give the reason for the call."
+   },
+   "tr": {
+    "meaning": "neden"
+   },
+   "th": {
+    "meaning": "เหตุผล"
+   },
+   "vi": {
+    "meaning": "lý do"
+   },
+   "fa": {
+    "meaning": "دلیل"
+   }
+  },
+  "I*s/3X~UJU": {
+   "en": {
+    "meaning": "it's about",
+    "example": "It's about an appointment."
+   },
+   "tr": {
+    "meaning": "söz konusu olmak, ile ilgili olmak"
+   },
+   "th": {
+    "meaning": "เกี่ยวกับ"
+   },
+   "vi": {
+    "meaning": "là về chuyện"
+   },
+   "fa": {
+    "meaning": "موضوع … است"
+   },
+   "zh": {
+    "example": "是关于一个预约的事。"
+   }
+  },
+  "LU<q&m5dQ(": {
+   "en": {
+    "meaning": "to interrupt",
+    "example": "Sorry to interrupt you."
+   },
+   "tr": {
+    "meaning": "sözünü kesmek"
+   },
+   "th": {
+    "meaning": "ขัดจังหวะ"
+   },
+   "vi": {
+    "meaning": "ngắt lời"
+   },
+   "fa": {
+    "meaning": "حرف کسی را قطع کردن"
+   }
+  },
+  "AvDQzKtw]`": {
+   "en": {
+    "meaning": "to ask (again), to check",
+    "example": "May I just ask something?"
+   },
+   "tr": {
+    "meaning": "tekrar sormak"
+   },
+   "th": {
+    "meaning": "ถามเพิ่มเติม"
+   },
+   "vi": {
+    "meaning": "hỏi lại"
+   },
+   "fa": {
+    "meaning": "دوباره پرسیدن"
+   }
+  },
+  "C}c^(C^TH*": {
+   "en": {
+    "meaning": "to repeat",
+    "example": "Could you repeat that?"
+   },
+   "tr": {
+    "meaning": "tekrarlamak"
+   },
+   "th": {
+    "meaning": "พูดซ้ำ"
+   },
+   "vi": {
+    "meaning": "nhắc lại"
+   },
+   "fa": {
+    "meaning": "تکرار کردن"
+   }
+  },
+  "j9L@4+a2>q": {
+   "en": {
+    "meaning": "louder",
+    "example": "Please speak louder.",
+    "info": "comparative of laut"
+   },
+   "tr": {
+    "meaning": "daha yüksek sesle"
+   },
+   "th": {
+    "meaning": "ดังกว่า"
+   },
+   "vi": {
+    "meaning": "to hơn"
+   },
+   "fa": {
+    "meaning": "بلندتر"
+   }
+  },
+  "i7>:810M;Z": {
+   "en": {
+    "meaning": "slower",
+    "example": "Please speak more slowly.",
+    "info": "comparative of langsam"
+   },
+   "tr": {
+    "meaning": "daha yavaş"
+   },
+   "th": {
+    "meaning": "ช้ากว่า"
+   },
+   "vi": {
+    "meaning": "chậm hơn"
+   },
+   "fa": {
+    "meaning": "آهسته‌تر"
+   }
+  },
+  "j8NX=<Uam2": {
+   "en": {
+    "meaning": "information",
+    "example": "Thank you very much for the information."
+   },
+   "tr": {
+    "meaning": "bilgi"
+   },
+   "th": {
+    "meaning": "ข้อมูล"
+   },
+   "vi": {
+    "meaning": "thông tin"
+   },
+   "fa": {
+    "meaning": "اطلاعات"
+   }
+  },
+  "gLCzkOd@HE": {
+   "en": {
+    "meaning": "Goodbye (on the phone)",
+    "example": "Thanks. Goodbye.",
+    "info": "In person you say Auf Wiedersehen"
+   },
+   "tr": {
+    "meaning": "Hoşça kalın (telefonda)"
+   },
+   "th": {
+    "meaning": "ลาก่อน (ทางโทรศัพท์)"
+   },
+   "vi": {
+    "meaning": "Tạm biệt (qua điện thoại)"
+   },
+   "fa": {
+    "meaning": "خداحافظ (پشت تلفن)"
+   }
+  },
+  "uy>GxGtiXN": {
+   "en": {
+    "meaning": "connection; line",
+    "example": "The line is bad."
+   },
+   "tr": {
+    "meaning": "bağlantı; hat"
+   },
+   "th": {
+    "meaning": "สัญญาณ, การเชื่อมต่อ"
+   },
+   "vi": {
+    "meaning": "kết nối, đường truyền"
+   },
+   "fa": {
+    "meaning": "اتصال، خط"
+   }
+  },
+  "C%r7]VU&G6": {
+   "en": {
+    "meaning": "person you're talking to",
+    "example": "The person I'm talking to is speaking quietly."
+   },
+   "tr": {
+    "meaning": "konuşulan kişi"
+   },
+   "th": {
+    "meaning": "คู่สนทนา"
+   },
+   "vi": {
+    "meaning": "người đối thoại"
+   },
+   "fa": {
+    "meaning": "طرف صحبت"
+   }
+  },
+  "l?n:}q$sT(": {
+   "en": {
+    "meaning": "telephone number",
+    "example": "You leave your phone number."
+   },
+   "tr": {
+    "meaning": "telefon numarası"
+   },
+   "th": {
+    "meaning": "หมายเลขโทรศัพท์"
+   },
+   "vi": {
+    "meaning": "số điện thoại"
+   },
+   "fa": {
+    "meaning": "شمارهٔ تلفن"
+   },
+   "zh": {
+    "example": "您留下您的电话号码。"
+   }
+  },
+  "Myhj1&FAQ<": {
+   "en": {
+    "meaning": "politeness",
+    "example": "Politeness is important."
+   },
+   "tr": {
+    "meaning": "nezaket"
+   },
+   "th": {
+    "meaning": "ความสุภาพ"
+   },
+   "vi": {
+    "meaning": "sự lịch sự"
+   },
+   "fa": {
+    "meaning": "ادب"
+   }
+  },
+  "c(l;lxH]*:": {
+   "en": {
+    "meaning": "polite",
+    "example": "Could you say that more politely?"
+   },
+   "tr": {
+    "meaning": "kibar"
+   },
+   "th": {
+    "meaning": "สุภาพ"
+   },
+   "vi": {
+    "meaning": "lịch sự"
+   },
+   "fa": {
+    "meaning": "مؤدب"
+   }
+  },
+  "EK}Trjl?|0": {
+   "en": {
+    "meaning": "request",
+    "example": "I have a request."
+   },
+   "tr": {
+    "meaning": "rica"
+   },
+   "th": {
+    "meaning": "คำขอ"
+   },
+   "vi": {
+    "meaning": "lời đề nghị"
+   },
+   "fa": {
+    "meaning": "خواهش، درخواست"
+   }
+  },
+  "M8K$&2V6os": {
+   "en": {
+    "meaning": "wish",
+    "example": "That is my wish."
+   },
+   "tr": {
+    "meaning": "dilek"
+   },
+   "th": {
+    "meaning": "ความปรารถนา"
+   },
+   "vi": {
+    "meaning": "mong muốn"
+   },
+   "fa": {
+    "meaning": "آرزو، خواسته"
+   }
+  },
+  "JiZ9`=xbdH": {
+   "en": {
+    "meaning": "to let past",
+    "example": "Could you let me past?"
+   },
+   "tr": {
+    "meaning": "geçmesine izin vermek"
+   },
+   "th": {
+    "meaning": "ให้ผ่าน"
+   },
+   "vi": {
+    "meaning": "cho qua"
+   },
+   "fa": {
+    "meaning": "راه دادن"
+   }
+  },
+  "EdDG#[wQpB": {
+   "en": {
+    "meaning": "ballpoint pen",
+    "example": "Do you have a pen?"
+   },
+   "tr": {
+    "meaning": "tükenmez kalem"
+   },
+   "th": {
+    "meaning": "ปากกาลูกลื่น"
+   },
+   "vi": {
+    "meaning": "bút bi"
+   },
+   "fa": {
+    "meaning": "خودکار"
+   }
+  },
+  "O![sAy:7xO": {
+   "en": {
+    "meaning": "small change",
+    "example": "Do you have any change?"
+   },
+   "tr": {
+    "meaning": "bozuk para"
+   },
+   "th": {
+    "meaning": "เศษเหรียญ"
+   },
+   "vi": {
+    "meaning": "tiền lẻ"
+   },
+   "fa": {
+    "meaning": "پول خرد"
+   }
+  },
+  "N(6w(ca-Q.": {
+   "en": {
+    "meaning": "monitor, screen",
+    "example": "The monitor is broken."
+   },
+   "tr": {
+    "meaning": "monitör"
+   },
+   "th": {
+    "meaning": "จอภาพ"
+   },
+   "vi": {
+    "meaning": "màn hình"
+   },
+   "fa": {
+    "meaning": "مانیتور"
+   }
+  },
+  "Kv#!vpGnc)": {
+   "en": {
+    "meaning": "repair",
+    "example": "I'm taking it to be repaired."
+   },
+   "tr": {
+    "meaning": "tamir"
+   },
+   "th": {
+    "meaning": "การซ่อม"
+   },
+   "vi": {
+    "meaning": "việc sửa chữa"
+   },
+   "fa": {
+    "meaning": "تعمیر"
+   }
+  },
+  "GQHtCd+1N-": {
+   "en": {
+    "meaning": "bill",
+    "example": "We'd like the bill, please."
+   },
+   "tr": {
+    "meaning": "hesap, fatura"
+   },
+   "th": {
+    "meaning": "ใบเสร็จ, บิล"
+   },
+   "vi": {
+    "meaning": "hóa đơn"
+   },
+   "fa": {
+    "meaning": "صورت‌حساب"
+   },
+   "zh": {
+    "example": "我们想结账。"
+   }
+  },
+  "K`_9Po$QOL": {
+   "en": {
+    "meaning": "stress, intonation",
+    "example": "You can be polite through your intonation."
+   },
+   "tr": {
+    "meaning": "vurgu, tonlama"
+   },
+   "th": {
+    "meaning": "การเน้นเสียง"
+   },
+   "vi": {
+    "meaning": "ngữ điệu, trọng âm"
+   },
+   "fa": {
+    "meaning": "تکیه، لحن"
+   }
+  },
+  "esQ%@U)??;": {
+   "en": {
+    "meaning": "body language",
+    "example": "Body language is important too."
+   },
+   "tr": {
+    "meaning": "beden dili"
+   },
+   "th": {
+    "meaning": "ภาษากาย"
+   },
+   "vi": {
+    "meaning": "ngôn ngữ cơ thể"
+   },
+   "fa": {
+    "meaning": "زبان بدن"
+   }
+  },
+  "Db3Q9_$ZT|": {
+   "en": {
+    "meaning": "to look at",
+    "example": "You don't look directly at the other person."
+   },
+   "tr": {
+    "meaning": "bakmak"
+   },
+   "th": {
+    "meaning": "มอง"
+   },
+   "vi": {
+    "meaning": "nhìn"
+   },
+   "fa": {
+    "meaning": "نگاه کردن"
+   }
+  },
+  "kJ2qj^0<m[": {
+   "en": {
+    "meaning": "quiet, soft",
+    "example": "She speaks quietly."
+   },
+   "tr": {
+    "meaning": "sessiz, alçak sesle"
+   },
+   "th": {
+    "meaning": "เบา"
+   },
+   "vi": {
+    "meaning": "nhỏ nhẹ"
+   },
+   "fa": {
+    "meaning": "آهسته، آرام"
+   }
+  },
+  "GhfVD(s6E$": {
+   "en": {
+    "meaning": "voice",
+    "example": "A high voice sounds polite."
+   },
+   "tr": {
+    "meaning": "ses"
+   },
+   "th": {
+    "meaning": "เสียง"
+   },
+   "vi": {
+    "meaning": "giọng nói"
+   },
+   "fa": {
+    "meaning": "صدا"
+   }
+  },
+  "C_J{&`L-kc": {
+   "en": {
+    "meaning": "to count",
+    "example": "He has to count money."
+   },
+   "tr": {
+    "meaning": "saymak"
+   },
+   "th": {
+    "meaning": "นับ"
+   },
+   "vi": {
+    "meaning": "đếm"
+   },
+   "fa": {
+    "meaning": "شمردن"
+   }
+  },
+  "w8-V!FlIy1": {
+   "en": {
+    "meaning": "to check",
+    "example": "He checks the documents."
+   },
+   "tr": {
+    "meaning": "kontrol etmek"
+   },
+   "th": {
+    "meaning": "ตรวจสอบ"
+   },
+   "vi": {
+    "meaning": "kiểm tra"
+   },
+   "fa": {
+    "meaning": "بررسی کردن"
+   }
+  },
+  "Eo*H5nP(Zb": {
+   "en": {
+    "meaning": "papers, documents",
+    "example": "Max finds Lisa's papers."
+   },
+   "tr": {
+    "meaning": "belgeler"
+   },
+   "th": {
+    "meaning": "เอกสาร"
+   },
+   "vi": {
+    "meaning": "giấy tờ"
+   },
+   "fa": {
+    "meaning": "مدارک"
+   }
+  },
+  "h>sSXrmvJK": {
+   "en": {
+    "meaning": "to organise",
+    "example": "She organises appointments."
+   },
+   "tr": {
+    "meaning": "düzenlemek"
+   },
+   "th": {
+    "meaning": "จัดการ"
+   },
+   "vi": {
+    "meaning": "sắp xếp, tổ chức"
+   },
+   "fa": {
+    "meaning": "سازمان دادن"
+   },
+   "zh": {
+    "example": "她安排各种预约。"
+   }
+  },
+  "Mv[(rzrnzE": {
+   "en": {
+    "meaning": "office work",
+    "example": "There's a lot of office work."
+   },
+   "tr": {
+    "meaning": "büro işi"
+   },
+   "th": {
+    "meaning": "งานในสำนักงาน"
+   },
+   "vi": {
+    "meaning": "công việc văn phòng"
+   },
+   "fa": {
+    "meaning": "کار اداری"
+   }
+  },
+  "p>PSm@~p{E": {
+   "en": {
+    "meaning": "contract",
+    "example": "I write contracts."
+   },
+   "tr": {
+    "meaning": "sözleşme"
+   },
+   "th": {
+    "meaning": "สัญญา"
+   },
+   "vi": {
+    "meaning": "hợp đồng"
+   },
+   "fa": {
+    "meaning": "قرارداد"
+   }
+  },
+  "mKd_FIsZ]8": {
+   "en": {
+    "meaning": "friendly",
+    "example": "You always have to be friendly."
+   },
+   "tr": {
+    "meaning": "samimi, nazik"
+   },
+   "th": {
+    "meaning": "เป็นมิตร"
+   },
+   "vi": {
+    "meaning": "thân thiện"
+   },
+   "fa": {
+    "meaning": "مهربان"
+   }
+  },
+  "M8>mXL;0$j": {
+   "en": {
+    "meaning": "line, wiring; management",
+    "example": "An electrician installs wiring."
+   },
+   "tr": {
+    "meaning": "hat, tesisat; yönetim"
+   },
+   "th": {
+    "meaning": "สาย (ไฟ, ท่อ); การบริหาร"
+   },
+   "vi": {
+    "meaning": "đường dây; sự quản lý"
+   },
+   "fa": {
+    "meaning": "سیم‌کشی، لوله؛ مدیریت"
+   }
+  },
+  "o|&/RNMwEq": {
+   "en": {
+    "meaning": "to install",
+    "example": "He installs the wiring."
+   },
+   "tr": {
+    "meaning": "kurmak, döşemek"
+   },
+   "th": {
+    "meaning": "ติดตั้ง"
+   },
+   "vi": {
+    "meaning": "lắp đặt"
+   },
+   "fa": {
+    "meaning": "نصب کردن"
+   }
+  },
+  "I8ESt*x.xB": {
+   "en": {
+    "meaning": "to be right",
+    "example": "Max is right."
+   },
+   "tr": {
+    "meaning": "haklı olmak"
+   },
+   "th": {
+    "meaning": "พูดถูก"
+   },
+   "vi": {
+    "meaning": "đúng"
+   },
+   "fa": {
+    "meaning": "حق داشتن"
+   }
+  }
+ },
+ "grammar": {}
+}

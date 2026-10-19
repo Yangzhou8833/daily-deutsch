@@ -458,7 +458,12 @@
    "order": 18,
    "date": "2026-09-03",
    "langs": [
-    "zh"
+    "zh",
+    "en",
+    "tr",
+    "th",
+    "vi",
+    "fa"
    ],
    "words": 39,
    "grammar": 0,
@@ -486,7 +491,12 @@
    "order": 20,
    "date": "2026-09-03",
    "langs": [
-    "zh"
+    "zh",
+    "en",
+    "tr",
+    "th",
+    "vi",
+    "fa"
    ],
    "words": 22,
    "grammar": 0,
@@ -500,7 +510,12 @@
    "order": 21,
    "date": "2026-09-03",
    "langs": [
-    "zh"
+    "zh",
+    "en",
+    "tr",
+    "th",
+    "vi",
+    "fa"
    ],
    "words": 22,
    "grammar": 0,
@@ -514,7 +529,12 @@
    "order": 22,
    "date": "2026-09-03",
    "langs": [
-    "zh"
+    "zh",
+    "en",
+    "tr",
+    "th",
+    "vi",
+    "fa"
    ],
    "words": 30,
    "grammar": 0,
@@ -542,7 +562,12 @@
    "order": 24,
    "date": "2026-09-05",
    "langs": [
-    "zh"
+    "zh",
+    "en",
+    "tr",
+    "th",
+    "vi",
+    "fa"
    ],
    "words": 30,
    "grammar": 0,
@@ -556,7 +581,12 @@
    "order": 25,
    "date": "2026-09-05",
    "langs": [
-    "zh"
+    "zh",
+    "en",
+    "tr",
+    "th",
+    "vi",
+    "fa"
    ],
    "words": 23,
    "grammar": 0,
@@ -584,7 +614,12 @@
    "order": 27,
    "date": "2026-09-05",
    "langs": [
-    "zh"
+    "zh",
+    "en",
+    "tr",
+    "th",
+    "vi",
+    "fa"
    ],
    "words": 32,
    "grammar": 0,
@@ -626,7 +661,12 @@
    "order": 30,
    "date": "2026-09-05",
    "langs": [
-    "zh"
+    "zh",
+    "en",
+    "tr",
+    "th",
+    "vi",
+    "fa"
    ],
    "words": 34,
    "grammar": 0,
@@ -640,7 +680,12 @@
    "order": 31,
    "date": "2026-09-05",
    "langs": [
-    "zh"
+    "zh",
+    "en",
+    "tr",
+    "th",
+    "vi",
+    "fa"
    ],
    "words": 42,
    "grammar": 0,

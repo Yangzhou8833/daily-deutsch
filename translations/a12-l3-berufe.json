@@ -1,0 +1,714 @@
+{
+ "words": {
+  "QoHez>;&<_": {
+   "en": {
+    "meaning": "taxi driver",
+    "example": "Now I work as a taxi driver."
+   },
+   "tr": {
+    "meaning": "taksi şoförü"
+   },
+   "th": {
+    "meaning": "คนขับแท็กซี่"
+   },
+   "vi": {
+    "meaning": "tài xế taxi"
+   },
+   "fa": {
+    "meaning": "راننده تاکسی"
+   }
+  },
+  "x=^Rb!cInw": {
+   "en": {
+    "meaning": "painter (decorator); painter (artist)",
+    "example": "The painter paints the walls white."
+   },
+   "tr": {
+    "meaning": "boyacı; ressam"
+   },
+   "th": {
+    "meaning": "ช่างทาสี; จิตรกร"
+   },
+   "vi": {
+    "meaning": "thợ sơn; họa sĩ"
+   },
+   "fa": {
+    "meaning": "نقاش ساختمان؛ نقاش"
+   }
+  },
+  "iBNbLDh<#l": {
+   "en": {
+    "meaning": "doctor",
+    "example": "My doctor only allows me fruit and vegetables now."
+   },
+   "tr": {
+    "meaning": "doktor"
+   },
+   "th": {
+    "meaning": "แพทย์"
+   },
+   "vi": {
+    "meaning": "bác sĩ"
+   },
+   "fa": {
+    "meaning": "پزشک"
+   }
+  },
+  "q+6:oHdPi/": {
+   "en": {
+    "meaning": "teacher",
+    "example": "The pupils listen carefully to the teacher."
+   },
+   "tr": {
+    "meaning": "öğretmen"
+   },
+   "th": {
+    "meaning": "ครู"
+   },
+   "vi": {
+    "meaning": "giáo viên"
+   },
+   "fa": {
+    "meaning": "معلم"
+   }
+  },
+  "p2wfB<v~HC": {
+   "en": {
+    "meaning": "architect",
+    "example": "There are no jobs for architects."
+   },
+   "tr": {
+    "meaning": "mimar"
+   },
+   "th": {
+    "meaning": "สถาปนิก"
+   },
+   "vi": {
+    "meaning": "kiến trúc sư"
+   },
+   "fa": {
+    "meaning": "معمار"
+   }
+  },
+  "dXEvnC+1|~": {
+   "en": {
+    "meaning": "engineer",
+    "example": "As an engineer you solve technical problems."
+   },
+   "tr": {
+    "meaning": "mühendis"
+   },
+   "th": {
+    "meaning": "วิศวกร"
+   },
+   "vi": {
+    "meaning": "kỹ sư"
+   },
+   "fa": {
+    "meaning": "مهندس"
+   }
+  },
+  "x?m#00w{#V": {
+   "en": {
+    "meaning": "footballer",
+    "example": "As a child I wanted to be a footballer."
+   },
+   "tr": {
+    "meaning": "futbolcu"
+   },
+   "th": {
+    "meaning": "นักฟุตบอล"
+   },
+   "vi": {
+    "meaning": "cầu thủ bóng đá"
+   },
+   "fa": {
+    "meaning": "فوتبالیست"
+   }
+  },
+  "bM|f^)CuFY": {
+   "en": {
+    "meaning": "waiter",
+    "example": "The waiter recommends the potato salad to us."
+   },
+   "tr": {
+    "meaning": "garson"
+   },
+   "th": {
+    "meaning": "พนักงานเสิร์ฟ"
+   },
+   "vi": {
+    "meaning": "bồi bàn"
+   },
+   "fa": {
+    "meaning": "پیشخدمت"
+   }
+  },
+  "dK;4&+4f;": {
+   "en": {
+    "meaning": "police officer",
+    "example": "I want to be a police officer because the police help people."
+   },
+   "tr": {
+    "meaning": "polis"
+   },
+   "th": {
+    "meaning": "ตำรวจ"
+   },
+   "vi": {
+    "meaning": "cảnh sát"
+   },
+   "fa": {
+    "meaning": "پلیس"
+   }
+  },
+  "rP;m84uk@S": {
+   "en": {
+    "meaning": "cook, chef",
+    "example": "The cook works in a restaurant kitchen."
+   },
+   "tr": {
+    "meaning": "aşçı"
+   },
+   "th": {
+    "meaning": "พ่อครัว"
+   },
+   "vi": {
+    "meaning": "đầu bếp"
+   },
+   "fa": {
+    "meaning": "آشپز"
+   }
+  },
+  "D0-Q0TIlyf": {
+   "en": {
+    "meaning": "secretary",
+    "example": "The secretary takes care of the office work."
+   },
+   "tr": {
+    "meaning": "sekreter"
+   },
+   "th": {
+    "meaning": "เลขานุการ"
+   },
+   "vi": {
+    "meaning": "thư ký"
+   },
+   "fa": {
+    "meaning": "منشی"
+   }
+  },
+  "v.9b8hB-t`": {
+   "en": {
+    "meaning": "baker",
+    "example": "At 19 he trained as a baker."
+   },
+   "tr": {
+    "meaning": "fırıncı"
+   },
+   "th": {
+    "meaning": "คนทำขนมปัง"
+   },
+   "vi": {
+    "meaning": "thợ làm bánh"
+   },
+   "fa": {
+    "meaning": "نانوا"
+   }
+  },
+  "QE[W98jM;~": {
+   "en": {
+    "meaning": "pharmacist",
+    "example": "Ask your doctor or pharmacist."
+   },
+   "tr": {
+    "meaning": "eczacı"
+   },
+   "th": {
+    "meaning": "เภสัชกร"
+   },
+   "vi": {
+    "meaning": "dược sĩ"
+   },
+   "fa": {
+    "meaning": "داروساز"
+   }
+  },
+  "Kgt%ty]~S3": {
+   "en": {
+    "meaning": "astronaut",
+    "example": "As a child he wanted to be an astronaut."
+   },
+   "tr": {
+    "meaning": "astronot"
+   },
+   "th": {
+    "meaning": "นักบินอวกาศ"
+   },
+   "vi": {
+    "meaning": "phi hành gia"
+   },
+   "fa": {
+    "meaning": "فضانورد"
+   }
+  },
+  "MpZ$7Oxdi?": {
+   "en": {
+    "meaning": "car mechanic",
+    "example": "The car mechanic repairs my car."
+   },
+   "tr": {
+    "meaning": "oto tamircisi"
+   },
+   "th": {
+    "meaning": "ช่างซ่อมรถยนต์"
+   },
+   "vi": {
+    "meaning": "thợ sửa ô tô"
+   },
+   "fa": {
+    "meaning": "مکانیک خودرو"
+   }
+  },
+  "QB-_p1d&(F": {
+   "en": {
+    "meaning": "hairdresser",
+    "example": "I've always wanted to be a hairdresser."
+   },
+   "tr": {
+    "meaning": "kuaför"
+   },
+   "th": {
+    "meaning": "ช่างทำผม"
+   },
+   "vi": {
+    "meaning": "thợ cắt tóc"
+   },
+   "fa": {
+    "meaning": "آرایشگر"
+   }
+  },
+  "IgcFYJvi?B": {
+   "en": {
+    "meaning": "lawyer",
+    "example": "The lawyer works with a lot of paperwork."
+   },
+   "tr": {
+    "meaning": "avukat"
+   },
+   "th": {
+    "meaning": "ทนายความ"
+   },
+   "vi": {
+    "meaning": "luật sư"
+   },
+   "fa": {
+    "meaning": "وکیل"
+   }
+  },
+  "wn7Uvy4.9&": {
+   "en": {
+    "meaning": "lawyer",
+    "example": "He earns a lot of money as a lawyer."
+   },
+   "tr": {
+    "meaning": "avukat"
+   },
+   "th": {
+    "meaning": "ทนาย"
+   },
+   "vi": {
+    "meaning": "luật sư"
+   },
+   "fa": {
+    "meaning": "وکیل"
+   }
+  },
+  "b/Cg^g4q~E": {
+   "en": {
+    "meaning": "gardener",
+    "example": "The gardener works outside all day."
+   },
+   "tr": {
+    "meaning": "bahçıvan"
+   },
+   "th": {
+    "meaning": "คนสวน"
+   },
+   "vi": {
+    "meaning": "người làm vườn"
+   },
+   "fa": {
+    "meaning": "باغبان"
+   }
+  },
+  "JMDtF=`4%W": {
+   "en": {
+    "meaning": "journalist",
+    "example": "The journalist talks to lots of people."
+   },
+   "tr": {
+    "meaning": "gazeteci"
+   },
+   "th": {
+    "meaning": "นักข่าว"
+   },
+   "vi": {
+    "meaning": "nhà báo"
+   },
+   "fa": {
+    "meaning": "روزنامه‌نگار"
+   }
+  },
+  "NH&6N`kz`": {
+   "en": {
+    "meaning": "nurse (male)",
+    "example": "The nurse helps the patients."
+   },
+   "tr": {
+    "meaning": "hemşire (erkek), hasta bakıcı"
+   },
+   "th": {
+    "meaning": "พยาบาล (ชาย)"
+   },
+   "vi": {
+    "meaning": "y tá (nam)"
+   },
+   "fa": {
+    "meaning": "پرستار (مرد)"
+   },
+   "zh": {
+    "meaning": "护士（男）、护理员"
+   }
+  },
+  "o%9xzEjWHP": {
+   "en": {
+    "meaning": "construction worker",
+    "example": "The construction worker wears a helmet."
+   },
+   "tr": {
+    "meaning": "inşaat işçisi"
+   },
+   "th": {
+    "meaning": "คนงานก่อสร้าง"
+   },
+   "vi": {
+    "meaning": "công nhân xây dựng"
+   },
+   "fa": {
+    "meaning": "کارگر ساختمانی"
+   }
+  },
+  "OGw*eeB7q2": {
+   "en": {
+    "meaning": "farmer",
+    "example": "The farmer lives on a farm."
+   },
+   "tr": {
+    "meaning": "çiftçi"
+   },
+   "th": {
+    "meaning": "เกษตรกร"
+   },
+   "vi": {
+    "meaning": "nông dân"
+   },
+   "fa": {
+    "meaning": "کشاورز"
+   }
+  },
+  "bkxP(kdk3i": {
+   "en": {
+    "meaning": "politician",
+    "example": "The politician speaks on television."
+   },
+   "tr": {
+    "meaning": "politikacı"
+   },
+   "th": {
+    "meaning": "นักการเมือง"
+   },
+   "vi": {
+    "meaning": "chính trị gia"
+   },
+   "fa": {
+    "meaning": "سیاستمدار"
+   }
+  },
+  "sir+Eeiap,": {
+   "en": {
+    "meaning": "carpenter, joiner",
+    "example": "The carpenter works with wood."
+   },
+   "tr": {
+    "meaning": "marangoz"
+   },
+   "th": {
+    "meaning": "ช่างไม้"
+   },
+   "vi": {
+    "meaning": "thợ mộc"
+   },
+   "fa": {
+    "meaning": "نجار"
+   }
+  },
+  "ld3K_]Z>O0": {
+   "en": {
+    "meaning": "pilot",
+    "example": "The pilot is flying to Frankfurt today."
+   },
+   "tr": {
+    "meaning": "pilot"
+   },
+   "th": {
+    "meaning": "นักบิน"
+   },
+   "vi": {
+    "meaning": "phi công"
+   },
+   "fa": {
+    "meaning": "خلبان"
+   }
+  },
+  "e=G6k0a0KB": {
+   "en": {
+    "meaning": "computer scientist, IT specialist",
+    "example": "Julia Steiger works as a computer scientist."
+   },
+   "tr": {
+    "meaning": "bilgisayar mühendisi"
+   },
+   "th": {
+    "meaning": "นักวิทยาศาสตร์คอมพิวเตอร์"
+   },
+   "vi": {
+    "meaning": "chuyên viên tin học"
+   },
+   "fa": {
+    "meaning": "متخصص کامپیوتر"
+   },
+   "zh": {
+    "meaning": "计算机专家、IT 专业人员",
+    "example": "Julia Steiger 是一名计算机专家。"
+   }
+  },
+  "oZkr=dsk$j": {
+   "en": {
+    "meaning": "actor",
+    "example": "She wanted to be an actress."
+   },
+   "tr": {
+    "meaning": "oyuncu"
+   },
+   "th": {
+    "meaning": "นักแสดง"
+   },
+   "vi": {
+    "meaning": "diễn viên"
+   },
+   "fa": {
+    "meaning": "بازیگر"
+   }
+  },
+  "raa6}p+pd=": {
+   "en": {
+    "meaning": "vet",
+    "example": "I wanted to be a vet because my father was a vet too."
+   },
+   "tr": {
+    "meaning": "veteriner"
+   },
+   "th": {
+    "meaning": "สัตวแพทย์"
+   },
+   "vi": {
+    "meaning": "bác sĩ thú y"
+   },
+   "fa": {
+    "meaning": "دامپزشک"
+   }
+  },
+  "GLLDunfC2(": {
+   "en": {
+    "meaning": "construction technician",
+    "example": "He became a construction technician."
+   },
+   "tr": {
+    "meaning": "inşaat teknisyeni"
+   },
+   "th": {
+    "meaning": "ช่างเทคนิคก่อสร้าง"
+   },
+   "vi": {
+    "meaning": "kỹ thuật viên xây dựng"
+   },
+   "fa": {
+    "meaning": "تکنسین ساختمان"
+   }
+  },
+  "k&frqd>E=+": {
+   "en": {
+    "meaning": "bank employee",
+    "example": "He works as a bank employee."
+   },
+   "tr": {
+    "meaning": "banka çalışanı"
+   },
+   "th": {
+    "meaning": "พนักงานธนาคาร"
+   },
+   "vi": {
+    "meaning": "nhân viên ngân hàng"
+   },
+   "fa": {
+    "meaning": "کارمند بانک"
+   }
+  },
+  "LqAiWQiB?G": {
+   "en": {
+    "meaning": "ship's captain",
+    "example": "His uncle was a ship's captain."
+   },
+   "tr": {
+    "meaning": "kaptan"
+   },
+   "th": {
+    "meaning": "กัปตันเรือ"
+   },
+   "vi": {
+    "meaning": "thuyền trưởng"
+   },
+   "fa": {
+    "meaning": "ناخدا"
+   }
+  },
+  "D={ZMvNafy": {
+   "en": {
+    "meaning": "night watchman",
+    "example": "Why does Paul want to be a night watchman?"
+   },
+   "tr": {
+    "meaning": "gece bekçisi"
+   },
+   "th": {
+    "meaning": "ยามกะกลางคืน"
+   },
+   "vi": {
+    "meaning": "bảo vệ ca đêm"
+   },
+   "fa": {
+    "meaning": "نگهبان شب"
+   }
+  },
+  "j0BHB5&@.-": {
+   "en": {
+    "meaning": "train driver",
+    "example": "As a child I wanted to be a train driver."
+   },
+   "tr": {
+    "meaning": "makinist"
+   },
+   "th": {
+    "meaning": "คนขับรถไฟ"
+   },
+   "vi": {
+    "meaning": "lái tàu hỏa"
+   },
+   "fa": {
+    "meaning": "راننده قطار"
+   }
+  },
+  "br#QFsplR>": {
+   "en": {
+    "meaning": "cameraman",
+    "example": "Daniel wants to be a cameraman."
+   },
+   "tr": {
+    "meaning": "kameraman"
+   },
+   "th": {
+    "meaning": "ช่างกล้อง"
+   },
+   "vi": {
+    "meaning": "người quay phim"
+   },
+   "fa": {
+    "meaning": "فیلم‌بردار"
+   }
+  },
+  "da4e}$.A*|": {
+   "en": {
+    "meaning": "estate agent",
+    "example": "Anja wants to work as an estate agent."
+   },
+   "tr": {
+    "meaning": "emlakçı"
+   },
+   "th": {
+    "meaning": "นายหน้าอสังหาริมทรัพย์"
+   },
+   "vi": {
+    "meaning": "môi giới bất động sản"
+   },
+   "fa": {
+    "meaning": "مشاور املاک"
+   }
+  },
+  "Ez5OC(Y0Uk": {
+   "en": {
+    "meaning": "arts manager",
+    "example": "Marlene wants to be an arts manager."
+   },
+   "tr": {
+    "meaning": "kültür yöneticisi"
+   },
+   "th": {
+    "meaning": "ผู้จัดการด้านวัฒนธรรม"
+   },
+   "vi": {
+    "meaning": "nhà quản lý văn hóa"
+   },
+   "fa": {
+    "meaning": "مدیر فرهنگی"
+   }
+  },
+  "jeA3{pggjP": {
+   "en": {
+    "meaning": "patent examiner",
+    "example": "I work there as a patent examiner."
+   },
+   "tr": {
+    "meaning": "patent uzmanı"
+   },
+   "th": {
+    "meaning": "ผู้ตรวจสอบสิทธิบัตร"
+   },
+   "vi": {
+    "meaning": "thẩm định viên bằng sáng chế"
+   },
+   "fa": {
+    "meaning": "کارشناس ثبت اختراع"
+   }
+  },
+  "w{RuFg?Kb)": {
+   "en": {
+    "meaning": "office administrator",
+    "example": "Since 2018 I have been working as an office administrator at KAKO."
+   },
+   "tr": {
+    "meaning": "büro elemanı"
+   },
+   "th": {
+    "meaning": "พนักงานธุรการ"
+   },
+   "vi": {
+    "meaning": "nhân viên văn phòng"
+   },
+   "fa": {
+    "meaning": "کارمند اداری"
+   }
+  }
+ },
+ "grammar": {}
+}
