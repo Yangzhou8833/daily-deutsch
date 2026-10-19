@@ -88,7 +88,12 @@
    "order": 4,
    "date": "2026-09-30",
    "langs": [
-    "zh"
+    "zh",
+    "en",
+    "tr",
+    "th",
+    "vi",
+    "fa"
    ],
    "words": 191,
    "grammar": 20,
@@ -102,7 +107,12 @@
    "order": 5,
    "date": "2026-10-01",
    "langs": [
-    "zh"
+    "zh",
+    "en",
+    "tr",
+    "th",
+    "vi",
+    "fa"
    ],
    "words": 189,
    "grammar": 21,
