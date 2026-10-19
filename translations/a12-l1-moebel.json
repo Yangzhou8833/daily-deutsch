@@ -1,0 +1,800 @@
+{
+ "words": {
+  "b(ff=c*qI0": {
+   "en": {
+    "meaning": "sofa",
+    "example": "Put the sofa against the wall."
+   },
+   "tr": {
+    "meaning": "kanepe"
+   },
+   "th": {
+    "meaning": "โซฟา"
+   },
+   "vi": {
+    "meaning": "ghế sofa"
+   },
+   "fa": {
+    "meaning": "مبل، کاناپه"
+   }
+  },
+  "l6:XXg+)Sr": {
+   "en": {
+    "meaning": "armchair",
+    "example": "The armchair is next to the coffee table."
+   },
+   "tr": {
+    "meaning": "koltuk"
+   },
+   "th": {
+    "meaning": "เก้าอี้นวม"
+   },
+   "vi": {
+    "meaning": "ghế bành"
+   },
+   "fa": {
+    "meaning": "مبل تک‌نفره"
+   }
+  },
+  "zJ(|n}[w.^": {
+   "en": {
+    "meaning": "coffee table",
+    "example": "The bottle of water is on the coffee table."
+   },
+   "tr": {
+    "meaning": "sehpa"
+   },
+   "th": {
+    "meaning": "โต๊ะกลาง"
+   },
+   "vi": {
+    "meaning": "bàn trà"
+   },
+   "fa": {
+    "meaning": "میز جلومبلی"
+   }
+  },
+  "g3K:=g9I]3": {
+   "en": {
+    "meaning": "table",
+    "example": "The book is on the table."
+   },
+   "tr": {
+    "meaning": "masa"
+   },
+   "th": {
+    "meaning": "โต๊ะ"
+   },
+   "vi": {
+    "meaning": "cái bàn"
+   },
+   "fa": {
+    "meaning": "میز"
+   }
+  },
+  "d{#8X0oRcx": {
+   "en": {
+    "meaning": "desk",
+    "example": "The computer is on the desk."
+   },
+   "tr": {
+    "meaning": "çalışma masası"
+   },
+   "th": {
+    "meaning": "โต๊ะทำงาน"
+   },
+   "vi": {
+    "meaning": "bàn làm việc"
+   },
+   "fa": {
+    "meaning": "میز تحریر"
+   }
+  },
+  "A1/V,/k.D}": {
+   "en": {
+    "meaning": "bedside table",
+    "example": "Timo puts the lamp on the bedside table."
+   },
+   "tr": {
+    "meaning": "komodin"
+   },
+   "th": {
+    "meaning": "โต๊ะข้างเตียง"
+   },
+   "vi": {
+    "meaning": "tủ đầu giường"
+   },
+   "fa": {
+    "meaning": "میز کنار تخت"
+   }
+  },
+  "n9KjkMmi,V": {
+   "en": {
+    "meaning": "chair",
+    "example": "The chair is at the table."
+   },
+   "tr": {
+    "meaning": "sandalye"
+   },
+   "th": {
+    "meaning": "เก้าอี้"
+   },
+   "vi": {
+    "meaning": "cái ghế"
+   },
+   "fa": {
+    "meaning": "صندلی"
+   }
+  },
+  "zhT7P;uReO": {
+   "en": {
+    "meaning": "bed",
+    "example": "Don't put your bed between the door and the window."
+   },
+   "tr": {
+    "meaning": "yatak"
+   },
+   "th": {
+    "meaning": "เตียง"
+   },
+   "vi": {
+    "meaning": "giường"
+   },
+   "fa": {
+    "meaning": "تخت"
+   }
+  },
+  "gDVDmF%U?k": {
+   "en": {
+    "meaning": "cot, crib",
+    "example": "The cot is in the children's room."
+   },
+   "tr": {
+    "meaning": "bebek yatağı"
+   },
+   "th": {
+    "meaning": "เตียงเด็ก"
+   },
+   "vi": {
+    "meaning": "giường cũi trẻ em"
+   },
+   "fa": {
+    "meaning": "تخت بچه"
+   }
+  },
+  "D>Q@D>$x*m": {
+   "en": {
+    "meaning": "loft bed, bunk bed",
+    "example": "There is a loft bed in the children's room."
+   },
+   "tr": {
+    "meaning": "ranza"
+   },
+   "th": {
+    "meaning": "เตียงสองชั้น"
+   },
+   "vi": {
+    "meaning": "giường tầng"
+   },
+   "fa": {
+    "meaning": "تخت دوطبقه"
+   }
+  },
+  "d`<G#6<n;_": {
+   "en": {
+    "meaning": "cupboard; wardrobe",
+    "example": "Hang your clothes in the wardrobe."
+   },
+   "tr": {
+    "meaning": "dolap; gardırop"
+   },
+   "th": {
+    "meaning": "ตู้; ตู้เสื้อผ้า"
+   },
+   "vi": {
+    "meaning": "tủ; tủ quần áo"
+   },
+   "fa": {
+    "meaning": "کمد؛ کمد لباس"
+   }
+  },
+  "Qfow<>wt2F": {
+   "en": {
+    "meaning": "chest of drawers",
+    "example": "The chest of drawers is in front of the window."
+   },
+   "tr": {
+    "meaning": "şifonyer"
+   },
+   "th": {
+    "meaning": "ตู้ลิ้นชัก"
+   },
+   "vi": {
+    "meaning": "tủ ngăn kéo"
+   },
+   "fa": {
+    "meaning": "دراور"
+   }
+  },
+  "kws7r1gEO=": {
+   "en": {
+    "meaning": "shelf; shelves",
+    "example": "Put your shoes on the shelf."
+   },
+   "tr": {
+    "meaning": "raf"
+   },
+   "th": {
+    "meaning": "ชั้นวาง"
+   },
+   "vi": {
+    "meaning": "kệ, giá"
+   },
+   "fa": {
+    "meaning": "قفسه"
+   }
+  },
+  "x@-s*|+[G@": {
+   "en": {
+    "meaning": "bookshelf",
+    "example": "My bookshelves have lots of space."
+   },
+   "tr": {
+    "meaning": "kitaplık"
+   },
+   "th": {
+    "meaning": "ชั้นวางหนังสือ"
+   },
+   "vi": {
+    "meaning": "giá sách"
+   },
+   "fa": {
+    "meaning": "قفسهٔ کتاب"
+   },
+   "zh": {
+    "example": "我的书架空间很大。"
+   }
+  },
+  "M&r*5~A)V#": {
+   "en": {
+    "meaning": "lamp",
+    "example": "Where is the lamp hanging? – On the wall."
+   },
+   "tr": {
+    "meaning": "lamba"
+   },
+   "th": {
+    "meaning": "โคมไฟ"
+   },
+   "vi": {
+    "meaning": "đèn"
+   },
+   "fa": {
+    "meaning": "چراغ"
+   }
+  },
+  "I*}Oc6`J+L": {
+   "en": {
+    "meaning": "floor lamp",
+    "example": "The floor lamp is next to the bed."
+   },
+   "tr": {
+    "meaning": "ayaklı lamba"
+   },
+   "th": {
+    "meaning": "โคมไฟตั้งพื้น"
+   },
+   "vi": {
+    "meaning": "đèn cây"
+   },
+   "fa": {
+    "meaning": "آباژور ایستاده"
+   }
+  },
+  "QYG,gPv+Y`": {
+   "en": {
+    "meaning": "cushion; pillow",
+    "example": "The cushion is on the sofa."
+   },
+   "tr": {
+    "meaning": "minder; yastık"
+   },
+   "th": {
+    "meaning": "หมอนอิง; หมอน"
+   },
+   "vi": {
+    "meaning": "gối tựa; gối"
+   },
+   "fa": {
+    "meaning": "کوسن؛ بالش"
+   }
+  },
+  "gKcyVG:S8$": {
+   "en": {
+    "meaning": "blanket",
+    "example": "In the living room there are cushions and blankets on the floor."
+   },
+   "tr": {
+    "meaning": "battaniye"
+   },
+   "th": {
+    "meaning": "ผ้าห่ม"
+   },
+   "vi": {
+    "meaning": "chăn"
+   },
+   "fa": {
+    "meaning": "پتو"
+   }
+  },
+  "Pe4JQkc,Y*": {
+   "en": {
+    "meaning": "carpet, rug",
+    "example": "Put a rug in front of the sofa."
+   },
+   "tr": {
+    "meaning": "halı"
+   },
+   "th": {
+    "meaning": "พรม"
+   },
+   "vi": {
+    "meaning": "thảm"
+   },
+   "fa": {
+    "meaning": "فرش، قالیچه"
+   }
+  },
+  "tY)6IDU1k(": {
+   "en": {
+    "meaning": "fridge",
+    "example": "At my parents' place the fridge is always full."
+   },
+   "tr": {
+    "meaning": "buzdolabı"
+   },
+   "th": {
+    "meaning": "ตู้เย็น"
+   },
+   "vi": {
+    "meaning": "tủ lạnh"
+   },
+   "fa": {
+    "meaning": "یخچال"
+   }
+  },
+  "N`#9X>K*.M": {
+   "en": {
+    "meaning": "stove, cooker",
+    "example": "The stove is in the kitchen."
+   },
+   "tr": {
+    "meaning": "ocak"
+   },
+   "th": {
+    "meaning": "เตา"
+   },
+   "vi": {
+    "meaning": "bếp"
+   },
+   "fa": {
+    "meaning": "اجاق گاز"
+   }
+  },
+  "Cx^>Lu:qrK": {
+   "en": {
+    "meaning": "television (set)",
+    "example": "The TV is in front of the armchair."
+   },
+   "tr": {
+    "meaning": "televizyon"
+   },
+   "th": {
+    "meaning": "โทรทัศน์"
+   },
+   "vi": {
+    "meaning": "ti vi"
+   },
+   "fa": {
+    "meaning": "تلویزیون"
+   }
+  },
+  "Fl7O[QVZs-": {
+   "en": {
+    "meaning": "washing machine",
+    "example": "Timo puts the washing machine in the bathroom."
+   },
+   "tr": {
+    "meaning": "çamaşır makinesi"
+   },
+   "th": {
+    "meaning": "เครื่องซักผ้า"
+   },
+   "vi": {
+    "meaning": "máy giặt"
+   },
+   "fa": {
+    "meaning": "ماشین لباسشویی"
+   }
+  },
+  "cqKX?Z7,G/": {
+   "en": {
+    "meaning": "coffee machine",
+    "example": "The coffee machine is on a box."
+   },
+   "tr": {
+    "meaning": "kahve makinesi"
+   },
+   "th": {
+    "meaning": "เครื่องชงกาแฟ"
+   },
+   "vi": {
+    "meaning": "máy pha cà phê"
+   },
+   "fa": {
+    "meaning": "قهوه‌ساز"
+   }
+  },
+  "tB/`L::]Dg": {
+   "en": {
+    "meaning": "laptop",
+    "example": "The laptop is on the desk."
+   },
+   "tr": {
+    "meaning": "dizüstü bilgisayar"
+   },
+   "th": {
+    "meaning": "แล็ปท็อป"
+   },
+   "vi": {
+    "meaning": "máy tính xách tay"
+   },
+   "fa": {
+    "meaning": "لپ‌تاپ"
+   }
+  },
+  "f=pX~1&O)G": {
+   "en": {
+    "meaning": "tablet",
+    "example": "The tablet is next to the laptop."
+   },
+   "tr": {
+    "meaning": "tablet"
+   },
+   "th": {
+    "meaning": "แท็บเล็ต"
+   },
+   "vi": {
+    "meaning": "máy tính bảng"
+   },
+   "fa": {
+    "meaning": "تبلت"
+   }
+  },
+  "tM%K~qRL&`": {
+   "en": {
+    "meaning": "teddy bear",
+    "example": "The teddy bear is in the box."
+   },
+   "tr": {
+    "meaning": "oyuncak ayı"
+   },
+   "th": {
+    "meaning": "ตุ๊กตาหมี"
+   },
+   "vi": {
+    "meaning": "gấu bông"
+   },
+   "fa": {
+    "meaning": "خرس عروسکی"
+   }
+  },
+  "rVX=)g3R=v": {
+   "en": {
+    "meaning": "box, crate",
+    "example": "The books are in a box."
+   },
+   "tr": {
+    "meaning": "sandık, kutu"
+   },
+   "th": {
+    "meaning": "ลัง, กล่อง"
+   },
+   "vi": {
+    "meaning": "thùng"
+   },
+   "fa": {
+    "meaning": "جعبه"
+   }
+  },
+  "h%KBe{zzb": {
+   "en": {
+    "meaning": "cardboard box",
+    "example": "Put the boxes in the living room."
+   },
+   "tr": {
+    "meaning": "karton kutu"
+   },
+   "th": {
+    "meaning": "กล่องกระดาษ"
+   },
+   "vi": {
+    "meaning": "thùng các-tông"
+   },
+   "fa": {
+    "meaning": "کارتن"
+   }
+  },
+  "NUws^1xc_H": {
+   "en": {
+    "meaning": "bicycle",
+    "example": "The bicycles are against the wall."
+   },
+   "tr": {
+    "meaning": "bisiklet"
+   },
+   "th": {
+    "meaning": "จักรยาน"
+   },
+   "vi": {
+    "meaning": "xe đạp"
+   },
+   "fa": {
+    "meaning": "دوچرخه"
+   }
+  },
+  "tLlC,|pLg_": {
+   "en": {
+    "meaning": "cat carrier",
+    "example": "The cat carrier is under the coffee table."
+   },
+   "tr": {
+    "meaning": "kedi taşıma çantası"
+   },
+   "th": {
+    "meaning": "กรงแมว"
+   },
+   "vi": {
+    "meaning": "lồng vận chuyển mèo"
+   },
+   "fa": {
+    "meaning": "باکس حمل گربه"
+   }
+  },
+  "y{eQ*}vbLX": {
+   "en": {
+    "meaning": "toy(s)",
+    "example": "The box with the toys is under the box with the books."
+   },
+   "tr": {
+    "meaning": "oyuncak"
+   },
+   "th": {
+    "meaning": "ของเล่น"
+   },
+   "vi": {
+    "meaning": "đồ chơi"
+   },
+   "fa": {
+    "meaning": "اسباب‌بازی"
+   }
+  },
+  "tR+bef`GF/": {
+   "en": {
+    "meaning": "vase",
+    "example": "Timo puts the flowers in the vase."
+   },
+   "tr": {
+    "meaning": "vazo"
+   },
+   "th": {
+    "meaning": "แจกัน"
+   },
+   "vi": {
+    "meaning": "bình hoa"
+   },
+   "fa": {
+    "meaning": "گلدان"
+   }
+  },
+  "tlCU/)4]8x": {
+   "en": {
+    "meaning": "drawer",
+    "example": "Timo puts the books in the drawer."
+   },
+   "tr": {
+    "meaning": "çekmece"
+   },
+   "th": {
+    "meaning": "ลิ้นชัก"
+   },
+   "vi": {
+    "meaning": "ngăn kéo"
+   },
+   "fa": {
+    "meaning": "کشو"
+   }
+  },
+  "c?)GarqtCJ": {
+   "en": {
+    "meaning": "clock; watch",
+    "example": "Timo hangs the picture next to the clock."
+   },
+   "tr": {
+    "meaning": "saat"
+   },
+   "th": {
+    "meaning": "นาฬิกา"
+   },
+   "vi": {
+    "meaning": "đồng hồ"
+   },
+   "fa": {
+    "meaning": "ساعت"
+   }
+  },
+  "LxC,g[6MW6": {
+   "en": {
+    "meaning": "picture",
+    "example": "The picture is hanging on the wall."
+   },
+   "tr": {
+    "meaning": "resim, tablo"
+   },
+   "th": {
+    "meaning": "รูปภาพ"
+   },
+   "vi": {
+    "meaning": "bức tranh"
+   },
+   "fa": {
+    "meaning": "تابلو، عکس"
+   }
+  },
+  "bE{Tre2_R;": {
+   "en": {
+    "meaning": "wall",
+    "example": "Put the cupboard against the wall."
+   },
+   "tr": {
+    "meaning": "duvar"
+   },
+   "th": {
+    "meaning": "ผนัง"
+   },
+   "vi": {
+    "meaning": "bức tường"
+   },
+   "fa": {
+    "meaning": "دیوار"
+   }
+  },
+  "E[4aRJ?3+X": {
+   "en": {
+    "meaning": "door",
+    "example": "The shoes are behind the door."
+   },
+   "tr": {
+    "meaning": "kapı"
+   },
+   "th": {
+    "meaning": "ประตู"
+   },
+   "vi": {
+    "meaning": "cửa"
+   },
+   "fa": {
+    "meaning": "در"
+   }
+  },
+  "lbtv}C`oad": {
+   "en": {
+    "meaning": "window",
+    "example": "The bathroom has no window."
+   },
+   "tr": {
+    "meaning": "pencere"
+   },
+   "th": {
+    "meaning": "หน้าต่าง"
+   },
+   "vi": {
+    "meaning": "cửa sổ"
+   },
+   "fa": {
+    "meaning": "پنجره"
+   }
+  },
+  "D`7>o#m<dA": {
+   "en": {
+    "meaning": "floor",
+    "example": "The carpet is on the floor."
+   },
+   "tr": {
+    "meaning": "zemin, yer"
+   },
+   "th": {
+    "meaning": "พื้น"
+   },
+   "vi": {
+    "meaning": "sàn nhà"
+   },
+   "fa": {
+    "meaning": "کف، زمین"
+   }
+  },
+  "gS:+Xdr.bT": {
+   "en": {
+    "meaning": "candle",
+    "example": "Candles give you energy."
+   },
+   "tr": {
+    "meaning": "mum"
+   },
+   "th": {
+    "meaning": "เทียน"
+   },
+   "vi": {
+    "meaning": "nến"
+   },
+   "fa": {
+    "meaning": "شمع"
+   }
+  },
+  "JFd5cFAT}:": {
+   "en": {
+    "meaning": "plant",
+    "example": "You have to carry the plants carefully onto the balcony."
+   },
+   "tr": {
+    "meaning": "bitki"
+   },
+   "th": {
+    "meaning": "ต้นไม้"
+   },
+   "vi": {
+    "meaning": "cây cảnh"
+   },
+   "fa": {
+    "meaning": "گیاه"
+   }
+  },
+  "r]V%<hviq:": {
+   "en": {
+    "meaning": "flower",
+    "example": "Put flowers in the kitchen!"
+   },
+   "tr": {
+    "meaning": "çiçek"
+   },
+   "th": {
+    "meaning": "ดอกไม้"
+   },
+   "vi": {
+    "meaning": "hoa"
+   },
+   "fa": {
+    "meaning": "گل"
+   }
+  },
+  "KS07`6w4Iq": {
+   "en": {
+    "meaning": "magazine",
+    "example": "The magazines are between the cupboards."
+   },
+   "tr": {
+    "meaning": "dergi"
+   },
+   "th": {
+    "meaning": "นิตยสาร"
+   },
+   "vi": {
+    "meaning": "tạp chí"
+   },
+   "fa": {
+    "meaning": "مجله"
+   }
+  }
+ },
+ "grammar": {}
+}

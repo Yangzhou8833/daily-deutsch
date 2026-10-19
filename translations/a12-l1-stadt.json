@@ -1,0 +1,696 @@
+{
+ "words": {
+  "A==S|Mx:~t": {
+   "en": {
+    "meaning": "hotel",
+    "example": "We're staying in a hotel in the centre."
+   },
+   "tr": {
+    "meaning": "otel"
+   },
+   "th": {
+    "meaning": "โรงแรม"
+   },
+   "vi": {
+    "meaning": "khách sạn"
+   },
+   "fa": {
+    "meaning": "هتل"
+   }
+  },
+  "d}>r,<;b)v": {
+   "en": {
+    "meaning": "university",
+    "example": "My sister studies at the University of Hamburg."
+   },
+   "tr": {
+    "meaning": "üniversite"
+   },
+   "th": {
+    "meaning": "มหาวิทยาลัย"
+   },
+   "vi": {
+    "meaning": "trường đại học"
+   },
+   "fa": {
+    "meaning": "دانشگاه"
+   }
+  },
+  "r[;]w98]4v": {
+   "en": {
+    "meaning": "cinema",
+    "example": "At the weekend I go to the cinema with friends."
+   },
+   "tr": {
+    "meaning": "sinema"
+   },
+   "th": {
+    "meaning": "โรงภาพยนตร์"
+   },
+   "vi": {
+    "meaning": "rạp chiếu phim"
+   },
+   "fa": {
+    "meaning": "سینما"
+   }
+  },
+  "A.#{k,)cau": {
+   "en": {
+    "meaning": "theatre",
+    "example": "There is a big theatre in this city."
+   },
+   "tr": {
+    "meaning": "tiyatro"
+   },
+   "th": {
+    "meaning": "โรงละคร"
+   },
+   "vi": {
+    "meaning": "nhà hát"
+   },
+   "fa": {
+    "meaning": "تئاتر"
+   }
+  },
+  "K1pS0>>%p0": {
+   "en": {
+    "meaning": "museum",
+    "example": "The museum is closed on Mondays."
+   },
+   "tr": {
+    "meaning": "müze"
+   },
+   "th": {
+    "meaning": "พิพิธภัณฑ์"
+   },
+   "vi": {
+    "meaning": "bảo tàng"
+   },
+   "fa": {
+    "meaning": "موزه"
+   }
+  },
+  "CT6]8Ioc]B": {
+   "en": {
+    "meaning": "bank",
+    "example": "I have to go to the bank because I need money."
+   },
+   "tr": {
+    "meaning": "banka"
+   },
+   "th": {
+    "meaning": "ธนาคาร"
+   },
+   "vi": {
+    "meaning": "ngân hàng"
+   },
+   "fa": {
+    "meaning": "بانک"
+   }
+  },
+  "HM^UwP8$t=": {
+   "en": {
+    "meaning": "post office",
+    "example": "The post office is right next to the station."
+   },
+   "tr": {
+    "meaning": "postane"
+   },
+   "th": {
+    "meaning": "ที่ทำการไปรษณีย์"
+   },
+   "vi": {
+    "meaning": "bưu điện"
+   },
+   "fa": {
+    "meaning": "اداره پست"
+   }
+  },
+  "f04<5z.)$y": {
+   "en": {
+    "meaning": "swimming pool",
+    "example": "In summer we often go to the swimming pool."
+   },
+   "tr": {
+    "meaning": "yüzme havuzu"
+   },
+   "th": {
+    "meaning": "สระว่ายน้ำ"
+   },
+   "vi": {
+    "meaning": "bể bơi"
+   },
+   "fa": {
+    "meaning": "استخر"
+   }
+  },
+  "r`-@!?}u(I": {
+   "en": {
+    "meaning": "school",
+    "example": "My children go to school here."
+   },
+   "tr": {
+    "meaning": "okul"
+   },
+   "th": {
+    "meaning": "โรงเรียน"
+   },
+   "vi": {
+    "meaning": "trường học"
+   },
+   "fa": {
+    "meaning": "مدرسه"
+   }
+  },
+  "Cs-6F~V?q)": {
+   "en": {
+    "meaning": "(railway) station",
+    "example": "The train leaves the station at eight o'clock."
+   },
+   "tr": {
+    "meaning": "tren istasyonu"
+   },
+   "th": {
+    "meaning": "สถานีรถไฟ"
+   },
+   "vi": {
+    "meaning": "ga tàu"
+   },
+   "fa": {
+    "meaning": "ایستگاه قطار"
+   }
+  },
+  "CDTHOe?u;i": {
+   "en": {
+    "meaning": "supermarket",
+    "example": "I buy bread and milk at the supermarket."
+   },
+   "tr": {
+    "meaning": "süpermarket"
+   },
+   "th": {
+    "meaning": "ซูเปอร์มาร์เก็ต"
+   },
+   "vi": {
+    "meaning": "siêu thị"
+   },
+   "fa": {
+    "meaning": "سوپرمارکت"
+   }
+  },
+  "H!~7+5UidO": {
+   "en": {
+    "meaning": "bakery",
+    "example": "The bakery already opens at six o'clock."
+   },
+   "tr": {
+    "meaning": "fırın"
+   },
+   "th": {
+    "meaning": "ร้านเบเกอรี่"
+   },
+   "vi": {
+    "meaning": "tiệm bánh mì"
+   },
+   "fa": {
+    "meaning": "نانوایی"
+   }
+  },
+  "r{`~P#myJ=": {
+   "en": {
+    "meaning": "church",
+    "example": "At the bottom left there is an old church."
+   },
+   "tr": {
+    "meaning": "kilise"
+   },
+   "th": {
+    "meaning": "โบสถ์"
+   },
+   "vi": {
+    "meaning": "nhà thờ"
+   },
+   "fa": {
+    "meaning": "کلیسا"
+   }
+  },
+  "Qz:r.4-qE?": {
+   "en": {
+    "meaning": "park",
+    "example": "The park is very beautiful and quiet."
+   },
+   "tr": {
+    "meaning": "park"
+   },
+   "th": {
+    "meaning": "สวนสาธารณะ"
+   },
+   "vi": {
+    "meaning": "công viên"
+   },
+   "fa": {
+    "meaning": "پارک"
+   }
+  },
+  "F^~wO:3?k]": {
+   "en": {
+    "meaning": "street, road",
+    "example": "The street is wide and modern."
+   },
+   "tr": {
+    "meaning": "cadde, sokak"
+   },
+   "th": {
+    "meaning": "ถนน"
+   },
+   "vi": {
+    "meaning": "đường phố"
+   },
+   "fa": {
+    "meaning": "خیابان"
+   }
+  },
+  "coUuLWblgu": {
+   "en": {
+    "meaning": "district, part of town",
+    "example": "My district is quiet and green."
+   },
+   "tr": {
+    "meaning": "semt"
+   },
+   "th": {
+    "meaning": "ย่าน"
+   },
+   "vi": {
+    "meaning": "quận, khu phố"
+   },
+   "fa": {
+    "meaning": "محله"
+   }
+  },
+  "C2`y[ibG=O": {
+   "en": {
+    "meaning": "city map",
+    "example": "I'm looking for the museum on the city map."
+   },
+   "tr": {
+    "meaning": "şehir haritası"
+   },
+   "th": {
+    "meaning": "แผนที่เมือง"
+   },
+   "vi": {
+    "meaning": "bản đồ thành phố"
+   },
+   "fa": {
+    "meaning": "نقشهٔ شهر"
+   }
+  },
+  "f_wU]?Sion": {
+   "en": {
+    "meaning": "at the front",
+    "example": "At the front is the river."
+   },
+   "tr": {
+    "meaning": "önde"
+   },
+   "th": {
+    "meaning": "ข้างหน้า"
+   },
+   "vi": {
+    "meaning": "phía trước"
+   },
+   "fa": {
+    "meaning": "جلو"
+   }
+  },
+  "kb8N/v~G-=": {
+   "en": {
+    "meaning": "at the back",
+    "example": "At the back you can see the mountains."
+   },
+   "tr": {
+    "meaning": "arkada"
+   },
+   "th": {
+    "meaning": "ข้างหลัง"
+   },
+   "vi": {
+    "meaning": "phía sau"
+   },
+   "fa": {
+    "meaning": "عقب، پشت"
+   }
+  },
+  "M`5LqX0!PQ": {
+   "en": {
+    "meaning": "above, at the top",
+    "example": "I can see everything from above."
+   },
+   "tr": {
+    "meaning": "yukarıda"
+   },
+   "th": {
+    "meaning": "ข้างบน"
+   },
+   "vi": {
+    "meaning": "ở trên"
+   },
+   "fa": {
+    "meaning": "بالا"
+   }
+  },
+  "o,br@>H>`Z": {
+   "en": {
+    "meaning": "below, at the bottom",
+    "example": "At the bottom left there is a church."
+   },
+   "tr": {
+    "meaning": "aşağıda"
+   },
+   "th": {
+    "meaning": "ข้างล่าง"
+   },
+   "vi": {
+    "meaning": "ở dưới"
+   },
+   "fa": {
+    "meaning": "پایین"
+   }
+  },
+  "KkvqgSU>Qp": {
+   "en": {
+    "meaning": "in the middle",
+    "example": "In the middle there is a big tree."
+   },
+   "tr": {
+    "meaning": "ortada"
+   },
+   "th": {
+    "meaning": "ตรงกลาง"
+   },
+   "vi": {
+    "meaning": "ở giữa"
+   },
+   "fa": {
+    "meaning": "وسط"
+   }
+  },
+  "j?BHbu%{XN": {
+   "en": {
+    "meaning": "(on the) left",
+    "example": "On the left is the kitchen, on the right the living room."
+   },
+   "tr": {
+    "meaning": "solda"
+   },
+   "th": {
+    "meaning": "ด้านซ้าย"
+   },
+   "vi": {
+    "meaning": "bên trái"
+   },
+   "fa": {
+    "meaning": "چپ"
+   }
+  },
+  ")sS#CUQK}": {
+   "en": {
+    "meaning": "(on the) right",
+    "example": "At the bottom right you can see the river."
+   },
+   "tr": {
+    "meaning": "sağda"
+   },
+   "th": {
+    "meaning": "ด้านขวา"
+   },
+   "vi": {
+    "meaning": "bên phải"
+   },
+   "fa": {
+    "meaning": "راست"
+   }
+  },
+  "he*r+LtU`N": {
+   "en": {
+    "meaning": "in the north",
+    "example": "In the north the rent for a room is cheap."
+   },
+   "tr": {
+    "meaning": "kuzeyde"
+   },
+   "th": {
+    "meaning": "ทางทิศเหนือ"
+   },
+   "vi": {
+    "meaning": "ở phía bắc"
+   },
+   "fa": {
+    "meaning": "در شمال"
+   },
+   "zh": {
+    "meaning": "在北部"
+   }
+  },
+  "sc!<LX;/?P": {
+   "en": {
+    "meaning": "in all directions",
+    "example": "I can see in all directions."
+   },
+   "tr": {
+    "meaning": "her yöne"
+   },
+   "th": {
+    "meaning": "ทุกทิศทาง"
+   },
+   "vi": {
+    "meaning": "mọi hướng"
+   },
+   "fa": {
+    "meaning": "به همه طرف"
+   }
+  },
+  "yc#>x(jwne": {
+   "en": {
+    "meaning": "everywhere",
+    "example": "Nothing but sea everywhere!"
+   },
+   "tr": {
+    "meaning": "her yerde"
+   },
+   "th": {
+    "meaning": "ทุกที่"
+   },
+   "vi": {
+    "meaning": "khắp nơi"
+   },
+   "fa": {
+    "meaning": "همه جا"
+   }
+  },
+  "EABy(Ce(+|": {
+   "en": {
+    "meaning": "town hall",
+    "example": "The town hall is in the centre."
+   },
+   "tr": {
+    "meaning": "belediye binası"
+   },
+   "th": {
+    "meaning": "ศาลาว่าการเมือง"
+   },
+   "vi": {
+    "meaning": "tòa thị chính"
+   },
+   "fa": {
+    "meaning": "ساختمان شهرداری"
+   }
+  },
+  "z2}.Kw|!w7": {
+   "en": {
+    "meaning": "city park",
+    "example": "The airport is north of the city park."
+   },
+   "tr": {
+    "meaning": "şehir parkı"
+   },
+   "th": {
+    "meaning": "สวนสาธารณะของเมือง"
+   },
+   "vi": {
+    "meaning": "công viên thành phố"
+   },
+   "fa": {
+    "meaning": "پارک شهر"
+   }
+  },
+  "PX~2p;-nrH": {
+   "en": {
+    "meaning": "main station",
+    "example": "70 km from Hamburg main station."
+   },
+   "tr": {
+    "meaning": "ana tren istasyonu"
+   },
+   "th": {
+    "meaning": "สถานีรถไฟกลาง"
+   },
+   "vi": {
+    "meaning": "ga trung tâm"
+   },
+   "fa": {
+    "meaning": "ایستگاه مرکزی قطار"
+   }
+  },
+  "NeJQ#@+BaO": {
+   "en": {
+    "meaning": "airport",
+    "example": "I work at the airport."
+   },
+   "tr": {
+    "meaning": "havalimanı"
+   },
+   "th": {
+    "meaning": "สนามบิน"
+   },
+   "vi": {
+    "meaning": "sân bay"
+   },
+   "fa": {
+    "meaning": "فرودگاه"
+   }
+  },
+  "jyZFPzG0]t": {
+   "en": {
+    "meaning": "Elbphilharmonie (Hamburg concert hall)",
+    "example": "The Elbphilharmonie is in HafenCity."
+   },
+   "tr": {
+    "meaning": "Elbphilharmonie (Hamburg konser salonu)"
+   },
+   "th": {
+    "meaning": "เอลบ์ฟิลฮาร์โมนี (หอแสดงดนตรีในฮัมบวร์ค)"
+   },
+   "vi": {
+    "meaning": "Elbphilharmonie (nhà hòa nhạc ở Hamburg)"
+   },
+   "fa": {
+    "meaning": "الب‌فیلارمونی (سالن کنسرت هامبورگ)"
+   }
+  },
+  "Do9ARDPHI@": {
+   "en": {
+    "meaning": "stadium",
+    "example": "The stadium is in the west of Hamburg."
+   },
+   "tr": {
+    "meaning": "stadyum"
+   },
+   "th": {
+    "meaning": "สนามกีฬา"
+   },
+   "vi": {
+    "meaning": "sân vận động"
+   },
+   "fa": {
+    "meaning": "ورزشگاه"
+   }
+  },
+  "jT?!|nk</Y": {
+   "en": {
+    "meaning": "zoo",
+    "example": "My bird lives in the zoo."
+   },
+   "tr": {
+    "meaning": "hayvanat bahçesi"
+   },
+   "th": {
+    "meaning": "สวนสัตว์"
+   },
+   "vi": {
+    "meaning": "sở thú"
+   },
+   "fa": {
+    "meaning": "باغ وحش"
+   }
+  },
+  "q9@x-&WPAj": {
+   "en": {
+    "meaning": "hospital",
+    "example": "A helicopter flew me to hospital."
+   },
+   "tr": {
+    "meaning": "hastane"
+   },
+   "th": {
+    "meaning": "โรงพยาบาล"
+   },
+   "vi": {
+    "meaning": "bệnh viện"
+   },
+   "fa": {
+    "meaning": "بیمارستان"
+   }
+  },
+  "E#i%,-Yx1v": {
+   "en": {
+    "meaning": "city centre, town centre",
+    "example": "Better look for a flat in the city centre."
+   },
+   "tr": {
+    "meaning": "şehir merkezi"
+   },
+   "th": {
+    "meaning": "ใจกลางเมือง"
+   },
+   "vi": {
+    "meaning": "trung tâm thành phố"
+   },
+   "fa": {
+    "meaning": "مرکز شهر"
+   },
+   "zh": {
+    "meaning": "市中心、内城",
+    "example": "你最好在市中心找公寓。"
+   }
+  },
+  "GfhNGt(1~n": {
+   "en": {
+    "meaning": "underground, subway",
+    "example": "There's also the U-Bahn and S-Bahn."
+   },
+   "tr": {
+    "meaning": "metro"
+   },
+   "th": {
+    "meaning": "รถไฟใต้ดิน"
+   },
+   "vi": {
+    "meaning": "tàu điện ngầm"
+   },
+   "fa": {
+    "meaning": "مترو"
+   }
+  },
+  "AET2rdgN=H": {
+   "en": {
+    "meaning": "suburban train, S-Bahn",
+    "example": "By S-Bahn you're in the centre in 20 minutes."
+   },
+   "tr": {
+    "meaning": "banliyö treni"
+   },
+   "th": {
+    "meaning": "รถไฟชานเมือง"
+   },
+   "vi": {
+    "meaning": "tàu điện ngoại ô"
+   },
+   "fa": {
+    "meaning": "قطار حومه"
+   }
+  }
+ },
+ "grammar": {}
+}

@@ -1,0 +1,684 @@
+{
+ "words": {
+  "MToa[:seOa": {
+   "en": {
+    "meaning": "flat hunting",
+    "example": "Flat hunting in Hamburg."
+   },
+   "tr": {
+    "meaning": "ev arama"
+   },
+   "th": {
+    "meaning": "การหาที่พัก"
+   },
+   "vi": {
+    "meaning": "tìm nhà"
+   },
+   "fa": {
+    "meaning": "خانه‌یابی"
+   }
+  },
+  "NHjS,icDF{": {
+   "en": {
+    "meaning": "flat in an old building",
+    "example": "There are beautiful flats in old buildings there."
+   },
+   "tr": {
+    "meaning": "eski binada daire"
+   },
+   "th": {
+    "meaning": "อพาร์ตเมนต์ในอาคารเก่า"
+   },
+   "vi": {
+    "meaning": "căn hộ trong tòa nhà cổ"
+   },
+   "fa": {
+    "meaning": "آپارتمان در ساختمان قدیمی"
+   }
+  },
+  "zTrP&x.(]u": {
+   "en": {
+    "meaning": "aircraft noise",
+    "example": "Near the airport there is a lot of aircraft noise."
+   },
+   "tr": {
+    "meaning": "uçak gürültüsü"
+   },
+   "th": {
+    "meaning": "เสียงเครื่องบิน"
+   },
+   "vi": {
+    "meaning": "tiếng ồn máy bay"
+   },
+   "fa": {
+    "meaning": "سر و صدای هواپیما"
+   }
+  },
+  "yc6/2%4I{1": {
+   "en": {
+    "meaning": "with good transport links",
+    "example": "The flat must have good transport links."
+   },
+   "tr": {
+    "meaning": "ulaşımı kolay"
+   },
+   "th": {
+    "meaning": "เดินทางสะดวก"
+   },
+   "vi": {
+    "meaning": "giao thông thuận tiện"
+   },
+   "fa": {
+    "meaning": "با دسترسی آسان به حمل و نقل"
+   }
+  },
+  "bfQ::007BI": {
+   "en": {
+    "meaning": "popular",
+    "example": "Altona is very popular now."
+   },
+   "tr": {
+    "meaning": "popüler"
+   },
+   "th": {
+    "meaning": "เป็นที่นิยม"
+   },
+   "vi": {
+    "meaning": "được ưa chuộng"
+   },
+   "fa": {
+    "meaning": "محبوب"
+   }
+  },
+  "ySm)%0#|54": {
+   "en": {
+    "meaning": "comfortable; convenient",
+    "example": "It doesn't get more convenient than that!"
+   },
+   "tr": {
+    "meaning": "rahat; kullanışlı"
+   },
+   "th": {
+    "meaning": "สบาย; สะดวก"
+   },
+   "vi": {
+    "meaning": "thoải mái; tiện lợi"
+   },
+   "fa": {
+    "meaning": "راحت؛ آسان"
+   }
+  },
+  "ef|HxM3iaj": {
+   "en": {
+    "meaning": "to disturb, to bother",
+    "example": "Yes it does, that bothers me!"
+   },
+   "tr": {
+    "meaning": "rahatsız etmek"
+   },
+   "th": {
+    "meaning": "รบกวน"
+   },
+   "vi": {
+    "meaning": "làm phiền"
+   },
+   "fa": {
+    "meaning": "مزاحم شدن، اذیت کردن"
+   },
+   "zh": {
+    "example": "会啊，这让我很烦！"
+   }
+  },
+  "f)b6uSzyWW": {
+   "en": {
+    "meaning": "to recommend",
+    "example": "Which places do Ilse12 and ToniTo recommend?"
+   },
+   "tr": {
+    "meaning": "tavsiye etmek"
+   },
+   "th": {
+    "meaning": "แนะนำ"
+   },
+   "vi": {
+    "meaning": "giới thiệu, khuyên"
+   },
+   "fa": {
+    "meaning": "توصیه کردن"
+   }
+  },
+  "ha&dd&)RJ#": {
+   "en": {
+    "meaning": "outside (of town)",
+    "example": "Living outside town is much better."
+   },
+   "tr": {
+    "meaning": "dışında, şehir dışında"
+   },
+   "th": {
+    "meaning": "นอกเมือง"
+   },
+   "vi": {
+    "meaning": "ở ngoại ô, bên ngoài"
+   },
+   "fa": {
+    "meaning": "خارج از شهر"
+   },
+   "zh": {
+    "meaning": "在（城）外、郊外",
+    "example": "住在城外要好得多。"
+   }
+  },
+  "k{wT]>=cJK": {
+   "en": {
+    "meaning": "near",
+    "example": "In a small town near Hamburg."
+   },
+   "tr": {
+    "meaning": "yakınında"
+   },
+   "th": {
+    "meaning": "ใกล้ๆ"
+   },
+   "vi": {
+    "meaning": "gần"
+   },
+   "fa": {
+    "meaning": "نزدیکِ"
+   }
+  },
+  "es(nSR:6+%": {
+   "en": {
+    "meaning": "advantage",
+    "example": "Note down advantages and disadvantages."
+   },
+   "tr": {
+    "meaning": "avantaj"
+   },
+   "th": {
+    "meaning": "ข้อดี"
+   },
+   "vi": {
+    "meaning": "ưu điểm"
+   },
+   "fa": {
+    "meaning": "مزیت"
+   }
+  },
+  "ieFe+fT(3@": {
+   "en": {
+    "meaning": "disadvantage",
+    "example": "Note down advantages and disadvantages."
+   },
+   "tr": {
+    "meaning": "dezavantaj"
+   },
+   "th": {
+    "meaning": "ข้อเสีย"
+   },
+   "vi": {
+    "meaning": "nhược điểm"
+   },
+   "fa": {
+    "meaning": "عیب"
+   }
+  },
+  "jhd`{8}g,R": {
+   "en": {
+    "meaning": "fitted kitchen",
+    "example": "1-room flat, central, fitted kitchen, balcony."
+   },
+   "tr": {
+    "meaning": "ankastre mutfak"
+   },
+   "th": {
+    "meaning": "ครัวบิวท์อิน"
+   },
+   "vi": {
+    "meaning": "bếp lắp sẵn"
+   },
+   "fa": {
+    "meaning": "آشپزخانهٔ توکار"
+   }
+  },
+  "drh?ESO~58": {
+   "en": {
+    "meaning": "additional costs (heating, water etc.)",
+    "example": "€650 + additional costs."
+   },
+   "tr": {
+    "meaning": "aidat ve yan giderler"
+   },
+   "th": {
+    "meaning": "ค่าใช้จ่ายเพิ่มเติม"
+   },
+   "vi": {
+    "meaning": "phí phụ (sưởi, nước…)"
+   },
+   "fa": {
+    "meaning": "هزینه‌های جانبی"
+   }
+  },
+  "x:F0+`ceZG": {
+   "en": {
+    "meaning": "upper floor",
+    "example": "The flat is on the 2nd floor (3rd floor US)."
+   },
+   "tr": {
+    "meaning": "üst kat"
+   },
+   "th": {
+    "meaning": "ชั้นบน"
+   },
+   "vi": {
+    "meaning": "tầng trên"
+   },
+   "fa": {
+    "meaning": "طبقهٔ بالا"
+   },
+   "zh": {
+    "meaning": "楼层（地面层以上）"
+   }
+  },
+  "iR^.ZhgbFf": {
+   "en": {
+    "meaning": "attic floor, top floor",
+    "example": "3-room attic flat in Eppendorf."
+   },
+   "tr": {
+    "meaning": "çatı katı"
+   },
+   "th": {
+    "meaning": "ชั้นใต้หลังคา"
+   },
+   "vi": {
+    "meaning": "tầng áp mái"
+   },
+   "fa": {
+    "meaning": "طبقهٔ زیر شیروانی"
+   }
+  },
+  "my-OcIOstN": {
+   "en": {
+    "meaning": "ground floor",
+    "example": "2-room flat, ground floor, quiet."
+   },
+   "tr": {
+    "meaning": "zemin kat"
+   },
+   "th": {
+    "meaning": "ชั้นล่าง"
+   },
+   "vi": {
+    "meaning": "tầng trệt"
+   },
+   "fa": {
+    "meaning": "طبقهٔ همکف"
+   }
+  },
+  "fq%,c!!ZQh": {
+   "en": {
+    "meaning": "square metre",
+    "example": "The flat is 63 square metres."
+   },
+   "tr": {
+    "meaning": "metrekare"
+   },
+   "th": {
+    "meaning": "ตารางเมตร"
+   },
+   "vi": {
+    "meaning": "mét vuông"
+   },
+   "fa": {
+    "meaning": "متر مربع"
+   }
+  },
+  "z&|scGd=Dh": {
+   "en": {
+    "meaning": "tenant",
+    "example": "The tenant pays the rent every month."
+   },
+   "tr": {
+    "meaning": "kiracı"
+   },
+   "th": {
+    "meaning": "ผู้เช่า"
+   },
+   "vi": {
+    "meaning": "người thuê nhà"
+   },
+   "fa": {
+    "meaning": "مستأجر"
+   }
+  },
+  "I4O1nEjy0%": {
+   "en": {
+    "meaning": "landlord",
+    "example": "The landlord would like to meet us."
+   },
+   "tr": {
+    "meaning": "ev sahibi"
+   },
+   "th": {
+    "meaning": "เจ้าของบ้าน"
+   },
+   "vi": {
+    "meaning": "chủ nhà"
+   },
+   "fa": {
+    "meaning": "صاحبخانه"
+   }
+  },
+  "N&8]7[IjUp": {
+   "en": {
+    "meaning": "rental agreement, lease",
+    "example": "We sign the lease."
+   },
+   "tr": {
+    "meaning": "kira sözleşmesi"
+   },
+   "th": {
+    "meaning": "สัญญาเช่า"
+   },
+   "vi": {
+    "meaning": "hợp đồng thuê nhà"
+   },
+   "fa": {
+    "meaning": "قرارداد اجاره"
+   }
+  },
+  "b&V?g3+Idc": {
+   "en": {
+    "meaning": "basic rent (without additional costs)",
+    "example": "€1499 basic rent + €250 additional costs."
+   },
+   "tr": {
+    "meaning": "net kira (yan giderler hariç)"
+   },
+   "th": {
+    "meaning": "ค่าเช่าสุทธิ (ไม่รวมค่าน้ำค่าไฟ)"
+   },
+   "vi": {
+    "meaning": "tiền thuê chưa gồm phí phụ"
+   },
+   "fa": {
+    "meaning": "اجارهٔ خالص (بدون هزینه‌های جانبی)"
+   }
+  },
+  "L$a|^qo,!x": {
+   "en": {
+    "meaning": "rent including additional costs",
+    "example": "€510 including additional costs."
+   },
+   "tr": {
+    "meaning": "yan giderler dahil kira"
+   },
+   "th": {
+    "meaning": "ค่าเช่ารวมค่าใช้จ่าย"
+   },
+   "vi": {
+    "meaning": "tiền thuê đã gồm phí phụ"
+   },
+   "fa": {
+    "meaning": "اجاره با هزینه‌های جانبی"
+   }
+  },
+  "nQL)IMpSjU": {
+   "en": {
+    "meaning": "underground car park",
+    "example": "Underground parking space €70/month."
+   },
+   "tr": {
+    "meaning": "yeraltı otoparkı"
+   },
+   "th": {
+    "meaning": "ที่จอดรถใต้ดิน"
+   },
+   "vi": {
+    "meaning": "bãi đỗ xe ngầm"
+   },
+   "fa": {
+    "meaning": "پارکینگ زیرزمینی"
+   }
+  },
+  "Iry79]-d>?": {
+   "en": {
+    "meaning": "parking space",
+    "example": "The underground parking space costs 70 euros per month."
+   },
+   "tr": {
+    "meaning": "park yeri"
+   },
+   "th": {
+    "meaning": "ที่จอดรถ"
+   },
+   "vi": {
+    "meaning": "chỗ đỗ xe"
+   },
+   "fa": {
+    "meaning": "جای پارک"
+   }
+  },
+  "m(.8=3_;Af": {
+   "en": {
+    "meaning": "deposit",
+    "example": "Deposit €3000."
+   },
+   "tr": {
+    "meaning": "depozito"
+   },
+   "th": {
+    "meaning": "เงินมัดจำ"
+   },
+   "vi": {
+    "meaning": "tiền đặt cọc"
+   },
+   "fa": {
+    "meaning": "ودیعه"
+   }
+  },
+  "pU)_HnM{=9": {
+   "en": {
+    "meaning": "location",
+    "example": "5-room flat in a top location!"
+   },
+   "tr": {
+    "meaning": "konum"
+   },
+   "th": {
+    "meaning": "ทำเล"
+   },
+   "vi": {
+    "meaning": "vị trí"
+   },
+   "fa": {
+    "meaning": "موقعیت، محل"
+   }
+  },
+  "FnvTs9S~gi": {
+   "en": {
+    "meaning": "roof terrace",
+    "example": "Roof terrace for rent."
+   },
+   "tr": {
+    "meaning": "çatı terası"
+   },
+   "th": {
+    "meaning": "ระเบียงบนดาดฟ้า"
+   },
+   "vi": {
+    "meaning": "sân thượng"
+   },
+   "fa": {
+    "meaning": "تراس پشت‌بام"
+   }
+  },
+  "CsEo$F48iv": {
+   "en": {
+    "meaning": "to rent out, to let",
+    "example": "The flat is for rent."
+   },
+   "tr": {
+    "meaning": "kiraya vermek"
+   },
+   "th": {
+    "meaning": "ให้เช่า"
+   },
+   "vi": {
+    "meaning": "cho thuê"
+   },
+   "fa": {
+    "meaning": "اجاره دادن"
+   }
+  },
+  "vIDd=R6ur]": {
+   "en": {
+    "meaning": "renovated",
+    "example": "63 m², newly renovated."
+   },
+   "tr": {
+    "meaning": "tadilatlı"
+   },
+   "th": {
+    "meaning": "ปรับปรุงใหม่"
+   },
+   "vi": {
+    "meaning": "đã sửa sang"
+   },
+   "fa": {
+    "meaning": "بازسازی‌شده"
+   }
+  },
+  "cQ2(6jiFd/": {
+   "en": {
+    "meaning": "viewing appointment",
+    "example": "When is the viewing?"
+   },
+   "tr": {
+    "meaning": "ev görme randevusu"
+   },
+   "th": {
+    "meaning": "นัดดูห้อง"
+   },
+   "vi": {
+    "meaning": "lịch hẹn xem nhà"
+   },
+   "fa": {
+    "meaning": "وقت بازدید"
+   }
+  },
+  "Kep^NrM{Qj": {
+   "en": {
+    "meaning": "tenant information form",
+    "example": "A form with personal information."
+   },
+   "tr": {
+    "meaning": "kiracı bilgi formu"
+   },
+   "th": {
+    "meaning": "แบบฟอร์มข้อมูลผู้เช่า"
+   },
+   "vi": {
+    "meaning": "phiếu tự khai thông tin người thuê"
+   },
+   "fa": {
+    "meaning": "فرم اطلاعات شخصی مستأجر"
+   },
+   "zh": {
+    "meaning": "租客个人信息表"
+   }
+  },
+  "z,xB!N2D!4": {
+   "en": {
+    "meaning": "estate agent",
+    "example": "That was the estate agent."
+   },
+   "tr": {
+    "meaning": "emlakçı"
+   },
+   "th": {
+    "meaning": "นายหน้า"
+   },
+   "vi": {
+    "meaning": "người môi giới"
+   },
+   "fa": {
+    "meaning": "بنگاه‌دار، مشاور املاک"
+   }
+  },
+  "f(3!K;v#>g": {
+   "en": {
+    "meaning": "interested party",
+    "example": "The flat is nice, but there are many interested people."
+   },
+   "tr": {
+    "meaning": "ilgilenen kişi"
+   },
+   "th": {
+    "meaning": "ผู้สนใจ"
+   },
+   "vi": {
+    "meaning": "người quan tâm"
+   },
+   "fa": {
+    "meaning": "متقاضی"
+   }
+  },
+  "e#%ITS8AJA": {
+   "en": {
+    "meaning": "answering machine",
+    "example": "Michael leaves his number on the answering machine."
+   },
+   "tr": {
+    "meaning": "telesekreter"
+   },
+   "th": {
+    "meaning": "เครื่องตอบรับโทรศัพท์"
+   },
+   "vi": {
+    "meaning": "máy trả lời tự động"
+   },
+   "fa": {
+    "meaning": "منشی تلفنی"
+   }
+  },
+  "el+cTCg((X": {
+   "en": {
+    "meaning": "heating",
+    "example": "Costs for heating, water, rubbish."
+   },
+   "tr": {
+    "meaning": "ısıtma, kalorifer"
+   },
+   "th": {
+    "meaning": "ระบบทำความร้อน"
+   },
+   "vi": {
+    "meaning": "hệ thống sưởi"
+   },
+   "fa": {
+    "meaning": "شوفاژ، گرمایش"
+   }
+  },
+  "j9O0r!{*&o": {
+   "en": {
+    "meaning": "rubbish, garbage",
+    "example": "Additional costs are costs for heating, water and rubbish."
+   },
+   "tr": {
+    "meaning": "çöp"
+   },
+   "th": {
+    "meaning": "ขยะ"
+   },
+   "vi": {
+    "meaning": "rác"
+   },
+   "fa": {
+    "meaning": "زباله"
+   }
+  }
+ },
+ "grammar": {}
+}

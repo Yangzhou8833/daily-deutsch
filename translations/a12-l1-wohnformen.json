@@ -1,0 +1,491 @@
+{
+ "words": {
+  "tbf[5!f<W0": {
+   "en": {
+    "meaning": "hotel room",
+    "example": "I sleep in hotel rooms every night."
+   },
+   "tr": {
+    "meaning": "otel odası"
+   },
+   "th": {
+    "meaning": "ห้องพักโรงแรม"
+   },
+   "vi": {
+    "meaning": "phòng khách sạn"
+   },
+   "fa": {
+    "meaning": "اتاق هتل"
+   }
+  },
+  "MeaUQV!drC": {
+   "en": {
+    "meaning": "two-room flat",
+    "example": "How much does a two-room flat cost?"
+   },
+   "tr": {
+    "meaning": "iki odalı daire"
+   },
+   "th": {
+    "meaning": "อพาร์ตเมนต์สองห้อง"
+   },
+   "vi": {
+    "meaning": "căn hộ hai phòng"
+   },
+   "fa": {
+    "meaning": "آپارتمان دو اتاقه"
+   }
+  },
+  "rhm=NhYwyi": {
+   "en": {
+    "meaning": "student room",
+    "example": "How much does a student room cost in Germany?"
+   },
+   "tr": {
+    "meaning": "öğrenci odası"
+   },
+   "th": {
+    "meaning": "ห้องพักนักศึกษา"
+   },
+   "vi": {
+    "meaning": "phòng sinh viên"
+   },
+   "fa": {
+    "meaning": "اتاق دانشجویی"
+   }
+  },
+  "JJ.@J~.+Q!": {
+   "en": {
+    "meaning": "holiday flat",
+    "example": "A holiday flat is expensive."
+   },
+   "tr": {
+    "meaning": "tatil evi"
+   },
+   "th": {
+    "meaning": "บ้านพักตากอากาศ"
+   },
+   "vi": {
+    "meaning": "căn hộ nghỉ dưỡng"
+   },
+   "fa": {
+    "meaning": "آپارتمان تعطیلات"
+   }
+  },
+  "jQ}3mm$x2J": {
+   "en": {
+    "meaning": "detached house",
+    "example": "A detached house with a garden is boring, though."
+   },
+   "tr": {
+    "meaning": "müstakil ev"
+   },
+   "th": {
+    "meaning": "บ้านเดี่ยว"
+   },
+   "vi": {
+    "meaning": "nhà riêng"
+   },
+   "fa": {
+    "meaning": "خانهٔ ویلایی"
+   }
+  },
+  "QW:|.-I[GI": {
+   "en": {
+    "meaning": "rented flat",
+    "example": "Rented flat or detached house?"
+   },
+   "tr": {
+    "meaning": "kiralık daire"
+   },
+   "th": {
+    "meaning": "อพาร์ตเมนต์เช่า"
+   },
+   "vi": {
+    "meaning": "căn hộ thuê"
+   },
+   "fa": {
+    "meaning": "آپارتمان اجاره‌ای"
+   }
+  },
+  "t[)wN$FV)~": {
+   "en": {
+    "meaning": "flat, apartment",
+    "example": "I live in a flat."
+   },
+   "tr": {
+    "meaning": "daire"
+   },
+   "th": {
+    "meaning": "อพาร์ตเมนต์"
+   },
+   "vi": {
+    "meaning": "căn hộ"
+   },
+   "fa": {
+    "meaning": "آپارتمان"
+   }
+  },
+  "v?t_06LnfX": {
+   "en": {
+    "meaning": "house",
+    "example": "I live in a house."
+   },
+   "tr": {
+    "meaning": "ev"
+   },
+   "th": {
+    "meaning": "บ้าน"
+   },
+   "vi": {
+    "meaning": "ngôi nhà"
+   },
+   "fa": {
+    "meaning": "خانه"
+   }
+  },
+  "s0DRBpTd<H": {
+   "en": {
+    "meaning": "houseboat",
+    "example": "At the moment I live on a houseboat."
+   },
+   "tr": {
+    "meaning": "yüzen ev"
+   },
+   "th": {
+    "meaning": "เรือนแพ"
+   },
+   "vi": {
+    "meaning": "nhà thuyền"
+   },
+   "fa": {
+    "meaning": "قایق‌خانه"
+   }
+  },
+  "F7>}u11r[!": {
+   "en": {
+    "meaning": "caravan, camper",
+    "example": "We've been living in a caravan for two months."
+   },
+   "tr": {
+    "meaning": "karavan"
+   },
+   "th": {
+    "meaning": "รถบ้าน"
+   },
+   "vi": {
+    "meaning": "nhà lưu động"
+   },
+   "fa": {
+    "meaning": "کاروان"
+   }
+  },
+  "q@?AUU,n)t": {
+   "en": {
+    "meaning": "shared flat",
+    "example": "I live in a shared flat."
+   },
+   "tr": {
+    "meaning": "ortak ev"
+   },
+   "th": {
+    "meaning": "บ้านแชร์"
+   },
+   "vi": {
+    "meaning": "nhà ở chung"
+   },
+   "fa": {
+    "meaning": "خانهٔ اشتراکی"
+   }
+  },
+  "q)F9T66;,f": {
+   "en": {
+    "meaning": "lighthouse",
+    "example": "I live in a lighthouse."
+   },
+   "tr": {
+    "meaning": "deniz feneri"
+   },
+   "th": {
+    "meaning": "ประภาคาร"
+   },
+   "vi": {
+    "meaning": "ngọn hải đăng"
+   },
+   "fa": {
+    "meaning": "فانوس دریایی"
+   }
+  },
+  "s!a3UUV_6F": {
+   "en": {
+    "meaning": "tree house",
+    "example": "My dream is living in a tree house."
+   },
+   "tr": {
+    "meaning": "ağaç ev"
+   },
+   "th": {
+    "meaning": "บ้านต้นไม้"
+   },
+   "vi": {
+    "meaning": "nhà trên cây"
+   },
+   "fa": {
+    "meaning": "خانهٔ درختی"
+   }
+  },
+  "vMr@D65Te_": {
+   "en": {
+    "meaning": "farm",
+    "example": "I would like to live on a farm."
+   },
+   "tr": {
+    "meaning": "çiftlik"
+   },
+   "th": {
+    "meaning": "ฟาร์ม"
+   },
+   "vi": {
+    "meaning": "trang trại"
+   },
+   "fa": {
+    "meaning": "مزرعه"
+   }
+  },
+  "EJ`FNdAs<c": {
+   "en": {
+    "meaning": "farmhouse",
+    "example": "My dream is living in a farmhouse."
+   },
+   "tr": {
+    "meaning": "çiftlik evi"
+   },
+   "th": {
+    "meaning": "บ้านไร่"
+   },
+   "vi": {
+    "meaning": "nhà nông trại"
+   },
+   "fa": {
+    "meaning": "خانهٔ روستایی"
+   }
+  },
+  "LXAoxeDO!&": {
+   "en": {
+    "meaning": "in the city, in town",
+    "example": "At the moment I live in the city."
+   },
+   "tr": {
+    "meaning": "şehirde"
+   },
+   "th": {
+    "meaning": "ในเมือง"
+   },
+   "vi": {
+    "meaning": "ở thành phố"
+   },
+   "fa": {
+    "meaning": "در شهر"
+   }
+  },
+  "f;{V}-DO!T": {
+   "en": {
+    "meaning": "in the country",
+    "example": "I live in the country. And you?"
+   },
+   "tr": {
+    "meaning": "kırsalda, köyde"
+   },
+   "th": {
+    "meaning": "ในชนบท"
+   },
+   "vi": {
+    "meaning": "ở nông thôn"
+   },
+   "fa": {
+    "meaning": "در روستا، در حومه"
+   }
+  },
+  "D&i.OFW%54": {
+   "en": {
+    "meaning": "by the lake",
+    "example": "I live by the lake."
+   },
+   "tr": {
+    "meaning": "göl kenarında"
+   },
+   "th": {
+    "meaning": "ริมทะเลสาบ"
+   },
+   "vi": {
+    "meaning": "bên hồ"
+   },
+   "fa": {
+    "meaning": "کنار دریاچه"
+   }
+  },
+  "tL`;P|=|GX": {
+   "en": {
+    "meaning": "by the sea",
+    "example": "I live by the sea."
+   },
+   "tr": {
+    "meaning": "deniz kenarında"
+   },
+   "th": {
+    "meaning": "ริมทะเล"
+   },
+   "vi": {
+    "meaning": "bên biển"
+   },
+   "fa": {
+    "meaning": "کنار دریا"
+   }
+  },
+  "e=H7-,{ANQ": {
+   "en": {
+    "meaning": "by a river",
+    "example": "I live by a river."
+   },
+   "tr": {
+    "meaning": "nehir kenarında"
+   },
+   "th": {
+    "meaning": "ริมแม่น้ำ"
+   },
+   "vi": {
+    "meaning": "bên sông"
+   },
+   "fa": {
+    "meaning": "کنار رودخانه"
+   }
+  },
+  "Bn&Fj9bdM~": {
+   "en": {
+    "meaning": "on an island",
+    "example": "I live on an island."
+   },
+   "tr": {
+    "meaning": "bir adada"
+   },
+   "th": {
+    "meaning": "บนเกาะ"
+   },
+   "vi": {
+    "meaning": "trên đảo"
+   },
+   "fa": {
+    "meaning": "در یک جزیره"
+   }
+  },
+  "DuRp3t)hr%": {
+   "en": {
+    "meaning": "in the mountains",
+    "example": "I live in the mountains."
+   },
+   "tr": {
+    "meaning": "dağlarda"
+   },
+   "th": {
+    "meaning": "บนภูเขา"
+   },
+   "vi": {
+    "meaning": "ở vùng núi"
+   },
+   "fa": {
+    "meaning": "در کوهستان"
+   }
+  },
+  "BPa%8L=5l6": {
+   "en": {
+    "meaning": "in the forest",
+    "example": "I live in the forest."
+   },
+   "tr": {
+    "meaning": "ormanda"
+   },
+   "th": {
+    "meaning": "ในป่า"
+   },
+   "vi": {
+    "meaning": "trong rừng"
+   },
+   "fa": {
+    "meaning": "در جنگل"
+   }
+  },
+  "wl;&s=B~>Z": {
+   "en": {
+    "meaning": "in a village",
+    "example": "I live in a village."
+   },
+   "tr": {
+    "meaning": "bir köyde"
+   },
+   "th": {
+    "meaning": "ในหมู่บ้าน"
+   },
+   "vi": {
+    "meaning": "ở làng"
+   },
+   "fa": {
+    "meaning": "در یک روستا"
+   }
+  },
+  "LBS9Y}&F,w": {
+   "en": {
+    "meaning": "in a small town",
+    "example": "I live in a small town in Bavaria."
+   },
+   "tr": {
+    "meaning": "küçük bir şehirde"
+   },
+   "th": {
+    "meaning": "ในเมืองเล็ก"
+   },
+   "vi": {
+    "meaning": "ở thị trấn nhỏ"
+   },
+   "fa": {
+    "meaning": "در یک شهر کوچک"
+   }
+  },
+  "o>#7+q*KX}": {
+   "en": {
+    "meaning": "in a big city",
+    "example": "Tomorrow we wake up in the big city."
+   },
+   "tr": {
+    "meaning": "büyük bir şehirde"
+   },
+   "th": {
+    "meaning": "ในเมืองใหญ่"
+   },
+   "vi": {
+    "meaning": "ở thành phố lớn"
+   },
+   "fa": {
+    "meaning": "در یک شهر بزرگ"
+   }
+  },
+  "d^~:zc!aNQ": {
+   "en": {
+    "meaning": "in the capital",
+    "example": "He has found a flat in the capital."
+   },
+   "tr": {
+    "meaning": "başkentte"
+   },
+   "th": {
+    "meaning": "ในเมืองหลวง"
+   },
+   "vi": {
+    "meaning": "ở thủ đô"
+   },
+   "fa": {
+    "meaning": "در پایتخت"
+   }
+  }
+ },
+ "grammar": {}
+}

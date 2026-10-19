@@ -1,0 +1,693 @@
+{
+ "words": {
+  "oVqEGdxm7A": {
+   "en": {
+    "meaning": "Hallig (small North Sea island that floods at high tide)",
+    "example": "A Hallig is a small island."
+   },
+   "tr": {
+    "meaning": "Hallig (gelgitte su basan küçük Kuzey Denizi adası)"
+   },
+   "th": {
+    "meaning": "ฮัลลิก (เกาะเล็กในทะเลเหนือที่น้ำท่วมเวลาน้ำขึ้น)"
+   },
+   "vi": {
+    "meaning": "Hallig (đảo nhỏ ở Biển Bắc, bị ngập khi triều lên)"
+   },
+   "fa": {
+    "meaning": "هالیگ (جزیرهٔ کوچکی در دریای شمال که هنگام مد زیر آب می‌رود)"
+   }
+  },
+  "QKi.m5.Wok": {
+   "en": {
+    "meaning": "high tide; flood",
+    "example": "During a flood the whole land is under water."
+   },
+   "tr": {
+    "meaning": "taşkın, yüksek su"
+   },
+   "th": {
+    "meaning": "น้ำท่วม, น้ำขึ้นสูง"
+   },
+   "vi": {
+    "meaning": "nước dâng, lũ"
+   },
+   "fa": {
+    "meaning": "سیلاب، آب‌گرفتگی"
+   }
+  },
+  "fj/u<@=@Fz": {
+   "en": {
+    "meaning": "electricity",
+    "example": "The Halligen have only had electricity and water since 1954."
+   },
+   "tr": {
+    "meaning": "elektrik"
+   },
+   "th": {
+    "meaning": "ไฟฟ้า"
+   },
+   "vi": {
+    "meaning": "điện"
+   },
+   "fa": {
+    "meaning": "برق"
+   },
+   "zh": {
+    "example": "这些小岛直到 1954 年才通上水电。"
+   }
+  },
+  "PS-9WrNzA}": {
+   "en": {
+    "meaning": "inhabitant, resident",
+    "example": "Langeneß, with 110 inhabitants"
+   },
+   "tr": {
+    "meaning": "sakin"
+   },
+   "th": {
+    "meaning": "ผู้อยู่อาศัย"
+   },
+   "vi": {
+    "meaning": "cư dân"
+   },
+   "fa": {
+    "meaning": "ساکن"
+   }
+  },
+  "hm~%U)rS>(": {
+   "en": {
+    "meaning": "municipality, community",
+    "example": "Jana lives in Germany's smallest municipality."
+   },
+   "tr": {
+    "meaning": "belde, belediye"
+   },
+   "th": {
+    "meaning": "เทศบาล, ชุมชน"
+   },
+   "vi": {
+    "meaning": "xã, thị trấn"
+   },
+   "fa": {
+    "meaning": "شهرداری، بخش"
+   },
+   "zh": {
+    "meaning": "乡镇、市镇（地方行政单位）",
+    "example": "Jana 住在德国最小的乡镇。"
+   }
+  },
+  "bk}DEDKPGe": {
+   "en": {
+    "meaning": "sheep",
+    "example": "There are lots of sheep here."
+   },
+   "tr": {
+    "meaning": "koyun"
+   },
+   "th": {
+    "meaning": "แกะ"
+   },
+   "vi": {
+    "meaning": "con cừu"
+   },
+   "fa": {
+    "meaning": "گوسفند"
+   }
+  },
+  "K|<SJk|Y0)": {
+   "en": {
+    "meaning": "seabird",
+    "example": "… and even more seabirds."
+   },
+   "tr": {
+    "meaning": "deniz kuşu"
+   },
+   "th": {
+    "meaning": "นกทะเล"
+   },
+   "vi": {
+    "meaning": "chim biển"
+   },
+   "fa": {
+    "meaning": "پرندهٔ دریایی"
+   }
+  },
+  "gQ0)wUW^Ak": {
+   "en": {
+    "meaning": "mayor",
+    "example": "Gröde has a mayor."
+   },
+   "tr": {
+    "meaning": "belediye başkanı"
+   },
+   "th": {
+    "meaning": "นายกเทศมนตรี"
+   },
+   "vi": {
+    "meaning": "thị trưởng"
+   },
+   "fa": {
+    "meaning": "شهردار"
+   }
+  },
+  "Jtl.U@^VbG": {
+   "en": {
+    "meaning": "drinks kiosk",
+    "example": "… a drinks kiosk – and a school!"
+   },
+   "tr": {
+    "meaning": "içecek büfesi"
+   },
+   "th": {
+    "meaning": "ซุ้มขายเครื่องดื่ม"
+   },
+   "vi": {
+    "meaning": "quầy nước"
+   },
+   "fa": {
+    "meaning": "کیوسک نوشیدنی"
+   }
+  },
+  "FW(?r3ag=X": {
+   "en": {
+    "meaning": "mainland",
+    "example": "Going to school on the mainland is impossible."
+   },
+   "tr": {
+    "meaning": "anakara"
+   },
+   "th": {
+    "meaning": "แผ่นดินใหญ่"
+   },
+   "vi": {
+    "meaning": "đất liền"
+   },
+   "fa": {
+    "meaning": "خشکی، سرزمین اصلی"
+   }
+  },
+  "h$XZ52fU?": {
+   "en": {
+    "meaning": "ferry connection",
+    "example": "There is no daily ferry connection."
+   },
+   "tr": {
+    "meaning": "vapur seferi"
+   },
+   "th": {
+    "meaning": "เส้นทางเรือ"
+   },
+   "vi": {
+    "meaning": "tuyến tàu thuyền"
+   },
+   "fa": {
+    "meaning": "خط کشتیرانی"
+   },
+   "zh": {
+    "meaning": "船班、轮渡航线"
+   }
+  },
+  "kI[>Fi%f)/": {
+   "en": {
+    "meaning": "school year, grade",
+    "example": "Jana is in the eleventh grade."
+   },
+   "tr": {
+    "meaning": "ders yılı, sınıf"
+   },
+   "th": {
+    "meaning": "ปีการศึกษา, ชั้นปี"
+   },
+   "vi": {
+    "meaning": "năm học, lớp"
+   },
+   "fa": {
+    "meaning": "سال تحصیلی، کلاس"
+   }
+  },
+  "my{aM|27$;": {
+   "en": {
+    "meaning": "people of the same age, peers",
+    "example": "There are no people her age."
+   },
+   "tr": {
+    "meaning": "yaşıtlar"
+   },
+   "th": {
+    "meaning": "คนรุ่นเดียวกัน"
+   },
+   "vi": {
+    "meaning": "người cùng tuổi"
+   },
+   "fa": {
+    "meaning": "هم‌سن‌وسال‌ها"
+   }
+  },
+  "ElkR!D=NaD": {
+   "en": {
+    "meaning": "holiday guest",
+    "example": "Holiday guests only come in summer."
+   },
+   "tr": {
+    "meaning": "tatilci"
+   },
+   "th": {
+    "meaning": "นักท่องเที่ยว"
+   },
+   "vi": {
+    "meaning": "khách du lịch"
+   },
+   "fa": {
+    "meaning": "مهمان تعطیلات، گردشگر"
+   }
+  },
+  "ME>T:21/Xb": {
+   "en": {
+    "meaning": "supply, stock",
+    "example": "Then we had to live off our supplies."
+   },
+   "tr": {
+    "meaning": "stok, erzak"
+   },
+   "th": {
+    "meaning": "เสบียง, ของสำรอง"
+   },
+   "vi": {
+    "meaning": "đồ dự trữ"
+   },
+   "fa": {
+    "meaning": "ذخیره، آذوقه"
+   }
+  },
+  "C@TIV+T!C9": {
+   "en": {
+    "meaning": "helicopter",
+    "example": "A helicopter flew me to hospital."
+   },
+   "tr": {
+    "meaning": "helikopter"
+   },
+   "th": {
+    "meaning": "เฮลิคอปเตอร์"
+   },
+   "vi": {
+    "meaning": "trực thăng"
+   },
+   "fa": {
+    "meaning": "هلی‌کوپتر"
+   }
+  },
+  "z,CYy$T6ZJ": {
+   "en": {
+    "meaning": "boarding school",
+    "example": "She is going to a German boarding school."
+   },
+   "tr": {
+    "meaning": "yatılı okul"
+   },
+   "th": {
+    "meaning": "โรงเรียนประจำ"
+   },
+   "vi": {
+    "meaning": "trường nội trú"
+   },
+   "fa": {
+    "meaning": "مدرسهٔ شبانه‌روزی"
+   }
+  },
+  "BzC1^IpEV_": {
+   "en": {
+    "meaning": "Abitur (school-leaving exam, A levels)",
+    "example": "… and does her Abitur there."
+   },
+   "tr": {
+    "meaning": "Abitur (lise bitirme sınavı)"
+   },
+   "th": {
+    "meaning": "อาบิทัวร์ (การสอบจบมัธยมปลาย)"
+   },
+   "vi": {
+    "meaning": "Abitur (kỳ thi tốt nghiệp trung học)"
+   },
+   "fa": {
+    "meaning": "آبیتور (دیپلم پایان دبیرستان)"
+   }
+  },
+  "loV8|F?ls#": {
+   "en": {
+    "meaning": "rent",
+    "example": "There I don't pay any rent."
+   },
+   "tr": {
+    "meaning": "kira"
+   },
+   "th": {
+    "meaning": "ค่าเช่า"
+   },
+   "vi": {
+    "meaning": "tiền thuê nhà"
+   },
+   "fa": {
+    "meaning": "اجاره‌بها"
+   }
+  },
+  "K.2WVhRtCc": {
+   "en": {
+    "meaning": "offer; range, selection",
+    "example": "The selection is …"
+   },
+   "tr": {
+    "meaning": "teklif; çeşit, seçenek"
+   },
+   "th": {
+    "meaning": "ข้อเสนอ; ตัวเลือก"
+   },
+   "vi": {
+    "meaning": "sự cung cấp; lựa chọn"
+   },
+   "fa": {
+    "meaning": "پیشنهاد؛ تنوع، گزینه‌ها"
+   },
+   "zh": {
+    "meaning": "供应、可选的东西"
+   }
+  },
+  "JHok.IO6H^": {
+   "en": {
+    "meaning": "to live (reside)",
+    "example": "Where do you live?"
+   },
+   "tr": {
+    "meaning": "oturmak, ikamet etmek"
+   },
+   "th": {
+    "meaning": "อาศัยอยู่"
+   },
+   "vi": {
+    "meaning": "ở, sống"
+   },
+   "fa": {
+    "meaning": "زندگی کردن، ساکن بودن"
+   }
+  },
+  "u+X)T}?Xi2": {
+   "en": {
+    "meaning": "to live",
+    "example": "I live on an island."
+   },
+   "tr": {
+    "meaning": "yaşamak"
+   },
+   "th": {
+    "meaning": "ใช้ชีวิต, อาศัย"
+   },
+   "vi": {
+    "meaning": "sống"
+   },
+   "fa": {
+    "meaning": "زندگی کردن"
+   }
+  },
+  "sZ77X>a^iK": {
+   "en": {
+    "meaning": "to cost",
+    "example": "A room in Cologne costs 359 euros."
+   },
+   "tr": {
+    "meaning": "tutmak, mal olmak"
+   },
+   "th": {
+    "meaning": "ราคา, มีราคา"
+   },
+   "vi": {
+    "meaning": "có giá"
+   },
+   "fa": {
+    "meaning": "قیمت داشتن"
+   }
+  },
+  "zT8|AZBts(": {
+   "en": {
+    "meaning": "to pay (for)",
+    "example": "In Munich you pay 358 euros."
+   },
+   "tr": {
+    "meaning": "ödemek"
+   },
+   "th": {
+    "meaning": "จ่าย"
+   },
+   "vi": {
+    "meaning": "trả tiền"
+   },
+   "fa": {
+    "meaning": "پرداختن"
+   }
+  },
+  "v/e+?jnsa=": {
+   "en": {
+    "meaning": "to pay",
+    "example": "There I don't pay any rent."
+   },
+   "tr": {
+    "meaning": "ödemek"
+   },
+   "th": {
+    "meaning": "จ่าย"
+   },
+   "vi": {
+    "meaning": "trả"
+   },
+   "fa": {
+    "meaning": "پرداختن"
+   }
+  },
+  "faG$`A@Z0A": {
+   "en": {
+    "meaning": "there is, there are",
+    "example": "There are lots of cinemas there."
+   },
+   "tr": {
+    "meaning": "var"
+   },
+   "th": {
+    "meaning": "มี"
+   },
+   "vi": {
+    "meaning": "có"
+   },
+   "fa": {
+    "meaning": "وجود دارد"
+   }
+  },
+  "F<ewMfE{_u": {
+   "en": {
+    "meaning": "to find; to think (opinion)",
+    "example": "I find that very expensive."
+   },
+   "tr": {
+    "meaning": "bulmak; düşünmek"
+   },
+   "th": {
+    "meaning": "หา, พบ; รู้สึกว่า"
+   },
+   "vi": {
+    "meaning": "tìm thấy; thấy rằng"
+   },
+   "fa": {
+    "meaning": "پیدا کردن؛ به نظر رسیدن"
+   }
+  },
+  "FLT^h|Hd({": {
+   "en": {
+    "meaning": "would like",
+    "example": "I would like to live in Hamburg."
+   },
+   "tr": {
+    "meaning": "istemek"
+   },
+   "th": {
+    "meaning": "อยาก"
+   },
+   "vi": {
+    "meaning": "muốn"
+   },
+   "fa": {
+    "meaning": "دوست داشتن، خواستن"
+   }
+  },
+  "BRHd&m=Jn}": {
+   "en": {
+    "meaning": "to move (house)",
+    "example": "He has to move."
+   },
+   "tr": {
+    "meaning": "taşınmak"
+   },
+   "th": {
+    "meaning": "ย้ายบ้าน"
+   },
+   "vi": {
+    "meaning": "chuyển nhà"
+   },
+   "fa": {
+    "meaning": "اسباب‌کشی کردن"
+   }
+  },
+  "B_~-Xe+Z,[": {
+   "en": {
+    "meaning": "to bring (along)",
+    "example": "You can bring a salad."
+   },
+   "tr": {
+    "meaning": "yanında getirmek"
+   },
+   "th": {
+    "meaning": "นำมาด้วย"
+   },
+   "vi": {
+    "meaning": "mang theo"
+   },
+   "fa": {
+    "meaning": "با خود آوردن"
+   }
+  },
+  "rT[$jFz^$8": {
+   "en": {
+    "meaning": "to hang up; to put up",
+    "example": "Write a text and put it up."
+   },
+   "tr": {
+    "meaning": "asmak"
+   },
+   "th": {
+    "meaning": "แขวน; ติด"
+   },
+   "vi": {
+    "meaning": "treo lên; dán lên"
+   },
+   "fa": {
+    "meaning": "آویزان کردن؛ نصب کردن"
+   },
+   "zh": {
+    "meaning": "挂起来；张贴"
+   }
+  },
+  "j^kj%T|Qd": {
+   "en": {
+    "meaning": "to dock, to moor",
+    "example": "No ship could dock."
+   },
+   "tr": {
+    "meaning": "yanaşmak"
+   },
+   "th": {
+    "meaning": "(เรือ) เทียบท่า"
+   },
+   "vi": {
+    "meaning": "cập bến"
+   },
+   "fa": {
+    "meaning": "پهلو گرفتن"
+   }
+  },
+  "BIC]+x}E/|": {
+   "en": {
+    "meaning": "to wake up",
+    "example": "Today we wake up in nature."
+   },
+   "tr": {
+    "meaning": "uyanmak"
+   },
+   "th": {
+    "meaning": "ตื่นนอน"
+   },
+   "vi": {
+    "meaning": "thức dậy"
+   },
+   "fa": {
+    "meaning": "بیدار شدن"
+   }
+  },
+  "M:G($Kj2#O": {
+   "en": {
+    "meaning": "to go there, to travel there",
+    "example": "We can go anywhere."
+   },
+   "tr": {
+    "meaning": "oraya gitmek"
+   },
+   "th": {
+    "meaning": "ไปที่นั่น"
+   },
+   "vi": {
+    "meaning": "đi đến đó"
+   },
+   "fa": {
+    "meaning": "به آنجا رفتن"
+   }
+  },
+  "J?DbCeXjPg": {
+   "en": {
+    "meaning": "to fall in love",
+    "example": "Maybe I'll fall in love for the first time."
+   },
+   "tr": {
+    "meaning": "âşık olmak"
+   },
+   "th": {
+    "meaning": "ตกหลุมรัก"
+   },
+   "vi": {
+    "meaning": "phải lòng, yêu"
+   },
+   "fa": {
+    "meaning": "عاشق شدن"
+   },
+   "zh": {
+    "meaning": "爱上、坠入爱河"
+   }
+  },
+  "zfa*h.p?tW": {
+   "en": {
+    "meaning": "to say goodbye",
+    "example": "Soon it's time for Jana to say goodbye."
+   },
+   "tr": {
+    "meaning": "veda etmek"
+   },
+   "th": {
+    "meaning": "บอกลา"
+   },
+   "vi": {
+    "meaning": "chia tay, từ biệt"
+   },
+   "fa": {
+    "meaning": "خداحافظی کردن"
+   }
+  },
+  "O$jhR>b^z/": {
+   "en": {
+    "meaning": "to bring to safety",
+    "example": "Then all the animals have to be brought to safety."
+   },
+   "tr": {
+    "meaning": "güvenli yere götürmek"
+   },
+   "th": {
+    "meaning": "นำไปยังที่ปลอดภัย"
+   },
+   "vi": {
+    "meaning": "đưa đến nơi an toàn"
+   },
+   "fa": {
+    "meaning": "به جای امن بردن"
+   },
+   "zh": {
+    "example": "那时必须把所有动物转移到安全处。"
+   }
+  }
+ },
+ "grammar": {}
+}

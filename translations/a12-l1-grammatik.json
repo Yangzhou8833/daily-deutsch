@@ -1,0 +1,200 @@
+{
+ "words": {},
+ "grammar": {
+  "mq9s,A%7j": {
+   "en": "Place in position 1 → the verb must be in position 2"
+  },
+  "hY*Qb}I~E;": {
+   "en": "Position word at the start → verb in position 2"
+  },
+  "JYZQkuOm-`": {
+   "en": "Time in position 1 → verb in position 2"
+  },
+  "oe7)$KgnLL": {
+   "en": "Adverbial at the start → verb in position 2"
+  },
+  "d[JQ{h3Y)z": {
+   "en": "The subordinate clause counts as position 1 → the main-clause verb comes right after the comma"
+  },
+  "n7}B~7~vmg": {
+   "en": "Wo? (no movement) → Dativ"
+  },
+  "y^844r6IXZ": {
+   "en": "Wohin? (movement) → Akkusativ"
+  },
+  "xg$}W7s(AQ": {
+   "en": "Wo? → in dem = im"
+  },
+  "A=Bnh:fvGq": {
+   "en": "Wohin? → in das = ins"
+  },
+  "7Af&l/G&+": {
+   "en": "Wo? feminine → in der"
+  },
+  "u#1_Vj^~=q": {
+   "en": "Wohin? feminine → in die"
+  },
+  "Rg*#.C~0ST": {
+   "en": "Wo? masculine → im"
+  },
+  "DH6z30Vc/8": {
+   "en": "Wohin? masculine → in den"
+  },
+  "6uD&vIg^.": {
+   "en": "Wohin? masculine Akkusativ"
+  },
+  "NwF3$knptv": {
+   "en": "gehen = movement → Akkusativ"
+  },
+  "o7wfv?RN8!": {
+   "en": "stehen = no movement → Dativ"
+  },
+  "jq:8wnu#X:": {
+   "en": "liegen = no movement → Dativ"
+  },
+  "KiwfNNSp@_": {
+   "en": "legen = movement → Akkusativ"
+  },
+  "lhxvateh2+": {
+   "en": "gehen → Akkusativ"
+  },
+  "nr8x:1&(zK": {
+   "en": "stehen → Dativ, an dem = am"
+  },
+  "u0t1/!r-;v": {
+   "en": "tun = movement → Akkusativ"
+  },
+  "g}-zXCFC=U": {
+   "en": "stehen = position / stellen = movement"
+  },
+  "n-mcq{DY]-": {
+   "en": "hängen is the same verb for both; the case shows the difference"
+  },
+  "A-3Op8F.|H": {
+   "en": "liegen = position / stellen = movement"
+  },
+  "Aq>]Fk$Y?*": {
+   "en": "legen = to lay flat (movement)"
+  },
+  "FOueNS!#FU": {
+   "en": "hängen (position) is irregular: gehangen"
+  },
+  "geIxt]O!6a": {
+   "en": "hängen (movement) is regular: gehängt"
+  },
+  "d~[7b-YIei": {
+   "en": "Position verb irregular / movement verb regular"
+  },
+  "mQRK[iu$:G": {
+   "en": "Position verb irregular / movement verb regular"
+  },
+  "zzZ17XFVex": {
+   "en": "Position verb irregular / movement verb regular"
+  },
+  "Qn5JYgH_e@": {
+   "en": "On a wall (vertical surface) use an, not auf"
+  },
+  "c`@X$Kx0A_": {
+   "en": "On a horizontal surface use auf"
+  },
+  "v)cvp#Y$bi": {
+   "en": "zwischen + plural Dativ, noun adds -n"
+  },
+  "xV(dG9G<T,": {
+   "en": "Underneath: unter"
+  },
+  "QL(Tb:|Wdp": {
+   "en": "Next to: neben"
+  },
+  "u:dKU&fWfW": {
+   "en": "Behind: hinter; die Box → der"
+  },
+  "NNeQMGW$?Y": {
+   "en": "Above (not touching): über"
+  },
+  "F&++lWKm8`": {
+   "en": "Leaning against: an"
+  },
+  "g`qLVt|7<d": {
+   "en": "Masculine Dativ -em"
+  },
+  "Lj-0Ph26rV": {
+   "en": "Feminine Dativ -er"
+  },
+  "qBzf4Utnrr": {
+   "en": "Plural Dativ -en"
+  },
+  "KQIFcVG2pL": {
+   "en": "Masculine Dativ -em"
+  },
+  "r(5BnLD`*;": {
+   "en": "Plural Dativ -en"
+  },
+  "n(<]TGhkjR": {
+   "en": "Masculine Dativ -em"
+  },
+  "knGGEQF?eV": {
+   "en": "euer drops the e when it takes an ending → eurem"
+  },
+  "nJ!rGC0Ur-": {
+   "en": "Neuter Dativ -em"
+  },
+  "oL-3<X}VZy": {
+   "en": "Plural Dativ -en, noun adds -n"
+  },
+  "IcIJsU:*no": {
+   "en": "Ordinary names just add -s, no apostrophe"
+  },
+  "h<49H,5XEt": {
+   "en": "Names ending in s/ß/x/z only add an apostrophe"
+  },
+  "Nsjz7?Q!P5": {
+   "en": "Ending in x: only an apostrophe"
+  },
+  "mb]:(*]V2=": {
+   "en": "im + compass point + von"
+  },
+  "n*N06[Yw~3": {
+   "en": "Direction adjective + von + Dativ"
+  },
+  "un~_!jvmn/": {
+   "en": "im Westen von"
+  },
+  "7_o?Has%&": {
+   "en": "in der Nähe von + Dativ"
+  },
+  "fBFNmTao1Q": {
+   "en": "A \"yes\" answer to a negative question must use doch"
+  },
+  "t;xj$MyIXH": {
+   "en": "doch contradicts the negative"
+  },
+  "F9Dn%`fXqM": {
+   "en": "EG = ground floor, 1. OG = first floor (one floor up)"
+  },
+  "j+JjtQR<c]": {
+   "en": "Abbreviations in flat ads"
+  },
+  "qIBy6UN=mh": {
+   "en": "Final devoicing (Auslautverhärtung)"
+  },
+  "NMhOei,+0T": {
+   "en": "Final devoicing"
+  },
+  "K.$l?XXSHp": {
+   "en": "s is voiced before a vowel, voiceless at the end of a word"
+  },
+  "MhB>dM4rV:": {
+   "en": "After stehen comes the subject → Nominativ"
+  },
+  "xqe5@:+a{D": {
+   "en": "es gibt + Akkusativ"
+  },
+  "f&o>TKDkd{": {
+   "en": "haben + Akkusativ"
+  },
+  "l/m4f))!7u": {
+   "en": "After sein comes the subject → Nominativ"
+  }
+ }
+}

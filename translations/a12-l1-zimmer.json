@@ -1,0 +1,383 @@
+{
+ "words": {
+  "P_?~I9jfTp": {
+   "en": {
+    "meaning": "living room",
+    "example": "My favourite place is the living room."
+   },
+   "tr": {
+    "meaning": "oturma odası"
+   },
+   "th": {
+    "meaning": "ห้องนั่งเล่น"
+   },
+   "vi": {
+    "meaning": "phòng khách"
+   },
+   "fa": {
+    "meaning": "اتاق نشیمن"
+   }
+  },
+  "kcZta=In1G": {
+   "en": {
+    "meaning": "kitchen",
+    "example": "Then he goes into the kitchen."
+   },
+   "tr": {
+    "meaning": "mutfak"
+   },
+   "th": {
+    "meaning": "ห้องครัว"
+   },
+   "vi": {
+    "meaning": "nhà bếp"
+   },
+   "fa": {
+    "meaning": "آشپزخانه"
+   }
+  },
+  "crFHDs4rp{": {
+   "en": {
+    "meaning": "room",
+    "example": "My favourite place is my room."
+   },
+   "tr": {
+    "meaning": "oda"
+   },
+   "th": {
+    "meaning": "ห้อง"
+   },
+   "vi": {
+    "meaning": "căn phòng"
+   },
+   "fa": {
+    "meaning": "اتاق"
+   }
+  },
+  "b5lvBuLpEl": {
+   "en": {
+    "meaning": "gym, fitness room",
+    "example": "the fitness room in the basement"
+   },
+   "tr": {
+    "meaning": "spor odası"
+   },
+   "th": {
+    "meaning": "ห้องออกกำลังกาย"
+   },
+   "vi": {
+    "meaning": "phòng tập thể dục"
+   },
+   "fa": {
+    "meaning": "اتاق ورزش"
+   }
+  },
+  "$W%rFZgeb": {
+   "en": {
+    "meaning": "cellar, basement",
+    "example": "The box goes in the cellar."
+   },
+   "tr": {
+    "meaning": "bodrum"
+   },
+   "th": {
+    "meaning": "ห้องใต้ดิน"
+   },
+   "vi": {
+    "meaning": "tầng hầm"
+   },
+   "fa": {
+    "meaning": "زیرزمین"
+   }
+  },
+  "mwLa#}TV8l": {
+   "en": {
+    "meaning": "bedroom",
+    "example": "Tim quickly goes into the bedroom."
+   },
+   "tr": {
+    "meaning": "yatak odası"
+   },
+   "th": {
+    "meaning": "ห้องนอน"
+   },
+   "vi": {
+    "meaning": "phòng ngủ"
+   },
+   "fa": {
+    "meaning": "اتاق خواب"
+   }
+  },
+  "P<5F8M?sm^": {
+   "en": {
+    "meaning": "hall, corridor",
+    "example": "He goes into the hall."
+   },
+   "tr": {
+    "meaning": "koridor, hol"
+   },
+   "th": {
+    "meaning": "ทางเดิน"
+   },
+   "vi": {
+    "meaning": "hành lang"
+   },
+   "fa": {
+    "meaning": "راهرو"
+   }
+  },
+  "MKb*.UAk]m": {
+   "en": {
+    "meaning": "garden",
+    "example": "detached house with a garden"
+   },
+   "tr": {
+    "meaning": "bahçe"
+   },
+   "th": {
+    "meaning": "สวน"
+   },
+   "vi": {
+    "meaning": "vườn"
+   },
+   "fa": {
+    "meaning": "باغ، حیاط"
+   }
+  },
+  "J,Ux/,>}_w": {
+   "en": {
+    "meaning": "dining room",
+    "example": "There's a big table in the dining room."
+   },
+   "tr": {
+    "meaning": "yemek odası"
+   },
+   "th": {
+    "meaning": "ห้องรับประทานอาหาร"
+   },
+   "vi": {
+    "meaning": "phòng ăn"
+   },
+   "fa": {
+    "meaning": "اتاق ناهارخوری"
+   }
+  },
+  "w?3qhPkIDn": {
+   "en": {
+    "meaning": "children's room",
+    "example": "The toys go in the children's room."
+   },
+   "tr": {
+    "meaning": "çocuk odası"
+   },
+   "th": {
+    "meaning": "ห้องเด็ก"
+   },
+   "vi": {
+    "meaning": "phòng trẻ em"
+   },
+   "fa": {
+    "meaning": "اتاق بچه"
+   }
+  },
+  "oYD6oUWTbS": {
+   "en": {
+    "meaning": "study",
+    "example": "The books go in the study."
+   },
+   "tr": {
+    "meaning": "çalışma odası"
+   },
+   "th": {
+    "meaning": "ห้องทำงาน"
+   },
+   "vi": {
+    "meaning": "phòng làm việc"
+   },
+   "fa": {
+    "meaning": "اتاق کار"
+   }
+  },
+  "m;x6mt_%z7": {
+   "en": {
+    "meaning": "bathroom",
+    "example": "The bathroom has no window and is small and dark."
+   },
+   "tr": {
+    "meaning": "banyo"
+   },
+   "th": {
+    "meaning": "ห้องน้ำ"
+   },
+   "vi": {
+    "meaning": "phòng tắm"
+   },
+   "fa": {
+    "meaning": "حمام"
+   }
+  },
+  "d5`uz<tnIB": {
+   "en": {
+    "meaning": "toilet",
+    "example": "The toilet is next to the bathroom."
+   },
+   "tr": {
+    "meaning": "tuvalet"
+   },
+   "th": {
+    "meaning": "ห้องส้วม"
+   },
+   "vi": {
+    "meaning": "nhà vệ sinh"
+   },
+   "fa": {
+    "meaning": "توالت"
+   }
+  },
+  "K{g4yXZM7`": {
+   "en": {
+    "meaning": "toilet, WC",
+    "example": "The flat has a guest toilet."
+   },
+   "tr": {
+    "meaning": "WC, tuvalet"
+   },
+   "th": {
+    "meaning": "ห้องน้ำ (สุขา)"
+   },
+   "vi": {
+    "meaning": "nhà vệ sinh"
+   },
+   "fa": {
+    "meaning": "دستشویی"
+   }
+  },
+  "QPg;aIj9C8": {
+   "en": {
+    "meaning": "storeroom, box room",
+    "example": "There are lots of boxes in the storeroom."
+   },
+   "tr": {
+    "meaning": "kiler"
+   },
+   "th": {
+    "meaning": "ห้องเก็บของ"
+   },
+   "vi": {
+    "meaning": "phòng chứa đồ"
+   },
+   "fa": {
+    "meaning": "انباری"
+   }
+  },
+  "H^-`uVs[`i": {
+   "en": {
+    "meaning": "balcony",
+    "example": "Our living room has a balcony! The balcony is big."
+   },
+   "tr": {
+    "meaning": "balkon"
+   },
+   "th": {
+    "meaning": "ระเบียง"
+   },
+   "vi": {
+    "meaning": "ban công"
+   },
+   "fa": {
+    "meaning": "بالکن"
+   }
+  },
+  "s#|kXK9v*A": {
+   "en": {
+    "meaning": "bright, light",
+    "example": "Her room is big and bright too!"
+   },
+   "tr": {
+    "meaning": "aydınlık"
+   },
+   "th": {
+    "meaning": "สว่าง"
+   },
+   "vi": {
+    "meaning": "sáng sủa"
+   },
+   "fa": {
+    "meaning": "روشن"
+   }
+  },
+  "v(;fhNEEG*": {
+   "en": {
+    "meaning": "dark",
+    "example": "The bathroom is small and dark."
+   },
+   "tr": {
+    "meaning": "karanlık"
+   },
+   "th": {
+    "meaning": "มืด"
+   },
+   "vi": {
+    "meaning": "tối"
+   },
+   "fa": {
+    "meaning": "تاریک"
+   }
+  },
+  "z4l%I+@u}c": {
+   "en": {
+    "meaning": "open",
+    "example": "The door is open."
+   },
+   "tr": {
+    "meaning": "açık"
+   },
+   "th": {
+    "meaning": "เปิดอยู่"
+   },
+   "vi": {
+    "meaning": "mở"
+   },
+   "fa": {
+    "meaning": "باز"
+   }
+  },
+  "q.gWs#]TL~": {
+   "en": {
+    "meaning": "closed",
+    "example": "Astrid's room is closed."
+   },
+   "tr": {
+    "meaning": "kapalı"
+   },
+   "th": {
+    "meaning": "ปิดอยู่"
+   },
+   "vi": {
+    "meaning": "đóng"
+   },
+   "fa": {
+    "meaning": "بسته"
+   }
+  },
+  "r(Eb8W+AeP": {
+   "en": {
+    "meaning": "cosy",
+    "example": "Candles make your home cosy."
+   },
+   "tr": {
+    "meaning": "rahat, sıcak"
+   },
+   "th": {
+    "meaning": "อบอุ่น, น่าอยู่"
+   },
+   "vi": {
+    "meaning": "ấm cúng"
+   },
+   "fa": {
+    "meaning": "دنج، دلپذیر"
+   }
+  }
+ },
+ "grammar": {}
+}
