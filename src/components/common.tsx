@@ -1,12 +1,13 @@
-import type { ReactNode } from "react";
+import { useEffect, useRef, useState, type ReactNode } from "react";
 import { Link } from "react-router-dom";
-import { useAccount } from "../account";
-import { LANGS, setLang, useLang } from "../i18n";
+import { updateProfile, useAccount } from "../account";
+import { LANGS, setLang, setUiLang, UI_LANGS, useLang, type UiLang } from "../i18n";
+import type { Lang } from "../types";
 import type { Word } from "../types";
 import { speak } from "../util";
 
 export function Header({ back, title }: { back?: string; title?: string }) {
-  const { t, lang } = useLang();
+  const { t } = useLang();
   const acc = useAccount();
   return (
     <header className="header">
@@ -20,19 +21,66 @@ export function Header({ back, title }: { back?: string; title?: string }) {
         </Link>
       )}
       {title && <span className="header-title">{title}</span>}
-      <select className="lang" value={lang} onChange={(e) => setLang(e.target.value as typeof lang)} aria-label="Language">
-        {LANGS.map((l) => (
-          <option key={l.code} value={l.code}>
-            {l.label}
-          </option>
-        ))}
-      </select>
+      <LangMenu />
       {acc.status !== "off" && (
         <Link to="/account" className={`avatar ${acc.status === "in" ? "in" : ""}`} aria-label={t("account")}>
           {acc.status === "in" ? (acc.profile?.display_name ?? "?").slice(0, 1).toUpperCase() : "👤"}
         </Link>
       )}
     </header>
+  );
+}
+
+/** "🌐 DE · TR" button opening two pickers: interface language and explanation language. */
+function LangMenu() {
+  const { t, lang, uiLang } = useLang();
+  const acc = useAccount();
+  const [open, setOpen] = useState(false);
+  const ref = useRef<HTMLDivElement>(null);
+  useEffect(() => {
+    if (!open) return;
+    const close = (e: PointerEvent) => !ref.current?.contains(e.target as Node) && setOpen(false);
+    document.addEventListener("pointerdown", close);
+    return () => document.removeEventListener("pointerdown", close);
+  }, [open]);
+
+  return (
+    <div className="lang-menu" ref={ref}>
+      <button type="button" className="lang" onClick={() => setOpen(!open)} aria-expanded={open} aria-label="Language">
+        🌐 {uiLang.toUpperCase()} · {lang.toUpperCase()}
+      </button>
+      {open && (
+        <div className="lang-pop">
+          <label>
+            {t("uiLang")}
+            <select value={uiLang} onChange={(e) => setUiLang(e.target.value as UiLang)}>
+              {UI_LANGS.map((l) => (
+                <option key={l.code} value={l.code}>
+                  {l.label}
+                </option>
+              ))}
+            </select>
+          </label>
+          <label>
+            {t("nativeLang")}
+            <select
+              value={lang}
+              onChange={(e) => {
+                const next = e.target.value as Lang;
+                setLang(next);
+                if (acc.status === "in") updateProfile({ native_lang: next });
+              }}
+            >
+              {LANGS.map((l) => (
+                <option key={l.code} value={l.code}>
+                  {l.label}
+                </option>
+              ))}
+            </select>
+          </label>
+        </div>
+      )}
+    </div>
   );
 }
 

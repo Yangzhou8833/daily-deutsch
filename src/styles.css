@@ -235,3 +235,15 @@ h2 { font-size: 1.1rem; margin: 1.8rem 0 0.6rem; }
 .invite code { flex: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; background: var(--bg); padding: 8px 10px; border-radius: 8px; font-size: 0.85rem; }
 .small-btn { min-height: 36px; padding: 6px 12px; }
 .code { letter-spacing: 0.15em; }
+
+/* language menu */
+.lang-menu { position: relative; margin-left: auto; }
+.lang { cursor: pointer; white-space: nowrap; font-size: 0.9rem; }
+.lang-pop {
+  position: absolute; right: 0; top: calc(100% + 6px); z-index: 10; width: 210px;
+  display: flex; flex-direction: column; gap: 10px; padding: 12px;
+  background: var(--surface); border: 1px solid var(--line); border-radius: 12px;
+  box-shadow: 0 8px 24px rgb(0 0 0 / 0.12);
+}
+.lang-pop label { display: flex; flex-direction: column; gap: 4px; font-size: 0.8rem; color: var(--muted); }
+.lang-pop select { padding: 8px; border-radius: 8px; border: 1px solid var(--line); background: var(--bg); color: var(--text); font-size: 0.95rem; }
