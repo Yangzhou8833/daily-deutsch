@@ -39,7 +39,8 @@ function pluralChoices(singular: string, plural: string): string[] {
 
 export default function PluralDrill({ lesson, backTo }: { lesson: Lesson; backTo: string }) {
   const { pick } = useLang();
-  const quiz = useQuiz(lesson.words.filter((w) => w.article && w.plural));
+  // plural-only nouns (die Kopfschmerzen) have nothing to ask
+  const quiz = useQuiz(lesson.words.filter((w) => w.article && w.plural && !w.info?.includes("nur Plural")));
   const w = quiz.item;
   const choices = useMemo(() => (w ? pluralChoices(w.word, w.plural!) : []), [w]);
   const right = w ? stripArticle(w.plural!) : "";

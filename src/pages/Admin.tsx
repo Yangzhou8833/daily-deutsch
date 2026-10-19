@@ -53,7 +53,8 @@ function useText() {
   return TEXT[uiLang === "zh" ? "zh" : "en"];
 }
 
-const LANGS: Lang[] = ["zh", "en", "tr"];
+const LANGS: Lang[] = ["zh", "en", "tr", "th", "vi", "fa"]; // meanings
+const NOTE_LANGS: Lang[] = ["zh", "en"]; // example translations, grammar hints
 const LEVELS = ["A1", "A2", "B1", "B2"];
 
 function slugify(s: string) {
@@ -172,11 +173,11 @@ export function AdminHome() {
 
 // ---------------------------------------------------------------- field editors
 
-function TranslatedInputs({ value, onChange, label }: { value: Translated; onChange: (v: Translated) => void; label: string }) {
+function TranslatedInputs({ value, onChange, label, langs = LANGS }: { value: Translated; onChange: (v: Translated) => void; label: string; langs?: Lang[] }) {
   return (
     <fieldset className="tr-inputs">
       <legend>{label}</legend>
-      {LANGS.map((l) => (
+      {langs.map((l) => (
         <label key={l}>
           <span>{l}</span>
           <input value={value[l] ?? ""} onChange={(e) => onChange({ ...value, [l]: e.target.value })} />
@@ -222,7 +223,7 @@ function WordEditor({ w, onChange, onRemove, open }: { w: Word; onChange: (w: Wo
         )}
         <TranslatedInputs label={T.meaning} value={w.meaning} onChange={(meaning) => set({ meaning })} />
         <input placeholder={T.example} value={w.example} onChange={(e) => set({ example: e.target.value })} />
-        <TranslatedInputs label={T.exampleTr} value={w.example_tr} onChange={(example_tr) => set({ example_tr })} />
+        <TranslatedInputs label={T.exampleTr} langs={NOTE_LANGS} value={w.example_tr} onChange={(example_tr) => set({ example_tr })} />
         <div className="row">
           <input placeholder={T.cloze} value={w.cloze ?? ""} onChange={(e) => set({ cloze: orNull(e.target.value) })} className="grow" />
           <input placeholder={T.answer} value={w.answer ?? ""} onChange={(e) => set({ answer: orNull(e.target.value) })} />
@@ -241,7 +242,7 @@ function GrammarEditor({ g, onChange, onRemove }: { g: GrammarCard; onChange: (g
   return (
     <div className="panel grammar-edit">
       <input placeholder={T.grammarText} value={g.text} onChange={(e) => onChange({ ...g, text: e.target.value })} />
-      <TranslatedInputs label={T.hint} value={g.hint} onChange={(hint) => onChange({ ...g, hint })} />
+      <TranslatedInputs label={T.hint} langs={NOTE_LANGS} value={g.hint} onChange={(hint) => onChange({ ...g, hint })} />
       <button type="button" className="link-btn danger" onClick={onRemove}>
         {T.removeWord}
       </button>

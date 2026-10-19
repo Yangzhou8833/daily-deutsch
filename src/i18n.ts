@@ -6,6 +6,9 @@ export const LANGS: { code: Lang; label: string }[] = [
   { code: "zh", label: "中文" },
   { code: "en", label: "English" },
   { code: "tr", label: "Türkçe" },
+  { code: "th", label: "ไทย" },
+  { code: "vi", label: "Tiếng Việt" },
+  { code: "fa", label: "فارسی" },
 ];
 
 /** Languages for the interface itself. */
@@ -31,6 +34,7 @@ const UI = {
   back: { de: "Zurück", zh: "返回", en: "Back", tr: "Geri" },
   loading: { de: "Lädt…", zh: "加载中…", en: "Loading…", tr: "Yükleniyor…" },
   loadError: { de: "Laden fehlgeschlagen — bitte neu laden", zh: "加载失败，请刷新", en: "Couldn't load — please refresh", tr: "Yüklenemedi — lütfen yenile" },
+  noTranslationEn: { de: "Noch keine Übersetzung in deiner Sprache — Englisch wird angezeigt", zh: "该课暂无此语言翻译，先显示英文", en: "No translation in your language yet — showing English", tr: "Henüz bu dilde çeviri yok — İngilizce gösteriliyor" },
   noTranslation: { de: "Noch keine Übersetzung in deiner Sprache — Chinesisch wird angezeigt", zh: "该课暂无此语言翻译，先显示中文", en: "No translation in your language yet — showing Chinese", tr: "Henüz Türkçe çeviri yok — Çince gösteriliyor" },
   // modes
   learn: { de: "Karteikarten", zh: "背单词", en: "Flashcards", tr: "Kartlar" },
@@ -141,6 +145,18 @@ const UI = {
   confirmRemove: { de: "{name} aus dem Kurs entfernen?", zh: "确定把 {name} 移出班级？", en: "Remove {name} from the class?", tr: "{name} sınıftan çıkarılsın mı?" },
   members: { de: "Mitglieder", zh: "名成员", en: "members", tr: "üye" },
   editor: { de: "Lektionen erstellen (KI)", zh: "课程管理（AI 生成）", en: "Lesson editor (AI)", tr: "Ders editörü (YZ)" },
+  sentence: { de: "Sätze übersetzen", zh: "句子翻译", en: "Translate sentences", tr: "Cümle çevirisi" },
+  sentenceDesc: { de: "Chinesisch → Deutsch", zh: "看中文，说出德语", en: "Chinese → German", tr: "Çince → Almanca" },
+  sayIt: { de: "Sag den Satz auf Deutsch, dann prüfe", zh: "先在心里说出德语，再看答案", en: "Say it in German, then check", tr: "Almanca söyle, sonra kontrol et" },
+  knewIt: { de: "Gewusst", zh: "会了", en: "Got it", tr: "Bildim" },
+  notYet: { de: "Noch nicht", zh: "还不会", en: "Not yet", tr: "Henüz değil" },
+  hideWord: { de: "Dieses Wort nicht lernen", zh: "不背这个词", en: "Don't learn this word", tr: "Bu kelimeyi öğrenme" },
+  hiddenWords: { de: "Ausgeblendete Wörter", zh: "已隐藏的词", en: "Hidden words", tr: "Gizlenen kelimeler" },
+  restore: { de: "Wiederherstellen", zh: "恢复", en: "Restore", tr: "Geri al" },
+  hidden: { de: "ausgeblendet", zh: "已隐藏", en: "hidden", tr: "gizli" },
+  undo: { de: "Rückgängig", zh: "撤销", en: "Undo", tr: "Geri al" },
+  wordHidden: { de: "Wort ausgeblendet", zh: "已隐藏这个词", en: "Word hidden", tr: "Kelime gizlendi" },
+  units: { de: "Einheiten", zh: "个单元", en: "units", tr: "ünite" },
   uiLang: { de: "Oberfläche", zh: "界面语言", en: "Interface", tr: "Arayüz" },
   weekStarts: { de: "Startet jeden Montag neu", zh: "每周一重新计算", en: "Resets every Monday", tr: "Her pazartesi sıfırlanır" },
 } satisfies Record<string, Record<UiLang, string>>;
@@ -169,9 +185,11 @@ function persist(key: string, value: string) {
   listeners.forEach((l) => l());
 }
 
-const navLang = (["zh", "tr", "de"] as const).find((l) => nav.startsWith(l));
-let meaning: Lang = saved("dd:lang", ["zh", "en", "tr"], navLang === "zh" || navLang === "tr" ? navLang : "en");
-let ui: UiLang = saved("dd:ui", ["de", "en", "zh", "tr"], navLang ?? "en");
+const MEANING_LANGS: Lang[] = ["zh", "en", "tr", "th", "vi", "fa"];
+const navMeaning = MEANING_LANGS.find((l) => nav.startsWith(l));
+const navUi = (["zh", "tr", "de"] as const).find((l) => nav.startsWith(l));
+let meaning: Lang = saved("dd:lang", MEANING_LANGS, navMeaning ?? "en");
+let ui: UiLang = saved("dd:ui", ["de", "en", "zh", "tr"], navUi ?? "en");
 document.documentElement.lang = ui;
 
 /** Explanation language for meanings and example translations. */

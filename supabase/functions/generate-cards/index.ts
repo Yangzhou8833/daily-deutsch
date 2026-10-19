@@ -26,12 +26,15 @@ const CORS = {
   "Access-Control-Allow-Methods": "POST, OPTIONS",
 };
 
-const translated = {
+// Meanings in every explanation language; example sentences and grammar hints in Chinese and English.
+const MEANING_LANGS = ["zh", "en", "tr", "th", "vi", "fa"];
+const NOTE_LANGS = ["zh", "en"];
+const translated = (langs: string[]) => ({
   type: "object",
-  properties: { zh: { type: "string" }, en: { type: "string" }, tr: { type: "string" } },
-  required: ["zh", "en", "tr"],
+  properties: Object.fromEntries(langs.map((l) => [l, { type: "string" }])),
+  required: langs,
   additionalProperties: false,
-};
+});
 
 const OUTPUT_SCHEMA = {
   type: "object",
@@ -48,9 +51,9 @@ const OUTPUT_SCHEMA = {
           plural: { type: "string" },
           info: { type: "string" },
           level: { type: "string", enum: ["A1", "A2", "B1", "B2", ""] },
-          meaning: translated,
+          meaning: translated(MEANING_LANGS),
           example: { type: "string" },
-          example_tr: translated,
+          example_tr: translated(NOTE_LANGS),
           cloze: { type: "string" },
           answer: { type: "string" },
         },
@@ -62,7 +65,7 @@ const OUTPUT_SCHEMA = {
       type: "array",
       items: {
         type: "object",
-        properties: { text: { type: "string" }, hint: translated },
+        properties: { text: { type: "string" }, hint: translated(NOTE_LANGS) },
         required: ["text", "hint"],
         additionalProperties: false,
       },
@@ -72,7 +75,7 @@ const OUTPUT_SCHEMA = {
   additionalProperties: false,
 };
 
-const SYSTEM = `You turn German course material (textbook photos or pasted text) into vocabulary cards for an adult German class in Germany. Learners come from many countries; every explanation is given in simplified Chinese (zh), English (en) and Turkish (tr).
+const SYSTEM = `You turn German course material (textbook photos or pasted text) into vocabulary cards for an adult German class in Germany. Learners come from many countries: word meanings are given in simplified Chinese (zh), English (en), Turkish (tr), Thai (th), Vietnamese (vi) and Persian/Farsi (fa); example translations and grammar hints in Chinese and English.
 
 What to extract
 - The words and expressions a learner at the stated level should learn from this material: content words, useful fixed phrases, and verbs with their typical preposition. Skip proper names, numbers, and words that are trivial at this level. If a list of already-learned words is given, skip those unless the material uses them with a new meaning.
@@ -85,7 +88,7 @@ Field rules
 - plural: nouns only, written with the article, e.g. "die Häuser". "" if the noun has no plural, and for non-nouns.
 - info: "" for nouns. Otherwise a short grammar note in German grammar terms only, for example "trennbar · fuhr ab · ist abgefahren" (mark trennbar, give Präteritum and Perfekt, add "du fährst" when the stem changes), "größer – am größten" or "keine Steigerung" for adjectives, "+ Dativ" for case government, or the word class such as "Adverb" or "Konjunktion".
 - level: CEFR level of the word (A1–B2), "" if unsure.
-- meaning: short, natural glosses in each language, 1–3 equivalents; separate different senses with ";".
+- meaning: short, natural glosses in each language, 1–3 equivalents; separate different senses with ";". Persian in Persian script.
 - example: one natural sentence at the learner's level, at most about 12 words, taken from the material when it has a good one. example_tr: faithful translations.
 - cloze: the example with exactly one "___" replacing the word as it appears in that sentence; answer: exactly the replaced text, inflected as in the sentence. Choose an example in which the word appears as one contiguous form (for separable verbs use the Perfekt, the infinitive after a modal verb, or a subordinate clause).
 - grammar text: Anki cloze syntax, e.g. "Ich {{c1::hätte}} gern mehr Zeit." (c1, c2 … for several gaps). hint: the rule in one short line per language.

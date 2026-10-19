@@ -2,7 +2,7 @@ import { useMemo, useState } from "react";
 import { Link } from "react-router-dom";
 import { Example, GrammarLine, Headword } from "../components/common";
 import { useLang, type UIKey } from "../i18n";
-import { dueIds, getCard, previewDue, Rating, review, type Grade } from "../store";
+import { dueIds, getCard, isHidden, previewDue, Rating, review, setHidden, type Grade } from "../store";
 import type { Word } from "../types";
 import { shortInterval } from "../util";
 
@@ -24,7 +24,7 @@ interface Item {
 function buildQueue(pool: Item[], newCount: number): Item[] {
   const byId = new Map(pool.map((i) => [i.word.id, i]));
   const due = dueIds().flatMap((id) => byId.get(id) ?? []);
-  const fresh = pool.filter((i) => !getCard(i.word.id)).slice(0, newCount);
+  const fresh = pool.filter((i) => !getCard(i.word.id) && !isHidden(i.word.id)).slice(0, newCount);
   return [...due, ...fresh];
 }
 
@@ -33,6 +33,7 @@ export default function Learn({ pool, backTo, allowNew = true }: { pool: Item[];
   const [queue, setQueue] = useState(() => buildQueue(pool, allowNew ? NEW_PER_SESSION : 0));
   const [shown, setShown] = useState(false);
   const [doneCount, setDoneCount] = useState(0);
+  const [undo, setUndo] = useState<Item | null>(null);
   const current = queue[0];
   const intervals = useMemo(() => (current ? previewDue(current.word.id) : null), [current]);
 
@@ -62,9 +63,31 @@ export default function Learn({ pool, backTo, allowNew = true }: { pool: Item[];
     setShown(false);
   };
 
+  const hide = () => {
+    setHidden(current.word.id, current.lesson, true);
+    setQueue(queue.filter((i) => i.word.id !== current.word.id));
+    setShown(false);
+    setUndo(current);
+  };
+
   const w = current.word;
   return (
     <div className="study">
+      {undo && (
+        <div className="toast">
+          {t("wordHidden")}: <b>{undo.word.word}</b>
+          <button
+            className="link-btn"
+            onClick={() => {
+              setHidden(undo.word.id, undo.lesson, false);
+              setQueue([undo, ...queue]);
+              setUndo(null);
+            }}
+          >
+            {t("undo")}
+          </button>
+        </div>
+      )}
       <div className="study-count muted">
         {queue.length} {t("left")} · ✓ {doneCount}
       </div>
@@ -95,6 +118,9 @@ export default function Learn({ pool, backTo, allowNew = true }: { pool: Item[];
           {t("showAnswer")}
         </button>
       )}
+      <button className="link-btn hide-word" onClick={hide}>
+        🚫 {t("hideWord")}
+      </button>
     </div>
   );
 }

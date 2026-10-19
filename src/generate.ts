@@ -41,9 +41,9 @@ interface RawWord {
   plural: string;
   info: string;
   level: string;
-  meaning: Record<Lang, string>;
+  meaning: Partial<Record<Lang, string>>;
   example: string;
-  example_tr: Record<Lang, string>;
+  example_tr: Partial<Record<Lang, string>>;
   cloze: string;
   answer: string;
 }
@@ -51,7 +51,7 @@ interface RawResult {
   title_suggestion: string;
   note: string;
   words: RawWord[];
-  grammar: { text: string; hint: Record<Lang, string> }[];
+  grammar: { text: string; hint: Partial<Record<Lang, string>> }[];
 }
 
 export interface GenerateRequest {

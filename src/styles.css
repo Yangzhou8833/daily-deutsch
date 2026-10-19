@@ -288,3 +288,28 @@ h2 { font-size: 1.1rem; margin: 1.8rem 0 0.6rem; }
 .word-grid > input, .grammar-edit > input, .tr-inputs input, .word-grid .row input.grow { width: 100%; }
 .word-grid .row input:not(.grow) { width: 38%; }
 .form .row label { min-width: 0; }
+
+/* course grouping, hidden words, sentences, right-to-left explanations */
+.course h2 { margin-top: 1.6rem; }
+.crumb { margin: 4px 0 0; }
+.lektion { margin-bottom: 10px; }
+.lektion > summary {
+  cursor: pointer; display: flex; align-items: center; gap: 8px; padding: 10px 4px; font-weight: 650;
+  list-style: none; border-bottom: 1px solid var(--line); margin-bottom: 10px;
+}
+.lektion > summary::-webkit-details-marker { display: none; }
+.lektion > summary::before { content: "▸"; color: var(--muted); transition: transform 0.15s; }
+.lektion[open] > summary::before { transform: rotate(90deg); }
+.lektion-title { flex: 1; }
+.hide-word { align-self: center; color: var(--muted); }
+.toast {
+  display: flex; align-items: center; gap: 8px; flex-wrap: wrap; padding: 8px 12px; border-radius: 10px;
+  background: var(--surface); border: 1px solid var(--line); font-size: 0.9rem;
+}
+.toast .link-btn { margin-left: auto; }
+.wordlist li.is-hidden { opacity: 0.45; }
+.wl-toggle { margin-left: auto; color: var(--muted); }
+.sentence-de { font-size: 1.15rem; font-weight: 600; }
+.grade-no { color: var(--bad); }
+/* Persian is right-to-left: each translated line takes its direction from its own text */
+.meaning, .example .muted, .wl-meaning, .gram, .feedback, .notice { unicode-bidi: plaintext; }

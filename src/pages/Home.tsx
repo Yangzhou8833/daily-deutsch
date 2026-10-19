@@ -4,6 +4,49 @@ import { Loading, Page, ProgressBar } from "../components/common";
 import { loadIndex, useAsync } from "../data";
 import { useLang } from "../i18n";
 import { dueLessons, learnedCount, streak, useProgress } from "../store";
+import type { LessonSummary } from "../types";
+
+interface Group {
+  name: string;
+  lessons: LessonSummary[];
+}
+
+/** course → Lektion → units, in index order; lessons made in the editor form their own group. */
+function groupLessons(lessons: LessonSummary[]) {
+  const courses = new Map<string, Map<string, LessonSummary[]>>();
+  for (const l of lessons) {
+    const course = l.course ?? "";
+    if (!courses.has(course)) courses.set(course, new Map());
+    const groups = courses.get(course)!;
+    const key = l.lektion ?? "";
+    if (!groups.has(key)) groups.set(key, []);
+    groups.get(key)!.push(l);
+  }
+  return [...courses].map(([course, groups]) => ({
+    course,
+    groups: [...groups].map(([name, ls]): Group => ({ name, lessons: ls })),
+  }));
+}
+
+function LessonCard({ l, due, isNew }: { l: LessonSummary; due?: number; isNew?: boolean }) {
+  const { t } = useLang();
+  const learned = learnedCount(l.id);
+  return (
+    <li>
+      <Link to={`/lesson/${l.id}`} className="lesson-card">
+        <div className="lesson-top">
+          <span className="lesson-title">{l.title}</span>
+          {isNew && <span className="pill">{t("newest")}</span>}
+          {due ? <span className="pill due">{due}</span> : null}
+        </div>
+        <div className="lesson-meta muted">
+          {l.words > 0 ? `${l.words} ${t("words")} · ${learned} ${t("learned")}` : `${l.grammar} ${t("grammar")}`}
+        </div>
+        {l.words > 0 && <ProgressBar value={learned} max={l.words} />}
+      </Link>
+    </li>
+  );
+}
 
 export default function Home() {
   const { t } = useLang();
@@ -13,6 +56,7 @@ export default function Home() {
   const dueTotal = Object.values(due).reduce((a, b) => a + b, 0);
   const days = streak();
   const acc = useAccount();
+  const newestId = lessons?.filter((l) => l.course).reduce((a, b) => (b.date > a.date ? b : a), lessons[0])?.id;
 
   return (
     <Page>
@@ -48,30 +92,38 @@ export default function Home() {
         </Link>
       )}
 
-      <h2>{t("lessons")}</h2>
       {!lessons ? (
         <Loading value={lessons} />
       ) : (
-        <ul className="lessons">
-          {lessons.map((l, i) => {
-            const learned = learnedCount(l.id);
-            return (
-              <li key={l.id}>
-                <Link to={`/lesson/${l.id}`} className="lesson-card">
-                  <div className="lesson-top">
-                    <span className="lesson-title">{l.title}</span>
-                    {i === 0 && <span className="pill">{t("newest")}</span>}
-                    {due[l.id] ? <span className="pill due">{due[l.id]}</span> : null}
-                  </div>
-                  <div className="lesson-meta muted">
-                    {l.date} · {l.words} {t("words")} · {learned} {t("learned")}
-                  </div>
-                  <ProgressBar value={learned} max={l.words} />
-                </Link>
-              </li>
-            );
-          })}
-        </ul>
+        groupLessons(lessons).map(({ course, groups }, ci) => (
+          <section key={course || "editor"} className="course">
+            <h2>{course || t("lessons")}</h2>
+            {groups.map((g) => {
+              const groupDue = g.lessons.reduce((n, l) => n + (due[l.id] ?? 0), 0);
+              const body = (
+                <ul className="lessons">
+                  {g.lessons.map((l) => (
+                    <LessonCard key={l.id} l={l} due={due[l.id]} isNew={l.id === newestId} />
+                  ))}
+                </ul>
+              );
+              // editor-made lessons have no Lektion: list them without a fold
+              if (!g.name) return <div key="_">{body}</div>;
+              return (
+                <details key={g.name} className="lektion" open={ci === 0}>
+                  <summary>
+                    <span className="lektion-title">{g.name}</span>
+                    <span className="muted small">
+                      {g.lessons.length} {t("units")}
+                    </span>
+                    {groupDue > 0 && <span className="pill due">{groupDue}</span>}
+                  </summary>
+                  {body}
+                </details>
+              );
+            })}
+          </section>
+        ))
       )}
       <p className="muted center small">{acc.status === "in" ? t("progressSynced") : t("progressLocal")}</p>
     </Page>

@@ -130,8 +130,13 @@ export function Headword({ word, hideArticle }: { word: Word; hideArticle?: bool
 /** Grammar line under the headword: plural for nouns, forms / labels otherwise. */
 export function GrammarLine({ word }: { word: Word }) {
   const { t, pick } = useLang();
-  if (word.article) return <div className="gram">{word.plural ?? t("noPlural")}</div>;
   const note = word.info ?? pick(word.info_tr);
+  if (word.article) {
+    // "nur Singular" / "nur Plural" notes already say what the plural line would
+    const plural = word.plural && !note?.includes("nur Plural") ? word.plural : note?.includes("nur ") ? null : t("noPlural");
+    const line = [plural, note].filter(Boolean).join(" · ");
+    return line ? <div className="gram">{line}</div> : null;
+  }
   return note ? <div className="gram">{note}</div> : null;
 }
 
@@ -149,7 +154,8 @@ export function Example({ word }: { word: Word }) {
 
 export function TranslationNotice({ langs }: { langs: string[] }) {
   const { lang, t } = useLang();
-  return langs.includes(lang) ? null : <p className="notice">{t("noTranslation")}</p>;
+  if (langs.includes(lang)) return null;
+  return <p className="notice">{langs.includes("en") ? t("noTranslationEn") : t("noTranslation")}</p>;
 }
 
 export function ProgressBar({ value, max }: { value: number; max: number }) {

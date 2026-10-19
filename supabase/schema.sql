@@ -278,3 +278,7 @@ create policy "editors delete" on public.lessons for delete to authenticated usi
 
 grant select on public.lessons to anon, authenticated;
 grant insert, update, delete on public.lessons to authenticated;
+
+-- ================================================================ v3: hide words
+-- A learner can hide a word they don't want to study; it syncs like the card state.
+alter table public.card_states add column if not exists hidden boolean not null default false;

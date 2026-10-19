@@ -3,8 +3,7 @@
  * Offline-first: answers are saved locally right away and uploaded in small batches;
  * on sign-in the server copy is merged in so several devices share one progress.
  */
-import type { Card } from "ts-fsrs";
-import { markUploaded, mergeRemote, pendingUpload, subscribe, type LogEvent } from "./store";
+import { changedAt, markUploaded, mergeRemote, pendingUpload, subscribe, type LogEvent, type RemoteCard } from "./store";
 import { supabase } from "./supabase";
 import type { DrillMode } from "./types";
 
@@ -13,6 +12,9 @@ const CHUNK = 500;
 const PULL_DAYS = 90;
 
 let userId: string | null = null;
+/** False until the database has the card_states.hidden column (added in schema v3). */
+let hasHiddenColumn = true;
+const missingHidden = (error: { message?: string } | null) => !!error?.message?.includes("hidden");
 let flushing: Promise<void> | null = null;
 let timer: ReturnType<typeof setTimeout> | undefined;
 
@@ -30,9 +32,19 @@ async function upload(uid: string) {
   const { cards, events } = pendingUpload();
   for (let i = 0; i < cards.length; i += CHUNK) {
     const part = cards.slice(i, i + CHUNK);
-    const { error } = await supabase!.from("card_states").upsert(
-      part.map(([id, e]) => ({ user_id: uid, word_id: id, lesson_id: e.lesson, card: e.card, updated_at: new Date().toISOString() })),
-    );
+    const rows = part.map(([id, e]) => ({
+      user_id: uid,
+      word_id: id,
+      lesson_id: e.lesson,
+      card: e.card,
+      ...(hasHiddenColumn ? { hidden: !!e.hidden } : {}),
+      updated_at: new Date(changedAt(e) || Date.now()).toISOString(),
+    }));
+    let { error } = await supabase!.from("card_states").upsert(rows);
+    if (missingHidden(error)) {
+      hasHiddenColumn = false;
+      ({ error } = await supabase!.from("card_states").upsert(rows.map(({ hidden: _, ...r }) => r)));
+    }
     if (error) throw error;
     markUploaded(part, []);
   }
@@ -71,9 +83,13 @@ export async function fullSync(uid: string) {
   userId = uid;
   const since = new Date(Date.now() - PULL_DAYS * 864e5).toISOString();
   const [cards, events] = await Promise.all([
-    pullAll<{ word_id: string; lesson_id: string; card: Card }>((a, b) =>
-      supabase!.from("card_states").select("word_id, lesson_id, card").eq("user_id", uid).range(a, b),
-    ),
+    pullAll<RemoteCard>(async (a, b) => {
+      const res = await supabase!.from("card_states").select("word_id, lesson_id, card, hidden, updated_at").eq("user_id", uid).range(a, b);
+      if (!missingHidden(res.error)) return res as { data: RemoteCard[] | null; error: unknown };
+      hasHiddenColumn = false;
+      const old = await supabase!.from("card_states").select("word_id, lesson_id, card, updated_at").eq("user_id", uid).range(a, b);
+      return { data: (old.data ?? []).map((r) => ({ ...r, hidden: false }) as RemoteCard), error: old.error };
+    }),
     pullAll<{ word_id: string; lesson_id: string; mode: DrillMode; ok: boolean; grade: number | null; created_at: string }>((a, b) =>
       supabase!
         .from("review_events")

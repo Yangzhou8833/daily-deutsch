@@ -9,9 +9,13 @@ import type { DrillMode } from "./types";
 export { Rating };
 export type { Grade };
 
-interface Entry {
+export interface Entry {
   lesson: string;
   card: Card;
+  /** The learner chose not to study this word. */
+  hidden?: true;
+  /** Last change (review or hide/restore), epoch ms; newer wins when merging devices. */
+  u?: number;
   /** Changed since the last upload. */
   dirty?: true;
 }
@@ -91,7 +95,7 @@ export function previewDue(wordId: string, now = new Date()): Record<Grade, Date
 
 export function review(wordId: string, lesson: string, grade: Grade, now = new Date()): Card {
   const card = scheduler.next(getCard(wordId) ?? createEmptyCard(now), now, grade).card;
-  cards[wordId] = { lesson, card, dirty: true };
+  cards[wordId] = { lesson, card, u: now.getTime(), dirty: true };
   pushLog({ w: wordId, l: lesson, m: "learn", ok: grade !== Rating.Again, g: grade, t: now.getTime() });
   return card;
 }
@@ -106,16 +110,27 @@ function pushLog(e: LogEvent) {
   save();
 }
 
+export const isHidden = (wordId: string) => !!cards[wordId]?.hidden;
+
+/** Hide a word from flashcards and drills (or bring it back). Keeps its learning state. */
+export function setHidden(wordId: string, lesson: string, hidden: boolean) {
+  const prev = cards[wordId];
+  const next: Entry = { lesson: prev?.lesson ?? lesson, card: prev?.card ?? createEmptyCard(), u: Date.now(), dirty: true };
+  if (hidden) next.hidden = true;
+  cards[wordId] = next;
+  save();
+}
+
 export function dueIds(now = new Date(), lesson?: string): string[] {
   return Object.entries(cards)
-    .filter(([, e]) => (!lesson || e.lesson === lesson) && e.card.due <= now)
+    .filter(([, e]) => !e.hidden && (!lesson || e.lesson === lesson) && e.card.due <= now)
     .sort((a, b) => a[1].card.due.getTime() - b[1].card.due.getTime())
     .map(([id]) => id);
 }
 
 export function dueLessons(now = new Date()): Record<string, number> {
   const out: Record<string, number> = {};
-  for (const e of Object.values(cards)) if (e.card.due <= now) out[e.lesson] = (out[e.lesson] ?? 0) + 1;
+  for (const e of Object.values(cards)) if (!e.hidden && e.card.due <= now) out[e.lesson] = (out[e.lesson] ?? 0) + 1;
   return out;
 }
 
@@ -160,13 +175,24 @@ export function markUploaded(uploaded: [string, Entry][], events: LogEvent[]) {
 }
 
 const lastReview = (c: Card) => (c.last_review ? new Date(c.last_review).getTime() : 0);
+/** When an entry last changed (older data has no `u`). */
+export const changedAt = (e: Entry) => e.u ?? lastReview(e.card);
 
-/** Merge server data: newer card state wins; events are de-duplicated by word + time. */
-export function mergeRemote(remoteCards: { word_id: string; lesson_id: string; card: Card }[], remoteEvents: LogEvent[]) {
+export interface RemoteCard {
+  word_id: string;
+  lesson_id: string;
+  card: Card;
+  hidden: boolean;
+  updated_at: string;
+}
+
+/** Merge server data: the newer change wins; events are de-duplicated by word + time. */
+export function mergeRemote(remoteCards: RemoteCard[], remoteEvents: LogEvent[]) {
   for (const r of remoteCards) {
     const local = cards[r.word_id];
-    if (!local || lastReview(r.card) > lastReview(local.card)) {
-      cards[r.word_id] = { lesson: r.lesson_id, card: reviveCard(r.card) };
+    const remoteAt = Math.max(Date.parse(r.updated_at) || 0, lastReview(r.card));
+    if (!local || remoteAt > changedAt(local)) {
+      cards[r.word_id] = { lesson: r.lesson_id, card: reviveCard(r.card), u: remoteAt, ...(r.hidden ? { hidden: true as const } : {}) };
     }
   }
   const seen = new Set(log.map((e) => `${e.w}|${e.t}`));

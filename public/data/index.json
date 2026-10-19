@@ -1,20 +1,15 @@
 {
+ "courses": [
+  "A2",
+  "A1.2"
+ ],
  "lessons": [
   {
-   "id": "a2l3-teil2",
-   "title": "A2 · Lektion 3 · Teil 2",
-   "date": "2026-10-14",
-   "langs": [
-    "zh",
-    "en",
-    "tr"
-   ],
-   "words": 153,
-   "grammar": 22
-  },
-  {
    "id": "a2l3",
-   "title": "A2 · Lektion 3",
+   "title": "Teil 1",
+   "course": "A2",
+   "lektion": "Lektion 3",
+   "order": 0,
    "date": "2026-10-13",
    "langs": [
     "zh",
@@ -22,77 +17,780 @@
     "tr"
    ],
    "words": 85,
-   "grammar": 21
+   "grammar": 21,
+   "sentences": 0
   },
   {
-   "id": "a2l2-teil2",
-   "title": "A2 · Lektion 2 · Teil 2",
-   "date": "2026-10-12",
+   "id": "a2l3-teil2",
+   "title": "Teil 2",
+   "course": "A2",
+   "lektion": "Lektion 3",
+   "order": 1,
+   "date": "2026-10-14",
    "langs": [
-    "zh"
+    "zh",
+    "en",
+    "tr"
    ],
-   "words": 261,
-   "grammar": 20
+   "words": 153,
+   "grammar": 22,
+   "sentences": 0
   },
   {
    "id": "a2l2",
-   "title": "A2 · Lektion 2",
+   "title": "Teil 1",
+   "course": "A2",
+   "lektion": "Lektion 2",
+   "order": 2,
    "date": "2026-10-05",
    "langs": [
     "zh"
    ],
    "words": 98,
-   "grammar": 24
+   "grammar": 24,
+   "sentences": 0
   },
   {
-   "id": "a2l1-teil2",
-   "title": "A2 · Lektion 1 · Teil 2",
-   "date": "2026-10-01",
+   "id": "a2l2-teil2",
+   "title": "Teil 2",
+   "course": "A2",
+   "lektion": "Lektion 2",
+   "order": 3,
+   "date": "2026-10-12",
    "langs": [
     "zh"
    ],
-   "words": 189,
-   "grammar": 21
+   "words": 261,
+   "grammar": 20,
+   "sentences": 0
   },
   {
    "id": "a2l1",
-   "title": "A2 · Lektion 1",
+   "title": "Teil 1",
+   "course": "A2",
+   "lektion": "Lektion 1",
+   "order": 4,
    "date": "2026-09-30",
    "langs": [
     "zh"
    ],
    "words": 191,
-   "grammar": 20
+   "grammar": 20,
+   "sentences": 0
   },
   {
-   "id": "l4m4",
-   "title": "Lektion 4 · Modul 4",
+   "id": "a2l1-teil2",
+   "title": "Teil 2",
+   "course": "A2",
+   "lektion": "Lektion 1",
+   "order": 5,
+   "date": "2026-10-01",
+   "langs": [
+    "zh"
+   ],
+   "words": 189,
+   "grammar": 21,
+   "sentences": 0
+  },
+  {
+   "id": "a12-l1-wohnformen",
+   "title": "Wohnformen & Wohnorte",
+   "course": "A1.2",
+   "lektion": "Lektion 1 · Wohnen",
+   "order": 0,
+   "date": "2026-09-03",
+   "langs": [
+    "zh"
+   ],
+   "words": 27,
+   "grammar": 0,
+   "sentences": 0
+  },
+  {
+   "id": "a12-l1-zimmer",
+   "title": "Zimmer",
+   "course": "A1.2",
+   "lektion": "Lektion 1 · Wohnen",
+   "order": 1,
+   "date": "2026-09-03",
+   "langs": [
+    "zh"
+   ],
+   "words": 21,
+   "grammar": 0,
+   "sentences": 0
+  },
+  {
+   "id": "a12-l1-moebel",
+   "title": "Möbel & Haushalt",
+   "course": "A1.2",
+   "lektion": "Lektion 1 · Wohnen",
+   "order": 2,
+   "date": "2026-09-03",
+   "langs": [
+    "zh"
+   ],
+   "words": 44,
+   "grammar": 0,
+   "sentences": 0
+  },
+  {
+   "id": "a12-l1-stadt",
+   "title": "In der Stadt",
+   "course": "A1.2",
+   "lektion": "Lektion 1 · Wohnen",
+   "order": 3,
+   "date": "2026-09-03",
+   "langs": [
+    "zh"
+   ],
+   "words": 38,
+   "grammar": 0,
+   "sentences": 0
+  },
+  {
+   "id": "a12-l1-wohnungssuche",
+   "title": "Wohnungssuche & Miete",
+   "course": "A1.2",
+   "lektion": "Lektion 1 · Wohnen",
+   "order": 4,
+   "date": "2026-09-03",
+   "langs": [
+    "zh"
+   ],
+   "words": 37,
+   "grammar": 0,
+   "sentences": 0
+  },
+  {
+   "id": "a12-l1-hallig",
+   "title": "Leben auf der Hallig",
+   "course": "A1.2",
+   "lektion": "Lektion 1 · Wohnen",
+   "order": 5,
+   "date": "2026-09-03",
+   "langs": [
+    "zh"
+   ],
+   "words": 37,
+   "grammar": 0,
+   "sentences": 0
+  },
+  {
+   "id": "a12-l1-grammatik",
+   "title": "Grammatik & Sätze",
+   "course": "A1.2",
+   "lektion": "Lektion 1 · Wohnen",
+   "order": 6,
    "date": "2026-09-16",
    "langs": [
     "zh"
    ],
-   "words": 138,
-   "grammar": 40
+   "words": 0,
+   "grammar": 65,
+   "sentences": 191
   },
   {
-   "id": "l4m3",
-   "title": "Lektion 4 · Modul 3",
-   "date": "2026-09-15",
+   "id": "a12-l2-feste",
+   "title": "Feste & Feiertage",
+   "course": "A1.2",
+   "lektion": "Lektion 2 · Feste & Gesundheit",
+   "order": 7,
+   "date": "2026-09-06",
    "langs": [
     "zh"
    ],
-   "words": 142,
-   "grammar": 9
+   "words": 53,
+   "grammar": 0,
+   "sentences": 0
   },
   {
-   "id": "l4m2",
-   "title": "Lektion 4 · Modul 2",
+   "id": "a12-l2-feiern",
+   "title": "Geschenke & Feiern",
+   "course": "A1.2",
+   "lektion": "Lektion 2 · Feste & Gesundheit",
+   "order": 8,
+   "date": "2026-09-06",
+   "langs": [
+    "zh"
+   ],
+   "words": 60,
+   "grammar": 0,
+   "sentences": 0
+  },
+  {
+   "id": "a12-l2-glueck",
+   "title": "Silvester & Glückssymbole",
+   "course": "A1.2",
+   "lektion": "Lektion 2 · Feste & Gesundheit",
+   "order": 9,
+   "date": "2026-09-06",
+   "langs": [
+    "zh"
+   ],
+   "words": 29,
+   "grammar": 0,
+   "sentences": 0
+  },
+  {
+   "id": "a12-l2-dativ-verben",
+   "title": "Verben mit Dativ",
+   "course": "A1.2",
+   "lektion": "Lektion 2 · Feste & Gesundheit",
+   "order": 10,
+   "date": "2026-09-06",
+   "langs": [
+    "zh"
+   ],
+   "words": 30,
+   "grammar": 0,
+   "sentences": 0
+  },
+  {
+   "id": "a12-l2-dativ-akkusativ",
+   "title": "Verben mit Dativ und Akkusativ",
+   "course": "A1.2",
+   "lektion": "Lektion 2 · Feste & Gesundheit",
+   "order": 11,
+   "date": "2026-09-03",
+   "langs": [
+    "zh"
+   ],
+   "words": 26,
+   "grammar": 0,
+   "sentences": 0
+  },
+  {
+   "id": "a12-l2-verben",
+   "title": "Trennbare & reflexive Verben",
+   "course": "A1.2",
+   "lektion": "Lektion 2 · Feste & Gesundheit",
+   "order": 12,
+   "date": "2026-09-03",
+   "langs": [
+    "zh"
+   ],
+   "words": 13,
+   "grammar": 0,
+   "sentences": 0
+  },
+  {
+   "id": "a12-l2-telefon",
+   "title": "Am Telefon & bei der Arbeit",
+   "course": "A1.2",
+   "lektion": "Lektion 2 · Feste & Gesundheit",
+   "order": 13,
+   "date": "2026-09-03",
+   "langs": [
+    "zh"
+   ],
+   "words": 19,
+   "grammar": 0,
+   "sentences": 0
+  },
+  {
+   "id": "a12-l2-koerper",
+   "title": "Der Körper",
+   "course": "A1.2",
+   "lektion": "Lektion 2 · Feste & Gesundheit",
+   "order": 14,
+   "date": "2026-09-06",
+   "langs": [
+    "zh"
+   ],
+   "words": 26,
+   "grammar": 0,
+   "sentences": 0
+  },
+  {
+   "id": "a12-l2-symptome",
+   "title": "Symptome & Krankheiten",
+   "course": "A1.2",
+   "lektion": "Lektion 2 · Feste & Gesundheit",
+   "order": 15,
+   "date": "2026-09-06",
+   "langs": [
+    "zh"
+   ],
+   "words": 27,
+   "grammar": 0,
+   "sentences": 0
+  },
+  {
+   "id": "a12-l2-arzt",
+   "title": "Beim Arzt & Medikamente",
+   "course": "A1.2",
+   "lektion": "Lektion 2 · Feste & Gesundheit",
+   "order": 16,
+   "date": "2026-09-06",
+   "langs": [
+    "zh"
+   ],
+   "words": 55,
+   "grammar": 0,
+   "sentences": 0
+  },
+  {
+   "id": "a12-l2-grammatik",
+   "title": "Grammatik & Sätze",
+   "course": "A1.2",
+   "lektion": "Lektion 2 · Feste & Gesundheit",
+   "order": 17,
+   "date": "2026-09-16",
+   "langs": [
+    "zh"
+   ],
+   "words": 0,
+   "grammar": 83,
+   "sentences": 170
+  },
+  {
+   "id": "a12-l3-berufe",
+   "title": "Berufe",
+   "course": "A1.2",
+   "lektion": "Lektion 3 · Arbeit & Beruf",
+   "order": 18,
+   "date": "2026-09-03",
+   "langs": [
+    "zh"
+   ],
+   "words": 39,
+   "grammar": 0,
+   "sentences": 0
+  },
+  {
+   "id": "a12-l3-lebenslauf",
+   "title": "Der Lebenslauf",
+   "course": "A1.2",
+   "lektion": "Lektion 3 · Arbeit & Beruf",
+   "order": 19,
+   "date": "2026-09-03",
+   "langs": [
+    "zh"
+   ],
+   "words": 33,
+   "grammar": 0,
+   "sentences": 0
+  },
+  {
+   "id": "a12-l3-gefuehle",
+   "title": "Gefühle",
+   "course": "A1.2",
+   "lektion": "Lektion 3 · Arbeit & Beruf",
+   "order": 20,
+   "date": "2026-09-03",
+   "langs": [
+    "zh"
+   ],
+   "words": 22,
+   "grammar": 0,
+   "sentences": 0
+  },
+  {
+   "id": "a12-l3-arbeitsbedingungen",
+   "title": "Arbeitsbedingungen",
+   "course": "A1.2",
+   "lektion": "Lektion 3 · Arbeit & Beruf",
+   "order": 21,
+   "date": "2026-09-03",
+   "langs": [
+    "zh"
+   ],
+   "words": 22,
+   "grammar": 0,
+   "sentences": 0
+  },
+  {
+   "id": "a12-l3-berufswechsel",
+   "title": "Berufswechsel",
+   "course": "A1.2",
+   "lektion": "Lektion 3 · Arbeit & Beruf",
+   "order": 22,
+   "date": "2026-09-03",
+   "langs": [
+    "zh"
+   ],
+   "words": 30,
+   "grammar": 0,
+   "sentences": 0
+  },
+  {
+   "id": "a12-l3-traumberuf",
+   "title": "Traumberuf & Berufswahl",
+   "course": "A1.2",
+   "lektion": "Lektion 3 · Arbeit & Beruf",
+   "order": 23,
+   "date": "2026-09-05",
+   "langs": [
+    "zh"
+   ],
+   "words": 33,
+   "grammar": 0,
+   "sentences": 0
+  },
+  {
+   "id": "a12-l3-arbeitswelt",
+   "title": "Arbeitswelt im Wandel",
+   "course": "A1.2",
+   "lektion": "Lektion 3 · Arbeit & Beruf",
+   "order": 24,
+   "date": "2026-09-05",
+   "langs": [
+    "zh"
+   ],
+   "words": 30,
+   "grammar": 0,
+   "sentences": 0
+  },
+  {
+   "id": "a12-l3-arbeitsorte",
+   "title": "Arbeitsorte & Bewerbung",
+   "course": "A1.2",
+   "lektion": "Lektion 3 · Arbeit & Beruf",
+   "order": 25,
+   "date": "2026-09-05",
+   "langs": [
+    "zh"
+   ],
+   "words": 23,
+   "grammar": 0,
+   "sentences": 0
+  },
+  {
+   "id": "a12-l3-taetigkeiten",
+   "title": "Tätigkeiten & Berufe",
+   "course": "A1.2",
+   "lektion": "Lektion 3 · Arbeit & Beruf",
+   "order": 26,
+   "date": "2026-09-05",
+   "langs": [
+    "zh"
+   ],
+   "words": 39,
+   "grammar": 0,
+   "sentences": 0
+  },
+  {
+   "id": "a12-l3-aufgaben",
+   "title": "Aufgaben im Job",
+   "course": "A1.2",
+   "lektion": "Lektion 3 · Arbeit & Beruf",
+   "order": 27,
+   "date": "2026-09-05",
+   "langs": [
+    "zh"
+   ],
+   "words": 32,
+   "grammar": 0,
+   "sentences": 0
+  },
+  {
+   "id": "a12-l3-nomen",
+   "title": "Berufe & Nomen aus Verben",
+   "course": "A1.2",
+   "lektion": "Lektion 3 · Arbeit & Beruf",
+   "order": 28,
+   "date": "2026-09-05",
+   "langs": [
+    "zh"
+   ],
+   "words": 25,
+   "grammar": 0,
+   "sentences": 0
+  },
+  {
+   "id": "a12-l3-zufrieden",
+   "title": "Zufrieden im Job?",
+   "course": "A1.2",
+   "lektion": "Lektion 3 · Arbeit & Beruf",
+   "order": 29,
+   "date": "2026-09-05",
+   "langs": [
+    "zh"
+   ],
+   "words": 48,
+   "grammar": 0,
+   "sentences": 0
+  },
+  {
+   "id": "a12-l3-duzen",
+   "title": "Duzen oder Siezen?",
+   "course": "A1.2",
+   "lektion": "Lektion 3 · Arbeit & Beruf",
+   "order": 30,
+   "date": "2026-09-05",
+   "langs": [
+    "zh"
+   ],
+   "words": 34,
+   "grammar": 0,
+   "sentences": 0
+  },
+  {
+   "id": "a12-l3-hoeflich",
+   "title": "Telefonieren & Höflichkeit",
+   "course": "A1.2",
+   "lektion": "Lektion 3 · Arbeit & Beruf",
+   "order": 31,
+   "date": "2026-09-05",
+   "langs": [
+    "zh"
+   ],
+   "words": 42,
+   "grammar": 0,
+   "sentences": 0
+  },
+  {
+   "id": "a12-l3-grammatik",
+   "title": "Grammatik & Sätze",
+   "course": "A1.2",
+   "lektion": "Lektion 3 · Arbeit & Beruf",
+   "order": 32,
+   "date": "2026-09-16",
+   "langs": [
+    "zh"
+   ],
+   "words": 0,
+   "grammar": 60,
+   "sentences": 345
+  },
+  {
+   "id": "a12-l4-wetter-1",
+   "title": "Wetter: Sonne, Regen, Gewitter",
+   "course": "A1.2",
+   "lektion": "Lektion 4 · Wetter & Mode",
+   "order": 33,
+   "date": "2026-09-11",
+   "langs": [
+    "zh"
+   ],
+   "words": 35,
+   "grammar": 0,
+   "sentences": 0
+  },
+  {
+   "id": "a12-l4-wetter-2",
+   "title": "Wetter: Schnee, Wind, Temperatur",
+   "course": "A1.2",
+   "lektion": "Lektion 4 · Wetter & Mode",
+   "order": 34,
+   "date": "2026-09-11",
+   "langs": [
+    "zh"
+   ],
+   "words": 43,
+   "grammar": 0,
+   "sentences": 0
+  },
+  {
+   "id": "a12-l4-wetter-reden",
+   "title": "Über das Wetter reden",
+   "course": "A1.2",
+   "lektion": "Lektion 4 · Wetter & Mode",
+   "order": 35,
+   "date": "2026-09-11",
+   "langs": [
+    "zh"
+   ],
+   "words": 32,
+   "grammar": 0,
+   "sentences": 0
+  },
+  {
+   "id": "a12-l4-klima",
+   "title": "Klima, Jahreszeiten & Smalltalk",
+   "course": "A1.2",
+   "lektion": "Lektion 4 · Wetter & Mode",
+   "order": 36,
+   "date": "2026-09-11",
+   "langs": [
+    "zh"
+   ],
+   "words": 32,
+   "grammar": 0,
+   "sentences": 0
+  },
+  {
+   "id": "a12-l4-kleidung",
+   "title": "Kleidungsstücke",
+   "course": "A1.2",
+   "lektion": "Lektion 4 · Wetter & Mode",
+   "order": 37,
+   "date": "2026-09-11",
+   "langs": [
+    "zh"
+   ],
+   "words": 46,
+   "grammar": 0,
+   "sentences": 0
+  },
+  {
+   "id": "a12-l4-kleidung-beschreiben",
+   "title": "Kleidung beschreiben & anziehen",
+   "course": "A1.2",
+   "lektion": "Lektion 4 · Wetter & Mode",
+   "order": 38,
+   "date": "2026-09-11",
+   "langs": [
+    "zh"
+   ],
+   "words": 25,
+   "grammar": 0,
+   "sentences": 0
+  },
+  {
+   "id": "a12-l4-material",
+   "title": "Material, Muster & Accessoires",
+   "course": "A1.2",
+   "lektion": "Lektion 4 · Wetter & Mode",
+   "order": 39,
    "date": "2026-09-14",
    "langs": [
     "zh"
    ],
-   "words": 107,
-   "grammar": 22
+   "words": 35,
+   "grammar": 0,
+   "sentences": 0
+  },
+  {
+   "id": "a12-l4-diebstahl",
+   "title": "Personen beschreiben",
+   "course": "A1.2",
+   "lektion": "Lektion 4 · Wetter & Mode",
+   "order": 40,
+   "date": "2026-09-14",
+   "langs": [
+    "zh"
+   ],
+   "words": 31,
+   "grammar": 0,
+   "sentences": 0
+  },
+  {
+   "id": "a12-l4-bild",
+   "title": "Bildbeschreibung & Eindrücke",
+   "course": "A1.2",
+   "lektion": "Lektion 4 · Wetter & Mode",
+   "order": 41,
+   "date": "2026-09-14",
+   "langs": [
+    "zh"
+   ],
+   "words": 21,
+   "grammar": 0,
+   "sentences": 0
+  },
+  {
+   "id": "a12-l4-shoppen",
+   "title": "Shoppen & Geschäfte",
+   "course": "A1.2",
+   "lektion": "Lektion 4 · Wetter & Mode",
+   "order": 42,
+   "date": "2026-09-15",
+   "langs": [
+    "zh"
+   ],
+   "words": 38,
+   "grammar": 0,
+   "sentences": 0
+  },
+  {
+   "id": "a12-l4-kaufhaus",
+   "title": "Im Kaufhaus",
+   "course": "A1.2",
+   "lektion": "Lektion 4 · Wetter & Mode",
+   "order": 43,
+   "date": "2026-09-15",
+   "langs": [
+    "zh"
+   ],
+   "words": 45,
+   "grammar": 0,
+   "sentences": 0
+  },
+  {
+   "id": "a12-l4-secondhand",
+   "title": "Secondhand & Verkaufen",
+   "course": "A1.2",
+   "lektion": "Lektion 4 · Wetter & Mode",
+   "order": 44,
+   "date": "2026-09-15",
+   "langs": [
+    "zh"
+   ],
+   "words": 34,
+   "grammar": 0,
+   "sentences": 0
+  },
+  {
+   "id": "a12-l4-aussehen",
+   "title": "Aussehen",
+   "course": "A1.2",
+   "lektion": "Lektion 4 · Wetter & Mode",
+   "order": 45,
+   "date": "2026-09-16",
+   "langs": [
+    "zh"
+   ],
+   "words": 19,
+   "grammar": 0,
+   "sentences": 0
+  },
+  {
+   "id": "a12-l4-charakter",
+   "title": "Charakter & Gefühle",
+   "course": "A1.2",
+   "lektion": "Lektion 4 · Wetter & Mode",
+   "order": 46,
+   "date": "2026-09-16",
+   "langs": [
+    "zh"
+   ],
+   "words": 34,
+   "grammar": 0,
+   "sentences": 0
+  },
+  {
+   "id": "a12-l4-schoenheit",
+   "title": "Schönheit & Schönheits-OP",
+   "course": "A1.2",
+   "lektion": "Lektion 4 · Wetter & Mode",
+   "order": 47,
+   "date": "2026-09-16",
+   "langs": [
+    "zh"
+   ],
+   "words": 26,
+   "grammar": 0,
+   "sentences": 0
+  },
+  {
+   "id": "a12-l4-eindruck",
+   "title": "Eindruck & Vergleiche",
+   "course": "A1.2",
+   "lektion": "Lektion 4 · Wetter & Mode",
+   "order": 48,
+   "date": "2026-09-16",
+   "langs": [
+    "zh"
+   ],
+   "words": 32,
+   "grammar": 0,
+   "sentences": 0
+  },
+  {
+   "id": "a12-l4-grammatik",
+   "title": "Grammatik & Sätze",
+   "course": "A1.2",
+   "lektion": "Lektion 4 · Wetter & Mode",
+   "order": 49,
+   "date": "2026-09-16",
+   "langs": [
+    "zh"
+   ],
+   "words": 0,
+   "grammar": 106,
+   "sentences": 440
   }
  ]
 }

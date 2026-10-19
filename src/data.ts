@@ -46,10 +46,12 @@ const dbIndex = () =>
     return data.map((r) => ({ id: r.id, title: r.title, date: r.lesson_date, langs: r.langs as Lang[], words: r.words_count, grammar: r.grammar_count }));
   });
 
+/** Editor lessons first (newest first), then the static courses in their built order. */
 export const loadIndex = () =>
   Promise.all([staticIndex(), dbIndex()]).then(([a, b]) => {
     const ids = new Set(a.map((l) => l.id));
-    return [...a, ...b.filter((l) => !ids.has(l.id))].sort((x, y) => y.date.localeCompare(x.date));
+    const fresh = b.filter((l) => !ids.has(l.id)).sort((x, y) => y.date.localeCompare(x.date));
+    return [...fresh, ...a];
   });
 
 export async function loadLesson(id: string): Promise<Lesson> {

@@ -1,4 +1,4 @@
-export type Lang = "zh" | "en" | "tr";
+export type Lang = "zh" | "en" | "tr" | "th" | "vi" | "fa";
 export type Translated = Partial<Record<Lang, string>>;
 
 export interface Word {
@@ -25,18 +25,33 @@ export interface GrammarCard {
   hint: Translated;
 }
 
+/** Chinese → German sentence card (old decks; shown to Chinese-explanation users only). */
+export interface Sentence {
+  id: string;
+  zh: string;
+  de: string;
+}
+
 export interface LessonSummary {
   id: string;
+  /** Unit title, e.g. "Möbel & Haushalt" or "Teil 2". */
   title: string;
+  /** "A2", "A1.2"; editor lessons have none. */
+  course?: string;
+  /** Group inside the course, e.g. "Lektion 1 · Wohnen". */
+  lektion?: string;
+  order?: number;
   date: string;
   langs: Lang[];
   words: number;
   grammar: number;
+  sentences?: number;
 }
 
-export interface Lesson extends Omit<LessonSummary, "words" | "grammar"> {
+export interface Lesson extends Omit<LessonSummary, "words" | "grammar" | "sentences"> {
   words: Word[];
   grammar: GrammarCard[];
+  sentences?: Sentence[];
 }
 
-export type DrillMode = "learn" | "article" | "plural" | "cloze" | "grammar";
+export type DrillMode = "learn" | "article" | "plural" | "cloze" | "grammar" | "sentence";
