@@ -1,0 +1,836 @@
+{
+ "words": {
+  "HU#ca]?|{5": {
+   "en": {
+    "meaning": "bag; pocket",
+    "example": "Selma finds Lisa's bag."
+   },
+   "tr": {
+    "meaning": "çanta; cep"
+   },
+   "th": {
+    "meaning": "กระเป๋า; กระเป๋าเสื้อ"
+   },
+   "vi": {
+    "meaning": "túi xách; túi áo"
+   },
+   "fa": {
+    "meaning": "کیف؛ جیب"
+   }
+  },
+  "mR@{IOo(7^": {
+   "en": {
+    "meaning": "clothes, clothing",
+    "example": "Which words about clothes do you know?"
+   },
+   "tr": {
+    "meaning": "giyim, kıyafet"
+   },
+   "th": {
+    "meaning": "เสื้อผ้า"
+   },
+   "vi": {
+    "meaning": "quần áo"
+   },
+   "fa": {
+    "meaning": "پوشاک"
+   }
+  },
+  "k8}z|oP%[{": {
+   "en": {
+    "meaning": "item of clothing",
+    "example": "Which item of clothing do you like wearing?"
+   },
+   "tr": {
+    "meaning": "giysi"
+   },
+   "th": {
+    "meaning": "เสื้อผ้าหนึ่งชิ้น"
+   },
+   "vi": {
+    "meaning": "món đồ"
+   },
+   "fa": {
+    "meaning": "تکه لباس"
+   }
+  },
+  "fT]E.SK7Bu": {
+   "en": {
+    "meaning": "clothes (colloquial)",
+    "example": "I'm buying new clothes."
+   },
+   "tr": {
+    "meaning": "kıyafetler"
+   },
+   "th": {
+    "meaning": "เสื้อผ้า (ภาษาพูด)"
+   },
+   "vi": {
+    "meaning": "quần áo (khẩu ngữ)"
+   },
+   "fa": {
+    "meaning": "لباس (محاوره‌ای)"
+   }
+  },
+  "I#@JTZlA%%": {
+   "en": {
+    "meaning": "fashion",
+    "example": "We fancy some cool fashion."
+   },
+   "tr": {
+    "meaning": "moda"
+   },
+   "th": {
+    "meaning": "แฟชั่น"
+   },
+   "vi": {
+    "meaning": "thời trang"
+   },
+   "fa": {
+    "meaning": "مد"
+   },
+   "zh": {
+    "example": "我们想穿酷一点的时装。"
+   }
+  },
+  "rc)bJuz!D:": {
+   "en": {
+    "meaning": "fashion trend",
+    "example": "Fashion trends come and go."
+   },
+   "tr": {
+    "meaning": "moda akımı"
+   },
+   "th": {
+    "meaning": "เทรนด์แฟชั่น"
+   },
+   "vi": {
+    "meaning": "xu hướng thời trang"
+   },
+   "fa": {
+    "meaning": "ترند مد"
+   }
+  },
+  "N~968!ffyk": {
+   "en": {
+    "meaning": "to go out of fashion",
+    "example": "Black and white never go out of fashion."
+   },
+   "tr": {
+    "meaning": "modası geçmek"
+   },
+   "th": {
+    "meaning": "ล้าสมัย"
+   },
+   "vi": {
+    "meaning": "lỗi mốt"
+   },
+   "fa": {
+    "meaning": "از مد افتادن"
+   }
+  },
+  "BKBN9h=`aw": {
+   "en": {
+    "meaning": "to combine",
+    "example": "She combines a yellow jacket and jeans."
+   },
+   "tr": {
+    "meaning": "kombinlemek"
+   },
+   "th": {
+    "meaning": "จับคู่"
+   },
+   "vi": {
+    "meaning": "phối đồ"
+   },
+   "fa": {
+    "meaning": "ست کردن"
+   }
+  },
+  "E1xFQOc?;R": {
+   "en": {
+    "meaning": "hat",
+    "example": "She is wearing a black hat."
+   },
+   "tr": {
+    "meaning": "şapka"
+   },
+   "th": {
+    "meaning": "หมวก (มีปีก)"
+   },
+   "vi": {
+    "meaning": "mũ (có vành)"
+   },
+   "fa": {
+    "meaning": "کلاه لبه‌دار"
+   }
+  },
+  "LEw5[BM2Mp": {
+   "en": {
+    "meaning": "cap, woolly hat",
+    "example": "In winter I wear a woolly hat."
+   },
+   "tr": {
+    "meaning": "bere"
+   },
+   "th": {
+    "meaning": "หมวกไหมพรม"
+   },
+   "vi": {
+    "meaning": "mũ len"
+   },
+   "fa": {
+    "meaning": "کلاه بافتنی"
+   }
+  },
+  "DNWi%R[S0&": {
+   "en": {
+    "meaning": "scarf",
+    "example": "He is wearing a striped scarf."
+   },
+   "tr": {
+    "meaning": "atkı"
+   },
+   "th": {
+    "meaning": "ผ้าพันคอ"
+   },
+   "vi": {
+    "meaning": "khăn quàng"
+   },
+   "fa": {
+    "meaning": "شال گردن"
+   }
+  },
+  "NPDyo1l<OH": {
+   "en": {
+    "meaning": "neckerchief",
+    "example": "The neckerchief is colourful."
+   },
+   "tr": {
+    "meaning": "fular"
+   },
+   "th": {
+    "meaning": "ผ้าพันคอผืนเล็ก"
+   },
+   "vi": {
+    "meaning": "khăn quàng cổ"
+   },
+   "fa": {
+    "meaning": "دستمال گردن"
+   }
+  },
+  "D4<^s=@`[E": {
+   "en": {
+    "meaning": "skirt",
+    "example": "She is wearing a green skirt."
+   },
+   "tr": {
+    "meaning": "etek"
+   },
+   "th": {
+    "meaning": "กระโปรง"
+   },
+   "vi": {
+    "meaning": "váy"
+   },
+   "fa": {
+    "meaning": "دامن"
+   }
+  },
+  "bA8m?Zc=]n": {
+   "en": {
+    "meaning": "belt",
+    "example": "A black belt goes well with it."
+   },
+   "tr": {
+    "meaning": "kemer"
+   },
+   "th": {
+    "meaning": "เข็มขัด"
+   },
+   "vi": {
+    "meaning": "thắt lưng"
+   },
+   "fa": {
+    "meaning": "کمربند"
+   }
+  },
+  "EM#.!xI&OG": {
+   "en": {
+    "meaning": "coat",
+    "example": "He is wearing a grey coat."
+   },
+   "tr": {
+    "meaning": "palto"
+   },
+   "th": {
+    "meaning": "เสื้อโค้ท"
+   },
+   "vi": {
+    "meaning": "áo khoác dài"
+   },
+   "fa": {
+    "meaning": "پالتو"
+   }
+  },
+  "F_!+:9OK4s": {
+   "en": {
+    "meaning": "jumper, sweater",
+    "example": "The white jumper is new."
+   },
+   "tr": {
+    "meaning": "kazak"
+   },
+   "th": {
+    "meaning": "เสื้อสเวตเตอร์"
+   },
+   "vi": {
+    "meaning": "áo len chui đầu"
+   },
+   "fa": {
+    "meaning": "پلیور"
+   }
+  },
+  "b3F&K31jEo": {
+   "en": {
+    "meaning": "knitted jumper",
+    "example": "She has a black knitted jumper on."
+   },
+   "tr": {
+    "meaning": "örgü kazak"
+   },
+   "th": {
+    "meaning": "เสื้อไหมพรม"
+   },
+   "vi": {
+    "meaning": "áo len đan"
+   },
+   "fa": {
+    "meaning": "پلیور بافتنی"
+   }
+  },
+  "ny~XjG.TM": {
+   "en": {
+    "meaning": "hoodie",
+    "example": "Tom likes colourful hoodies."
+   },
+   "tr": {
+    "meaning": "kapüşonlu sweatshirt"
+   },
+   "th": {
+    "meaning": "เสื้อฮู้ด"
+   },
+   "vi": {
+    "meaning": "áo hoodie"
+   },
+   "fa": {
+    "meaning": "هودی"
+   }
+  },
+  "jW`ZF$<sSi": {
+   "en": {
+    "meaning": "suit",
+    "example": "Alex is wearing a dark suit."
+   },
+   "tr": {
+    "meaning": "takım elbise"
+   },
+   "th": {
+    "meaning": "ชุดสูท"
+   },
+   "vi": {
+    "meaning": "bộ com-lê"
+   },
+   "fa": {
+    "meaning": "کت و شلوار"
+   }
+  },
+  "3;dvuCe#X": {
+   "en": {
+    "meaning": "blazer",
+    "example": "She is wearing a grey blazer."
+   },
+   "tr": {
+    "meaning": "blazer ceket"
+   },
+   "th": {
+    "meaning": "เสื้อเบลเซอร์"
+   },
+   "vi": {
+    "meaning": "áo blazer"
+   },
+   "fa": {
+    "meaning": "کت تک"
+   }
+  },
+  "kU~UFrax+S": {
+   "en": {
+    "meaning": "jacket (of a suit)",
+    "example": "The jacket is black."
+   },
+   "tr": {
+    "meaning": "ceket"
+   },
+   "th": {
+    "meaning": "เสื้อนอก"
+   },
+   "vi": {
+    "meaning": "áo vest"
+   },
+   "fa": {
+    "meaning": "کت"
+   }
+  },
+  "u#]4,}THpN": {
+   "en": {
+    "meaning": "jacket",
+    "example": "She combines a yellow jacket."
+   },
+   "tr": {
+    "meaning": "ceket, mont"
+   },
+   "th": {
+    "meaning": "เสื้อแจ็กเก็ต"
+   },
+   "vi": {
+    "meaning": "áo khoác"
+   },
+   "fa": {
+    "meaning": "ژاکت، کاپشن"
+   }
+  },
+  "xD>Fthv]a2": {
+   "en": {
+    "meaning": "blouse",
+    "example": "She is wearing a smart blouse."
+   },
+   "tr": {
+    "meaning": "bluz"
+   },
+   "th": {
+    "meaning": "เสื้อเบลาส์"
+   },
+   "vi": {
+    "meaning": "áo sơ mi nữ"
+   },
+   "fa": {
+    "meaning": "بلوز"
+   }
+  },
+  "pa^kBlltRe": {
+   "en": {
+    "meaning": "shirt",
+    "example": "He is wearing a light blue shirt."
+   },
+   "tr": {
+    "meaning": "gömlek"
+   },
+   "th": {
+    "meaning": "เสื้อเชิ้ต"
+   },
+   "vi": {
+    "meaning": "áo sơ mi"
+   },
+   "fa": {
+    "meaning": "پیراهن مردانه"
+   }
+  },
+  "NP@A7={S,L": {
+   "en": {
+    "meaning": "tie",
+    "example": "He combines a white shirt with a tie."
+   },
+   "tr": {
+    "meaning": "kravat"
+   },
+   "th": {
+    "meaning": "เนกไท"
+   },
+   "vi": {
+    "meaning": "cà vạt"
+   },
+   "fa": {
+    "meaning": "کراوات"
+   }
+  },
+  "Le+gWhM|W!": {
+   "en": {
+    "meaning": "trousers, pants",
+    "example": "Christopher is wearing turquoise trousers."
+   },
+   "tr": {
+    "meaning": "pantolon"
+   },
+   "th": {
+    "meaning": "กางเกง"
+   },
+   "vi": {
+    "meaning": "quần dài"
+   },
+   "fa": {
+    "meaning": "شلوار"
+   }
+  },
+  "Kw#zfNpR)3": {
+   "en": {
+    "meaning": "tracksuit bottoms",
+    "example": "Tom likes grey tracksuit bottoms."
+   },
+   "tr": {
+    "meaning": "eşofman altı"
+   },
+   "th": {
+    "meaning": "กางเกงกีฬา"
+   },
+   "vi": {
+    "meaning": "quần thể thao"
+   },
+   "fa": {
+    "meaning": "شلوار ورزشی"
+   }
+  },
+  "HA|Zc+MQT/": {
+   "en": {
+    "meaning": "jeans",
+    "example": "Light blue jeans go well with it."
+   },
+   "tr": {
+    "meaning": "kot pantolon"
+   },
+   "th": {
+    "meaning": "กางเกงยีนส์"
+   },
+   "vi": {
+    "meaning": "quần jean"
+   },
+   "fa": {
+    "meaning": "شلوار جین"
+   }
+  },
+  "Rem:c~/_I*": {
+   "en": {
+    "meaning": "jeans",
+    "example": "Trends come and go, jeans stay."
+   },
+   "tr": {
+    "meaning": "kot"
+   },
+   "th": {
+    "meaning": "ยีนส์"
+   },
+   "vi": {
+    "meaning": "quần jean"
+   },
+   "fa": {
+    "meaning": "جین"
+   }
+  },
+  "f{x2NZ;69x": {
+   "en": {
+    "meaning": "shorts",
+    "example": "He puts on checked white shorts."
+   },
+   "tr": {
+    "meaning": "şort"
+   },
+   "th": {
+    "meaning": "กางเกงขาสั้น"
+   },
+   "vi": {
+    "meaning": "quần short"
+   },
+   "fa": {
+    "meaning": "شلوارک"
+   }
+  },
+  "A%:kaO49|W": {
+   "en": {
+    "meaning": "T-shirt",
+    "example": "He is wearing a yellow T-shirt."
+   },
+   "tr": {
+    "meaning": "tişört"
+   },
+   "th": {
+    "meaning": "เสื้อยืด"
+   },
+   "vi": {
+    "meaning": "áo phông"
+   },
+   "fa": {
+    "meaning": "تی‌شرت"
+   }
+  },
+  "O27.V#}:?q": {
+   "en": {
+    "meaning": "top",
+    "example": "The top is white."
+   },
+   "tr": {
+    "meaning": "bluz, atlet"
+   },
+   "th": {
+    "meaning": "เสื้อกล้าม"
+   },
+   "vi": {
+    "meaning": "áo hai dây, áo ba lỗ"
+   },
+   "fa": {
+    "meaning": "تاپ"
+   }
+  },
+  "L@]|V4e9D;": {
+   "en": {
+    "meaning": "dress",
+    "example": "She is wearing a polka-dot dress."
+   },
+   "tr": {
+    "meaning": "elbise"
+   },
+   "th": {
+    "meaning": "ชุดเดรส"
+   },
+   "vi": {
+    "meaning": "váy liền"
+   },
+   "fa": {
+    "meaning": "پیراهن زنانه"
+   }
+  },
+  "F_epw<`#]=": {
+   "en": {
+    "meaning": "tights",
+    "example": "She has black tights on."
+   },
+   "tr": {
+    "meaning": "külotlu çorap"
+   },
+   "th": {
+    "meaning": "ถุงน่อง"
+   },
+   "vi": {
+    "meaning": "quần tất"
+   },
+   "fa": {
+    "meaning": "جوراب شلواری"
+   }
+  },
+  "KX+Y&y-Oc(": {
+   "en": {
+    "meaning": "stocking, long sock",
+    "example": "The stockings are warm."
+   },
+   "tr": {
+    "meaning": "çorap"
+   },
+   "th": {
+    "meaning": "ถุงเท้ายาว"
+   },
+   "vi": {
+    "meaning": "tất dài"
+   },
+   "fa": {
+    "meaning": "جوراب بلند"
+   }
+  },
+  "xLF>(clb;#": {
+   "en": {
+    "meaning": "underwear",
+    "example": "The underwear is in the wardrobe."
+   },
+   "tr": {
+    "meaning": "iç çamaşırı"
+   },
+   "th": {
+    "meaning": "ชุดชั้นใน"
+   },
+   "vi": {
+    "meaning": "đồ lót"
+   },
+   "fa": {
+    "meaning": "لباس زیر"
+   }
+  },
+  "eyCby?U6*(": {
+   "en": {
+    "meaning": "shoe",
+    "example": "She is wearing high heels."
+   },
+   "tr": {
+    "meaning": "ayakkabı"
+   },
+   "th": {
+    "meaning": "รองเท้า"
+   },
+   "vi": {
+    "meaning": "giày"
+   },
+   "fa": {
+    "meaning": "کفش"
+   }
+  },
+  "bg6`~_>5gN": {
+   "en": {
+    "meaning": "high-heeled shoe",
+    "example": "She has black high heels on."
+   },
+   "tr": {
+    "meaning": "topuklu ayakkabı"
+   },
+   "th": {
+    "meaning": "รองเท้าส้นสูง"
+   },
+   "vi": {
+    "meaning": "giày cao gót"
+   },
+   "fa": {
+    "meaning": "کفش پاشنه‌بلند"
+   }
+  },
+  "I==>S}1/oP": {
+   "en": {
+    "meaning": "boot",
+    "example": "Sarah combines brown boots."
+   },
+   "tr": {
+    "meaning": "çizme"
+   },
+   "th": {
+    "meaning": "รองเท้าบูท"
+   },
+   "vi": {
+    "meaning": "ủng, bốt"
+   },
+   "fa": {
+    "meaning": "چکمه"
+   }
+  },
+  "f3Jr%Uo>*,": {
+   "en": {
+    "meaning": "sandal",
+    "example": "In summer I wear sandals."
+   },
+   "tr": {
+    "meaning": "sandalet"
+   },
+   "th": {
+    "meaning": "รองเท้าแตะรัดส้น"
+   },
+   "vi": {
+    "meaning": "dép xăng-đan"
+   },
+   "fa": {
+    "meaning": "صندل"
+   }
+  },
+  "OPCb^O|eyb": {
+   "en": {
+    "meaning": "flip-flops",
+    "example": "He's also wearing dark blue flip-flops."
+   },
+   "tr": {
+    "meaning": "parmak arası terlik"
+   },
+   "th": {
+    "meaning": "รองเท้าแตะคีบ"
+   },
+   "vi": {
+    "meaning": "dép tông"
+   },
+   "fa": {
+    "meaning": "دمپایی لا انگشتی"
+   }
+  },
+  "Gr2qaxSDpU": {
+   "en": {
+    "meaning": "glove",
+    "example": "In winter I need gloves."
+   },
+   "tr": {
+    "meaning": "eldiven"
+   },
+   "th": {
+    "meaning": "ถุงมือ"
+   },
+   "vi": {
+    "meaning": "găng tay"
+   },
+   "fa": {
+    "meaning": "دستکش"
+   }
+  },
+  "tF>;tz6{&1": {
+   "en": {
+    "meaning": "sleeve",
+    "example": "The sleeve is too long."
+   },
+   "tr": {
+    "meaning": "kol"
+   },
+   "th": {
+    "meaning": "แขนเสื้อ"
+   },
+   "vi": {
+    "meaning": "tay áo"
+   },
+   "fa": {
+    "meaning": "آستین"
+   }
+  },
+  "t#JXQ`#Lpa": {
+   "en": {
+    "meaning": "jewellery",
+    "example": "She wears a lot of jewellery."
+   },
+   "tr": {
+    "meaning": "mücevher, takı"
+   },
+   "th": {
+    "meaning": "เครื่องประดับ"
+   },
+   "vi": {
+    "meaning": "trang sức"
+   },
+   "fa": {
+    "meaning": "جواهرات"
+   }
+  },
+  "y_Ct#Uid3O": {
+   "en": {
+    "meaning": "leather bag",
+    "example": "She carries an elegant leather bag."
+   },
+   "tr": {
+    "meaning": "deri çanta"
+   },
+   "th": {
+    "meaning": "กระเป๋าหนัง"
+   },
+   "vi": {
+    "meaning": "túi da"
+   },
+   "fa": {
+    "meaning": "کیف چرمی"
+   }
+  },
+  "cW4A]Ug_Cv": {
+   "en": {
+    "meaning": "bra",
+    "example": "The bra is black."
+   },
+   "tr": {
+    "meaning": "sütyen"
+   },
+   "th": {
+    "meaning": "เสื้อชั้นใน"
+   },
+   "vi": {
+    "meaning": "áo ngực"
+   },
+   "fa": {
+    "meaning": "سوتین"
+   }
+  }
+ },
+ "grammar": {}
+}

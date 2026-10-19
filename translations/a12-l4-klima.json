@@ -1,0 +1,583 @@
+{
+ "words": {
+  "E*A=.kJ1)S": {
+   "en": {
+    "meaning": "hurricane",
+    "example": "There was a hurricane in the USA."
+   },
+   "tr": {
+    "meaning": "kasırga"
+   },
+   "th": {
+    "meaning": "พายุเฮอริเคน"
+   },
+   "vi": {
+    "meaning": "bão lớn"
+   },
+   "fa": {
+    "meaning": "گردباد، طوفان"
+   }
+  },
+  "pZE|}*Av;#": {
+   "en": {
+    "meaning": "umbrella",
+    "example": "His umbrella is broken."
+   },
+   "tr": {
+    "meaning": "şemsiye"
+   },
+   "th": {
+    "meaning": "ร่ม"
+   },
+   "vi": {
+    "meaning": "ô, dù"
+   },
+   "fa": {
+    "meaning": "چتر"
+   }
+  },
+  "dPLYY?aY<h": {
+   "en": {
+    "meaning": "to catch a cold",
+    "example": "You've caught a cold."
+   },
+   "tr": {
+    "meaning": "üşütmek"
+   },
+   "th": {
+    "meaning": "เป็นหวัด"
+   },
+   "vi": {
+    "meaning": "bị cảm"
+   },
+   "fa": {
+    "meaning": "سرما خوردن"
+   }
+  },
+  "PobDHMS3x[": {
+   "en": {
+    "meaning": "low (pressure area)",
+    "example": "A low over Scandinavia is bringing rain."
+   },
+   "tr": {
+    "meaning": "alçak basınç"
+   },
+   "th": {
+    "meaning": "ความกดอากาศต่ำ"
+   },
+   "vi": {
+    "meaning": "áp thấp"
+   },
+   "fa": {
+    "meaning": "کم‌فشار"
+   }
+  },
+  "Lp0EMuen/L": {
+   "en": {
+    "meaning": "high (pressure area)",
+    "example": "A high over the Balkans is determining the weather."
+   },
+   "tr": {
+    "meaning": "yüksek basınç"
+   },
+   "th": {
+    "meaning": "ความกดอากาศสูง"
+   },
+   "vi": {
+    "meaning": "áp cao"
+   },
+   "fa": {
+    "meaning": "پرفشار"
+   }
+  },
+  "Jp,5(im%+#": {
+   "en": {
+    "meaning": "sea air",
+    "example": "Cool, damp sea air is coming in."
+   },
+   "tr": {
+    "meaning": "deniz havası"
+   },
+   "th": {
+    "meaning": "อากาศจากทะเล"
+   },
+   "vi": {
+    "meaning": "không khí biển"
+   },
+   "fa": {
+    "meaning": "هوای دریایی"
+   }
+  },
+  "xEAt={SpU>": {
+   "en": {
+    "meaning": "during the day",
+    "example": "There will be showers during the day."
+   },
+   "tr": {
+    "meaning": "gün içinde"
+   },
+   "th": {
+    "meaning": "ตลอดวัน"
+   },
+   "vi": {
+    "meaning": "trong ngày"
+   },
+   "fa": {
+    "meaning": "در طول روز"
+   }
+  },
+  "P<8j}.N=5H": {
+   "en": {
+    "meaning": "river valley",
+    "example": "There may be fog in the river valleys."
+   },
+   "tr": {
+    "meaning": "nehir vadisi"
+   },
+   "th": {
+    "meaning": "หุบเขาริมแม่น้ำ"
+   },
+   "vi": {
+    "meaning": "thung lũng sông"
+   },
+   "fa": {
+    "meaning": "درهٔ رودخانه"
+   }
+  },
+  "INNos9S~HT": {
+   "en": {
+    "meaning": "in places",
+    "example": "Bright to cloudy, fog in places."
+   },
+   "tr": {
+    "meaning": "yer yer"
+   },
+   "th": {
+    "meaning": "บางพื้นที่"
+   },
+   "vi": {
+    "meaning": "rải rác, một vài nơi"
+   },
+   "fa": {
+    "meaning": "در برخی نقاط"
+   }
+  },
+  "i-IWrVX+~?": {
+   "en": {
+    "meaning": "uplands, hilly region",
+    "example": "It's raining in the hills."
+   },
+   "tr": {
+    "meaning": "dağlık bölge"
+   },
+   "th": {
+    "meaning": "พื้นที่ภูเขา"
+   },
+   "vi": {
+    "meaning": "vùng núi"
+   },
+   "fa": {
+    "meaning": "منطقهٔ کوهستانی"
+   }
+  },
+  "j4Q7j:RSfT": {
+   "en": {
+    "meaning": "direction",
+    "example": "The wind is blowing from the south-west."
+   },
+   "tr": {
+    "meaning": "yön"
+   },
+   "th": {
+    "meaning": "ทิศทาง"
+   },
+   "vi": {
+    "meaning": "hướng"
+   },
+   "fa": {
+    "meaning": "جهت"
+   }
+  },
+  "B*I/$HJ0e_": {
+   "en": {
+    "meaning": "season",
+    "example": "We only have two seasons."
+   },
+   "tr": {
+    "meaning": "mevsim"
+   },
+   "th": {
+    "meaning": "ฤดูกาล"
+   },
+   "vi": {
+    "meaning": "mùa"
+   },
+   "fa": {
+    "meaning": "فصل"
+   }
+  },
+  "D7A7H2+Ust": {
+   "en": {
+    "meaning": "spring",
+    "example": "I like spring."
+   },
+   "tr": {
+    "meaning": "ilkbahar"
+   },
+   "th": {
+    "meaning": "ฤดูใบไม้ผลิ"
+   },
+   "vi": {
+    "meaning": "mùa xuân"
+   },
+   "fa": {
+    "meaning": "بهار"
+   }
+  },
+  "ukNVtGfb>V": {
+   "en": {
+    "meaning": "autumn",
+    "example": "It's windy in autumn."
+   },
+   "tr": {
+    "meaning": "sonbahar"
+   },
+   "th": {
+    "meaning": "ฤดูใบไม้ร่วง"
+   },
+   "vi": {
+    "meaning": "mùa thu"
+   },
+   "fa": {
+    "meaning": "پاییز"
+   }
+  },
+  "uE%dYm!|I@": {
+   "en": {
+    "meaning": "dry season",
+    "example": "We only have a dry season and a rainy season."
+   },
+   "tr": {
+    "meaning": "kurak mevsim"
+   },
+   "th": {
+    "meaning": "ฤดูแล้ง"
+   },
+   "vi": {
+    "meaning": "mùa khô"
+   },
+   "fa": {
+    "meaning": "فصل خشک"
+   }
+  },
+  "HM|DW@ZVgT": {
+   "en": {
+    "meaning": "rainy season",
+    "example": "In the rainy season it rains every day."
+   },
+   "tr": {
+    "meaning": "yağmur mevsimi"
+   },
+   "th": {
+    "meaning": "ฤดูฝน"
+   },
+   "vi": {
+    "meaning": "mùa mưa"
+   },
+   "fa": {
+    "meaning": "فصل باران"
+   }
+  },
+  "p_=7Jm_0_)": {
+   "en": {
+    "meaning": "rarely",
+    "example": "It rarely rains in summer."
+   },
+   "tr": {
+    "meaning": "nadiren"
+   },
+   "th": {
+    "meaning": "ไม่ค่อย"
+   },
+   "vi": {
+    "meaning": "hiếm khi"
+   },
+   "fa": {
+    "meaning": "به ندرت"
+   }
+  },
+  "to]bPp5Sy!": {
+   "en": {
+    "meaning": "mostly, usually",
+    "example": "For three months the sun mostly shines."
+   },
+   "tr": {
+    "meaning": "çoğunlukla"
+   },
+   "th": {
+    "meaning": "ส่วนใหญ่"
+   },
+   "vi": {
+    "meaning": "thường thì"
+   },
+   "fa": {
+    "meaning": "بیشتر وقت‌ها"
+   }
+  },
+  "c[,b1O4?jv": {
+   "en": {
+    "meaning": "grey",
+    "example": "The sky is always grey."
+   },
+   "tr": {
+    "meaning": "gri"
+   },
+   "th": {
+    "meaning": "สีเทา"
+   },
+   "vi": {
+    "meaning": "xám"
+   },
+   "fa": {
+    "meaning": "خاکستری"
+   }
+  },
+  "o]Y,Md:RuG": {
+   "en": {
+    "meaning": "mean, unfair",
+    "example": "Wow, that's so mean!",
+    "info": "common in spoken German"
+   },
+   "tr": {
+    "meaning": "kötü, haksız"
+   },
+   "th": {
+    "meaning": "ใจร้าย, ไม่ยุติธรรม"
+   },
+   "vi": {
+    "meaning": "quá đáng, ác"
+   },
+   "fa": {
+    "meaning": "بدجنس، نامردی"
+   }
+  },
+  "v)NyQ-|MC[": {
+   "en": {
+    "meaning": "small talk",
+    "example": "The weather is a good small-talk topic."
+   },
+   "tr": {
+    "meaning": "sohbet, havadan sudan konuşma"
+   },
+   "th": {
+    "meaning": "การพูดคุยเล่น"
+   },
+   "vi": {
+    "meaning": "chuyện phiếm"
+   },
+   "fa": {
+    "meaning": "گپ کوتاه"
+   }
+  },
+  "Q/t3zf.bUw": {
+   "en": {
+    "meaning": "celebrity",
+    "example": "Celebrities are a good topic."
+   },
+   "tr": {
+    "meaning": "ünlü"
+   },
+   "th": {
+    "meaning": "คนดัง"
+   },
+   "vi": {
+    "meaning": "người nổi tiếng"
+   },
+   "fa": {
+    "meaning": "آدم مشهور"
+   }
+  },
+  "LyDb6[@&A8": {
+   "en": {
+    "meaning": "politics",
+    "example": "Politics is complicated."
+   },
+   "tr": {
+    "meaning": "politika"
+   },
+   "th": {
+    "meaning": "การเมือง"
+   },
+   "vi": {
+    "meaning": "chính trị"
+   },
+   "fa": {
+    "meaning": "سیاست"
+   }
+  },
+  "F5NL8er0gw": {
+   "en": {
+    "meaning": "place, position",
+    "example": "In first place is the weather."
+   },
+   "tr": {
+    "meaning": "yer, sıra"
+   },
+   "th": {
+    "meaning": "อันดับ, ที่"
+   },
+   "vi": {
+    "meaning": "vị trí, hạng"
+   },
+   "fa": {
+    "meaning": "مقام، جایگاه"
+   }
+  },
+  "sIR1b~uX1U": {
+   "en": {
+    "meaning": "warmth",
+    "example": "Everyone talks about rain and warmth."
+   },
+   "tr": {
+    "meaning": "sıcaklık"
+   },
+   "th": {
+    "meaning": "ความอบอุ่น"
+   },
+   "vi": {
+    "meaning": "sự ấm áp"
+   },
+   "fa": {
+    "meaning": "گرما"
+   }
+  },
+  "N6=hSD<r3%": {
+   "en": {
+    "meaning": "cold",
+    "example": "In winter everyone complains about the cold."
+   },
+   "tr": {
+    "meaning": "soğuk"
+   },
+   "th": {
+    "meaning": "ความหนาว"
+   },
+   "vi": {
+    "meaning": "cái lạnh"
+   },
+   "fa": {
+    "meaning": "سرما"
+   }
+  },
+  "C6(`;J{z[o": {
+   "en": {
+    "meaning": "you see, namely",
+    "example": "You see, it's always too cold.",
+    "info": "adverb, never at the start of a sentence"
+   },
+   "tr": {
+    "meaning": "çünkü, yani"
+   },
+   "th": {
+    "meaning": "เพราะว่า, คือ"
+   },
+   "vi": {
+    "meaning": "vì, cụ thể là"
+   },
+   "fa": {
+    "meaning": "آخر، چون که"
+   }
+  },
+  "CL[7qcq<g(": {
+   "en": {
+    "meaning": "complicated",
+    "example": "It's not as complicated as politics."
+   },
+   "tr": {
+    "meaning": "karmaşık"
+   },
+   "th": {
+    "meaning": "ซับซ้อน"
+   },
+   "vi": {
+    "meaning": "phức tạp"
+   },
+   "fa": {
+    "meaning": "پیچیده"
+   }
+  },
+  "G~$lcCE}Xf": {
+   "en": {
+    "meaning": "lift, elevator",
+    "example": "You're in the lift with your boss?"
+   },
+   "tr": {
+    "meaning": "asansör"
+   },
+   "th": {
+    "meaning": "ลิฟต์"
+   },
+   "vi": {
+    "meaning": "thang máy"
+   },
+   "fa": {
+    "meaning": "آسانسور"
+   }
+  },
+  "QE(r4Ji~y*": {
+   "en": {
+    "meaning": "to work, to function",
+    "example": "The weather as a topic always works."
+   },
+   "tr": {
+    "meaning": "işe yaramak, çalışmak"
+   },
+   "th": {
+    "meaning": "ได้ผล, ใช้งานได้"
+   },
+   "vi": {
+    "meaning": "có tác dụng, hoạt động"
+   },
+   "fa": {
+    "meaning": "کار کردن، جواب دادن"
+   }
+  },
+  "Q-cVX{ELfP": {
+   "en": {
+    "meaning": "team",
+    "example": "What's your favourite team?"
+   },
+   "tr": {
+    "meaning": "takım"
+   },
+   "th": {
+    "meaning": "ทีม"
+   },
+   "vi": {
+    "meaning": "đội bóng"
+   },
+   "fa": {
+    "meaning": "تیم"
+   }
+  },
+  "B`fi~UcRje": {
+   "en": {
+    "meaning": "to watch TV",
+    "example": "Did you watch TV last night?"
+   },
+   "tr": {
+    "meaning": "televizyon izlemek"
+   },
+   "th": {
+    "meaning": "ดูทีวี"
+   },
+   "vi": {
+    "meaning": "xem ti vi"
+   },
+   "fa": {
+    "meaning": "تلویزیون تماشا کردن"
+   }
+  }
+ },
+ "grammar": {}
+}

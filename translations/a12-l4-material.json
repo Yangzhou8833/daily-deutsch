@@ -1,0 +1,635 @@
+{
+ "words": {
+  "Fm}enAF~X*": {
+   "en": {
+    "meaning": "cotton",
+    "example": "The shirt is made of cotton."
+   },
+   "tr": {
+    "meaning": "pamuk"
+   },
+   "th": {
+    "meaning": "ผ้าฝ้าย"
+   },
+   "vi": {
+    "meaning": "vải bông"
+   },
+   "fa": {
+    "meaning": "پنبه، نخ"
+   }
+  },
+  "J[SilLG8d%": {
+   "en": {
+    "meaning": "wool",
+    "example": "I'm wearing a woollen blouse."
+   },
+   "tr": {
+    "meaning": "yün"
+   },
+   "th": {
+    "meaning": "ขนสัตว์"
+   },
+   "vi": {
+    "meaning": "len"
+   },
+   "fa": {
+    "meaning": "پشم"
+   }
+  },
+  "y+3?C5!~*,": {
+   "en": {
+    "meaning": "silk",
+    "example": "The scarf is made of silk."
+   },
+   "tr": {
+    "meaning": "ipek"
+   },
+   "th": {
+    "meaning": "ผ้าไหม"
+   },
+   "vi": {
+    "meaning": "lụa"
+   },
+   "fa": {
+    "meaning": "ابریشم"
+   }
+  },
+  "r9L5HOwLcy": {
+   "en": {
+    "meaning": "leather",
+    "example": "The bag is made of leather."
+   },
+   "tr": {
+    "meaning": "deri"
+   },
+   "th": {
+    "meaning": "หนัง"
+   },
+   "vi": {
+    "meaning": "da"
+   },
+   "fa": {
+    "meaning": "چرم"
+   }
+  },
+  "uaA=KDw%b{": {
+   "en": {
+    "meaning": "linen",
+    "example": "In summer I wear linen."
+   },
+   "tr": {
+    "meaning": "keten"
+   },
+   "th": {
+    "meaning": "ผ้าลินิน"
+   },
+   "vi": {
+    "meaning": "vải lanh"
+   },
+   "fa": {
+    "meaning": "کتان"
+   }
+  },
+  "EW7no_.!7b": {
+   "en": {
+    "meaning": "material",
+    "example": "Fill in the materials."
+   },
+   "tr": {
+    "meaning": "malzeme, kumaş"
+   },
+   "th": {
+    "meaning": "วัสดุ"
+   },
+   "vi": {
+    "meaning": "chất liệu"
+   },
+   "fa": {
+    "meaning": "جنس، مواد"
+   }
+  },
+  "O`ofXbU(BW": {
+   "en": {
+    "meaning": "pattern",
+    "example": "Which pattern do you like?"
+   },
+   "tr": {
+    "meaning": "desen"
+   },
+   "th": {
+    "meaning": "ลวดลาย"
+   },
+   "vi": {
+    "meaning": "họa tiết"
+   },
+   "fa": {
+    "meaning": "طرح، نقش"
+   }
+  },
+  "kjb3#tQ^`u": {
+   "en": {
+    "meaning": "sunglasses",
+    "example": "She is wearing sunglasses."
+   },
+   "tr": {
+    "meaning": "güneş gözlüğü"
+   },
+   "th": {
+    "meaning": "แว่นกันแดด"
+   },
+   "vi": {
+    "meaning": "kính râm"
+   },
+   "fa": {
+    "meaning": "عینک آفتابی"
+   }
+  },
+  "z%>V)*gCR3": {
+   "en": {
+    "meaning": "glasses",
+    "example": "He puts on his glasses."
+   },
+   "tr": {
+    "meaning": "gözlük"
+   },
+   "th": {
+    "meaning": "แว่นตา"
+   },
+   "vi": {
+    "meaning": "kính"
+   },
+   "fa": {
+    "meaning": "عینک"
+   }
+  },
+  "B#ZaNZ]b;`": {
+   "en": {
+    "meaning": "size",
+    "example": "What size do you need?"
+   },
+   "tr": {
+    "meaning": "beden; büyüklük"
+   },
+   "th": {
+    "meaning": "ขนาด, ไซซ์"
+   },
+   "vi": {
+    "meaning": "cỡ; kích thước"
+   },
+   "fa": {
+    "meaning": "سایز؛ اندازه"
+   }
+  },
+  "k4S-Qr!z:8": {
+   "en": {
+    "meaning": "handbag",
+    "example": "Her handbag is new."
+   },
+   "tr": {
+    "meaning": "el çantası"
+   },
+   "th": {
+    "meaning": "กระเป๋าถือ"
+   },
+   "vi": {
+    "meaning": "túi xách tay"
+   },
+   "fa": {
+    "meaning": "کیف دستی"
+   }
+  },
+  "g(V>>XFL,y": {
+   "en": {
+    "meaning": "sports bag",
+    "example": "He takes the sports bag with him."
+   },
+   "tr": {
+    "meaning": "spor çantası"
+   },
+   "th": {
+    "meaning": "กระเป๋ากีฬา"
+   },
+   "vi": {
+    "meaning": "túi thể thao"
+   },
+   "fa": {
+    "meaning": "ساک ورزشی"
+   }
+  },
+  "KoT-WZ6FQI": {
+   "en": {
+    "meaning": "flowered, floral",
+    "example": "She is wearing a floral skirt."
+   },
+   "tr": {
+    "meaning": "çiçekli"
+   },
+   "th": {
+    "meaning": "ลายดอกไม้"
+   },
+   "vi": {
+    "meaning": "hoa nhí"
+   },
+   "fa": {
+    "meaning": "گل‌دار"
+   }
+  },
+  "E+-S0[FZ8M": {
+   "en": {
+    "meaning": "patterned",
+    "example": "The shirt is patterned."
+   },
+   "tr": {
+    "meaning": "desenli"
+   },
+   "th": {
+    "meaning": "มีลวดลาย"
+   },
+   "vi": {
+    "meaning": "có họa tiết"
+   },
+   "fa": {
+    "meaning": "طرح‌دار"
+   }
+  },
+  "r^(/1Q$UNN": {
+   "en": {
+    "meaning": "plain, single-coloured",
+    "example": "I like plain blouses."
+   },
+   "tr": {
+    "meaning": "düz renk"
+   },
+   "th": {
+    "meaning": "สีพื้น"
+   },
+   "vi": {
+    "meaning": "trơn, một màu"
+   },
+   "fa": {
+    "meaning": "تک‌رنگ"
+   }
+  },
+  "e=f!,`._rg": {
+   "en": {
+    "meaning": "long-sleeved",
+    "example": "She has a long-sleeved shirt on."
+   },
+   "tr": {
+    "meaning": "uzun kollu"
+   },
+   "th": {
+    "meaning": "แขนยาว"
+   },
+   "vi": {
+    "meaning": "dài tay"
+   },
+   "fa": {
+    "meaning": "آستین‌بلند"
+   }
+  },
+  "RjSyA71/*x": {
+   "en": {
+    "meaning": "short-sleeved",
+    "example": "In summer I wear short-sleeved T-shirts."
+   },
+   "tr": {
+    "meaning": "kısa kollu"
+   },
+   "th": {
+    "meaning": "แขนสั้น"
+   },
+   "vi": {
+    "meaning": "ngắn tay"
+   },
+   "fa": {
+    "meaning": "آستین‌کوتاه"
+   }
+  },
+  "uq{|}>X6d]": {
+   "en": {
+    "meaning": "loose, wide; far",
+    "example": "The trousers are too loose for me."
+   },
+   "tr": {
+    "meaning": "bol; uzak"
+   },
+   "th": {
+    "meaning": "หลวม; ไกล"
+   },
+   "vi": {
+    "meaning": "rộng; xa"
+   },
+   "fa": {
+    "meaning": "گشاد؛ دور"
+   }
+  },
+  "bs4H`~2:L5": {
+   "en": {
+    "meaning": "short",
+    "example": "The skirt is too short."
+   },
+   "tr": {
+    "meaning": "kısa"
+   },
+   "th": {
+    "meaning": "สั้น"
+   },
+   "vi": {
+    "meaning": "ngắn"
+   },
+   "fa": {
+    "meaning": "کوتاه"
+   }
+  },
+  "F%YjExH^!(": {
+   "en": {
+    "meaning": "long",
+    "example": "She is wearing a long dress."
+   },
+   "tr": {
+    "meaning": "uzun"
+   },
+   "th": {
+    "meaning": "ยาว"
+   },
+   "vi": {
+    "meaning": "dài"
+   },
+   "fa": {
+    "meaning": "بلند"
+   }
+  },
+  "za(APc<>sn": {
+   "en": {
+    "meaning": "expensive",
+    "example": "I think the sweatshirt is expensive."
+   },
+   "tr": {
+    "meaning": "pahalı"
+   },
+   "th": {
+    "meaning": "แพง"
+   },
+   "vi": {
+    "meaning": "đắt"
+   },
+   "fa": {
+    "meaning": "گران"
+   }
+  },
+  "gy-4-1e{#n": {
+   "en": {
+    "meaning": "modern, fashionable",
+    "example": "Is that fashionable now?"
+   },
+   "tr": {
+    "meaning": "modern"
+   },
+   "th": {
+    "meaning": "ทันสมัย"
+   },
+   "vi": {
+    "meaning": "hiện đại, hợp thời"
+   },
+   "fa": {
+    "meaning": "مدرن، امروزی"
+   }
+  },
+  "B5HkW+kBF6": {
+   "en": {
+    "meaning": "old-fashioned",
+    "example": "The coat is old-fashioned."
+   },
+   "tr": {
+    "meaning": "demode"
+   },
+   "th": {
+    "meaning": "ล้าสมัย"
+   },
+   "vi": {
+    "meaning": "lỗi thời"
+   },
+   "fa": {
+    "meaning": "قدیمی، از مد افتاده"
+   }
+  },
+  "nG%OUP`Z_A": {
+   "en": {
+    "meaning": "ugly",
+    "example": "I find the colour ugly."
+   },
+   "tr": {
+    "meaning": "çirkin"
+   },
+   "th": {
+    "meaning": "น่าเกลียด"
+   },
+   "vi": {
+    "meaning": "xấu xí"
+   },
+   "fa": {
+    "meaning": "زشت"
+   }
+  },
+  "NII@dB>V8]": {
+   "en": {
+    "meaning": "sporty",
+    "example": "He dresses in a sporty way."
+   },
+   "tr": {
+    "meaning": "sportif"
+   },
+   "th": {
+    "meaning": "สปอร์ต"
+   },
+   "vi": {
+    "meaning": "thể thao"
+   },
+   "fa": {
+    "meaning": "اسپرت"
+   }
+  },
+  "Cq6%t.Fx`6": {
+   "en": {
+    "meaning": "clothes (very colloquial)",
+    "example": "Take your clothes with you!"
+   },
+   "tr": {
+    "meaning": "giysiler"
+   },
+   "th": {
+    "meaning": "เสื้อผ้า (ภาษาพูด)"
+   },
+   "vi": {
+    "meaning": "quần áo (khẩu ngữ)"
+   },
+   "fa": {
+    "meaning": "لباس‌ها (محاوره‌ای)"
+   }
+  },
+  "uGHt;:GLK)": {
+   "en": {
+    "meaning": "formal",
+    "example": "\"Kleidung\" is formal."
+   },
+   "tr": {
+    "meaning": "resmî"
+   },
+   "th": {
+    "meaning": "เป็นทางการ"
+   },
+   "vi": {
+    "meaning": "trang trọng"
+   },
+   "fa": {
+    "meaning": "رسمی"
+   }
+  },
+  "rpj./-3Y1P": {
+   "en": {
+    "meaning": "informal",
+    "example": "\"Klamotten\" is informal."
+   },
+   "tr": {
+    "meaning": "gayriresmî"
+   },
+   "th": {
+    "meaning": "ไม่เป็นทางการ"
+   },
+   "vi": {
+    "meaning": "thân mật, không trang trọng"
+   },
+   "fa": {
+    "meaning": "غیررسمی"
+   }
+  },
+  "B|t+E]G#w!": {
+   "en": {
+    "meaning": "colloquial language",
+    "example": "That belongs to colloquial language."
+   },
+   "tr": {
+    "meaning": "günlük konuşma dili"
+   },
+   "th": {
+    "meaning": "ภาษาพูด"
+   },
+   "vi": {
+    "meaning": "khẩu ngữ"
+   },
+   "fa": {
+    "meaning": "زبان محاوره"
+   }
+  },
+  "jGM&0Wjfn@": {
+   "en": {
+    "meaning": "difference",
+    "example": "What's the difference?"
+   },
+   "tr": {
+    "meaning": "fark"
+   },
+   "th": {
+    "meaning": "ความแตกต่าง"
+   },
+   "vi": {
+    "meaning": "sự khác biệt"
+   },
+   "fa": {
+    "meaning": "تفاوت"
+   }
+  },
+  "gWIj!)p-sc": {
+   "en": {
+    "meaning": "to take off (hat, glasses)",
+    "example": "He takes off his glasses."
+   },
+   "tr": {
+    "meaning": "çıkarmak"
+   },
+   "th": {
+    "meaning": "ถอด (หมวก, แว่น)"
+   },
+   "vi": {
+    "meaning": "tháo, bỏ (mũ, kính)"
+   },
+   "fa": {
+    "meaning": "برداشتن"
+   }
+  },
+  "e9~;KD6z,5": {
+   "en": {
+    "meaning": "to have on (hat, glasses)",
+    "example": "She has a mask on."
+   },
+   "tr": {
+    "meaning": "takmış olmak"
+   },
+   "th": {
+    "meaning": "สวมอยู่ (หมวก, แว่น)"
+   },
+   "vi": {
+    "meaning": "đang đội, đang đeo"
+   },
+   "fa": {
+    "meaning": "به سر/چشم داشتن"
+   }
+  },
+  "E{2bzn.K!6": {
+   "en": {
+    "meaning": "to slip on, to put on",
+    "example": "Put your jacket on!"
+   },
+   "tr": {
+    "meaning": "üstüne giymek"
+   },
+   "th": {
+    "meaning": "สวมทับ"
+   },
+   "vi": {
+    "meaning": "khoác vào"
+   },
+   "fa": {
+    "meaning": "روی لباس پوشیدن"
+   }
+  },
+  "lJg_kUdC].": {
+   "en": {
+    "meaning": "to take off (a coat)",
+    "example": "May I take off my coat?"
+   },
+   "tr": {
+    "meaning": "çıkarmak"
+   },
+   "th": {
+    "meaning": "ถอด (เสื้อโค้ท)"
+   },
+   "vi": {
+    "meaning": "cởi (áo khoác)"
+   },
+   "fa": {
+    "meaning": "درآوردن (پالتو)"
+   }
+  },
+  "x!%tSn8br<": {
+   "en": {
+    "meaning": "to tie on, to put on (scarf)",
+    "example": "She puts on a scarf."
+   },
+   "tr": {
+    "meaning": "bağlamak, takmak"
+   },
+   "th": {
+    "meaning": "ผูก (ผ้าพันคอ)"
+   },
+   "vi": {
+    "meaning": "quàng (khăn)"
+   },
+   "fa": {
+    "meaning": "بستن (شال)"
+   }
+  }
+ },
+ "grammar": {}
+}

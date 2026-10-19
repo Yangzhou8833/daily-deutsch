@@ -1,0 +1,473 @@
+{
+ "words": {
+  "JSI,n3Hi#k": {
+   "en": {
+    "meaning": "to hike",
+    "example": "At the weekend we like hiking."
+   },
+   "tr": {
+    "meaning": "yürüyüş yapmak"
+   },
+   "th": {
+    "meaning": "เดินป่า"
+   },
+   "vi": {
+    "meaning": "đi bộ đường dài"
+   },
+   "fa": {
+    "meaning": "پیاده‌روی کردن"
+   }
+  },
+  "kXF/10/(BA": {
+   "en": {
+    "meaning": "to cycle",
+    "example": "At the weekend we go cycling."
+   },
+   "tr": {
+    "meaning": "bisiklete binmek"
+   },
+   "th": {
+    "meaning": "ขี่จักรยาน"
+   },
+   "vi": {
+    "meaning": "đạp xe"
+   },
+   "fa": {
+    "meaning": "دوچرخه‌سواری کردن"
+   }
+  },
+  "cA9w`[VV:8": {
+   "en": {
+    "meaning": "kindergarten",
+    "example": "I've known him since kindergarten."
+   },
+   "tr": {
+    "meaning": "anaokulu"
+   },
+   "th": {
+    "meaning": "โรงเรียนอนุบาล"
+   },
+   "vi": {
+    "meaning": "trường mẫu giáo"
+   },
+   "fa": {
+    "meaning": "مهدکودک"
+   }
+  },
+  "GzC.o[;5?": {
+   "en": {
+    "meaning": "to underline",
+    "example": "Underline the words."
+   },
+   "tr": {
+    "meaning": "altını çizmek"
+   },
+   "th": {
+    "meaning": "ขีดเส้นใต้"
+   },
+   "vi": {
+    "meaning": "gạch chân"
+   },
+   "fa": {
+    "meaning": "زیرش خط کشیدن"
+   }
+  },
+  "B[_ISV}9zS": {
+   "en": {
+    "meaning": "to hope",
+    "example": "I hope he stops soon."
+   },
+   "tr": {
+    "meaning": "umut etmek"
+   },
+   "th": {
+    "meaning": "หวัง"
+   },
+   "vi": {
+    "meaning": "hy vọng"
+   },
+   "fa": {
+    "meaning": "امیدوار بودن"
+   }
+  },
+  "n-c!(By6|$": {
+   "en": {
+    "meaning": "beauty",
+    "example": "Beauty is very important today."
+   },
+   "tr": {
+    "meaning": "güzellik"
+   },
+   "th": {
+    "meaning": "ความงาม"
+   },
+   "vi": {
+    "meaning": "vẻ đẹp"
+   },
+   "fa": {
+    "meaning": "زیبایی"
+   }
+  },
+  "`S<^Rq.Pi": {
+   "en": {
+    "meaning": "cosmetic surgery",
+    "example": "Cosmetic surgery costs a lot of money."
+   },
+   "tr": {
+    "meaning": "estetik ameliyat"
+   },
+   "th": {
+    "meaning": "ศัลยกรรมความงาม"
+   },
+   "vi": {
+    "meaning": "phẫu thuật thẩm mỹ"
+   },
+   "fa": {
+    "meaning": "جراحی زیبایی"
+   }
+  },
+  "riB$:BcPXp": {
+   "en": {
+    "meaning": "cosmetic surgeon",
+    "example": "Cosmetic surgeons promise a lot."
+   },
+   "tr": {
+    "meaning": "estetik cerrah"
+   },
+   "th": {
+    "meaning": "ศัลยแพทย์ความงาม"
+   },
+   "vi": {
+    "meaning": "bác sĩ phẫu thuật thẩm mỹ"
+   },
+   "fa": {
+    "meaning": "جراح زیبایی"
+   }
+  },
+  "FC/l}?H!b2": {
+   "en": {
+    "meaning": "injury",
+    "example": "After an injury the surgeon helps."
+   },
+   "tr": {
+    "meaning": "yaralanma"
+   },
+   "th": {
+    "meaning": "การบาดเจ็บ"
+   },
+   "vi": {
+    "meaning": "vết thương"
+   },
+   "fa": {
+    "meaning": "جراحت"
+   }
+  },
+  "b8HyEiJ9`P": {
+   "en": {
+    "meaning": "health insurance",
+    "example": "Health insurance doesn't pay for that."
+   },
+   "tr": {
+    "meaning": "sağlık sigortası"
+   },
+   "th": {
+    "meaning": "ประกันสุขภาพ"
+   },
+   "vi": {
+    "meaning": "bảo hiểm y tế"
+   },
+   "fa": {
+    "meaning": "بیمهٔ درمانی"
+   }
+  },
+  "DNwf9%4o(2": {
+   "en": {
+    "meaning": "hair colour",
+    "example": "A new hair colour can help."
+   },
+   "tr": {
+    "meaning": "saç rengi"
+   },
+   "th": {
+    "meaning": "สีผม"
+   },
+   "vi": {
+    "meaning": "màu tóc"
+   },
+   "fa": {
+    "meaning": "رنگ مو"
+   }
+  },
+  "uu@G.PXs8N": {
+   "en": {
+    "meaning": "cosmetics industry",
+    "example": "The cosmetics industry earns a lot of money."
+   },
+   "tr": {
+    "meaning": "kozmetik sektörü"
+   },
+   "th": {
+    "meaning": "อุตสาหกรรมเครื่องสำอาง"
+   },
+   "vi": {
+    "meaning": "ngành mỹ phẩm"
+   },
+   "fa": {
+    "meaning": "صنعت آرایشی"
+   }
+  },
+  "z>1C9#eR%a": {
+   "en": {
+    "meaning": "youthful",
+    "example": "Your face doesn't look youthful any more."
+   },
+   "tr": {
+    "meaning": "genç görünümlü"
+   },
+   "th": {
+    "meaning": "ดูอ่อนวัย"
+   },
+   "vi": {
+    "meaning": "trẻ trung"
+   },
+   "fa": {
+    "meaning": "جوان، شاداب"
+   }
+  },
+  "AI|e-N0.Fu": {
+   "en": {
+    "meaning": "surgeon",
+    "example": "The surgeon performs the operation."
+   },
+   "tr": {
+    "meaning": "cerrah"
+   },
+   "th": {
+    "meaning": "ศัลยแพทย์"
+   },
+   "vi": {
+    "meaning": "bác sĩ phẫu thuật"
+   },
+   "fa": {
+    "meaning": "جراح"
+   }
+  },
+  "w<uiYX[FiD": {
+   "en": {
+    "meaning": "to save, to rescue",
+    "example": "The operation can save a life."
+   },
+   "tr": {
+    "meaning": "kurtarmak"
+   },
+   "th": {
+    "meaning": "ช่วยชีวิต"
+   },
+   "vi": {
+    "meaning": "cứu"
+   },
+   "fa": {
+    "meaning": "نجات دادن"
+   }
+  },
+  "QRZP&-I:cl": {
+   "en": {
+    "meaning": "to fight",
+    "example": "The doctors fought for her life."
+   },
+   "tr": {
+    "meaning": "mücadele etmek"
+   },
+   "th": {
+    "meaning": "ต่อสู้"
+   },
+   "vi": {
+    "meaning": "chiến đấu"
+   },
+   "fa": {
+    "meaning": "جنگیدن"
+   }
+  },
+  "E3B<J9|=M@": {
+   "en": {
+    "meaning": "to accept",
+    "example": "You can't accept yourself."
+   },
+   "tr": {
+    "meaning": "kabul etmek"
+   },
+   "th": {
+    "meaning": "ยอมรับ"
+   },
+   "vi": {
+    "meaning": "chấp nhận"
+   },
+   "fa": {
+    "meaning": "پذیرفتن"
+   }
+  },
+  "GJ2]Da`B)Y": {
+   "en": {
+    "meaning": "supermodel",
+    "example": "She was a supermodel for a long time."
+   },
+   "tr": {
+    "meaning": "süper model"
+   },
+   "th": {
+    "meaning": "ซูเปอร์โมเดล"
+   },
+   "vi": {
+    "meaning": "siêu mẫu"
+   },
+   "fa": {
+    "meaning": "سوپرمدل"
+   }
+  },
+  "bFxEJd,v}>": {
+   "en": {
+    "meaning": "at least",
+    "example": "For at least a thousand euros, everything is possible."
+   },
+   "tr": {
+    "meaning": "en az"
+   },
+   "th": {
+    "meaning": "อย่างน้อย"
+   },
+   "vi": {
+    "meaning": "ít nhất"
+   },
+   "fa": {
+    "meaning": "دست‌کم"
+   }
+  },
+  "B3bAwxqV<t": {
+   "en": {
+    "meaning": "possible",
+    "example": "Almost everything is possible."
+   },
+   "tr": {
+    "meaning": "mümkün"
+   },
+   "th": {
+    "meaning": "เป็นไปได้"
+   },
+   "vi": {
+    "meaning": "có thể"
+   },
+   "fa": {
+    "meaning": "ممکن"
+   }
+  },
+  "k,_RKsmH/.": {
+   "en": {
+    "meaning": "wound",
+    "example": "The wound is bleeding."
+   },
+   "tr": {
+    "meaning": "yara"
+   },
+   "th": {
+    "meaning": "บาดแผล"
+   },
+   "vi": {
+    "meaning": "vết thương"
+   },
+   "fa": {
+    "meaning": "زخم"
+   }
+  },
+  "B8C+))|(X?": {
+   "en": {
+    "meaning": "to bleed",
+    "example": "The injury is bleeding."
+   },
+   "tr": {
+    "meaning": "kanamak"
+   },
+   "th": {
+    "meaning": "เลือดออก"
+   },
+   "vi": {
+    "meaning": "chảy máu"
+   },
+   "fa": {
+    "meaning": "خونریزی کردن"
+   }
+  },
+  "A%g%@Ia0mE": {
+   "en": {
+    "meaning": "to express, to voice",
+    "example": "She expresses her opinion."
+   },
+   "tr": {
+    "meaning": "dile getirmek"
+   },
+   "th": {
+    "meaning": "แสดง (ความคิดเห็น)"
+   },
+   "vi": {
+    "meaning": "bày tỏ"
+   },
+   "fa": {
+    "meaning": "ابراز کردن"
+   }
+  },
+  "N59<qFz3FD": {
+   "en": {
+    "meaning": "for it, in favour",
+    "example": "I'm in favour."
+   },
+   "tr": {
+    "meaning": "lehinde"
+   },
+   "th": {
+    "meaning": "เห็นด้วย"
+   },
+   "vi": {
+    "meaning": "tán thành"
+   },
+   "fa": {
+    "meaning": "موافق"
+   }
+  },
+  "Q>b:bY^gwg": {
+   "en": {
+    "meaning": "against it",
+    "example": "I'm absolutely against it."
+   },
+   "tr": {
+    "meaning": "aleyhinde, karşı"
+   },
+   "th": {
+    "meaning": "คัดค้าน"
+   },
+   "vi": {
+    "meaning": "phản đối"
+   },
+   "fa": {
+    "meaning": "مخالف"
+   }
+  },
+  "NqI68~-G,s": {
+   "en": {
+    "meaning": "argument",
+    "example": "There are good arguments for it."
+   },
+   "tr": {
+    "meaning": "argüman"
+   },
+   "th": {
+    "meaning": "ข้อโต้แย้ง"
+   },
+   "vi": {
+    "meaning": "lập luận"
+   },
+   "fa": {
+    "meaning": "دلیل، استدلال"
+   }
+  }
+ },
+ "grammar": {}
+}
