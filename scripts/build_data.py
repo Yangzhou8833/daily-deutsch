@@ -23,7 +23,7 @@ LANGS = ["zh", "en", "tr", "th", "vi", "fa"]
 
 
 def load_overlays():
-    words, grammar = {}, {}
+    words, grammar, fixes = {}, {}, {}
     for path in sorted(glob.glob(os.path.join(ROOT, "translations", "*.json"))):
         with open(path, encoding="utf-8") as f:
             data = json.load(f)
@@ -32,10 +32,18 @@ def load_overlays():
                 words.setdefault(wid, {}).setdefault(lang, {}).update(t)
         for gid, langs in data.get("grammar", {}).items():
             grammar.setdefault(gid, {}).update(langs)
-    return words, grammar
+        # corrections to fields parsed from the decks (plural, cloze, example …); "_"-keys are notes
+        for wid, fields in data.get("fixes", {}).items():
+            fixes.setdefault(wid, {}).update({k: v for k, v in fields.items() if not k.startswith("_")})
+    return words, grammar, fixes
 
 
-OVERLAY_WORDS, OVERLAY_GRAMMAR = load_overlays()
+OVERLAY_WORDS, OVERLAY_GRAMMAR, OVERLAY_FIXES = load_overlays()
+
+
+def fix_word(w):
+    """Apply field corrections from translations/fixes.json to a word as read from a deck."""
+    return dict(w, **OVERLAY_FIXES.get(w["id"], {}))
 
 
 def finish_word(w):
@@ -92,7 +100,7 @@ def build_a2(index):
         words, grammar, sentences = read_apkg(path)
         lesson = {
             "id": lid, "title": title, "date": mtime(path),
-            "words": [finish_word(w) for w in words],
+            "words": [finish_word(fix_word(w)) for w in words],
             "grammar": [finish_grammar(g) for g in grammar],
             "sentences": [finish_sentence(s) for s in sentences],
         }
@@ -131,6 +139,7 @@ def build_a12(index):
                 deck_words = decks[sel[1]][0]
                 deck_dates.append(dates[sel[1]])
                 for w in select(deck_words, sel, "words"):
+                    w = fix_word(w)
                     key = f"{w['article'] or ''} {w['word']}".strip().lower()
                     used.add(w["id"])
                     if key in seen:

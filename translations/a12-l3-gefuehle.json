@@ -57,7 +57,7 @@
   "iR51!XnaS6": {
    "en": {
     "meaning": "hatred",
-    "example": "I hate her!"
+    "example": "Hatred is a strong feeling."
    },
    "tr": {
     "meaning": "nefret"
@@ -70,6 +70,9 @@
    },
    "fa": {
     "meaning": "نفرت"
+   },
+   "zh": {
+    "example": "恨是一种强烈的情感。"
    }
   },
   "IrS_%j5=lw": {
@@ -93,7 +96,7 @@
   "Q~?AyZ{Sy+": {
    "en": {
     "meaning": "jealousy",
-    "example": "Anja is jealous of Sonja."
+    "example": "Out of jealousy he reads her messages."
    },
    "tr": {
     "meaning": "kıskançlık"
@@ -106,12 +109,15 @@
    },
    "fa": {
     "meaning": "حسادت (غیرت)"
+   },
+   "zh": {
+    "example": "他因为吃醋去看她的消息。"
    }
   },
   "v3B_$Cqh-V": {
    "en": {
     "meaning": "boredom",
-    "example": "All the colleagues are bored."
+    "example": "I'm dying of boredom."
    },
    "tr": {
     "meaning": "can sıkıntısı"
@@ -124,6 +130,9 @@
    },
    "fa": {
     "meaning": "کسالت"
+   },
+   "zh": {
+    "example": "我快无聊死了。"
    }
   },
   "u:2.,,fOIr": {

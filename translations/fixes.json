@@ -1,0 +1,227 @@
+{
+ "fixes": {
+  "Gs76|.qzg@": {
+   "_word": "a12-l3-berufswechsel: Zeitfirma",
+   "plural": "die Zeitfirmen"
+  },
+  "w{RuFg?Kb)": {
+   "_word": "a12-l3-berufe: Bürokaufmann",
+   "plural": "die Bürokaufleute"
+  },
+  "H!l(PH+bgO": {
+   "_word": "a12-l4-wetter-2: Grad",
+   "article": "der",
+   "plural": "die Grade"
+  },
+  "JIca6wQ/ib": {
+   "_word": "a12-l4-aussehen: Haar",
+   "plural": "die Haare"
+  },
+  "I8*WIcDIrN": {
+   "_word": "a12-l3-arbeitsorte: Kfz-Mechatroniker",
+   "plural": "die Kfz-Mechatroniker"
+  },
+  "CWJm(BJAy(": {
+   "_word": "a12-l3-taetigkeiten: Kreditmöglichkeit",
+   "plural": "die Kreditmöglichkeiten"
+  },
+  "hg8OPl:.5U": {
+   "_word": "a12-l2-arzt: Assistentin",
+   "plural": "die Assistentinnen"
+  },
+  "Q)bDIuBY:o": {
+   "_word": "a12-l3-arbeitswelt: Fotografin",
+   "plural": "die Fotografinnen"
+  },
+  "B;l)=Zq!45": {
+   "_word": "a12-l3-nomen: Kamerafrau",
+   "plural": "die Kamerafrauen"
+  },
+  "o1M#&]S9,?": {
+   "_word": "a12-l3-nomen: Arzthelferin",
+   "plural": "die Arzthelferinnen"
+  },
+  "Ri,]r:XzJz": {
+   "_word": "a12-l3-nomen: Werbekauffrau",
+   "plural": "die Werbekauffrauen"
+  },
+  "sit<UM._)3": {
+   "_word": "a12-l3-taetigkeiten: Architektin",
+   "plural": "die Architektinnen"
+  },
+  "b]Pa`{n.)w": {
+   "_word": "a12-l3-taetigkeiten: Anwältin",
+   "plural": "die Anwältinnen"
+  },
+  "CkcdJsAr)]": {
+   "_word": "a12-l3-taetigkeiten: Künstlerin",
+   "plural": "die Künstlerinnen"
+  },
+  "G:DjN<3<+R": {
+   "_word": "a12-l3-taetigkeiten: Dolmetscherin",
+   "plural": "die Dolmetscherinnen"
+  },
+  "GuN[V|vj>5": {
+   "_word": "a12-l3-taetigkeiten: Hotelfachfrau",
+   "plural": "die Hotelfachfrauen"
+  },
+  "gSHk(Qgc{f": {
+   "_word": "a12-l3-taetigkeiten: Bankangestellte",
+   "plural": "die Bankangestellten"
+  },
+  "zov;M8w#XY": {
+   "_word": "a12-l3-taetigkeiten: Hausmeisterin",
+   "plural": "die Hausmeisterinnen"
+  },
+  "j)U&b.ENAP": {
+   "_word": "a12-l3-taetigkeiten: Bauarbeiterin",
+   "plural": "die Bauarbeiterinnen"
+  },
+  "F/yn-O#88_": {
+   "_word": "a12-l3-taetigkeiten: Verlagslektorin",
+   "plural": "die Verlagslektorinnen"
+  },
+  "dOp9J<],0k": {
+   "_word": "a12-l4-kleidung-beschreiben: Kundenberaterin",
+   "plural": "die Kundenberaterinnen"
+  },
+  "A6G3KzZz:%": {
+   "_word": "a12-l4-bild: Bildbeschreibung",
+   "plural": "die Bildbeschreibungen"
+  },
+  "LI#Jvky|1M": {
+   "_word": "a12-l4-diebstahl: Lieblingsfarbe",
+   "plural": "die Lieblingsfarben"
+  },
+  "rU5EWk,h?7": {
+   "_word": "a12-l4-eindruck: Gesprächsthema",
+   "plural": "die Gesprächsthemen"
+  },
+  "b4wBS6BI(K": {
+   "_word": "a12-l4-eindruck: Familienmitglied",
+   "plural": "die Familienmitglieder"
+  },
+  "I|pA3vX*%L": {
+   "_word": "a12-l4-kaufhaus: Sonderangebot",
+   "plural": "die Sonderangebote"
+  },
+  "qu`f=7.Dkv": {
+   "_word": "a12-l4-kaufhaus: Lieblingsgeschäft",
+   "plural": "die Lieblingsgeschäfte"
+  },
+  "j8EXdcDhD0": {
+   "_word": "a12-l4-kaufhaus: Damenabteilung",
+   "plural": "die Damenabteilungen"
+  },
+  "e3)daOL#?[": {
+   "_word": "a12-l4-kaufhaus: Herrenabteilung",
+   "plural": "die Herrenabteilungen"
+  },
+  "L;0_6V$CA,": {
+   "_word": "a12-l4-kaufhaus: Sportabteilung",
+   "plural": "die Sportabteilungen"
+  },
+  "nLB(4>H%3N": {
+   "_word": "a12-l4-kaufhaus: Kinderabteilung",
+   "plural": "die Kinderabteilungen"
+  },
+  "w6}7+lqvJP": {
+   "_word": "a12-l4-kaufhaus: Umkleidekabine",
+   "plural": "die Umkleidekabinen"
+  },
+  "bfJx0z)x)s": {
+   "_word": "a12-l4-kaufhaus: Kleidergröße",
+   "plural": "die Kleidergrößen",
+   "cloze": "Welche ___ trägst du?"
+  },
+  "`S<^Rq.Pi": {
+   "_word": "a12-l4-schoenheit: Schönheitsoperation",
+   "plural": "die Schönheitsoperationen"
+  },
+  "riB$:BcPXp": {
+   "_word": "a12-l4-schoenheit: Schönheitschirurg",
+   "plural": "die Schönheitschirurgen"
+  },
+  "b8HyEiJ9`P": {
+   "_word": "a12-l4-schoenheit: Krankenversicherung",
+   "plural": "die Krankenversicherungen"
+  },
+  "LBc]drM_La": {
+   "_word": "a12-l4-secondhand: Daunenmantel",
+   "plural": "die Daunenmäntel"
+  },
+  "PJ3O-4`Lho": {
+   "_word": "a12-l4-secondhand: Verkaufspreis",
+   "plural": "die Verkaufspreise"
+  },
+  "pwcMJ(3whf": {
+   "_word": "a12-l4-shoppen: Einkaufszentrum",
+   "plural": "die Einkaufszentren"
+  },
+  "M*B1A<U1Y5": {
+   "_word": "a12-l4-shoppen: Secondhandladen",
+   "plural": "die Secondhandläden"
+  },
+  "js3(C39)EH": {
+   "_word": "a12-l4-secondhand: Koffer",
+   "cloze": "Der große ___ ist neu.",
+   "answer": "Koffer"
+  },
+  "i?v:tY:K.3": {
+   "_word": "a12-l4-charakter: fleißig",
+   "cloze": "Eva ist so ___ wie du."
+  },
+  "B#ZaNZ]b;`": {
+   "_word": "a12-l4-material: Größe",
+   "cloze": "Welche ___ brauchen Sie?"
+  },
+  "A%g%@Ia0mE": {
+   "_word": "a12-l4-schoenheit: äußern",
+   "cloze": "Sie ___ ihre Meinung."
+  },
+  "zgpYgu7~B}": {
+   "_word": "a12-l4-secondhand: Reißverschluss",
+   "cloze": "Der ___ ist kaputt."
+  },
+  "iR51!XnaS6": {
+   "_word": "a12-l3-gefuehle: Hass",
+   "example": "Hass ist ein starkes Gefühl.",
+   "cloze": "___ ist ein starkes Gefühl.",
+   "answer": "Hass"
+  },
+  "Q~?AyZ{Sy+": {
+   "_word": "a12-l3-gefuehle: Eifersucht",
+   "example": "Aus Eifersucht liest er ihre Nachrichten.",
+   "cloze": "Aus ___ liest er ihre Nachrichten.",
+   "answer": "Eifersucht"
+  },
+  "v3B_$Cqh-V": {
+   "_word": "a12-l3-gefuehle: Langeweile",
+   "example": "Ich sterbe vor Langeweile.",
+   "cloze": "Ich sterbe vor ___.",
+   "answer": "Langeweile"
+  },
+  "z4l%I+@u}c": {
+   "_word": "a12-l1-zimmer: offen",
+   "example": "Die Tür ist offen.",
+   "cloze": "Die Tür ist ___.",
+   "answer": "offen"
+  },
+  "bFxEJd,v}>": {
+   "_word": "a12-l4-schoenheit: mindestens",
+   "example": "Eine Schönheitsoperation kostet mindestens tausend Euro.",
+   "cloze": "Eine Schönheitsoperation kostet ___ tausend Euro.",
+   "answer": "mindestens"
+  },
+  "v)NyQ-|MC[": {
+   "_word": "a12-l4-klima: Smalltalk",
+   "cloze": "Wetter ist ein gutes ___-Thema.",
+   "answer": "Smalltalk"
+  },
+  "C(1KiIY:s[": {
+   "_word": "a12-l2-feste: Feuerwerk sehen",
+   "article": null,
+   "word": "das Feuerwerk sehen"
+  }
+ }
+}
