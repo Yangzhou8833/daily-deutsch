@@ -9,6 +9,8 @@ import type { Lang } from "./types";
 export interface Profile {
   display_name: string;
   native_lang: Lang;
+  /** May generate and publish lessons (set in the database, not from the app). */
+  is_editor?: boolean;
 }
 export interface ClassInfo {
   id: string;
@@ -57,7 +59,7 @@ const message = (e: unknown) => (e && typeof e === "object" && "message" in e ? 
 
 async function loadProfileAndClass(userId: string) {
   const [{ data: profile }, { data: member }] = await Promise.all([
-    supabase!.from("profiles").select("display_name, native_lang").eq("id", userId).maybeSingle(),
+    supabase!.from("profiles").select("display_name, native_lang, is_editor").eq("id", userId).maybeSingle(),
     supabase!.from("class_members").select("classes(id, name, code, owner_id)").eq("user_id", userId).order("joined_at").limit(1).maybeSingle(),
   ]);
   const klass = (member?.classes ?? null) as ClassInfo | null;
@@ -124,7 +126,7 @@ export const signOut = () =>
     return supabase!.auth.signOut();
   });
 
-export const updateProfile = (patch: Partial<Profile>) =>
+export const updateProfile = (patch: Partial<Pick<Profile, "display_name" | "native_lang">>) =>
   run(async () => {
     const { error } = await supabase!.from("profiles").update(patch).eq("id", state.userId!);
     if (!error) set({ profile: { ...state.profile!, ...patch } });

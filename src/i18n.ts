@@ -140,6 +140,7 @@ const UI = {
   remove: { de: "Entfernen", zh: "移除", en: "Remove", tr: "Çıkar" },
   confirmRemove: { de: "{name} aus dem Kurs entfernen?", zh: "确定把 {name} 移出班级？", en: "Remove {name} from the class?", tr: "{name} sınıftan çıkarılsın mı?" },
   members: { de: "Mitglieder", zh: "名成员", en: "members", tr: "üye" },
+  editor: { de: "Lektionen erstellen (KI)", zh: "课程管理（AI 生成）", en: "Lesson editor (AI)", tr: "Ders editörü (YZ)" },
   uiLang: { de: "Oberfläche", zh: "界面语言", en: "Interface", tr: "Arayüz" },
   weekStarts: { de: "Startet jeden Montag neu", zh: "每周一重新计算", en: "Resets every Monday", tr: "Her pazartesi sıfırlanır" },
 } satisfies Record<string, Record<UiLang, string>>;

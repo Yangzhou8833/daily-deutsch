@@ -230,3 +230,51 @@ revoke execute on function public.create_class(text), public.join_class(text), p
   from public, anon;
 grant execute on function public.create_class(text), public.join_class(text), public.class_leaderboard(uuid)
   to authenticated;
+
+-- ================================================================ v2: lessons created in the web editor
+-- Published lessons are readable by everyone (also without login); only editors write them.
+-- Make yourself an editor once, in the SQL Editor:
+--   update public.profiles set is_editor = true
+--   where id = (select id from auth.users where email = 'you@example.com');
+
+alter table public.profiles add column if not exists is_editor boolean not null default false;
+
+-- Users may edit their name and language, never their own editor flag.
+revoke update on public.profiles from authenticated, anon;
+grant update (display_name, native_lang) on public.profiles to authenticated;
+
+create or replace function public.is_editor()
+returns boolean language sql stable security definer set search_path = public as $$
+  select coalesce((select is_editor from profiles where id = auth.uid()), false);
+$$;
+
+create table if not exists public.lessons (
+  id text primary key check (id ~ '^[a-z0-9][a-z0-9-]{1,39}$'),
+  title text not null check (char_length(title) between 1 and 80),
+  level text,
+  lesson_date date not null default current_date,
+  content jsonb not null default '{"words": [], "grammar": []}',
+  langs text[] not null default '{}',
+  words_count int not null default 0,
+  grammar_count int not null default 0,
+  published boolean not null default false,
+  created_by uuid references auth.users on delete set null default auth.uid(),
+  created_at timestamptz not null default now(),
+  updated_at timestamptz not null default now()
+);
+
+alter table public.lessons enable row level security;
+
+drop policy if exists "read published, editors read all" on public.lessons;
+create policy "read published, editors read all" on public.lessons for select to anon, authenticated
+  using (published or public.is_editor());
+drop policy if exists "editors insert" on public.lessons;
+create policy "editors insert" on public.lessons for insert to authenticated with check (public.is_editor());
+drop policy if exists "editors update" on public.lessons;
+create policy "editors update" on public.lessons for update to authenticated
+  using (public.is_editor()) with check (public.is_editor());
+drop policy if exists "editors delete" on public.lessons;
+create policy "editors delete" on public.lessons for delete to authenticated using (public.is_editor());
+
+grant select on public.lessons to anon, authenticated;
+grant insert, update, delete on public.lessons to authenticated;

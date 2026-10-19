@@ -236,6 +236,11 @@ export default function AccountPage() {
       {acc.status === "in" && (
         <>
           <p className="muted small">{acc.syncing ? t("syncing") : acc.syncError ? `${t("syncFailed")} (${acc.syncError})` : `✓ ${t("synced")}`}</p>
+          {acc.profile?.is_editor && (
+            <Link to="/admin" className="btn primary block">
+              ✨ {t("editor")}
+            </Link>
+          )}
           <ClassPanel inviteCode={code} />
           <ProfileForm />
           <button className="btn block" onClick={() => signOut()}>
