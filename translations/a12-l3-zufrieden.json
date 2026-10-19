@@ -1,0 +1,870 @@
+{
+ "words": {
+  "srULHB9$p:": {
+   "en": {
+    "meaning": "forbidden, prohibited",
+    "example": "No smoking!"
+   },
+   "tr": {
+    "meaning": "yasak"
+   },
+   "th": {
+    "meaning": "ห้าม"
+   },
+   "vi": {
+    "meaning": "bị cấm"
+   },
+   "fa": {
+    "meaning": "ممنوع"
+   }
+  },
+  "cuz$y<Tc~B": {
+   "en": {
+    "meaning": "to beg",
+    "example": "Begging is prohibited here."
+   },
+   "tr": {
+    "meaning": "dilenmek"
+   },
+   "th": {
+    "meaning": "ขอทาน"
+   },
+   "vi": {
+    "meaning": "ăn xin"
+   },
+   "fa": {
+    "meaning": "گدایی کردن"
+   }
+  },
+  "oj-v76d}9!": {
+   "en": {
+    "meaning": "to enter, to step onto",
+    "example": "Do not enter the building site!"
+   },
+   "tr": {
+    "meaning": "girmek"
+   },
+   "th": {
+    "meaning": "เข้า"
+   },
+   "vi": {
+    "meaning": "bước vào"
+   },
+   "fa": {
+    "meaning": "وارد شدن"
+   }
+  },
+  "hRD5,bSv`*": {
+   "en": {
+    "meaning": "building site",
+    "example": "The building site is dangerous."
+   },
+   "tr": {
+    "meaning": "inşaat alanı"
+   },
+   "th": {
+    "meaning": "ไซต์ก่อสร้าง"
+   },
+   "vi": {
+    "meaning": "công trường"
+   },
+   "fa": {
+    "meaning": "کارگاه ساختمانی"
+   }
+  },
+  "o9c[b/CUz]": {
+   "en": {
+    "meaning": "to put down, to park",
+    "example": "No parking!"
+   },
+   "tr": {
+    "meaning": "bırakmak, park etmek"
+   },
+   "th": {
+    "meaning": "จอด, วาง"
+   },
+   "vi": {
+    "meaning": "để, đỗ"
+   },
+   "fa": {
+    "meaning": "گذاشتن، پارک کردن"
+   }
+  },
+  "iSyOL:B|0S": {
+   "en": {
+    "meaning": "to store",
+    "example": "Storage is not allowed here."
+   },
+   "tr": {
+    "meaning": "depolamak"
+   },
+   "th": {
+    "meaning": "เก็บ, กองเก็บ"
+   },
+   "vi": {
+    "meaning": "cất trữ"
+   },
+   "fa": {
+    "meaning": "انبار کردن"
+   }
+  },
+  "sVVL$FA:aD": {
+   "en": {
+    "meaning": "unsure, uncertain",
+    "example": "I'm a bit unsure when I speak."
+   },
+   "tr": {
+    "meaning": "emin olmayan"
+   },
+   "th": {
+    "meaning": "ไม่มั่นใจ"
+   },
+   "vi": {
+    "meaning": "không chắc chắn"
+   },
+   "fa": {
+    "meaning": "نامطمئن"
+   }
+  },
+  "vZ8PL3vXi]": {
+   "en": {
+    "meaning": "satisfied, content",
+    "example": "I'm satisfied with my work."
+   },
+   "tr": {
+    "meaning": "memnun"
+   },
+   "th": {
+    "meaning": "พอใจ"
+   },
+   "vi": {
+    "meaning": "hài lòng"
+   },
+   "fa": {
+    "meaning": "راضی"
+   }
+  },
+  "d!ZwE{}4r2": {
+   "en": {
+    "meaning": "dissatisfied",
+    "example": "She is dissatisfied."
+   },
+   "tr": {
+    "meaning": "memnun olmayan"
+   },
+   "th": {
+    "meaning": "ไม่พอใจ"
+   },
+   "vi": {
+    "meaning": "không hài lòng"
+   },
+   "fa": {
+    "meaning": "ناراضی"
+   }
+  },
+  "|Ql7@qQn0": {
+   "en": {
+    "meaning": "not at all",
+    "example": "No, not at all."
+   },
+   "tr": {
+    "meaning": "hiç"
+   },
+   "th": {
+    "meaning": "ไม่...เลย"
+   },
+   "vi": {
+    "meaning": "hoàn toàn không"
+   },
+   "fa": {
+    "meaning": "اصلاً"
+   }
+  },
+  "c@!2=^,K&g": {
+   "en": {
+    "meaning": "allergy",
+    "example": "I'm allergic to hairspray."
+   },
+   "tr": {
+    "meaning": "alerji"
+   },
+   "th": {
+    "meaning": "โรคภูมิแพ้"
+   },
+   "vi": {
+    "meaning": "dị ứng"
+   },
+   "fa": {
+    "meaning": "آلرژی"
+   }
+  },
+  "M>B`6}2jM+": {
+   "en": {
+    "meaning": "hairspray",
+    "example": "Hairspray smells strong."
+   },
+   "tr": {
+    "meaning": "saç spreyi"
+   },
+   "th": {
+    "meaning": "สเปรย์ฉีดผม"
+   },
+   "vi": {
+    "meaning": "keo xịt tóc"
+   },
+   "fa": {
+    "meaning": "اسپری مو"
+   }
+  },
+  "t]s<(I[u7.": {
+   "en": {
+    "meaning": "to stop, to quit",
+    "example": "She had to stop."
+   },
+   "tr": {
+    "meaning": "bırakmak"
+   },
+   "th": {
+    "meaning": "หยุด, เลิก"
+   },
+   "vi": {
+    "meaning": "dừng, nghỉ"
+   },
+   "fa": {
+    "meaning": "دست کشیدن"
+   }
+  },
+  "q37q[Gq/f2": {
+   "en": {
+    "meaning": "mobile phone shop",
+    "example": "She works in a mobile phone shop."
+   },
+   "tr": {
+    "meaning": "cep telefonu dükkânı"
+   },
+   "th": {
+    "meaning": "ร้านโทรศัพท์มือถือ"
+   },
+   "vi": {
+    "meaning": "cửa hàng điện thoại"
+   },
+   "fa": {
+    "meaning": "مغازهٔ موبایل"
+   }
+  },
+  "FjFs|6^H33": {
+   "en": {
+    "meaning": "to be fun",
+    "example": "My work isn't any fun."
+   },
+   "tr": {
+    "meaning": "eğlenceli olmak"
+   },
+   "th": {
+    "meaning": "สนุก"
+   },
+   "vi": {
+    "meaning": "vui, thú vị"
+   },
+   "fa": {
+    "meaning": "لذت‌بخش بودن"
+   }
+  },
+  "q(EC/G(ZX7": {
+   "en": {
+    "meaning": "at the moment",
+    "example": "At the moment I'm looking for a new job."
+   },
+   "tr": {
+    "meaning": "şu anda"
+   },
+   "th": {
+    "meaning": "ขณะนี้"
+   },
+   "vi": {
+    "meaning": "hiện tại"
+   },
+   "fa": {
+    "meaning": "در حال حاضر"
+   }
+  },
+  "jU&rhE;Ioa": {
+   "en": {
+    "meaning": "to be clear",
+    "example": "That was always clear to me."
+   },
+   "tr": {
+    "meaning": "açık olmak"
+   },
+   "th": {
+    "meaning": "ชัดเจน"
+   },
+   "vi": {
+    "meaning": "rõ ràng"
+   },
+   "fa": {
+    "meaning": "روشن بودن"
+   }
+  },
+  "t~U+6rXEw%": {
+   "en": {
+    "meaning": "to decide, to determine",
+    "example": "He was allowed to choose his job himself."
+   },
+   "tr": {
+    "meaning": "belirlemek"
+   },
+   "th": {
+    "meaning": "กำหนด, ตัดสินใจ"
+   },
+   "vi": {
+    "meaning": "quyết định"
+   },
+   "fa": {
+    "meaning": "تعیین کردن"
+   }
+  },
+  "FP|n{Dq*3m": {
+   "en": {
+    "meaning": "dirty",
+    "example": "My work is dirty."
+   },
+   "tr": {
+    "meaning": "kirli"
+   },
+   "th": {
+    "meaning": "สกปรก"
+   },
+   "vi": {
+    "meaning": "bẩn"
+   },
+   "fa": {
+    "meaning": "کثیف"
+   }
+  },
+  "g1N%f,o]e(": {
+   "en": {
+    "meaning": "clean",
+    "example": "He goes home with clean hands."
+   },
+   "tr": {
+    "meaning": "temiz"
+   },
+   "th": {
+    "meaning": "สะอาด"
+   },
+   "vi": {
+    "meaning": "sạch"
+   },
+   "fa": {
+    "meaning": "تمیز"
+   }
+  },
+  "jc[h#@[f%W": {
+   "en": {
+    "meaning": "aircraft construction",
+    "example": "I studied aircraft engineering."
+   },
+   "tr": {
+    "meaning": "uçak yapımı"
+   },
+   "th": {
+    "meaning": "การสร้างเครื่องบิน"
+   },
+   "vi": {
+    "meaning": "chế tạo máy bay"
+   },
+   "fa": {
+    "meaning": "ساخت هواپیما"
+   }
+  },
+  "GJiV.7S0=o": {
+   "en": {
+    "meaning": "development engineer",
+    "example": "He works as a development engineer."
+   },
+   "tr": {
+    "meaning": "geliştirme mühendisi"
+   },
+   "th": {
+    "meaning": "วิศวกรฝ่ายพัฒนา"
+   },
+   "vi": {
+    "meaning": "kỹ sư phát triển"
+   },
+   "fa": {
+    "meaning": "مهندس توسعه"
+   }
+  },
+  "eFo{<x|{}J": {
+   "en": {
+    "meaning": "constant",
+    "example": "The work is a constant challenge."
+   },
+   "tr": {
+    "meaning": "sürekli"
+   },
+   "th": {
+    "meaning": "ตลอดเวลา"
+   },
+   "vi": {
+    "meaning": "liên tục"
+   },
+   "fa": {
+    "meaning": "دائمی"
+   }
+  },
+  "lYx;j.YihR": {
+   "en": {
+    "meaning": "challenge",
+    "example": "That's a big challenge."
+   },
+   "tr": {
+    "meaning": "meydan okuma, zorluk"
+   },
+   "th": {
+    "meaning": "ความท้าทาย"
+   },
+   "vi": {
+    "meaning": "thử thách"
+   },
+   "fa": {
+    "meaning": "چالش"
+   }
+  },
+  "K-cg(?odk^": {
+   "en": {
+    "meaning": "concentrated, focused",
+    "example": "You have to work with concentration."
+   },
+   "tr": {
+    "meaning": "dikkatli, odaklanmış"
+   },
+   "th": {
+    "meaning": "มีสมาธิ"
+   },
+   "vi": {
+    "meaning": "tập trung"
+   },
+   "fa": {
+    "meaning": "متمرکز"
+   }
+  },
+  "Ke(l0ov?$g": {
+   "en": {
+    "meaning": "foreign language",
+    "example": "DaF stands for German as a foreign language."
+   },
+   "tr": {
+    "meaning": "yabancı dil"
+   },
+   "th": {
+    "meaning": "ภาษาต่างประเทศ"
+   },
+   "vi": {
+    "meaning": "ngoại ngữ"
+   },
+   "fa": {
+    "meaning": "زبان خارجی"
+   }
+  },
+  "L/LS1#jbqQ": {
+   "en": {
+    "meaning": "to stand for",
+    "example": "What does that stand for?"
+   },
+   "tr": {
+    "meaning": "anlamına gelmek"
+   },
+   "th": {
+    "meaning": "ย่อมาจาก, หมายถึง"
+   },
+   "vi": {
+    "meaning": "là viết tắt của"
+   },
+   "fa": {
+    "meaning": "مخفف … بودن"
+   }
+  },
+  "O7?r?4^EZQ": {
+   "en": {
+    "meaning": "lessons, teaching",
+    "example": "Lots of teaching hours aren't a problem."
+   },
+   "tr": {
+    "meaning": "ders"
+   },
+   "th": {
+    "meaning": "การเรียนการสอน"
+   },
+   "vi": {
+    "meaning": "giờ học"
+   },
+   "fa": {
+    "meaning": "درس، تدریس"
+   }
+  },
+  "N%O|%7F)B^": {
+   "en": {
+    "meaning": "foreign",
+    "example": "I teach foreign learners."
+   },
+   "tr": {
+    "meaning": "yabancı"
+   },
+   "th": {
+    "meaning": "ต่างประเทศ"
+   },
+   "vi": {
+    "meaning": "nước ngoài"
+   },
+   "fa": {
+    "meaning": "خارجی"
+   }
+  },
+  "AvaHq.pBdv": {
+   "en": {
+    "meaning": "students",
+    "example": "My courses are for students.",
+    "info": "plural; gender-neutral form"
+   },
+   "tr": {
+    "meaning": "öğrenciler (üniversite)"
+   },
+   "th": {
+    "meaning": "นักศึกษา"
+   },
+   "vi": {
+    "meaning": "sinh viên"
+   },
+   "fa": {
+    "meaning": "دانشجویان"
+   }
+  },
+  "b#)%R{lt$<": {
+   "en": {
+    "meaning": "adult",
+    "example": "I teach young adults."
+   },
+   "tr": {
+    "meaning": "yetişkin"
+   },
+   "th": {
+    "meaning": "ผู้ใหญ่"
+   },
+   "vi": {
+    "meaning": "người lớn"
+   },
+   "fa": {
+    "meaning": "بزرگسال"
+   }
+  },
+  "ls^oI5^o<|": {
+   "en": {
+    "meaning": "foreign; strange, unfamiliar",
+    "example": "I like foreign cultures."
+   },
+   "tr": {
+    "meaning": "yabancı"
+   },
+   "th": {
+    "meaning": "ต่างถิ่น, แปลก"
+   },
+   "vi": {
+    "meaning": "xa lạ, nước ngoài"
+   },
+   "fa": {
+    "meaning": "بیگانه، ناآشنا"
+   }
+  },
+  "x=@?[w0p1#": {
+   "en": {
+    "meaning": "culture",
+    "example": "Foreign cultures are interesting."
+   },
+   "tr": {
+    "meaning": "kültür"
+   },
+   "th": {
+    "meaning": "วัฒนธรรม"
+   },
+   "vi": {
+    "meaning": "văn hóa"
+   },
+   "fa": {
+    "meaning": "فرهنگ"
+   }
+  },
+  "K1U6)jsQ/T": {
+   "en": {
+    "meaning": "tired",
+    "example": "I'm tired in the evenings."
+   },
+   "tr": {
+    "meaning": "yorgun"
+   },
+   "th": {
+    "meaning": "เหนื่อย"
+   },
+   "vi": {
+    "meaning": "mệt"
+   },
+   "fa": {
+    "meaning": "خسته"
+   }
+  },
+  "hkeL,1x:~5": {
+   "en": {
+    "meaning": "counter-reason",
+    "example": "With obwohl you give a counter-reason."
+   },
+   "tr": {
+    "meaning": "karşı neden"
+   },
+   "th": {
+    "meaning": "เหตุผลแย้ง"
+   },
+   "vi": {
+    "meaning": "lý do trái ngược"
+   },
+   "fa": {
+    "meaning": "دلیل مخالف"
+   }
+  },
+  "eb6:_XxLfg": {
+   "en": {
+    "meaning": "decision",
+    "example": "My parents weren't happy with my decision."
+   },
+   "tr": {
+    "meaning": "karar"
+   },
+   "th": {
+    "meaning": "การตัดสินใจ"
+   },
+   "vi": {
+    "meaning": "quyết định"
+   },
+   "fa": {
+    "meaning": "تصمیم"
+   }
+  },
+  "sM,BS/F<m*": {
+   "en": {
+    "meaning": "diplomat",
+    "example": "Erik wants to be a diplomat."
+   },
+   "tr": {
+    "meaning": "diplomat"
+   },
+   "th": {
+    "meaning": "นักการทูต"
+   },
+   "vi": {
+    "meaning": "nhà ngoại giao"
+   },
+   "fa": {
+    "meaning": "دیپلمات"
+   }
+  },
+  "A/fMl(Xj|K": {
+   "en": {
+    "meaning": "mood",
+    "example": "I'm in a good mood."
+   },
+   "tr": {
+    "meaning": "ruh hali"
+   },
+   "th": {
+    "meaning": "อารมณ์"
+   },
+   "vi": {
+    "meaning": "tâm trạng"
+   },
+   "fa": {
+    "meaning": "حال، روحیه"
+   }
+  },
+  "gwyx`|C4BC": {
+   "en": {
+    "meaning": "to fall asleep",
+    "example": "I fall asleep at my desk."
+   },
+   "tr": {
+    "meaning": "uykuya dalmak"
+   },
+   "th": {
+    "meaning": "หลับไป"
+   },
+   "vi": {
+    "meaning": "ngủ thiếp đi"
+   },
+   "fa": {
+    "meaning": "خوابش بردن"
+   }
+  },
+  "pc]~[Rbj3$": {
+   "en": {
+    "meaning": "to oversleep",
+    "example": "I overslept."
+   },
+   "tr": {
+    "meaning": "uyuyakalmak"
+   },
+   "th": {
+    "meaning": "ตื่นสาย"
+   },
+   "vi": {
+    "meaning": "ngủ quên"
+   },
+   "fa": {
+    "meaning": "خواب ماندن"
+   }
+  },
+  "D*ZMfRK&9y": {
+   "en": {
+    "meaning": "alarm clock",
+    "example": "My alarm clock went off on time."
+   },
+   "tr": {
+    "meaning": "çalar saat"
+   },
+   "th": {
+    "meaning": "นาฬิกาปลุก"
+   },
+   "vi": {
+    "meaning": "đồng hồ báo thức"
+   },
+   "fa": {
+    "meaning": "ساعت زنگ‌دار"
+   }
+  },
+  "q{;6F%GWvp": {
+   "en": {
+    "meaning": "to ring",
+    "example": "The phone is ringing."
+   },
+   "tr": {
+    "meaning": "çalmak"
+   },
+   "th": {
+    "meaning": "(กริ่ง) ดัง"
+   },
+   "vi": {
+    "meaning": "reo"
+   },
+   "fa": {
+    "meaning": "زنگ زدن"
+   }
+  },
+  "uX|^w=&;2G": {
+   "en": {
+    "meaning": "fear of the future",
+    "example": "He isn't worried about the future."
+   },
+   "tr": {
+    "meaning": "gelecek kaygısı"
+   },
+   "th": {
+    "meaning": "ความกังวลเรื่องอนาคต"
+   },
+   "vi": {
+    "meaning": "nỗi lo về tương lai"
+   },
+   "fa": {
+    "meaning": "نگرانی از آینده"
+   }
+  },
+  "MLz#>Xo_ss": {
+   "en": {
+    "meaning": "competition, rivalry",
+    "example": "There is rivalry between the colleagues."
+   },
+   "tr": {
+    "meaning": "rekabet"
+   },
+   "th": {
+    "meaning": "การแข่งขัน"
+   },
+   "vi": {
+    "meaning": "sự cạnh tranh"
+   },
+   "fa": {
+    "meaning": "رقابت"
+   }
+  },
+  "zvd-!,XN8u": {
+   "en": {
+    "meaning": "job centre",
+    "example": "She gets no money from the job centre."
+   },
+   "tr": {
+    "meaning": "iş ve işçi bulma kurumu"
+   },
+   "th": {
+    "meaning": "สำนักงานจัดหางาน"
+   },
+   "vi": {
+    "meaning": "sở lao động"
+   },
+   "fa": {
+    "meaning": "ادارهٔ کار"
+   }
+  },
+  "O!bD/lGPc1": {
+   "en": {
+    "meaning": "to increase; to put on weight",
+    "example": "She has put on three kilos."
+   },
+   "tr": {
+    "meaning": "artmak; kilo almak"
+   },
+   "th": {
+    "meaning": "เพิ่มขึ้น; น้ำหนักขึ้น"
+   },
+   "vi": {
+    "meaning": "tăng; tăng cân"
+   },
+   "fa": {
+    "meaning": "افزایش یافتن؛ چاق شدن"
+   }
+  },
+  "JO;d(z6#;e": {
+   "en": {
+    "meaning": "part-time",
+    "example": "I work part-time."
+   },
+   "tr": {
+    "meaning": "yarı zamanlı"
+   },
+   "th": {
+    "meaning": "งานพาร์ทไทม์"
+   },
+   "vi": {
+    "meaning": "bán thời gian"
+   },
+   "fa": {
+    "meaning": "پاره‌وقت"
+   }
+  },
+  "m&a:Y>(}u/": {
+   "en": {
+    "meaning": "hard",
+    "example": "The work is hard."
+   },
+   "tr": {
+    "meaning": "sert; zor"
+   },
+   "th": {
+    "meaning": "แข็ง; หนัก"
+   },
+   "vi": {
+    "meaning": "cứng; vất vả"
+   },
+   "fa": {
+    "meaning": "سخت"
+   }
+  }
+ },
+ "grammar": {}
+}

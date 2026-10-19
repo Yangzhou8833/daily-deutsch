@@ -1,0 +1,602 @@
+{
+ "words": {
+  "vB+E=rI;35": {
+   "en": {
+    "meaning": "name",
+    "example": "My name is Pedro Gomez."
+   },
+   "tr": {
+    "meaning": "isim"
+   },
+   "th": {
+    "meaning": "ชื่อ"
+   },
+   "vi": {
+    "meaning": "tên"
+   },
+   "fa": {
+    "meaning": "نام"
+   }
+  },
+  "sQ>,k5K`j-": {
+   "en": {
+    "meaning": "place of birth",
+    "example": "My place of birth is Barcelona."
+   },
+   "tr": {
+    "meaning": "doğum yeri"
+   },
+   "th": {
+    "meaning": "สถานที่เกิด"
+   },
+   "vi": {
+    "meaning": "nơi sinh"
+   },
+   "fa": {
+    "meaning": "محل تولد"
+   }
+  },
+  "gvt(Hg%o.J": {
+   "en": {
+    "meaning": "(university) studies",
+    "example": "I finished my degree in 2015."
+   },
+   "tr": {
+    "meaning": "üniversite öğrenimi"
+   },
+   "th": {
+    "meaning": "การเรียนมหาวิทยาลัย"
+   },
+   "vi": {
+    "meaning": "việc học đại học"
+   },
+   "fa": {
+    "meaning": "تحصیلات دانشگاهی"
+   }
+  },
+  "K)U&P-13b%": {
+   "en": {
+    "meaning": "vocational training, apprenticeship",
+    "example": "After school I did vocational training."
+   },
+   "tr": {
+    "meaning": "meslek eğitimi"
+   },
+   "th": {
+    "meaning": "การฝึกอาชีพ"
+   },
+   "vi": {
+    "meaning": "đào tạo nghề"
+   },
+   "fa": {
+    "meaning": "آموزش حرفه‌ای"
+   }
+  },
+  "m9g2>=0d>y": {
+   "en": {
+    "meaning": "internship, work placement",
+    "example": "I did an internship at …"
+   },
+   "tr": {
+    "meaning": "staj"
+   },
+   "th": {
+    "meaning": "การฝึกงาน"
+   },
+   "vi": {
+    "meaning": "thực tập"
+   },
+   "fa": {
+    "meaning": "کارآموزی"
+   }
+  },
+  "CX7imoj(PG": {
+   "en": {
+    "meaning": "company",
+    "example": "I worked at the company Santos."
+   },
+   "tr": {
+    "meaning": "şirket"
+   },
+   "th": {
+    "meaning": "บริษัท"
+   },
+   "vi": {
+    "meaning": "công ty"
+   },
+   "fa": {
+    "meaning": "شرکت"
+   }
+  },
+  "bm)H:Po-Kw": {
+   "en": {
+    "meaning": "job, position",
+    "example": "I got a job."
+   },
+   "tr": {
+    "meaning": "pozisyon, iş"
+   },
+   "th": {
+    "meaning": "ตำแหน่งงาน"
+   },
+   "vi": {
+    "meaning": "vị trí việc làm"
+   },
+   "fa": {
+    "meaning": "شغل، پست"
+   }
+  },
+  "K?y7*u-rKM": {
+   "en": {
+    "meaning": "job, profession",
+    "example": "What do you do for a living?"
+   },
+   "tr": {
+    "meaning": "meslek"
+   },
+   "th": {
+    "meaning": "อาชีพ"
+   },
+   "vi": {
+    "meaning": "nghề nghiệp"
+   },
+   "fa": {
+    "meaning": "حرفه"
+   }
+  },
+  "F:/WLK>ff&": {
+   "en": {
+    "meaning": "free time, leisure",
+    "example": "In my free time I play football."
+   },
+   "tr": {
+    "meaning": "boş zaman"
+   },
+   "th": {
+    "meaning": "เวลาว่าง"
+   },
+   "vi": {
+    "meaning": "thời gian rảnh"
+   },
+   "fa": {
+    "meaning": "اوقات فراغت"
+   }
+  },
+  "ch~KW%2<fu": {
+   "en": {
+    "meaning": "centre",
+    "example": "… in a flat in the centre of Munich."
+   },
+   "tr": {
+    "meaning": "merkez"
+   },
+   "th": {
+    "meaning": "ใจกลาง"
+   },
+   "vi": {
+    "meaning": "trung tâm"
+   },
+   "fa": {
+    "meaning": "مرکز"
+   }
+  },
+  "enx5PRU(xN": {
+   "en": {
+    "meaning": "CV, résumé",
+    "example": "Thomas is writing a CV."
+   },
+   "tr": {
+    "meaning": "özgeçmiş"
+   },
+   "th": {
+    "meaning": "ประวัติย่อ"
+   },
+   "vi": {
+    "meaning": "sơ yếu lý lịch"
+   },
+   "fa": {
+    "meaning": "رزومه"
+   }
+  },
+  "o^dG?EUzb]": {
+   "en": {
+    "meaning": "retraining",
+    "example": "Claudia is retraining."
+   },
+   "tr": {
+    "meaning": "meslek değiştirme eğitimi"
+   },
+   "th": {
+    "meaning": "การฝึกอาชีพใหม่"
+   },
+   "vi": {
+    "meaning": "đào tạo chuyển nghề"
+   },
+   "fa": {
+    "meaning": "بازآموزی حرفه‌ای"
+   }
+  },
+  "Q5RVEVm[Lf": {
+   "en": {
+    "meaning": "parental leave, career break for a baby",
+    "example": "She took a break to have a baby."
+   },
+   "tr": {
+    "meaning": "doğum izni"
+   },
+   "th": {
+    "meaning": "ลาเลี้ยงลูก"
+   },
+   "vi": {
+    "meaning": "nghỉ chăm con"
+   },
+   "fa": {
+    "meaning": "مرخصی زایمان و نگهداری فرزند"
+   }
+  },
+  "hXTdlTrR[=": {
+   "en": {
+    "meaning": "training place, apprenticeship",
+    "example": "Theo is looking for an apprenticeship."
+   },
+   "tr": {
+    "meaning": "çıraklık yeri"
+   },
+   "th": {
+    "meaning": "ตำแหน่งฝึกอาชีพ"
+   },
+   "vi": {
+    "meaning": "chỗ học nghề"
+   },
+   "fa": {
+    "meaning": "جای کارآموزی"
+   }
+  },
+  "h.#dGGA95,": {
+   "en": {
+    "meaning": "school-leaving qualification",
+    "example": "He finishes school in July."
+   },
+   "tr": {
+    "meaning": "okul diploması"
+   },
+   "th": {
+    "meaning": "วุฒิการศึกษาจบมัธยม"
+   },
+   "vi": {
+    "meaning": "bằng tốt nghiệp phổ thông"
+   },
+   "fa": {
+    "meaning": "مدرک پایان تحصیلات مدرسه"
+   }
+  },
+  "sF54-@TNpy": {
+   "en": {
+    "meaning": "the military, the army",
+    "example": "I did military service."
+   },
+   "tr": {
+    "meaning": "askerlik, ordu"
+   },
+   "th": {
+    "meaning": "ทหาร, กองทัพ"
+   },
+   "vi": {
+    "meaning": "quân đội"
+   },
+   "fa": {
+    "meaning": "ارتش، سربازی"
+   }
+  },
+  "uKOR>nsw`m": {
+   "en": {
+    "meaning": "au pair",
+    "example": "I was an au pair in …"
+   },
+   "tr": {
+    "meaning": "au pair (yatılı çocuk bakıcısı)"
+   },
+   "th": {
+    "meaning": "โอแพร์"
+   },
+   "vi": {
+    "meaning": "au pair (người giữ trẻ ở nhà bản xứ)"
+   },
+   "fa": {
+    "meaning": "اوپر (پرستار بچه در خانوادهٔ خارجی)"
+   }
+  },
+  "g6vz>Q{kX+": {
+   "en": {
+    "meaning": "single (not married)",
+    "example": "I'm still single."
+   },
+   "tr": {
+    "meaning": "bekâr"
+   },
+   "th": {
+    "meaning": "โสด"
+   },
+   "vi": {
+    "meaning": "độc thân"
+   },
+   "fa": {
+    "meaning": "مجرد"
+   }
+  },
+  "IY:7>J6a6U": {
+   "en": {
+    "meaning": "married",
+    "example": "I'm married."
+   },
+   "tr": {
+    "meaning": "evli"
+   },
+   "th": {
+    "meaning": "แต่งงานแล้ว"
+   },
+   "vi": {
+    "meaning": "đã kết hôn"
+   },
+   "fa": {
+    "meaning": "متأهل"
+   }
+  },
+  "r32l;>r,(h": {
+   "en": {
+    "meaning": "to go to school",
+    "example": "I went to school in Berlin."
+   },
+   "tr": {
+    "meaning": "okula gitmek"
+   },
+   "th": {
+    "meaning": "ไปโรงเรียน"
+   },
+   "vi": {
+    "meaning": "đi học"
+   },
+   "fa": {
+    "meaning": "به مدرسه رفتن"
+   }
+  },
+  "pVk^;&3^XR": {
+   "en": {
+    "meaning": "to study (at university)",
+    "example": "I studied business administration in Madrid."
+   },
+   "tr": {
+    "meaning": "(üniversitede) okumak"
+   },
+   "th": {
+    "meaning": "เรียน (มหาวิทยาลัย)"
+   },
+   "vi": {
+    "meaning": "học đại học"
+   },
+   "fa": {
+    "meaning": "تحصیل کردن (در دانشگاه)"
+   }
+  },
+  "Hd^/cwF:!4": {
+   "en": {
+    "meaning": "to do vocational training",
+    "example": "I trained as a management assistant."
+   },
+   "tr": {
+    "meaning": "meslek eğitimi almak"
+   },
+   "th": {
+    "meaning": "ฝึกอาชีพ"
+   },
+   "vi": {
+    "meaning": "học nghề"
+   },
+   "fa": {
+    "meaning": "آموزش حرفه‌ای دیدن"
+   }
+  },
+  "r(r_9@>4Fq": {
+   "en": {
+    "meaning": "to complete, to finish",
+    "example": "I completed this training in 2018."
+   },
+   "tr": {
+    "meaning": "bitirmek, tamamlamak"
+   },
+   "th": {
+    "meaning": "สำเร็จ, จบ"
+   },
+   "vi": {
+    "meaning": "hoàn thành, tốt nghiệp"
+   },
+   "fa": {
+    "meaning": "به پایان رساندن"
+   }
+  },
+  "E:]:j%4`vH": {
+   "en": {
+    "meaning": "to get, to receive",
+    "example": "I got a job."
+   },
+   "tr": {
+    "meaning": "almak"
+   },
+   "th": {
+    "meaning": "ได้รับ"
+   },
+   "vi": {
+    "meaning": "nhận được"
+   },
+   "fa": {
+    "meaning": "گرفتن"
+   }
+  },
+  "x025dHu?NL": {
+   "en": {
+    "meaning": "to work as",
+    "example": "There I work as a patent examiner."
+   },
+   "tr": {
+    "meaning": "… olarak çalışmak"
+   },
+   "th": {
+    "meaning": "ทำงานเป็น"
+   },
+   "vi": {
+    "meaning": "làm việc với tư cách"
+   },
+   "fa": {
+    "meaning": "به عنوان … کار کردن"
+   }
+  },
+  "zp1c1Kq_s<": {
+   "en": {
+    "meaning": "to apply to (a company)",
+    "example": "He wants to apply to Airbus."
+   },
+   "tr": {
+    "meaning": "(bir şirkete) başvurmak"
+   },
+   "th": {
+    "meaning": "สมัครงานกับ"
+   },
+   "vi": {
+    "meaning": "ứng tuyển vào"
+   },
+   "fa": {
+    "meaning": "درخواست دادن به"
+   }
+  },
+  "EDwO/b}Tu`": {
+   "en": {
+    "meaning": "to change",
+    "example": "Eva wants to change jobs."
+   },
+   "tr": {
+    "meaning": "değiştirmek"
+   },
+   "th": {
+    "meaning": "เปลี่ยน"
+   },
+   "vi": {
+    "meaning": "thay đổi"
+   },
+   "fa": {
+    "meaning": "عوض کردن"
+   }
+  },
+  "e9m6o*J&yu": {
+   "en": {
+    "meaning": "to earn",
+    "example": "He earns a lot of money."
+   },
+   "tr": {
+    "meaning": "kazanmak"
+   },
+   "th": {
+    "meaning": "หาเงิน, ได้รับ (เงิน)"
+   },
+   "vi": {
+    "meaning": "kiếm (tiền)"
+   },
+   "fa": {
+    "meaning": "درآمد داشتن"
+   }
+  },
+  "F<BM)Ns&G+": {
+   "en": {
+    "meaning": "to spend (money)",
+    "example": "I'd like to spend my money on other things."
+   },
+   "tr": {
+    "meaning": "harcamak"
+   },
+   "th": {
+    "meaning": "ใช้ (เงิน)"
+   },
+   "vi": {
+    "meaning": "tiêu (tiền)"
+   },
+   "fa": {
+    "meaning": "خرج کردن"
+   }
+  },
+  "FI%NE9[A~w": {
+   "en": {
+    "meaning": "to arrange, to agree on",
+    "example": "… arrange appointments for colleagues."
+   },
+   "tr": {
+    "meaning": "kararlaştırmak"
+   },
+   "th": {
+    "meaning": "นัดหมาย, ตกลง"
+   },
+   "vi": {
+    "meaning": "thỏa thuận, hẹn"
+   },
+   "fa": {
+    "meaning": "توافق کردن، قرار گذاشتن"
+   },
+   "zh": {
+    "example": "……为同事们约定会面时间。"
+   }
+  },
+  "bEnA.%_)D3": {
+   "en": {
+    "meaning": "to take part in",
+    "example": "She is taking part in a dual vocational training programme."
+   },
+   "tr": {
+    "meaning": "katılmak"
+   },
+   "th": {
+    "meaning": "เข้าร่วม"
+   },
+   "vi": {
+    "meaning": "tham gia"
+   },
+   "fa": {
+    "meaning": "شرکت کردن در"
+   }
+  },
+  "z0RD`-I=Xe": {
+   "en": {
+    "meaning": "to manage, to pass",
+    "example": "She wants to pass the German test."
+   },
+   "tr": {
+    "meaning": "başarmak, geçmek"
+   },
+   "th": {
+    "meaning": "ทำได้สำเร็จ, สอบผ่าน"
+   },
+   "vi": {
+    "meaning": "làm được, thi đỗ"
+   },
+   "fa": {
+    "meaning": "از پس چیزی برآمدن، قبول شدن"
+   }
+  },
+  "xHzXXQLtWv": {
+   "en": {
+    "meaning": "to take care of, to be responsible for",
+    "example": "The secretary takes care of the office work."
+   },
+   "tr": {
+    "meaning": "ilgilenmek"
+   },
+   "th": {
+    "meaning": "ดูแล, รับผิดชอบ"
+   },
+   "vi": {
+    "meaning": "chăm lo, phụ trách"
+   },
+   "fa": {
+    "meaning": "رسیدگی کردن به"
+   }
+  }
+ },
+ "grammar": {}
+}

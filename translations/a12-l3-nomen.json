@@ -1,0 +1,456 @@
+{
+ "words": {
+  "vDXAl7y!!@": {
+   "en": {
+    "meaning": "translator",
+    "example": "The translator corrects texts."
+   },
+   "tr": {
+    "meaning": "çevirmen"
+   },
+   "th": {
+    "meaning": "นักแปล"
+   },
+   "vi": {
+    "meaning": "biên dịch viên"
+   },
+   "fa": {
+    "meaning": "مترجم"
+   }
+  },
+  "sg,&!NuzJ%": {
+   "en": {
+    "meaning": "with a heart condition",
+    "example": "She helps animals with heart conditions."
+   },
+   "tr": {
+    "meaning": "kalp hastası"
+   },
+   "th": {
+    "meaning": "เป็นโรคหัวใจ"
+   },
+   "vi": {
+    "meaning": "bị bệnh tim"
+   },
+   "fa": {
+    "meaning": "مبتلا به بیماری قلبی"
+   }
+  },
+  "Q)}!1L()Tb": {
+   "en": {
+    "meaning": "to type",
+    "example": "I learned typing quickly."
+   },
+   "tr": {
+    "meaning": "yazmak (klavyede)"
+   },
+   "th": {
+    "meaning": "พิมพ์"
+   },
+   "vi": {
+    "meaning": "đánh máy"
+   },
+   "fa": {
+    "meaning": "تایپ کردن"
+   }
+  },
+  "tYS<KKEsqA": {
+   "en": {
+    "meaning": "to correct, to mark",
+    "example": "I have to mark work in the evenings."
+   },
+   "tr": {
+    "meaning": "düzeltmek"
+   },
+   "th": {
+    "meaning": "แก้, ตรวจ"
+   },
+   "vi": {
+    "meaning": "sửa, chấm bài"
+   },
+   "fa": {
+    "meaning": "تصحیح کردن"
+   }
+  },
+  "ky?65cm,@e": {
+   "en": {
+    "meaning": "several",
+    "example": "He speaks several languages.",
+    "info": "+ plural"
+   },
+   "tr": {
+    "meaning": "birkaç"
+   },
+   "th": {
+    "meaning": "หลาย"
+   },
+   "vi": {
+    "meaning": "vài, nhiều"
+   },
+   "fa": {
+    "meaning": "چندین"
+   }
+  },
+  "z_j3<f0MC*": {
+   "en": {
+    "meaning": "practical",
+    "example": "He has had practical training."
+   },
+   "tr": {
+    "meaning": "pratik, uygulamalı"
+   },
+   "th": {
+    "meaning": "ภาคปฏิบัติ, ใช้ได้จริง"
+   },
+   "vi": {
+    "meaning": "thực hành, thiết thực"
+   },
+   "fa": {
+    "meaning": "عملی"
+   }
+  },
+  "bP_U;S@WL0": {
+   "en": {
+    "meaning": "career",
+    "example": "He wants to have a career."
+   },
+   "tr": {
+    "meaning": "kariyer"
+   },
+   "th": {
+    "meaning": "อาชีพการงาน"
+   },
+   "vi": {
+    "meaning": "sự nghiệp"
+   },
+   "fa": {
+    "meaning": "حرفه، پیشرفت شغلی"
+   }
+  },
+  "Ob_3gQ-?}]": {
+   "en": {
+    "meaning": "shop; business",
+    "example": "The shop is open from 9 am to 6 pm."
+   },
+   "tr": {
+    "meaning": "dükkân; iş"
+   },
+   "th": {
+    "meaning": "ร้าน; ธุรกิจ"
+   },
+   "vi": {
+    "meaning": "cửa hàng; việc kinh doanh"
+   },
+   "fa": {
+    "meaning": "مغازه؛ کسب‌وکار"
+   }
+  },
+  "B;l)=Zq!45": {
+   "en": {
+    "meaning": "camerawoman",
+    "example": "The camerawoman films the interview."
+   },
+   "tr": {
+    "meaning": "kamerawoman"
+   },
+   "th": {
+    "meaning": "ช่างกล้อง (หญิง)"
+   },
+   "vi": {
+    "meaning": "nữ quay phim"
+   },
+   "fa": {
+    "meaning": "فیلم‌بردار (زن)"
+   }
+  },
+  "o1M#&]S9,?": {
+   "en": {
+    "meaning": "doctor's assistant (female)",
+    "example": "The doctor's assistant works in the practice."
+   },
+   "tr": {
+    "meaning": "doktor asistanı (kadın)"
+   },
+   "th": {
+    "meaning": "ผู้ช่วยแพทย์ (หญิง)"
+   },
+   "vi": {
+    "meaning": "trợ lý bác sĩ (nữ)"
+   },
+   "fa": {
+    "meaning": "دستیار پزشک (زن)"
+   }
+  },
+  "r(S)zjp-3/": {
+   "en": {
+    "meaning": "(photographic) model",
+    "example": "She works as a model."
+   },
+   "tr": {
+    "meaning": "fotomodel"
+   },
+   "th": {
+    "meaning": "นางแบบ, นายแบบ"
+   },
+   "vi": {
+    "meaning": "người mẫu ảnh"
+   },
+   "fa": {
+    "meaning": "مدل عکاسی"
+   }
+  },
+  "vw-Fqqgr>2": {
+   "en": {
+    "meaning": "train driver",
+    "example": "The train driver drives the train."
+   },
+   "tr": {
+    "meaning": "makinist"
+   },
+   "th": {
+    "meaning": "คนขับรถไฟ"
+   },
+   "vi": {
+    "meaning": "lái tàu"
+   },
+   "fa": {
+    "meaning": "راننده قطار"
+   }
+  },
+  "Ri,]r:XzJz": {
+   "en": {
+    "meaning": "advertising executive (female)",
+    "example": "The advertising executive makes adverts."
+   },
+   "tr": {
+    "meaning": "reklamcı (kadın)"
+   },
+   "th": {
+    "meaning": "พนักงานโฆษณา (หญิง)"
+   },
+   "vi": {
+    "meaning": "nhân viên quảng cáo (nữ)"
+   },
+   "fa": {
+    "meaning": "کارشناس تبلیغات (زن)"
+   }
+  },
+  "eh/|R;X=L5": {
+   "en": {
+    "meaning": "word stress",
+    "example": "Mark the word stress."
+   },
+   "tr": {
+    "meaning": "kelime vurgusu"
+   },
+   "th": {
+    "meaning": "การเน้นเสียงในคำ"
+   },
+   "vi": {
+    "meaning": "trọng âm từ"
+   },
+   "fa": {
+    "meaning": "تکیهٔ کلمه"
+   }
+  },
+  "mwe}qa0o0J": {
+   "en": {
+    "meaning": "eating; food, meal",
+    "example": "We listened to music while eating."
+   },
+   "tr": {
+    "meaning": "yemek"
+   },
+   "th": {
+    "meaning": "การกิน; อาหาร"
+   },
+   "vi": {
+    "meaning": "việc ăn; đồ ăn"
+   },
+   "fa": {
+    "meaning": "غذا خوردن؛ غذا"
+   }
+  },
+  "qjf&/3]`yk": {
+   "en": {
+    "meaning": "life",
+    "example": "Life is beautiful."
+   },
+   "tr": {
+    "meaning": "hayat"
+   },
+   "th": {
+    "meaning": "ชีวิต"
+   },
+   "vi": {
+    "meaning": "cuộc sống"
+   },
+   "fa": {
+    "meaning": "زندگی"
+   }
+  },
+  "dK]BB2`byG": {
+   "en": {
+    "meaning": "working",
+    "example": "Working in a team is important to me."
+   },
+   "tr": {
+    "meaning": "çalışma"
+   },
+   "th": {
+    "meaning": "การทำงาน"
+   },
+   "vi": {
+    "meaning": "việc làm việc"
+   },
+   "fa": {
+    "meaning": "کار کردن"
+   }
+  },
+  "rU%/LSG=n[": {
+   "en": {
+    "meaning": "understanding",
+    "example": "Understanding is difficult at the beginning."
+   },
+   "tr": {
+    "meaning": "anlama"
+   },
+   "th": {
+    "meaning": "การเข้าใจ"
+   },
+   "vi": {
+    "meaning": "việc hiểu"
+   },
+   "fa": {
+    "meaning": "فهمیدن"
+   }
+  },
+  "wBAj7PIXAY": {
+   "en": {
+    "meaning": "organising",
+    "example": "Her job is organising appointments."
+   },
+   "tr": {
+    "meaning": "düzenleme"
+   },
+   "th": {
+    "meaning": "การจัดการ"
+   },
+   "vi": {
+    "meaning": "việc sắp xếp"
+   },
+   "fa": {
+    "meaning": "سازماندهی"
+   }
+  },
+  "E)t9{/AgOA": {
+   "en": {
+    "meaning": "writing; letter",
+    "example": "Do you have problems with writing?"
+   },
+   "tr": {
+    "meaning": "yazma; yazı, mektup"
+   },
+   "th": {
+    "meaning": "การเขียน; จดหมาย"
+   },
+   "vi": {
+    "meaning": "việc viết; thư"
+   },
+   "fa": {
+    "meaning": "نوشتن؛ نامه"
+   }
+  },
+  "h3018F%VJ5": {
+   "en": {
+    "meaning": "typing",
+    "example": "I learned typing quickly."
+   },
+   "tr": {
+    "meaning": "daktilo, yazma"
+   },
+   "th": {
+    "meaning": "การพิมพ์"
+   },
+   "vi": {
+    "meaning": "việc đánh máy"
+   },
+   "fa": {
+    "meaning": "تایپ"
+   }
+  },
+  "rP-Pt%ayxm": {
+   "en": {
+    "meaning": "learning, studying",
+    "example": "I have no time to study."
+   },
+   "tr": {
+    "meaning": "öğrenme"
+   },
+   "th": {
+    "meaning": "การเรียน"
+   },
+   "vi": {
+    "meaning": "việc học"
+   },
+   "fa": {
+    "meaning": "یادگیری"
+   }
+  },
+  "N,k*?aM^Ya": {
+   "en": {
+    "meaning": "putting on (clothes)",
+    "example": "I have nothing to wear."
+   },
+   "tr": {
+    "meaning": "giyinme"
+   },
+   "th": {
+    "meaning": "การแต่งตัว"
+   },
+   "vi": {
+    "meaning": "việc mặc"
+   },
+   "fa": {
+    "meaning": "پوشیدن"
+   }
+  },
+  "f).WiXydf~": {
+   "en": {
+    "meaning": "reading",
+    "example": "Reading e-mails takes a long time."
+   },
+   "tr": {
+    "meaning": "okuma"
+   },
+   "th": {
+    "meaning": "การอ่าน"
+   },
+   "vi": {
+    "meaning": "việc đọc"
+   },
+   "fa": {
+    "meaning": "خواندن"
+   }
+  },
+  "l#^DXc&^76": {
+   "en": {
+    "meaning": "speaking",
+    "example": "I'm unsure when I speak."
+   },
+   "tr": {
+    "meaning": "konuşma"
+   },
+   "th": {
+    "meaning": "การพูด"
+   },
+   "vi": {
+    "meaning": "việc nói"
+   },
+   "fa": {
+    "meaning": "صحبت کردن"
+   }
+  }
+ },
+ "grammar": {}
+}

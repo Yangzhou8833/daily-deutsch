@@ -1,0 +1,707 @@
+{
+ "words": {
+  "smZ~82R^$l": {
+   "en": {
+    "meaning": "to design, to construct",
+    "example": "Engineers do a lot of designing."
+   },
+   "tr": {
+    "meaning": "tasarlamak, inşa etmek"
+   },
+   "th": {
+    "meaning": "ออกแบบ, สร้าง"
+   },
+   "vi": {
+    "meaning": "thiết kế, chế tạo"
+   },
+   "fa": {
+    "meaning": "طراحی کردن، ساختن"
+   }
+  },
+  "IB=kd$eW8O": {
+   "en": {
+    "meaning": "to calculate",
+    "example": "They like calculating and planning."
+   },
+   "tr": {
+    "meaning": "hesap yapmak"
+   },
+   "th": {
+    "meaning": "คำนวณ"
+   },
+   "vi": {
+    "meaning": "tính toán"
+   },
+   "fa": {
+    "meaning": "حساب کردن"
+   }
+  },
+  "PB8Qi:mt:,": {
+   "en": {
+    "meaning": "to plan",
+    "example": "We're planning the project together."
+   },
+   "tr": {
+    "meaning": "planlamak"
+   },
+   "th": {
+    "meaning": "วางแผน"
+   },
+   "vi": {
+    "meaning": "lập kế hoạch"
+   },
+   "fa": {
+    "meaning": "برنامه‌ریزی کردن"
+   }
+  },
+  "vuvV6+sD^/": {
+   "en": {
+    "meaning": "to advise",
+    "example": "He advises his customers."
+   },
+   "tr": {
+    "meaning": "danışmanlık yapmak"
+   },
+   "th": {
+    "meaning": "ให้คำปรึกษา"
+   },
+   "vi": {
+    "meaning": "tư vấn"
+   },
+   "fa": {
+    "meaning": "مشاوره دادن"
+   }
+  },
+  "B/0]K%$:L!": {
+   "en": {
+    "meaning": "to draw",
+    "example": "Architects like drawing."
+   },
+   "tr": {
+    "meaning": "çizmek"
+   },
+   "th": {
+    "meaning": "วาด"
+   },
+   "vi": {
+    "meaning": "vẽ"
+   },
+   "fa": {
+    "meaning": "نقاشی کشیدن"
+   }
+  },
+  "DcWliA~ok_": {
+   "en": {
+    "meaning": "to design",
+    "example": "She wants to design houses."
+   },
+   "tr": {
+    "meaning": "tasarlamak"
+   },
+   "th": {
+    "meaning": "ออกแบบ"
+   },
+   "vi": {
+    "meaning": "thiết kế"
+   },
+   "fa": {
+    "meaning": "طراحی کردن"
+   }
+  },
+  "ej,dz3][>%": {
+   "en": {
+    "meaning": "to work (on), to process",
+    "example": "A carpenter works wood."
+   },
+   "tr": {
+    "meaning": "işlemek"
+   },
+   "th": {
+    "meaning": "แปรรูป, จัดการ"
+   },
+   "vi": {
+    "meaning": "gia công, xử lý"
+   },
+   "fa": {
+    "meaning": "روی چیزی کار کردن"
+   }
+  },
+  "QqvhSv)s0s": {
+   "en": {
+    "meaning": "wood",
+    "example": "He likes working with wood."
+   },
+   "tr": {
+    "meaning": "tahta, odun"
+   },
+   "th": {
+    "meaning": "ไม้"
+   },
+   "vi": {
+    "meaning": "gỗ"
+   },
+   "fa": {
+    "meaning": "چوب"
+   }
+  },
+  "DEGH00nFb]": {
+   "en": {
+    "meaning": "to load",
+    "example": "They are loading freight."
+   },
+   "tr": {
+    "meaning": "yüklemek"
+   },
+   "th": {
+    "meaning": "บรรทุก"
+   },
+   "vi": {
+    "meaning": "bốc xếp"
+   },
+   "fa": {
+    "meaning": "بار زدن"
+   }
+  },
+  "pXw_dNYyiF": {
+   "en": {
+    "meaning": "freight, cargo",
+    "example": "The freight is coming tomorrow."
+   },
+   "tr": {
+    "meaning": "yük"
+   },
+   "th": {
+    "meaning": "สินค้าบรรทุก"
+   },
+   "vi": {
+    "meaning": "hàng hóa"
+   },
+   "fa": {
+    "meaning": "بار"
+   }
+  },
+  "bPEAo,dpg/": {
+   "en": {
+    "meaning": "to grow, to cultivate",
+    "example": "Gardeners grow flowers."
+   },
+   "tr": {
+    "meaning": "yetiştirmek"
+   },
+   "th": {
+    "meaning": "ปลูก"
+   },
+   "vi": {
+    "meaning": "trồng"
+   },
+   "fa": {
+    "meaning": "کاشتن"
+   }
+  },
+  "O`TrvneM0o": {
+   "en": {
+    "meaning": "room service",
+    "example": "The room service is very good."
+   },
+   "tr": {
+    "meaning": "oda servisi"
+   },
+   "th": {
+    "meaning": "บริการรูมเซอร์วิส"
+   },
+   "vi": {
+    "meaning": "dịch vụ phòng"
+   },
+   "fa": {
+    "meaning": "سرویس اتاق"
+   }
+  },
+  "o-]?#swwQU": {
+   "en": {
+    "meaning": "to inform about",
+    "example": "They give information about loan options."
+   },
+   "tr": {
+    "meaning": "bilgi vermek"
+   },
+   "th": {
+    "meaning": "ให้ข้อมูลเกี่ยวกับ"
+   },
+   "vi": {
+    "meaning": "cung cấp thông tin về"
+   },
+   "fa": {
+    "meaning": "اطلاع دادن دربارهٔ"
+   }
+  },
+  "CWJm(BJAy(": {
+   "en": {
+    "meaning": "loan option",
+    "example": "The bank explains the loan options."
+   },
+   "tr": {
+    "meaning": "kredi seçeneği"
+   },
+   "th": {
+    "meaning": "ทางเลือกด้านสินเชื่อ"
+   },
+   "vi": {
+    "meaning": "phương án vay"
+   },
+   "fa": {
+    "meaning": "امکان دریافت وام"
+   }
+  },
+  "u3/QZC/ge~": {
+   "en": {
+    "meaning": "to knead",
+    "example": "The baker kneads the dough."
+   },
+   "tr": {
+    "meaning": "yoğurmak"
+   },
+   "th": {
+    "meaning": "นวด (แป้ง)"
+   },
+   "vi": {
+    "meaning": "nhào"
+   },
+   "fa": {
+    "meaning": "ورز دادن"
+   }
+  },
+  "c-B)kAml-V": {
+   "en": {
+    "meaning": "dough",
+    "example": "The dough has to rest."
+   },
+   "tr": {
+    "meaning": "hamur"
+   },
+   "th": {
+    "meaning": "แป้งโด"
+   },
+   "vi": {
+    "meaning": "bột nhào"
+   },
+   "fa": {
+    "meaning": "خمیر"
+   }
+  },
+  "hYQJYnKBq[": {
+   "en": {
+    "meaning": "pastries, baked goods",
+    "example": "The pastries are fresh."
+   },
+   "tr": {
+    "meaning": "unlu mamuller"
+   },
+   "th": {
+    "meaning": "ขนมอบ"
+   },
+   "vi": {
+    "meaning": "bánh nướng"
+   },
+   "fa": {
+    "meaning": "شیرینی پختنی"
+   }
+  },
+  "FwxBb8ipeO": {
+   "en": {
+    "meaning": "to settle (a dispute)",
+    "example": "She settles the dispute."
+   },
+   "tr": {
+    "meaning": "arabuluculuk yapmak"
+   },
+   "th": {
+    "meaning": "ไกล่เกลี่ย"
+   },
+   "vi": {
+    "meaning": "hòa giải"
+   },
+   "fa": {
+    "meaning": "میانجی‌گری کردن"
+   }
+  },
+  "g!]7@OhJ*R": {
+   "en": {
+    "meaning": "argument, dispute",
+    "example": "There's an argument about toys."
+   },
+   "tr": {
+    "meaning": "kavga"
+   },
+   "th": {
+    "meaning": "การทะเลาะ"
+   },
+   "vi": {
+    "meaning": "cuộc cãi nhau"
+   },
+   "fa": {
+    "meaning": "دعوا"
+   }
+  },
+  "F{a&>mObLz": {
+   "en": {
+    "meaning": "toys",
+    "example": "The children share the toys."
+   },
+   "tr": {
+    "meaning": "oyuncaklar"
+   },
+   "th": {
+    "meaning": "ของเล่น"
+   },
+   "vi": {
+    "meaning": "đồ chơi"
+   },
+   "fa": {
+    "meaning": "اسباب‌بازی‌ها"
+   }
+  },
+  "xgjR:<B+V1": {
+   "en": {
+    "meaning": "to know a lot about",
+    "example": "He knows a lot about computers."
+   },
+   "tr": {
+    "meaning": "iyi bilmek"
+   },
+   "th": {
+    "meaning": "รู้จักดี, เชี่ยวชาญ"
+   },
+   "vi": {
+    "meaning": "am hiểu"
+   },
+   "fa": {
+    "meaning": "وارد بودن به"
+   }
+  },
+  "n2B4/7Yy~Z": {
+   "en": {
+    "meaning": "to fix, to repair",
+    "example": "They find faults and fix them."
+   },
+   "tr": {
+    "meaning": "gidermek"
+   },
+   "th": {
+    "meaning": "แก้ไข (ข้อผิดพลาด)"
+   },
+   "vi": {
+    "meaning": "khắc phục"
+   },
+   "fa": {
+    "meaning": "رفع کردن"
+   }
+  },
+  "LFY0ETTU9)": {
+   "en": {
+    "meaning": "mistake; fault",
+    "example": "I made a mistake."
+   },
+   "tr": {
+    "meaning": "hata; arıza"
+   },
+   "th": {
+    "meaning": "ความผิดพลาด"
+   },
+   "vi": {
+    "meaning": "lỗi"
+   },
+   "fa": {
+    "meaning": "اشتباه؛ ایراد"
+   }
+  },
+  "GEe}+{;P/[": {
+   "en": {
+    "meaning": "documents",
+    "example": "She copies the documents."
+   },
+   "tr": {
+    "meaning": "belgeler"
+   },
+   "th": {
+    "meaning": "เอกสาร"
+   },
+   "vi": {
+    "meaning": "tài liệu"
+   },
+   "fa": {
+    "meaning": "مدارک"
+   }
+  },
+  "z$^}8?d[wM": {
+   "en": {
+    "meaning": "zookeeper, animal keeper",
+    "example": "The zookeeper likes animals."
+   },
+   "tr": {
+    "meaning": "hayvan bakıcısı"
+   },
+   "th": {
+    "meaning": "ผู้ดูแลสัตว์"
+   },
+   "vi": {
+    "meaning": "người chăm sóc động vật"
+   },
+   "fa": {
+    "meaning": "نگهبان حیوانات"
+   }
+  },
+  "G?}5m~s/~d": {
+   "en": {
+    "meaning": "social worker",
+    "example": "The social worker advises families."
+   },
+   "tr": {
+    "meaning": "sosyal hizmet uzmanı"
+   },
+   "th": {
+    "meaning": "นักสังคมสงเคราะห์"
+   },
+   "vi": {
+    "meaning": "nhân viên công tác xã hội"
+   },
+   "fa": {
+    "meaning": "مددکار اجتماعی"
+   }
+  },
+  "sit<UM._)3": {
+   "en": {
+    "meaning": "architect (female)",
+    "example": "The architect designs houses."
+   },
+   "tr": {
+    "meaning": "mimar (kadın)"
+   },
+   "th": {
+    "meaning": "สถาปนิก (หญิง)"
+   },
+   "vi": {
+    "meaning": "nữ kiến trúc sư"
+   },
+   "fa": {
+    "meaning": "معمار (زن)"
+   }
+  },
+  "RcJ;Lpf}Gy": {
+   "en": {
+    "meaning": "nursery teacher, educator",
+    "example": "The nursery teacher works in the kindergarten."
+   },
+   "tr": {
+    "meaning": "anaokulu öğretmeni"
+   },
+   "th": {
+    "meaning": "ครูอนุบาล"
+   },
+   "vi": {
+    "meaning": "giáo viên mầm non"
+   },
+   "fa": {
+    "meaning": "مربی کودک"
+   }
+  },
+  "N0Q:4j)xcS": {
+   "en": {
+    "meaning": "freight forwarder",
+    "example": "The freight forwarder loads the freight."
+   },
+   "tr": {
+    "meaning": "nakliyeci"
+   },
+   "th": {
+    "meaning": "ผู้ประกอบการขนส่งสินค้า"
+   },
+   "vi": {
+    "meaning": "đại lý giao nhận"
+   },
+   "fa": {
+    "meaning": "شرکت حمل‌ونقل، فورواردر"
+   }
+  },
+  "b]Pa`{n.)w": {
+   "en": {
+    "meaning": "lawyer (female)",
+    "example": "My lawyer is helping me."
+   },
+   "tr": {
+    "meaning": "avukat (kadın)"
+   },
+   "th": {
+    "meaning": "ทนายความ (หญิง)"
+   },
+   "vi": {
+    "meaning": "nữ luật sư"
+   },
+   "fa": {
+    "meaning": "وکیل (زن)"
+   }
+  },
+  "CkcdJsAr)]": {
+   "en": {
+    "meaning": "artist (female)",
+    "example": "The artist likes painting."
+   },
+   "tr": {
+    "meaning": "sanatçı (kadın)"
+   },
+   "th": {
+    "meaning": "ศิลปิน (หญิง)"
+   },
+   "vi": {
+    "meaning": "nữ nghệ sĩ"
+   },
+   "fa": {
+    "meaning": "هنرمند (زن)"
+   }
+  },
+  "G:DjN<3<+R": {
+   "en": {
+    "meaning": "interpreter (female)",
+    "example": "The interpreter speaks three languages."
+   },
+   "tr": {
+    "meaning": "tercüman (kadın)"
+   },
+   "th": {
+    "meaning": "ล่าม (หญิง)"
+   },
+   "vi": {
+    "meaning": "nữ phiên dịch viên"
+   },
+   "fa": {
+    "meaning": "مترجم شفاهی (زن)"
+   }
+  },
+  "GuN[V|vj>5": {
+   "en": {
+    "meaning": "hotel specialist (female)",
+    "example": "The hotel specialist works in a hotel."
+   },
+   "tr": {
+    "meaning": "otel elemanı (kadın)"
+   },
+   "th": {
+    "meaning": "พนักงานโรงแรม (หญิง)"
+   },
+   "vi": {
+    "meaning": "nhân viên khách sạn (nữ)"
+   },
+   "fa": {
+    "meaning": "کارمند هتل (زن)"
+   }
+  },
+  "gSHk(Qgc{f": {
+   "en": {
+    "meaning": "bank employee (female)",
+    "example": "The bank employee advises customers."
+   },
+   "tr": {
+    "meaning": "banka çalışanı (kadın)"
+   },
+   "th": {
+    "meaning": "พนักงานธนาคาร (หญิง)"
+   },
+   "vi": {
+    "meaning": "nhân viên ngân hàng (nữ)"
+   },
+   "fa": {
+    "meaning": "کارمند بانک (زن)"
+   }
+  },
+  "w5R#lQurOX": {
+   "en": {
+    "meaning": "shoemaker",
+    "example": "The shoemaker repairs shoes."
+   },
+   "tr": {
+    "meaning": "ayakkabıcı"
+   },
+   "th": {
+    "meaning": "ช่างทำรองเท้า"
+   },
+   "vi": {
+    "meaning": "thợ giày"
+   },
+   "fa": {
+    "meaning": "کفاش"
+   }
+  },
+  "eQq/>I?[E_": {
+   "en": {
+    "meaning": "programmer",
+    "example": "The programmer solves computer problems."
+   },
+   "tr": {
+    "meaning": "programcı"
+   },
+   "th": {
+    "meaning": "โปรแกรมเมอร์"
+   },
+   "vi": {
+    "meaning": "lập trình viên"
+   },
+   "fa": {
+    "meaning": "برنامه‌نویس"
+   }
+  },
+  "zov;M8w#XY": {
+   "en": {
+    "meaning": "caretaker (female)",
+    "example": "The caretaker repairs lots of things."
+   },
+   "tr": {
+    "meaning": "kapıcı, bina görevlisi (kadın)"
+   },
+   "th": {
+    "meaning": "ภารโรง (หญิง)"
+   },
+   "vi": {
+    "meaning": "nữ quản lý tòa nhà"
+   },
+   "fa": {
+    "meaning": "سرایدار (زن)"
+   }
+  },
+  "j)U&b.ENAP": {
+   "en": {
+    "meaning": "construction worker (female)",
+    "example": "The construction worker works outside."
+   },
+   "tr": {
+    "meaning": "inşaat işçisi (kadın)"
+   },
+   "th": {
+    "meaning": "คนงานก่อสร้าง (หญิง)"
+   },
+   "vi": {
+    "meaning": "nữ công nhân xây dựng"
+   },
+   "fa": {
+    "meaning": "کارگر ساختمانی (زن)"
+   }
+  },
+  "F/yn-O#88_": {
+   "en": {
+    "meaning": "publishing editor (female)",
+    "example": "The publishing editor reads lots of books."
+   },
+   "tr": {
+    "meaning": "yayınevi editörü (kadın)"
+   },
+   "th": {
+    "meaning": "บรรณาธิการสำนักพิมพ์ (หญิง)"
+   },
+   "vi": {
+    "meaning": "biên tập viên nhà xuất bản (nữ)"
+   },
+   "fa": {
+    "meaning": "ویراستار انتشارات (زن)"
+   }
+  }
+ },
+ "grammar": {}
+}
