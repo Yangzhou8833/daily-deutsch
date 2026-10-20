@@ -4,6 +4,7 @@
  * user's metadata so every device uses the same limits.
  */
 import { useSyncExternalStore } from "react";
+import { storageKey } from "./demomode";
 
 export interface StudySettings {
   /** New words introduced per day, across all lessons. */
@@ -17,7 +18,7 @@ export interface StudySettings {
 export const DEFAULT_SETTINGS: StudySettings = { newPerDay: 20, maxReviews: 200, retention: 0.9 };
 export const RETENTION_CHOICES = [0.8, 0.85, 0.9, 0.95];
 
-const KEY = "dd:settings";
+const KEY = storageKey("dd:settings");
 const listeners = new Set<() => void>();
 const changeHooks = new Set<(s: StudySettings) => void>();
 

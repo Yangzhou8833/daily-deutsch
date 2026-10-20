@@ -4,6 +4,7 @@
  */
 import { useSyncExternalStore } from "react";
 import { createEmptyCard, fsrs, generatorParameters, Rating, State, type Card, type Grade } from "ts-fsrs";
+import { storageKey } from "./demomode";
 import { extraNewToday, getSettings } from "./settings";
 import type { DrillMode } from "./types";
 
@@ -30,7 +31,7 @@ export interface LogEvent {
   s?: true; // uploaded
 }
 
-const KEY = "dd:progress";
+const KEY = storageKey("dd:progress"); // the demo (?demo) has its own copy
 export const dayKey = (t: number) => new Date(t).toLocaleDateString("sv"); // YYYY-MM-DD, local time
 const MAX_LOG = 5000;
 let fsrsFor: { retention: number; f: ReturnType<typeof fsrs> } | undefined;

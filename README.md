@@ -2,7 +2,7 @@
 
 **A German vocabulary app that follows a real language class.** Each day's lesson becomes flashcards with spaced repetition, drills and a class leaderboard. Classmates from different countries can read the explanations in their own language.
 
-**▶ [Try the live demo](https://yangzhou8833.github.io/daily-deutsch/#/demo)** — no sign-up needed. It opens a simulated learner with three weeks of history in a virtual class; "Exit demo" puts everything back.
+**▶ [Try the live demo](https://yangzhou8833.github.io/daily-deutsch/?demo)** — no sign-up needed. It opens a simulated learner with three weeks of history in a virtual class, kept apart from real progress.
 App: [yangzhou8833.github.io/daily-deutsch](https://yangzhou8833.github.io/daily-deutsch/)
 
 <p>
@@ -101,7 +101,8 @@ src/settings.ts            study options (daily limits, desired retention)
 src/stats.ts               numbers for the statistics page
 src/sync.ts                offline-first sync of progress to Supabase
 src/account.ts             login, profile, class, leaderboard
-src/demo.ts                demo mode (#/demo)
+src/demomode.ts            demo mode lives at ?demo, with its own storage keys
+src/demo.ts                the simulated demo learner and virtual class
 src/drills/                article / plural / fill-in / grammar / sentence drills
 supabase/schema.sql        tables, RLS policies, class and leaderboard functions
 supabase/functions/        Edge Function that asks Claude to draft lesson cards

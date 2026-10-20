@@ -5,6 +5,7 @@ import "./account";
 import AccountPage from "./pages/Account";
 import { AdminHome, LessonEditor } from "./pages/Admin";
 import ClassBoard from "./pages/ClassBoard";
+import { demoNeedsData } from "./demo";
 import DemoStart from "./pages/Demo";
 import Home from "./pages/Home";
 import LessonPage from "./pages/Lesson";
@@ -17,22 +18,27 @@ import "./styles.css";
 createRoot(document.getElementById("root")!).render(
   <StrictMode>
     <HashRouter>
-      <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/review" element={<Review />} />
-        <Route path="/stats" element={<StatsPage />} />
-        <Route path="/demo" element={<DemoStart />} />
-        <Route path="/settings" element={<SettingsPage />} />
-        <Route path="/account" element={<AccountPage />} />
-        <Route path="/join/:code" element={<AccountPage />} />
-        <Route path="/class" element={<ClassBoard />} />
-        <Route path="/admin" element={<AdminHome />} />
-        <Route path="/admin/new" element={<LessonEditor />} />
-        <Route path="/admin/edit/:id" element={<LessonEditor />} />
-        <Route path="/lesson/:id" element={<LessonPage />} />
-        <Route path="/lesson/:id/:mode" element={<Practice />} />
-        <Route path="*" element={<Home />} />
-      </Routes>
+      {/* the demo address builds its learner first (once a day), then reloads */}
+      {demoNeedsData() ? (
+        <DemoStart />
+      ) : (
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/review" element={<Review />} />
+          <Route path="/stats" element={<StatsPage />} />
+          <Route path="/demo" element={<DemoStart />} />
+          <Route path="/settings" element={<SettingsPage />} />
+          <Route path="/account" element={<AccountPage />} />
+          <Route path="/join/:code" element={<AccountPage />} />
+          <Route path="/class" element={<ClassBoard />} />
+          <Route path="/admin" element={<AdminHome />} />
+          <Route path="/admin/new" element={<LessonEditor />} />
+          <Route path="/admin/edit/:id" element={<LessonEditor />} />
+          <Route path="/lesson/:id" element={<LessonPage />} />
+          <Route path="/lesson/:id/:mode" element={<Practice />} />
+          <Route path="*" element={<Home />} />
+        </Routes>
+      )}
     </HashRouter>
   </StrictMode>,
 );

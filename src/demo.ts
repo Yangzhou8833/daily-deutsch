@@ -1,26 +1,19 @@
 /**
- * Demo mode (#/demo) for presenting the app: a made-up learner with about three weeks of study
- * history and a virtual class. The real progress and options on this device are backed up and
- * restored on exit; nothing is sent to the server while the demo runs.
+ * Demo mode (…/daily-deutsch/?demo, or #/demo which redirects there) for presenting the app:
+ * a made-up learner with about three weeks of study history and a virtual class. Its data lives
+ * under its own storage keys (demomode.ts), so the real progress is never touched, and nothing
+ * is sent to the server while the demo runs.
  */
+import { appUrl, isDemo, storageKey } from "./demomode";
 import { createEmptyCard, fsrs, generatorParameters, Rating, State, type Card, type Grade } from "ts-fsrs";
 import { loadIndex, loadLesson } from "./data";
 import type { DrillMode, Word } from "./types";
 
-const FLAG = "dd:demo";
-const KEYS = ["dd:progress", "dd:settings"]; // replaced by demo data, restored on exit
-const backupKey = (k: string) => `${k}:before-demo`;
+export { isDemo } from "./demomode";
 
-const read = (k: string) => {
-  try {
-    return localStorage.getItem(k);
-  } catch {
-    return null;
-  }
-};
-
-/** Fixed for the page's lifetime: entering or leaving the demo reloads the page. */
-export const isDemo = read(FLAG) === "1";
+/** The demo learner's data is generated once a day, so its streak and due cards stay current. */
+const DAY_KEY = "dd:demo-day";
+const dayKey = () => new Date().toLocaleDateString("sv");
 
 export const DEMO_USER = "demo-me";
 export const DEMO_CLASS = { id: "demo-class", name: "Deutschkurs A1.2 · Demo", code: "DEMO24", owner_id: "demo-teacher" };
@@ -113,49 +106,43 @@ function simulate(lessons: { id: string; words: Word[] }[]) {
   return { cards, log: log.filter((e) => e.t <= now) };
 }
 
+/** True when this demo page has no data for today yet (first visit, or a new day). */
+export function demoNeedsData() {
+  try {
+    return isDemo && (localStorage.getItem(DAY_KEY) !== dayKey() || !localStorage.getItem(storageKey("dd:progress")));
+  } catch {
+    return false;
+  }
+}
+
 let entering: Promise<void> | undefined;
 
-/** Back up this device's progress, write the demo learner and reload into the demo. Runs once per page. */
+/** Open the demo with a fresh learner. Runs once per page. */
 export function enterDemo() {
   return (entering ??= start());
 }
 
 async function start() {
+  if (!isDemo) {
+    location.replace(appUrl(true)); // the demo page builds its data on load
+    return;
+  }
   const index = await loadIndex();
   const pick = ["a12-m1", "a12-m2"].filter((id) => index.some((l) => l.id === id));
   const ids = pick.length ? pick : index.filter((l) => l.words > 0).slice(0, 2).map((l) => l.id);
   const lessons = await Promise.all(ids.map(loadLesson));
-  const data = simulate(lessons);
   try {
-    // back up only real data: never a demo copy (already in the demo, or a second call)
-    if (localStorage.getItem(FLAG) !== "1") for (const k of KEYS) {
-      const v = localStorage.getItem(k);
-      if (v === null) localStorage.removeItem(backupKey(k));
-      else localStorage.setItem(backupKey(k), v);
-    }
-    localStorage.setItem("dd:progress", JSON.stringify(data));
-    localStorage.removeItem("dd:settings"); // default options
-    localStorage.setItem(FLAG, "1");
+    localStorage.setItem(storageKey("dd:progress"), JSON.stringify(simulate(lessons)));
+    localStorage.removeItem(storageKey("dd:settings")); // default options
+    localStorage.setItem(DAY_KEY, dayKey());
   } catch {
     /* storage unavailable: the demo cannot run */
   }
-  location.replace(`${location.pathname}#/`);
+  location.replace(appUrl(true));
   location.reload();
 }
 
-/** Restore this device's own progress and options. */
+/** Leave the demo: the normal address, with this device's real progress. */
 export function exitDemo() {
-  try {
-    for (const k of KEYS) {
-      const v = localStorage.getItem(backupKey(k));
-      if (v === null) localStorage.removeItem(k);
-      else localStorage.setItem(k, v);
-      localStorage.removeItem(backupKey(k));
-    }
-    localStorage.removeItem(FLAG);
-  } catch {
-    /* ignore */
-  }
-  location.replace(`${location.pathname}#/`);
-  location.reload();
+  location.replace(appUrl(false));
 }
