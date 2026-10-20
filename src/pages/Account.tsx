@@ -1,6 +1,7 @@
 import { useEffect, useRef, useState, type FormEvent } from "react";
 import { Link, useNavigate, useParams } from "react-router-dom";
 import { createClass, joinClass, signIn, signOut, signUp, updateProfile, useAccount } from "../account";
+import { isDemo } from "../demo";
 import { Loading, Page } from "../components/common";
 import { LANGS, useLang, type UIKey } from "../i18n";
 import type { Lang } from "../types";
@@ -244,7 +245,7 @@ export default function AccountPage() {
           <ClassPanel inviteCode={code} />
           <ProfileForm />
           <button className="btn block" onClick={() => signOut()}>
-            {t("signOut")}
+            {isDemo ? t("exitDemo") : t("signOut")}
           </button>
         </>
       )}

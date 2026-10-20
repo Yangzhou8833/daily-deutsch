@@ -360,5 +360,3 @@ h2 { font-size: 1.1rem; margin: 1.8rem 0 0.6rem; }
 .table-view table { width: 100%; border-collapse: collapse; font-size: 0.85rem; margin-top: 6px; }
 .table-view td, .table-view th { text-align: left; padding: 2px 4px; border-bottom: 1px solid var(--line); }
 .speech-hint { position: fixed; left: 16px; right: 16px; bottom: 16px; max-width: 520px; margin: 0 auto; z-index: 20; box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15); }
-.demo-banner { display: flex; align-items: center; justify-content: center; gap: 12px; flex-wrap: wrap; padding: 6px 16px; background: var(--accent); color: var(--accent-text); font-size: 0.85rem; }
-.demo-banner .link-btn { color: inherit; text-decoration: underline; font-weight: 600; }
