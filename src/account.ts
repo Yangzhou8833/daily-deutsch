@@ -64,9 +64,16 @@ export function useAccount(): Account {
 
 const message = (e: unknown) => (e && typeof e === "object" && "message" in e ? String(e.message) : String(e));
 
+/** The profile; without is_editor if the database predates that column (schema v2), instead of failing. */
+async function loadProfile(userId: string) {
+  const full = await supabase!.from("profiles").select("display_name, native_lang, is_editor").eq("id", userId).maybeSingle();
+  if (!full.error?.message?.includes("is_editor")) return full;
+  return supabase!.from("profiles").select("display_name, native_lang").eq("id", userId).maybeSingle();
+}
+
 async function loadProfileAndClass(userId: string) {
   const [{ data: profile }, { data: member }] = await Promise.all([
-    supabase!.from("profiles").select("display_name, native_lang, is_editor").eq("id", userId).maybeSingle(),
+    loadProfile(userId),
     supabase!.from("class_members").select("classes(id, name, code, owner_id)").eq("user_id", userId).order("joined_at").limit(1).maybeSingle(),
   ]);
   const klass = (member?.classes ?? null) as ClassInfo | null;
@@ -150,9 +157,12 @@ export const signOut = () =>
 
 export const updateProfile = (patch: Partial<Pick<Profile, "display_name" | "native_lang">>) =>
   run(async () => {
-    const { error } = await supabase!.from("profiles").update(patch).eq("id", state.userId!);
-    if (!error) set({ profile: { ...state.profile!, ...patch } });
-    return { error };
+    // .select() returns the updated row, so "saved" is only shown when a row really changed
+    const { data, error } = await supabase!.from("profiles").update(patch).eq("id", state.userId!).select("display_name, native_lang");
+    if (error) return { error };
+    if (!data?.length) return { error: "Profile not found – please sign out and in again." };
+    set({ profile: { ...state.profile, ...data[0] } as Profile });
+    return { error: null };
   });
 
 export const createClass = (name: string) =>
