@@ -1,11 +1,11 @@
 import { useEffect, useRef, useState, type ReactNode } from "react";
 import { Link } from "react-router-dom";
 import { updateProfile, useAccount } from "../account";
-import { LANGS, setLang, setUiLang, UI_LANGS, useLang, type UiLang } from "../i18n";
+import { LANGS, setLang, setUiLang, UI_LANGS, useLang, type UIKey, type UiLang } from "../i18n";
 import type { Lang } from "../types";
 import type { Word } from "../types";
 import type { DayCounts } from "../store";
-import { speak } from "../util";
+import { speak, type SpeakProblem } from "../util";
 
 export function Header({ back, title }: { back?: string; title?: string }) {
   const { t } = useLang();
@@ -90,7 +90,45 @@ export function Page({ children, back, title }: { children: ReactNode; back?: st
     <>
       <Header back={back} title={title} />
       <main className="page">{children}</main>
+      <SpeechHint />
     </>
+  );
+}
+
+// ---------------------------------------------------------------- pronunciation
+
+const speechListeners = new Set<(p: SpeakProblem) => void>();
+
+/** Read German aloud; if the device can't, the page shows why (SpeechHint). */
+export function sayGerman(text: string) {
+  speak(text, (p) => speechListeners.forEach((l) => l(p)));
+}
+
+const SPEECH_HINT: Record<SpeakProblem, UIKey> = { unsupported: "speechUnsupported", noVoice: "speechNoVoice", failed: "speechFailed" };
+
+/** Explains a pronunciation that didn't play (in-app browser, no German voice, muted phone). */
+function SpeechHint() {
+  const { t } = useLang();
+  const [problem, setProblem] = useState<SpeakProblem | null>(null);
+  useEffect(() => {
+    speechListeners.add(setProblem);
+    return () => {
+      speechListeners.delete(setProblem);
+    };
+  }, []);
+  useEffect(() => {
+    if (!problem) return;
+    const id = setTimeout(() => setProblem(null), 8000);
+    return () => clearTimeout(id);
+  }, [problem]);
+  if (!problem) return null;
+  return (
+    <div className="toast speech-hint" role="status">
+      🔇 {t(SPEECH_HINT[problem])}
+      <button type="button" className="link-btn" onClick={() => setProblem(null)} aria-label="OK">
+        ✕
+      </button>
+    </div>
   );
 }
 
@@ -107,7 +145,7 @@ export function SpeakButton({ text }: { text: string }) {
       aria-label="Play pronunciation"
       onClick={(e) => {
         e.stopPropagation();
-        speak(text);
+        sayGerman(text);
       }}
     >
       🔊

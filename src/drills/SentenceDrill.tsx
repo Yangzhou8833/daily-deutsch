@@ -1,9 +1,8 @@
 import { useState } from "react";
-import { SpeakButton } from "../components/common";
+import { sayGerman, SpeakButton } from "../components/common";
 import { useLang } from "../i18n";
 import { logDrill } from "../store";
 import type { Lesson } from "../types";
-import { speak } from "../util";
 import { QuizFrame, useQuiz } from "./quiz";
 
 /** Chinese prompt → recall the German sentence → reveal and grade yourself. */
@@ -51,7 +50,7 @@ export default function SentenceDrill({ lesson, backTo }: { lesson: Lesson; back
               className="btn primary block"
               onClick={() => {
                 setShown(true);
-                speak(s.de);
+                sayGerman(s.de);
               }}
             >
               {t("showAnswer")}
