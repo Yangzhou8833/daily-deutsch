@@ -1,6 +1,7 @@
 import { useState } from "react";
 import { useAccount } from "../account";
 import { Page } from "../components/common";
+import { isDemo } from "../demo";
 import { useLang } from "../i18n";
 import { DEFAULT_SETTINGS, RETENTION_CHOICES, updateSettings, useSettings, type StudySettings } from "../settings";
 
@@ -65,7 +66,7 @@ export default function SettingsPage() {
       <button type="button" className="btn" onClick={() => updateSettings(DEFAULT_SETTINGS)}>
         {t("resetDefaults")}
       </button>
-      <p className="muted small center">{acc.status === "in" ? t("settingsSynced") : t("settingsLocal")}</p>
+      <p className="muted small center">{isDemo ? t("demoBanner") : acc.status === "in" ? t("settingsSynced") : t("settingsLocal")}</p>
     </Page>
   );
 }
