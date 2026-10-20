@@ -1,6 +1,7 @@
 import { useEffect, useRef, useState, type ReactNode } from "react";
 import { Link } from "react-router-dom";
 import { updateProfile, useAccount } from "../account";
+import { exitDemo, isDemo } from "../demo";
 import { LANGS, setLang, setUiLang, UI_LANGS, useLang, type UIKey, type UiLang } from "../i18n";
 import type { Lang } from "../types";
 import type { Word } from "../types";
@@ -88,6 +89,7 @@ function LangMenu() {
 export function Page({ children, back, title }: { children: ReactNode; back?: string; title?: string }) {
   return (
     <>
+      {isDemo && <DemoBanner />}
       <Header back={back} title={title} />
       <main className="page">{children}</main>
       <SpeechHint />
@@ -232,5 +234,18 @@ export function DayCountsLegend() {
       <span className="dc-new">●</span> {t("countNew")} <span className="dc-learning">●</span> {t("countLearning")}{" "}
       <span className="dc-review">●</span> {t("countReview")}
     </p>
+  );
+}
+
+/** Shown on every page in demo mode: the data is simulated, and how to get back. */
+function DemoBanner() {
+  const { t } = useLang();
+  return (
+    <div className="demo-banner" role="note">
+      🎬 {t("demoBanner")}
+      <button type="button" className="link-btn" onClick={exitDemo}>
+        {t("exitDemo")}
+      </button>
+    </div>
   );
 }

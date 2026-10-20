@@ -199,6 +199,9 @@ const UI = {
   speechUnsupported: { de: "Dieser Browser kann nicht vorlesen. Öffne die Seite in Safari oder Chrome – Browser in Apps wie WeChat können es meist nicht.", zh: "这个浏览器不支持朗读。请用手机自带的 Safari 或 Chrome 打开（微信等 App 里的浏览器通常不行）。", en: "This browser can't read aloud. Open the page in Safari or Chrome – browsers inside apps like WeChat usually can't.", tr: "Bu tarayıcı sesli okuyamıyor. Sayfayı Safari veya Chrome'da aç – WeChat gibi uygulamaların içindeki tarayıcılar genelde okuyamaz." },
   speechNoVoice: { de: "Auf dem Handy fehlt eine deutsche Stimme. Lade sie in den Systemeinstellungen unter „Text-in-Sprache“ herunter.", zh: "手机上没有德语语音。请在系统设置的「文字转语音」里下载德语语音包。", en: "Your phone has no German voice. Download one in the system settings under “Text-to-speech”.", tr: "Telefonda Almanca ses yok. Sistem ayarlarında “Metin okuma” bölümünden Almanca sesi indir." },
   speechFailed: { de: "Die Aussprache konnte nicht abgespielt werden. Ist das Handy stumm geschaltet? Sonst probiere Safari oder Chrome.", zh: "没能播放发音。请检查手机是否静音；如果还不行，换用 Safari 或 Chrome 打开。", en: "The pronunciation couldn't play. Is your phone muted? Otherwise try Safari or Chrome.", tr: "Telaffuz çalınamadı. Telefon sessizde mi? Değilse Safari veya Chrome'u dene." },
+  demoBanner: { de: "Demo-Modus · simulierte Lerndaten, nichts wird gespeichert", zh: "演示模式 · 学习数据为模拟，不会保存到账号", en: "Demo mode · simulated study data, nothing is saved", tr: "Demo modu · simüle edilmiş veriler, hiçbir şey kaydedilmez" },
+  exitDemo: { de: "Demo beenden", zh: "退出演示", en: "Exit demo", tr: "Demodan çık" },
+  demoStarting: { de: "Demo wird vorbereitet …", zh: "正在准备演示……", en: "Preparing the demo …", tr: "Demo hazırlanıyor …" },
 } satisfies Record<string, Record<UiLang, string>>;
 
 export type UIKey = keyof typeof UI;
@@ -231,6 +234,9 @@ const navUi = (["zh", "tr", "de"] as const).find((l) => nav.startsWith(l));
 let meaning: Lang = saved("dd:lang", MEANING_LANGS, navMeaning ?? "en");
 let ui: UiLang = saved("dd:ui", ["de", "en", "zh", "tr"], navUi ?? "en");
 document.documentElement.lang = ui;
+
+/** Current explanation language (outside React). */
+export const getLang = () => meaning;
 
 /** Explanation language for meanings and example translations. */
 export function setLang(lang: Lang) {

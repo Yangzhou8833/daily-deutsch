@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 import { useAccount } from "../account";
 import { DayCountsLegend, DayCountsView, Loading, Page, ProgressBar } from "../components/common";
 import { loadIndex, relocateProgress, useAsync } from "../data";
+import { isDemo } from "../demo";
 import { useLang } from "../i18n";
 import { extraNewToday, getSettings, useSettingsVersion } from "../settings";
 import { dayCounts, learnedCount, newLeftToday, newStudiedToday, streak, studiedOrHidden, useProgress, type DayCounts } from "../store";
@@ -157,7 +158,7 @@ export default function Home() {
           </section>
         ))
       )}
-      <p className="muted center small">{acc.status === "in" ? t("progressSynced") : t("progressLocal")}</p>
+      <p className="muted center small">{isDemo ? t("demoBanner") : acc.status === "in" ? t("progressSynced") : t("progressLocal")}</p>
     </Page>
   );
 }

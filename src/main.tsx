@@ -5,6 +5,7 @@ import "./account";
 import AccountPage from "./pages/Account";
 import { AdminHome, LessonEditor } from "./pages/Admin";
 import ClassBoard from "./pages/ClassBoard";
+import DemoStart from "./pages/Demo";
 import Home from "./pages/Home";
 import LessonPage from "./pages/Lesson";
 import { Practice, Review } from "./pages/Practice";
@@ -20,6 +21,7 @@ createRoot(document.getElementById("root")!).render(
         <Route path="/" element={<Home />} />
         <Route path="/review" element={<Review />} />
         <Route path="/stats" element={<StatsPage />} />
+        <Route path="/demo" element={<DemoStart />} />
         <Route path="/settings" element={<SettingsPage />} />
         <Route path="/account" element={<AccountPage />} />
         <Route path="/join/:code" element={<AccountPage />} />
