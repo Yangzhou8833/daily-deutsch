@@ -4,7 +4,7 @@ import { useAccount } from "../account";
 import { DayCountsLegend, DayCountsView, Loading, Page, ProgressBar } from "../components/common";
 import { loadIndex, relocateProgress, useAsync } from "../data";
 import { useLang } from "../i18n";
-import { getSettings, useSettingsVersion } from "../settings";
+import { extraNewToday, getSettings, useSettingsVersion } from "../settings";
 import { dayCounts, learnedCount, newLeftToday, newStudiedToday, streak, studiedOrHidden, useProgress, type DayCounts } from "../store";
 import type { LessonSummary } from "../types";
 
@@ -92,7 +92,7 @@ export default function Home() {
         </div>
         <div className="stat">
           <div className="stat-num">
-            {newStudiedToday()} <span className="stat-unit">/ {getSettings().newPerDay}</span>
+            {newStudiedToday()} <span className="stat-unit">/ {getSettings().newPerDay + extraNewToday()}</span>
           </div>
           <div className="stat-label">{t("newToday")}</div>
         </div>
